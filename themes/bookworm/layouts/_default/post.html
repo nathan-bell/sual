@@ -1,0 +1,48 @@
+<article class="card post-card">
+  {{if .Params.image}}
+  <div class="text-center">
+    <a href="{{.Permalink}}">    
+      {{ partial "image.html" (dict "Src" .Params.image "Class" "rounded" "Alt" .Title "Size" "x230" ) }}
+    </a>
+  </div>
+  {{end}}
+  <div class="card-body">
+    <ul class="card-meta list-inline mb-2">
+      {{ if .Params.Author }}
+      <li class="list-inline-item mb-2">
+        {{ with site.GetPage (.Params.Author | urlize | lower) }}
+        <a href="{{.Permalink}}" class="card-meta-author">
+          {{if .Params.image}}
+          {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
+          {{else}}
+          <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
+          {{end}}
+          <span>{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </li>
+      {{ end }}
+      <li class="list-inline-item mb-2">
+        <span>{{.PublishDate.Format "02 Jan, 2006"}}</span>
+      </li>
+      
+    </ul>
+    <h3 class="mb-3">
+      <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>     
+    </h3>
+    <p>{{ .Summary }}</p>
+    <ul class="card-meta list-inline mb-2">
+    <li class="list-inline-item">
+      <ul class="post-meta-tags list-unstyled list-inline">
+          {{range .Params.tags}}
+          <li class="list-inline-item"><a href="{{site.BaseURL}}tags/{{.| urlize}}">#{{.}}</a></li>
+          {{end}}
+        </ul>
+      </li>
+    </ul>
+    <small>     
+      <a href="{{.Permalink}}#disqus_thread">0 comments</a>
+    </small>    
+    <!-- <a href="{{.Permalink}}" aria-label="More on {{.Title}}">Read More <i class="las la-angle-right"></i></a> -->
+  </div>
+</article>

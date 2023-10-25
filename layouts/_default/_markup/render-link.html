@@ -1,0 +1,7 @@
+{{ if strings.Contains .Destination "youtube" }}
+    <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }} target="_blank" rel="noopener">
+        <i class="lab la-youtube"></i> Youtube
+    </a>
+{{ else }}
+    <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{ end }}
