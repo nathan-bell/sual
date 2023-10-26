@@ -28,23 +28,21 @@ unsafe = true
 ############################## Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/line-awesome/css/line-awesome.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jquery/jquery.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/instagram-feed/instagram-feed.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"
 [[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
