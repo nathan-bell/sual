@@ -15,11 +15,5 @@
   {{ partialCached "favicon" . }}
 
   {{ "<!-- CSS Plugins -->" | safeHTML}}
-  {{ partialCached "style.html" . }}
-  <!-- google analytics -->
-  {{ if hasPrefix .Site.GoogleAnalytics "G-" -}}
-    {{ template "_internal/google_analytics.html" . -}}
-  {{ else -}}
-    {{ template "_internal/google_analytics_async.html" . -}}
-  {{ end -}}
+  {{ partialCached "style.html" . }} 
 </head>

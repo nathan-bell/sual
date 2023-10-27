@@ -28,6 +28,24 @@ $light: {{.light}};
 $color-primary: {{.color_primary}};
 {{ end }}
 
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/reboot";
+@import "bootstrap/grid";
+@import "bootstrap/transitions";
+@import "bootstrap/utilities/display";
+@import "bootstrap/utilities/flex";
+@import "bootstrap/utilities/spacing";
+
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/navbar";
+@import "bootstrap/card";
+@import "bootstrap/pagination";
+@import "bootstrap/utilities";
+@import "bootstrap/print";
+
 @import 'mixins';
 @import 'typography';
 @import 'buttons';

@@ -2,7 +2,7 @@
 title: "Chris's Session - Oct 23"
 description: "We learned that not everyone listens to different types of music on different days of the week, that 2 members down and an earlier start means we all go home early, and that Daryl Hall wears sunglasses when inside and always looks super-pleased with himself"
 summary: "We learned that not everyone listens to different types of music on different days of the week, that 2 members down and an earlier start means we all go home early, and that Daryl Hall wears sunglasses when inside and always looks super-pleased with himself"
-image: "/images/post/grieg_op17no15.png"
+image: "/images/post/c83233fa01897480e28e3ba73dfd5b0d.jpg"
 date: 2023-10-19T00:00:00.0000000
 draft: false
 author: "Nathan"

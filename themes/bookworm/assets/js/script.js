@@ -37,20 +37,7 @@
         $('i').toggleClass('d-inline d-none');
       });
     }
-    menuHumBurgerIcon();
-
-    // instafeed
-    if (($('#instafeed').length) !== 0) {
-      var accessToken = $('#instafeed').attr('data-accessToken');
-      var userFeed = new Instafeed({
-        get: 'user',
-        limit: 6,
-        resolution: 'low_resolution',
-        accessToken: accessToken,
-        template: '<div class="col-xl col-lg-2 col-md-3 col-sm-3 col-4"><a class="instagram-post" href="{{link}}" aria-label="instagram-post-link"><img loading="lazy" class="img-fluid" src="{{image}}" alt="instagram-image"></a></div>'
-      });
-      userFeed.run();
-    }
+    menuHumBurgerIcon(); 
 
   });
 
@@ -82,9 +69,11 @@
 
   // Accordions
   $('.collapse').on('shown.bs.collapse', function () {
-    $(this).parent().find('.la-plus').removeClass('la-plus').addClass('la-minus');
+    $(this).parent().find('.collapse-plus').addClass('d-none');
+    $(this).parent().find('.collapse-minus').removeClass('d-none');
   }).on('hidden.bs.collapse', function () {
-    $(this).parent().find('.la-minus').removeClass('la-minus').addClass('la-plus');
+    $(this).parent().find('.collapse-plus').removeClass('d-none');
+    $(this).parent().find('.collapse-minus').addClass('d-none');
   });
 
 // });

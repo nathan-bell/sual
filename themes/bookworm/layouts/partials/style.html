@@ -3,11 +3,15 @@
 {{ $styles := slice }}
 {{ range site.Params.plugins.css }}
 {{ if findRE "^http" .link }}
-<link rel="stylesheet" href="{{ .link | absURL }}">
+    {{ if .async }}
+        <link rel="stylesheet" href="{{ .link | absURL }}" async defer>
+    {{ else }}
+        <link rel="stylesheet" href="{{ .link | absURL }}">
+    {{ end }}
 {{ else }}
 {{ $styles = $styles | append (resources.Get .link) }}
 {{ end }}
 {{ end }}
 {{ $styles := $styles | append (resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify) }}
 {{ $styles := $styles | resources.Concat "/css/vendor.css" | minify | fingerprint "sha512" }}
-<style type="text/css">{{$styles.Content | safeCSS}}</style>
+<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
