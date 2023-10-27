@@ -4,9 +4,9 @@
 
 <body>
   {{ partialCached "preloader.html" . }}
-  {{ partial "header.html" . }}
+  {{ partialCached "header.html" .  .Kind .Type .Data.Singular .Data.Term }}  
   {{if and (not .IsHome) (ne .Section "blog") (ne .Permalink (`about/` | absURL)) (ne .Permalink (`search/` | absURL)) }}
-  {{ partial "page-header.html" . }}
+  {{ partialCached "page-header.html" . .Section .Title }}
   {{end}}
   {{ block "main" . }}{{ end }}
   {{ partialCached "footer.html" . }}

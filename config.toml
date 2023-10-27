@@ -27,8 +27,8 @@ unsafe = true
 ############################## Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
-
+link = "https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;700&display=swap"
+async = true
 # JS Plugins
 [[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
