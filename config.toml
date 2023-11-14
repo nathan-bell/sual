@@ -27,13 +27,15 @@ unsafe = true
 ############################## Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;700&display=swap"
+link = "css/style_purged.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;700&"
 async = true
 # JS Plugins
 [[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
 [[params.plugins.js]]
-link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.min.js"
 async = true
 [[params.plugins.js]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"
@@ -101,6 +103,12 @@ weight = 1
 weight = 2
 url = "categories/gatherings/"
 name = "Gatherings"
+
+[[menu.main]]
+weight = 2
+url = "categories/listen/"
+name = "Listen"
+
 
 [[menu.main]]
 name = "About"
