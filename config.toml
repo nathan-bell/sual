@@ -6,7 +6,7 @@ theme = "bookworm"
 paginate = "5"
 # post excerpt
 summaryLength = "20"
-
+timeZone = "Pacific/Auckland"
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true

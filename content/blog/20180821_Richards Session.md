@@ -9,7 +9,10 @@ author: "David"
 tags: ["richardssession","thebeatles","ledzeppelin","neilyoung"]
 categories: ["Gatherings"]
 ---
-> https://static1.squarespace.com/static/571986653c44d8e556c508d5/t/5b934a846d2a7348d76e6da0/1536379526456/TheBigThree.pdf
+> THE BIG THREE (The First Session)
+
+See [here](/pdf/TheBigThree.pdf) for the instruction manual.
+
 ### The "BOOM" record, where it all began
 - **The Beatles** - _"A Hard Day's Night"_ (Richard)
 - **Avril Lavigne** - _"Losing Grip"_ (Casey)
