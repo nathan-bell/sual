@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201001_Moon.Duo.A1.jpg"
 date: 2020-10-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["moonduo"]
 categories: ["Listen"]
 ---
 ### More dirgey psychedelia from the Wooden Shjips' trippy guitarist and leader Erik Johnson et al.   

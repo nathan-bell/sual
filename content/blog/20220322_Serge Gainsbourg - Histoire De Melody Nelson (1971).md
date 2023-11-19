@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220322_Serge.Nelson.Alt.jpg"
 date: 2022-03-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sergegainsbourg"]
 categories: ["Listen"]
 ---
 ### I recently found a copy of this absolute masterpiece on vinyl during my recent travels. It's a 2009 USA pressing produced by USA label "Light In The Attic Records".

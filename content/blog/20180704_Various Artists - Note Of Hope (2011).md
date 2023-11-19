@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180704_VA.Note.Of.Hope.jpg"
 date: 2018-07-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Woody Guthrie purists are particularly disapproving of this release - it does show up in the reviews. Get over it people, Dylan went electric decades ago and it was about folkin' time.  

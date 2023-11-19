@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210412_Haim.WIMIII.jpg"
 date: 2021-04-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["haim"]
 categories: ["Listen"]
 ---
 ### This sprawling, hooks-heavy third release from the Haim sisters is also sonically magnificent. 

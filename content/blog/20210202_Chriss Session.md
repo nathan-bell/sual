@@ -6,7 +6,7 @@ image: "/images/post/20210202_IMG_0643.JPG"
 date: 2021-02-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","frankzappa","paulkelly","themagneticfields"]
+tags: ["chrisssession","frankzappa","pinkfloyd","paulkelly","themagneticfields","superfurryanimals","yes","thebooks","tortoise","jakobdylan","dudleybenson","zoot","theshotband","pedrothelion","darrenwatson","michaelcooper","youngmarblegiants","theillustriousblacks","raywoolfwiththenewzealandschoolofmusicbigband"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Ordinary, Arty Farty, Witty_

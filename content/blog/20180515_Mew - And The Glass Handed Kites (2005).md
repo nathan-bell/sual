@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180515_Mew.Kites.jpg"
 date: 2018-05-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mew"]
 categories: ["Listen"]
 ---
 ### OK, I won't piss around. This is one of the most pretentious, grandiose and utterly brilliant albums in my entire collection.  

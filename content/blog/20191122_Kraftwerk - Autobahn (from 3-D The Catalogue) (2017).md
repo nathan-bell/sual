@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191122_Kraftwerk.3D.jpg"
 date: 2019-11-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kraftwerk"]
 categories: ["Listen"]
 ---
 ### Whenever I hear Autobahn, I place myself back in the family home in Hastings in 1974. That was a huge moment for me - the day Casey Kasem played the edited, radio friendly version of "Autobahn" on the American Top 40.

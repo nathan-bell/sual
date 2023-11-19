@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191124_Church.Starfish.jpg"
 date: 2019-11-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thechurch"]
 categories: ["Listen"]
 ---
 ### The most consistent Aussie band of all time, these dudes just haven't put a foot wrong during their 40 year career.The most consistent Aussie band of all time, these dudes just haven't put a foot wrong during their 40 year career.

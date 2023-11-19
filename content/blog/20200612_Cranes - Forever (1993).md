@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200612_image-asset.jpeg"
 date: 2020-06-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cranes"]
 categories: ["Listen"]
 ---
 ### One of the finds of my recent trip to Wellington was this amazing record. Very tastefully remastered, individually numbered and pressed on gold and black vinyl, it is physically, visually and sonically a thing of great beauty.    

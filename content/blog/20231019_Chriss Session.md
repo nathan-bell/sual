@@ -6,7 +6,7 @@ image: "/images/post/c83233fa01897480e28e3ba73dfd5b0d.jpg"
 date: 2023-10-19T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession"]
+tags: ["chrisssession","nickdrake","califone","joehenry","richardandlindathompson","shihad","londongrammar","miltonnascimento","steveearleandthedukes(andduchesses","est","cocorosie","gotanproject","anthonywilson","juliantempleband","theandrewlondontrio","darylhallandjohnoates","scarypocketsandtalwilkenfeld","darylhallandmayerhawthorneandbookertjones"]
 categories: ["Gatherings"]
 ---
 > We learned that not everyone listens to different types of music on different days of the week, that 2 members down and an earlier start means we all go home early, and that Daryl Hall wears sunglasses when inside and always looks super-pleased with himself

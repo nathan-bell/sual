@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210807_VStyl.jpg"
 date: 2021-08-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["newvinylcleaninggadget"]
 categories: ["Listen"]
 ---
 ### More of a DIY brag this evening. To breath new life into your record collection give them a bath!

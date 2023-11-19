@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210411_Suedi.Blue.jpg"
 date: 2021-04-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["suede"]
 categories: ["Listen"]
 ---
 ### Brett Anderson's voice is the main instrument I crave for when listening to any Suede record and this is especially the case with his more mellow solo records. This is a full tilt Suede record.

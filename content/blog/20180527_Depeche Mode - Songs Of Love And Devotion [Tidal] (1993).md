@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180527_DM.Songs.jpg"
 date: 2018-05-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["depechemode"]
 categories: ["Listen"]
 ---
 ### How the shitting hell did I miss this one?? I've been a devoted (pardon the pun) Depeche Mode fan since 1997's "Violator" and have worked backwards as well as including all subsequent releases to ensure I get my full fix.  

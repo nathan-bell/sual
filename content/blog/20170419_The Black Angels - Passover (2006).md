@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170419_image-asset.jpeg"
 date: 2017-04-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theblackangels"]
 categories: ["Listen"]
 ---
 ### **Live:    The Black Angels/Black Mountain - 07/10/2010 - Shepherd's Bush Empire, London**

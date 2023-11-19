@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211021_SFA.Rings.jpg"
 date: 2021-10-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["superfurryanimals"]
 categories: ["Listen"]
 ---
 ### My full and ongoing membership of "Shut Up And Listen" depended on the success of my audition and my overly strategic song management.

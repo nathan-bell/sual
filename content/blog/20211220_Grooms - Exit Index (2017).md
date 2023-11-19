@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211220_Grooms.Exit.jpg"
 date: 2021-12-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grooms"]
 categories: ["Listen"]
 ---
 ### I'm really not sure what attracted me to this, aside from the beautiful cover, but what a fantastic find.

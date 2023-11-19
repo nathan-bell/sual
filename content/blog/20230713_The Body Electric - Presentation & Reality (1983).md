@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230713_TBE.PR.jpg"
 date: 2023-07-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebodyelectric"]
 categories: ["Listen"]
 ---
 ### This simply wonderful 2020 remaster by New Zealand pioneers of electronic dance music is like a big warm hug.

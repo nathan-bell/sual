@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210515_Gordons.jpg"
 date: 2021-05-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thegordons"]
 categories: ["Listen"]
 ---
 ### This band is renowned for being the loudest band that ever existed. 

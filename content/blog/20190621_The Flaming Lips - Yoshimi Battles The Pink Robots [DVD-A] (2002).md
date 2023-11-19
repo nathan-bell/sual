@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190621_Flamming.Lips.Yoshimi.jpg"
 date: 2019-06-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theflaminglips"]
 categories: ["Listen"]
 ---
 ### Imogen, my youngest daughter who's staying with us for the weekend, randomly selected the letter "F" this evening.

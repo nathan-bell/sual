@@ -6,7 +6,7 @@ image: "/images/post/20180626_SUAL.Sess01.jpg"
 date: 2018-06-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","therollingstones"]
+tags: ["martinssession","therollingstones","nadiareid","sparklehorse","mazzystar","thesundays","jakob","jimnoir","rodneycrowell","johnmellencamp","yucatan","buddyguy","davewarner","markknopfler","thewolfgangpress","thewindycitystrugglers","nova","billybragg","soulcoughing","flattandscruggs","buffysainte-marie","haywardandparsons"]
 categories: ["Gatherings"]
 ---
 > The themes were: _USA, UK, U Choose_

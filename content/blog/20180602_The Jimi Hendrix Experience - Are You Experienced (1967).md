@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180602_Hendrix.Experienced.jpg"
 date: 2018-06-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["jimihendrix"]
+tags: ["thejimihendrixexperience"]
 categories: ["Listen"]
 ---
 ### This particular record obviously didn’t mean anything to me as a 7 year old when this was released in 1967, but five or 6 years later I definitely remember hearing Hendrix on a big set of headphones at my local church youth club. (However, I don’t remember the exact details as to why?)

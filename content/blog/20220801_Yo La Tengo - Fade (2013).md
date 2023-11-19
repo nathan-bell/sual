@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220801_YLT.Fade.jpg"
 date: 2022-08-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### Had a bit of a false start with this one.

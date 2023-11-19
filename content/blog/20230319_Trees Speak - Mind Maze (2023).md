@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230319_Trees.Speak.Maze.jpg"
 date: 2023-03-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["treesspeak"]
 categories: ["Listen"]
 ---
 ### Another all instrumental release from Tuscon's best avant-garde, neo-psychedelic, Miles Davis Bitches Brew-era protagonists.

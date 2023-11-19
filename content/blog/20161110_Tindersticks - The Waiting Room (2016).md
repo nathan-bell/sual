@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161110_image-asset.jpeg"
 date: 2016-11-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tindersticks"]
 categories: ["Listen"]
 ---
 ### The Waiting Room Film Project videos

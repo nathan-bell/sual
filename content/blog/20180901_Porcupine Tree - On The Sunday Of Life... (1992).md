@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180901_PT.OTSOL.jpg"
 date: 2018-09-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### While this is deemed the first Porcupine Tree record, it's actually Steven Wilson's first solo album prior to any actual PT album, recorded in his bedroom studio under the pretense of it being a fully formed band.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221123_Dom.Martin.jpg"
 date: 2022-11-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dominickmartin"]
 categories: ["Listen"]
 ---
 ### This is the first CD from my recent Richmond Red Cross haul and all I can say is it's off to a great start.

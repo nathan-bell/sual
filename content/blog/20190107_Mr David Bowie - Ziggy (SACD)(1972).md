@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190107_bowie.ziggy.jpg"
 date: 2019-01-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidbowie"]
+tags: ["mrdavidbowie"]
 categories: ["Listen"]
 ---
 If you don't get goose bumps during Ronson's "Moonage Daydream" solo you are fucking deaf and probably musically bereft.

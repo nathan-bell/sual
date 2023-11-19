@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221026_Fazerdaze.Break.jpg"
 date: 2022-10-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fazerdaze"]
 categories: ["Listen"]
 ---
 ### I tried; I really did. I had a few things to listen to this afternoon, nothing I physically owned thank goodness, but I quickly became underwhelmed and even irritated with stuff passing as entertainment. Any high expectations and anticipation were short lived.

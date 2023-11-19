@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170613_image-asset.jpeg"
 date: 2017-06-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aldousharding"]
 categories: ["Listen"]
 ---
 ### I accidentally discovered Aldous Harding via a co-appearance with Lorde on Jools Holland. The two kiwis both sang on the same night. (A first for ANY Kiwis)  

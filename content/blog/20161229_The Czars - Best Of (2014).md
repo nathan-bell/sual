@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161229_image-asset.jpeg"
 date: 2016-12-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theczars"]
 categories: ["Listen"]
 ---
 ### Probably best known for the band that preceded singer John Grant's solo career, The Czars made a bunch of stunning records years before his fame.

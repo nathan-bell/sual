@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230301_Mogwai.Happy.jpg"
 date: 2023-03-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mogwai"]
 categories: ["Listen"]
 ---
 ### It's March already. Let's kick things off with this magnificent beast.

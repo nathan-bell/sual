@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200821_image-asset.jpeg"
 date: 2020-08-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["emerson"]
 categories: ["Listen"]
 ---
 ### There's not a lot of information out there about one Emerson Sandidge.   

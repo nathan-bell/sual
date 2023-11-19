@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210118_image-asset.jpeg"
 date: 2021-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["neworder"]
 categories: ["Listen"]
 ---
 ### I really struggle with New Order these days. Despite this, I can still play Joy Division to death.

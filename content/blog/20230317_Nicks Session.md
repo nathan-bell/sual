@@ -6,7 +6,7 @@ image: "/images/post/20230317_Lou.Portrait.jpg"
 date: 2023-03-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","themagneticfields","santana","loureed"]
+tags: ["nickssession","santana","loureed","themagneticfields","ettajames","countryjoeandthefish","katebush","goldfrapp","thecramps","smallfaces","nathanhaines","joanarmatrading","chriswhitley","smog","hubertlaws","tomverlaine","thetriumphs","petergabriel","marcribotyloscubanospostizos"]
 categories: ["Gatherings"]
 ---
 > The themes were: _ Song of the 🌎 Earth, The Love 😍 generation. , The heat is on!_

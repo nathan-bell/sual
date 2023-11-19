@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170730_image-asset.jpeg"
 date: 2017-07-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bauhaus"]
 categories: ["Listen"]
 ---
 ### Stunning debut from the kings of goth!

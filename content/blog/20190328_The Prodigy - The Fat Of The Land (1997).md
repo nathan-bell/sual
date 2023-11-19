@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190328_Prodigy.The.Fat.jpg"
 date: 2019-03-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theprodigy"]
 categories: ["Listen"]
 ---
 ### A few weeks ago the music world lost Keith Flint, vocal protagonist of The Prodigy.   

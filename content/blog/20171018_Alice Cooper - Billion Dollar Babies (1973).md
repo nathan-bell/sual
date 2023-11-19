@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171018_Alice.Cooper.Billion.Dollars.Babies.jpg"
 date: 2017-10-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["alicecooper"]
 categories: ["Listen"]
 ---
 ### An astounding relic from my precocious multi-genre hopping pop/rock musical ingestion period of the 70's.

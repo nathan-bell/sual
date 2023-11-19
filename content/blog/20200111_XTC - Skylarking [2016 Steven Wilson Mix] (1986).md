@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200111_XTC.SL.jpg"
 date: 2020-01-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### This truly remarkable mid-80's release plays out like a Beatles record. Wall to wall "how can anybody write such amazing songs".  

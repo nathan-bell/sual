@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220729_Yucatan.jpg"
 date: 2022-07-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yucatan"]
 categories: ["Listen"]
 ---
 ### This absolutely beautiful album was lent to me several year ago and I have never been able to track it down since. I tried not giving it back/stealing it to no avail.

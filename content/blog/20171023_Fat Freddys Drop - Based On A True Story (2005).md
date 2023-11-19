@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171023_Fat.Freddys.Drop.Real.Story.jpg"
 date: 2017-10-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fatfreddysdrop"]
 categories: ["Listen"]
 ---
 ### I first heard the track "Ernie" at our last "Shut Up And Listen" session back in September and was suitably impressed enough to buy the vinyl.

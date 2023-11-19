@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160901_image-asset.jpeg"
 date: 2016-09-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["genesis"]
 categories: ["Listen"]
 ---
 ### OK here it is. As well as being my favourite record it's also the most significant, full stop!  It's a bold move I know but this just has so much past history for me, from adolescence through to (apparent) adulthood.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190813_Smiths.Hatful.jpg"
 date: 2019-08-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesmiths"]
 categories: ["Listen"]
 ---
 ### This early compilation of non-album, alternate takes and BBC sessions is The Smiths at their rawest.

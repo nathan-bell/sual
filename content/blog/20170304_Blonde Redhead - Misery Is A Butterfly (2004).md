@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170304_image-asset.jpeg"
 date: 2017-03-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blonderedhead"]
 categories: ["Listen"]
 ---
 ### This band never ceases to amaze me. I'm trawling through their entire back catalogue (going back to the mid-90s) where they were first discovered and nurtured by Sonic Youth's Steve Shelley.

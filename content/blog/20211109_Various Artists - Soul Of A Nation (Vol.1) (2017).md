@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211109_VA.Soul.Of.A.Nation.jpg"
 date: 2021-11-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Soul Records Presents: Afro-Centric Visions In The Age Of Black Power. Underground Jazz, Street Funk & The Roots Of Rap (1968-79)

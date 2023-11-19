@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200618_image-asset.jpeg"
 date: 2020-06-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidsylvian"]
 categories: ["Listen"]
 ---
 ### Succulent and syrupy, that's Mr. Sylvian. This is a recently updated double vinyl version of his late 90s record which I picked up for $29 on sale at JB-Hifi.   

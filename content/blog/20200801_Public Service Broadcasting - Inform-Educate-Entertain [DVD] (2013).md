@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200801_image-asset.jpeg"
 date: 2020-08-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["publicservicebroadcasting"]
 categories: ["Listen"]
 ---
  While the music can definitely stand-alone on this DVD, the film that accompanies the music on each track beautifully reinforces the historical components that the “found” sounds reference throughout.   

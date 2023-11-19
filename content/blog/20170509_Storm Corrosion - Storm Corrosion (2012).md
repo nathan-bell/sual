@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170509_image-asset.jpeg"
 date: 2017-05-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stormcorrosion"]
 categories: ["Listen"]
 ---
 ### An interesting collaboration between Steven Wilson and lead Opeth(ian) Mikael Åkerfeldt.

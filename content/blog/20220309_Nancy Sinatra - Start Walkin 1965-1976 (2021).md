@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220309_Nancy.Start.Walkin.jpg"
 date: 2022-03-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nancysinatra"]
 categories: ["Listen"]
 ---
 ### This recent compilation kicks off with a shimmering guitar, hefty with reverb, bereft of much else in the way of accompaniment and Ms. Sinatra's magnificent understated performance of "Bang Bang".

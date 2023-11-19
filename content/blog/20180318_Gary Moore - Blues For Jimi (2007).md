@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180318_Gary.Moore.Jimi.jpg"
 date: 2018-03-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garymoore"]
 categories: ["Listen"]
 ---
 ### OK, I completely missed St. Paddy’s day despite encountering numerous green-haired, Guinness lugging, thin white dudes through out the day yesterday.   

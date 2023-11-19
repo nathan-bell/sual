@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230405_OZ.Tapes.jpg"
 date: 2023-04-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lesrallizesdenudes"]
 categories: ["Listen"]
 ---
 ### 50 years ago, Takashi Mizutani and his bunch of fellow Japanese ruffians hung out at OZ, a cafe and live performance venue in the heart of Toyko's Kichijoji neighborhood. 

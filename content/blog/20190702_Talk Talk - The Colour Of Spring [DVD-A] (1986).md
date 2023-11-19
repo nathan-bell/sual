@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190702_Talk.Talk.Spring.jpg"
 date: 2019-07-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["talktalk"]
 categories: ["Listen"]
 ---
 ### One of my all time favorites, this record just oozes class.

@@ -4,7 +4,7 @@ image: "/images/post/PS.Jordon.jpg"
 date: 2019-11-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["prefabsprout"]
 categories: ["Listen"]
 ---
 ### This is in my top 10 records. This is not one of those records that was a right of passage or a sign post or fork in the road on my musical journey. Just a fucking amazing record - start to finish. 

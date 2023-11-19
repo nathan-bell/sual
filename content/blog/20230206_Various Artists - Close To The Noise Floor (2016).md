@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230206_VA-CTTNF.jpg"
 date: 2023-02-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### What I have here is possibly the single greatest bargain of my entire music media collection.

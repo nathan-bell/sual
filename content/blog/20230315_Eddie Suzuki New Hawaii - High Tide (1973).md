@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230315_Eddie.Suzuki.High.Tide.jpg"
 date: 2023-03-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eddiesuzukinewhawaii"]
 categories: ["Listen"]
 ---
 ### OK, it's quite corny in places but that only half describes this slightly easy/uneasy, but effortlessly listenable recording from Hawaii's premier ex-shoe shining, piano shop proprietor.

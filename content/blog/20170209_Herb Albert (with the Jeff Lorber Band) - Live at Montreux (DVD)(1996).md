@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170209_image-asset.jpeg"
 date: 2017-02-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["herbalbert(withthejefflorberband"]
 categories: ["Listen"]
 ---
 ### My mother used to play Herb Albert and The Tijuana Brass. He was the king of easy listening jazz and I remember some great tunes. "Spanish Flea" anyone? Put it this way - it didn't do me any harm but it was pretty lame.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190806_Cloud.Control.Zone.jpg"
 date: 2019-08-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cloudcontrol"]
 categories: ["Listen"]
 ---
 ### I've just about finished with my Aussie haul and I may just have picked the best for last.  

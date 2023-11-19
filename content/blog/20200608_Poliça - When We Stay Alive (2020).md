@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200608_Polica.When.jpg"
 date: 2020-06-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["poliça"]
 categories: ["Listen"]
 ---
 ### Poliça are a really difficult band\* to try and explain or categorise. (\* Poliça is really just singer/songwriter Channy Leaneagh and producer Ryan Olson from the larger and just as uncategorisable collective Gayngs). 

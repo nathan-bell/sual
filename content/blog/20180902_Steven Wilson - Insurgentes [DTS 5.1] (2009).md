@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180902_SW.Insurgentes.jpg"
 date: 2018-09-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### Mr Wilson's first "actual" solo album made at the peak of Porcupine Tree's popularity and critical acclaim. (For those who had actually heard of him and the band that is!).  

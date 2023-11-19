@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170729_image-asset.jpeg"
 date: 2017-07-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["redhousepainters"]
 categories: ["Listen"]
 ---
 ### One of the more uplifting RHP records. While it's really just another Mark Kozelek solo project, it sounds like a proper band.

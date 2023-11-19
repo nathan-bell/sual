@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180918_BF.II.jpg"
 date: 2018-09-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackfield"]
 categories: ["Listen"]
 ---
 ### It’s Spring! I've been ruthless lately, ridding myself of all the unnecessary shit that gets in the way and starts to irritate. I won't dwell on the mundane too much but my main emphasis lately is to simplify my life.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170726_image-asset.jpeg"
 date: 2017-07-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["michaelbrook"]
 categories: ["Listen"]
 ---
 ### When you add the calibre of Brian Eno and Daniel Lanois to proceedings you just know it's special.

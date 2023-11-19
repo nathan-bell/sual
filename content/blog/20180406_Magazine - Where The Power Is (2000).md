@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180406_Magazine.Power.jpg"
 date: 2018-04-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["magazine"]
 categories: ["Listen"]
 ---
 ### Following the final lancing of punk’s great big oozing boil, there emerged some of my favourite bands and musicians. This was in 1978 and through the early to mid eighties. Nothing that followed, that I became interested in anyway, followed the usual dinosaur rock formula I was once a bit too comfortable with.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220519_Harmonia.Deluxe.jpg"
 date: 2022-05-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["harmonia"]
 categories: ["Listen"]
 ---
 ### Astounding, just astounding!!!

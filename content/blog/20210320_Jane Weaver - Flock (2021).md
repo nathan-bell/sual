@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210320_Jane.Weaver.Flock.jpg"
 date: 2021-03-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["janeweaver"]
 categories: ["Listen"]
 ---
 ### Don't you just hate it (for those that bow to the inconvenience of vinyl) when the label on side one is different to side two and there's no discernable way of knowing which is side A or side B. (Yes, there's 5 tracks either side)

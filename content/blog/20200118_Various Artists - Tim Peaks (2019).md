@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200118_Tim.Peaks.jpg"
 date: 2020-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### What a fantastic way to start the weekend!   

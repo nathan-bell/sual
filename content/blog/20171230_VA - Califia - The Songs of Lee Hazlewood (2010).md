@@ -4,7 +4,7 @@ image: "/images/post/VA.Califia.jpg"
 date: 2017-12-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["va"]
 categories: ["Listen"]
 ---
 ### Today we journey back to the introspective (read melodramatic!), syrupy, hit-oriented 60's where production was far more important than the song.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171119_Gary.Clark.Jr.Sonny.Boy.Slim.jpg"
 date: 2017-11-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garyclarkjr"]
 categories: ["Listen"]
 ---
 ### I haven't spent a lot of time with this one, (I picked it up for $1.67 a few weeks back), but what I do hear is not what I expected. And that's a great thing.

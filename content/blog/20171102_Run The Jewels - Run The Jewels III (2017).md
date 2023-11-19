@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171102_Run+The+Jewels+3.jpg"
 date: 2017-11-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["runthejewels"]
 categories: ["Listen"]
 ---
 ### This record renders me catatonic. It demands my attention.

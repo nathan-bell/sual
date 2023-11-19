@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201218_image-asset.jpeg"
 date: 2020-12-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fontainesdc"]
 categories: ["Listen"]
 ---
 ### This second record from Dublin's Fontaines (Dublin City) has that early 80's urgency that bands like Echo and the Bunnymen, The Fall and The Smiths had in spades. 

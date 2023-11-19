@@ -6,7 +6,7 @@ image: "/images/post/rockettstgeorge-unframed-lost-in-the-music-art-print-lores_
 date: 2015-03-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","themagneticfields","blackberrysmoke","ettajames"]
+tags: ["martinssession","themagneticfields","blackberrysmoke","ettajames","sparklehorse","richardthompson","hole","kimbra","jasonisbell","rodneycrowell","rickieleejones","canzonieregrecanicosalentino","beastieboys","georgeharrison","okgo","heart","spines","skeptics","bitingelbows","talwilkenfeld","sineadoconnor","bridgeteverett","elizabethmitchell","thereverendpeytonsbigdamnband","muddywatersandtherollingstones"]
 categories: ["Gatherings"]
 ---
 > Theme: Found Music, Lost Music

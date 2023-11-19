@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170302_image-asset.jpeg"
 date: 2017-03-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["noman"]
 categories: ["Listen"]
 ---
 ### It's after 9pm on a Thursday evening. Kettley arrived home next door late afternoon and cranked up his Pearl Jam. (I'm so pleased I declared this on my 10 bands I fucking hate list!!)  

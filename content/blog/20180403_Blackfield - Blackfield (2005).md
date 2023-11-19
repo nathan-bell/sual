@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180403_Blackfield.Blackfield.jpg"
 date: 2018-04-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackfield"]
 categories: ["Listen"]
 ---
 ### I'm at it again I'm afraid. I'm playing it safe and listening to [my goto band](http://www.shutupandlisten.co.nz/what-im-listening-too/2018/4/2/blackfield-v-2016).  

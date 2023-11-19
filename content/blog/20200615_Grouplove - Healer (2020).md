@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200615_image-asset.jpeg"
 date: 2020-06-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grouplove"]
 categories: ["Listen"]
 ---
 ### Sometimes you just need a bit of cheerful, happy clappy positivity in your life. Things are all a bit grim at the moment.   

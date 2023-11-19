@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210404_Outkast.Speakerboxxx.jpg"
 date: 2021-04-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["outkast"]
 categories: ["Listen"]
 ---
 ### I'm listening to part one of Big Boi and Andre 3000's split-duties-opus "Speakerboxxx/The Love Below" this evening - and loving every minute of it.

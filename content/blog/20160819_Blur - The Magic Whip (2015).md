@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160819_image-asset.jpeg"
 date: 2016-08-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blur"]
 categories: ["Listen"]
 ---
 ### On Double Vinyl!

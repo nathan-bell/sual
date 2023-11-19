@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200912_Tricky.Max.jpg"
 date: 2020-09-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tricky"]
 categories: ["Listen"]
 ---
 ### I finally picked a vinyl copy of this mid-90's trip hop (whatever?) classic today.   

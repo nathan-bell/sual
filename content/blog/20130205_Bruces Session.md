@@ -6,7 +6,7 @@ image: "/images/post/1440x720-03.png"
 date: 2013-02-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","gratefuldead","ween"]
+tags: ["brucessession","jethrotull","gratefuldead","ween","yes","emerson","jasonandthescorchers","aabondy","roxymusic","steveearle","lakeandpalmer","gregbrown","airbag","iamkloot","newvinyl","rodriguez","theeastern","thealbionband","anaïsmitchell","thehigherstate","sixorgansofadmittance","willardgrantconspiracy","shanemacgowanandthepopes"]
 categories: ["Gatherings"]
 ---
 > The themes for the evening covered the music genres Folk Rock, Americana, and Prog Rock

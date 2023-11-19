@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210105_Sola.Rosa.Chasing.jpg"
 date: 2021-01-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["solarosa"]
 categories: ["Listen"]
 ---
 ### Andrew Spraggon was once a solo knob twiddler. He was also once a touring member of Dimmer (as revealed on a recent RNZ Music 101 podcast)

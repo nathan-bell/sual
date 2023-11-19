@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171228_Talking.Heads.Remain.In.Light.jpg"
 date: 2017-12-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["talkingheads"]
 categories: ["Listen"]
 ---
 ### Two tracks in and I'm fucking putty!!!!

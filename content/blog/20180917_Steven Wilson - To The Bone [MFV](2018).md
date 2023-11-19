@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180917_SW.To.The.Bone.jpg"
 date: 2018-09-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### There's a Steven Wilson gig in Auckland to attend in several weeks time so I'm getting more acquainted with his most recent stuff.

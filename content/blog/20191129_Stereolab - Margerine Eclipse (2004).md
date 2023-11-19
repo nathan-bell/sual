@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191129_Stereolab.Eclipse.jpg"
 date: 2019-11-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### Got may latest fix of triple clear vinyl from The Labs this evening - 2LPs actually - that's 6 slabs of mindfucking magic and album numbers 8 and 9!

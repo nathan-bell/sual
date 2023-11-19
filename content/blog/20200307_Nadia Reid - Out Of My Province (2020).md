@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200307_Nadia.jpg"
 date: 2020-03-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nadiareid"]
 categories: ["Listen"]
 ---
 ### Just above the bar code on the back of this new slab of vinyl by Lyttelton’s Nadia Reid it proudly proclaims "Made in New Zealand" in a nice bold font. Continuing my recent run of listening to Kiwi artists, (not consciously I'll have you know, it's just happening) I dropped some notes on this and Avant-Dale Bowling Club's debut.   

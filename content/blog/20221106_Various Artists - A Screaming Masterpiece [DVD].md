@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221106_VA.SM.jpg"
 date: 2022-11-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This is without any doubt at all, one of my favourite music documentaries of all time.

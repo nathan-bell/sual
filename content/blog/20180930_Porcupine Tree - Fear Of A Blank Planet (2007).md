@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180930_PT.Fear.jpg"
 date: 2018-09-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### Simply put, this is probably the most perfect Steven Wilson/Porcupine Tree release in the entire SW catalogue. It's a big subjective statement to make but it's hard to prove otherwise on the strength of this brilliant record.

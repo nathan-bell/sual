@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190128_Led.Zep.BBC.jpg"
 date: 2019-01-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["ledzeppelin"]
+tags: ["ledzeppelin-thecompletebbcsessions(lp5)(2016)"]
 categories: ["Listen"]
 ---
 ### Purchased the day of re-release from HMV in London during 2016, this remastered/re-jigged vinyl compilation of early live Zeppelin recordings just keeps on giving.

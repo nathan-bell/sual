@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200712_image-asset.jpeg"
 date: 2020-07-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["halfjapanese"]
 categories: ["Listen"]
 ---
 ### Can't sing, can't play. Perfect.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210602_mvb.loveless.jpg"
 date: 2021-06-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mybloodyvalentine"]
 categories: ["Listen"]
 ---
 ### This is even more brittle and unearthly than last night's delve into the (other)world of My Bloody Valentine. There really isn't any other music to compare it to.

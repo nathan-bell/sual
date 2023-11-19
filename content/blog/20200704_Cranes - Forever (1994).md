@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200704_Cranes.Forever.jpg"
 date: 2020-07-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cranes"]
 categories: ["Listen"]
 ---
 ### A voice like an angel and a band that plays like the devil incarnate! It's a beautiful contrast - Elfin meets charging Mastodon.   

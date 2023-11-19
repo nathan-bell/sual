@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220115_Pale.Saints.Mrs.Dolphin.jpg"
 date: 2022-01-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["palesaints"]
 categories: ["Listen"]
 ---
 ### A recent Record Store Day vinyl compilation of a long lost, Japanese only CD from the long defunct Pale Saints (from Leeds)

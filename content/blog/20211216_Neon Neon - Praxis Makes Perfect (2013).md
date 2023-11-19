@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211216_Neon.Neon.Praxis.jpg"
 date: 2021-12-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["neonneon"]
 categories: ["Listen"]
 ---
 ### One of my pet peeves when buying records is the absence of plastic inner sleeves.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230526_NYDs.jpg"
 date: 2023-05-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["newyorkdolls"]
 categories: ["Listen"]
 ---
 ### Universally loved or loathed, this debut record should have kick-started the demise of the dinosaurs. Unfortunately, no one was really listening.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200703_The.Pheonix.Foundation.Buffalo.jpg"
 date: 2020-07-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thephoenixfoundation"]
 categories: ["Listen"]
 ---
 ### Friday night - it's time to stay in and chill out not go out and chill down. This ain't philosophical, it's fact!   

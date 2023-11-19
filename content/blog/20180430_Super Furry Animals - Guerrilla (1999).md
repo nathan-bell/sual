@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180430_SFA.Guerrilla.jpg"
 date: 2018-04-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["superfurryanimals"]
 categories: ["Listen"]
 ---
 ### Another big bonkers record from the Super Furry's. This, their 3rd record, is as good as any in their catalogue. They simply do not know how to make a dud record.  

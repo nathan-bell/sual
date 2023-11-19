@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220512_Fontaines.DC.Skinty.Fia.jpg"
 date: 2022-05-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fontainesdc"]
 categories: ["Listen"]
 ---
 ### Big, brooding third record from collusive, fellow Dublin City Music College graduates now full time residents of London.

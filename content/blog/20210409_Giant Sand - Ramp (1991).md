@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210409_Giant.Sand.Ramp.jpg"
 date: 2021-04-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["giantsand"]
 categories: ["Listen"]
 ---
 ### This raunchy grungy even, country-punk recording from the early 90s contains not one but two future Calexico members, Joey Burns and John Convertino.

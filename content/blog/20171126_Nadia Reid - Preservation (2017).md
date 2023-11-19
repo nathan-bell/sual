@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171126_NR.Preservation.jpg"
 date: 2017-11-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nadiareid"]
 categories: ["Listen"]
 ---
 ### I was completely wowed by Nadia Reid's first record, "Listen to Formation Look for the Signs". It was right up there with my favourite records of 2015. Listening to her second effort "Preservation" via Tidal and through headphones left me wanting. I gave it away completely.

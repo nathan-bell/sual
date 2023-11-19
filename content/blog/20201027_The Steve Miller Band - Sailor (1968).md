@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201027_image-asset.jpeg"
 date: 2020-10-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thestevemillerband"]
 categories: ["Listen"]
 ---
 ### I found this at The Warehouse in Whanganui on shiny new bright blue vinyl.   

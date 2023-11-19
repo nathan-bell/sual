@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200116_The.Rutles.jpg"
 date: 2020-01-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["therutles"]
 categories: ["Listen"]
 ---
 ### With the recent demise of [Neil Innes](https://www.cbsnews.com/news/neil-innes-died-monty-python-star-has-dead-age-75-cause-of-death-natural-causes-2019-12-30/) , just prior to the turn of the new decade, the world lost a true comedic and musical genius.  

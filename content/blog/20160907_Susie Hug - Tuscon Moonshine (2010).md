@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160907_image-asset.jpeg"
 date: 2016-09-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["susiehug"]
 categories: ["Listen"]
 ---
 ### On a previous trip to the UK (2010) I was busy trawling through the bins at Sister Ray Records and heard this superb album playing. I didn't realise until quite a while afterwards it was two of the Calexico boys backing. No wonder their was a familiar vibe to it.

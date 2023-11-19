@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171003_Iggy.Pop.The.Idiot.jpg"
 date: 2017-10-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["iggypop"]
 categories: ["Listen"]
 ---
 ### Bowie's all over this. While "Low" was the high mark of his career, he lent an almighty hand to the Iguana's rehabilitation at the same time. And it definitely shows.

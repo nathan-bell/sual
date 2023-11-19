@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170926_Johnny.Winter.Still.Alive.And.Well.jpg"
 date: 2017-09-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnnywinter"]
 categories: ["Listen"]
 ---
 ### The best god damned Albino Blues Guitarist ever born in Beaumont, Texas. Full stop!

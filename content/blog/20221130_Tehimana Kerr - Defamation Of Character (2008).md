@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221130_Tehimana.Kerr.Defamation.jpg"
 date: 2022-11-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tehimanakerr"]
 categories: ["Listen"]
 ---
 ### Another great $1 find. Fat Freddy's guitarist Tehimana Kerr goes solo on this merge of ambient, electronica and funk.

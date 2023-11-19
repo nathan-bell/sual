@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190409_Cheery.Glazerr.Stuffed.jpg"
 date: 2019-04-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cherryglazerr"]
 categories: ["Listen"]
 ---
 ### My favourite record so far this year would have to be this noisy little gem from Clementine Creevy’s LA collective. 

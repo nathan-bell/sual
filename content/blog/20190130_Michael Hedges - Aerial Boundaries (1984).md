@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190130_M.Hedges.jpg"
 date: 2019-01-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["michaelhedges"]
 categories: ["Listen"]
 ---
 ### Ok I admit it, I dabbled with New Age music! Luckily it was a fleeting indiscretion that only came about from exposure to a couple of Windham Hill samplers.

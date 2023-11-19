@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210512_Can.Future.jpg"
 date: 2021-05-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["can"]
 categories: ["Listen"]
 ---
 ### A remarkably restrained Damo Suzuki "sings" on what would be his final studio recording with this truly amazing German collective. (He went off and married a Jehovah witness apparently).

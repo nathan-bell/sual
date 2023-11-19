@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161223_image-asset.jpeg"
 date: 2016-12-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["loop"]
 categories: ["Listen"]
 ---
 ### Not the usual Friday evening fodder, but when one wants to purge this is as good as it gets.

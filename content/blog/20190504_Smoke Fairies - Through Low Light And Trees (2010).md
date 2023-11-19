@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190504_Smoke.Fairies.Low.Light.jpg"
 date: 2019-05-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["smokefairies"]
 categories: ["Listen"]
 ---
 ### I was completely stopped in my tracks early one morning last week by a wonderful bit of British Folk Rock playing on the radio. 

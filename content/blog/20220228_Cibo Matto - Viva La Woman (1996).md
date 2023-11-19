@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220228_Cibo.Matto.VLW.jpg"
 date: 2022-02-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cibomatto"]
 categories: ["Listen"]
 ---
 ### I didn't hesitate one second in picking up this fabulous food-fixated first-in-class classic record at Palmerston North's JB-Hifi during my recent travels.

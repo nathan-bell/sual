@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220114_Fela.London.02.jpg"
 date: 2022-01-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["felakuti"]
 categories: ["Listen"]
 ---
 ### Another absolute stunner from one of Afrobeat's finest. This 50th Anniversary Reissue is “coolness” personified.

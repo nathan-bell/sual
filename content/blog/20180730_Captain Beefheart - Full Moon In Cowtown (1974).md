@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180730_Capt.Beefheart.Live.jpg"
 date: 2018-07-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["captainbeefheart"]
 categories: ["Listen"]
 ---
  Double vinyl recording of a live radio broadcast from Kansas City circa 1974.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180526_The.Low.Anthem.Darwin.jpg"
 date: 2018-05-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thelowanthem"]
 categories: ["Listen"]
 ---
 I actually bought this record on the strength of the worlds greatest biologist and non-theist mischief-maker being mentioned on the album cover. (A really good review in the music press also helped to be honest).  

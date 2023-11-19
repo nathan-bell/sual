@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210518_ak79.jpg"
 date: 2021-05-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This fantastic compilation of Auckland punk, circa 1979(ish), is a treat for NZ music historians and rock'n'roll lovers. 

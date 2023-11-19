@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221125_Violens.Amoral.jpg"
 date: 2022-11-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["violens"]
 categories: ["Listen"]
 ---
 ### Another $1 CD tonight. I wasn't completely anamoured with this New York collective at first but I'm really glad I perservered.

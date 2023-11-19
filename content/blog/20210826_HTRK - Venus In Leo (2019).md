@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210826_HTRK.Venus.jpg"
 date: 2021-08-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["htrk"]
 categories: ["Listen"]
 ---
 ### One of my finds of the year, I knew absolutely nothing about HTRK (Hate Rock) or this record, prior to my recent travels to Melbourne.

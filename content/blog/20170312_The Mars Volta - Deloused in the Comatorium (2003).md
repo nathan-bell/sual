@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170312_image-asset.jpeg"
 date: 2017-03-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themarsvolta"]
 categories: ["Listen"]
 ---
 ### OK, I've let the cat out of the bag. The Mars Volta live at The Big Day Out on Friday 16h January 2004 was the single most incredible live act I have ever witnessed.

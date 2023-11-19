@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200326_Tool.Fear.jpg"
 date: 2020-03-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tool"]
 categories: ["Listen"]
 ---
  It's been full-on 12 hour plus days over a 13 day solid stretch as I rolled up my sleeves and gave all the techy stuff a kick up the pants. All in support of this Covid-19 nasty!!   

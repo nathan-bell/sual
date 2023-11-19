@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191128_Jenny.L02.jpg"
 date: 2019-11-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jennylewis"]
 categories: ["Listen"]
 ---
 ### I would have bought this wonderful record just for the cover alone. It's certainly a great (in stereo) representation of the pleasures within. (you might appreciate the larger than usual cover art).

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200109_blancmange.best.jpg"
 date: 2020-01-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blancmange"]
 categories: ["Listen"]
 ---
 ### A bit of a delve back into that strange transitional, and often awkward mid-eighties where you find these London knob twiddlers in their prime.   

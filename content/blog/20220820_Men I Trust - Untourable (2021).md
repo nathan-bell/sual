@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220820_Men.I.Trust.Untourable.jpg"
 date: 2022-08-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["menitrust"]
 categories: ["Listen"]
 ---
 ### Who wants to listen to music when the sky is literally falling and the murky, dank flood waters are lapping at your doorstep? 

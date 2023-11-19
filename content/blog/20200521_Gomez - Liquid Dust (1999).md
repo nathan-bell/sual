@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200521_Gomez.Liquid.jpg"
 date: 2020-05-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gomez"]
 categories: ["Listen"]
 ---
 ### I can just about tolerate going grocery shopping at Fresh Choice supermarket when they play some classy tunes over the PA system.  

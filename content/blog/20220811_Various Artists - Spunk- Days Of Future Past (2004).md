@@ -4,7 +4,7 @@ image: "/images/post/spunk.jpg"
 date: 2022-08-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### The best of Spunk 1994-2004. 2xCD $24.95. As the blurbs says "Including rare & live tracks".

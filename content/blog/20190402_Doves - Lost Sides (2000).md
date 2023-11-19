@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190402_Doves.Lost.Sides.jpg"
 date: 2019-04-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["doves"]
 categories: ["Listen"]
 ---
 ### Compilation of B-sides and other non-album tracks that makes up part of the Doves "Box Set".  Picked up for a pittance ($2.97) at the Warehouse recently.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180823_EATB.Crocodiles.jpg"
 date: 2018-08-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["echoandthebunnymen"]
 categories: ["Listen"]
 ---
 ### One of the most astounding debut records ever, The Bunnymen were like a breath of fresh air at a time of unprecedented musical diversification.  

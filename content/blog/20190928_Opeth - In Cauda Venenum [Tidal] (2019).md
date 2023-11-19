@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190928_image-asset.jpeg"
 date: 2019-09-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["opeth"]
 categories: ["Listen"]
 ---
 ### I’ve gone walkabout with my iPhone and this is usually now my default for new music. I have definitely changed my original stance on only listening properly on a decent stereo system. 

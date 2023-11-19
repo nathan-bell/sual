@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221002_Tame.Impala.Innerspeaker.jpg"
 date: 2022-10-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tameimpala"]
 categories: ["Listen"]
 ---
 ### It's time to get the Tame Impala back catalogue out. They play live on Saturday 15th at Spark Arena.

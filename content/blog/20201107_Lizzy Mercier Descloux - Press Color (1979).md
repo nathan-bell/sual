@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201107_image-asset.jpeg"
 date: 2020-11-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lizzymercierdescloux"]
 categories: ["Listen"]
 ---
 ### Another fabulous example of late 70s New York No Wave that's further perpetrated by French invader Lizzy Mercier Descloux.

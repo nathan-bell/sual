@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181012_DIV.Scorpio.Rising.jpg"
 date: 2018-10-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["deathinvegas"]
 categories: ["Listen"]
 ---
 ### Any album that includes a track with banjo, 11 piece Indian violin ensemble, sitar and Mazzy Star's Hope Sandoval is alright by me.

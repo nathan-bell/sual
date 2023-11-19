@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180701_Nuggets.jpg"
 date: 2018-07-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nuggets"]
 categories: ["Listen"]
 ---
 ### A brilliant relic of 60’s rock and possibly one of the most famous compilations of all time. Great to have this on vinyl. However it has remained un-played since I acquired it at HMV’s Oxford Street store back in October 2016. It truly is a treasure trove of great American songs giving the Poms the middle finger salute.

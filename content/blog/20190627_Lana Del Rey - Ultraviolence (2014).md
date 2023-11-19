@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190627_lana.UV.jpg"
 date: 2019-06-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lanadelrey"]
 categories: ["Listen"]
 ---
 ### I'm surprised Lana Del Rey has never performed at the Roadhouse in Twin Peaks. She's just made for such a venue.

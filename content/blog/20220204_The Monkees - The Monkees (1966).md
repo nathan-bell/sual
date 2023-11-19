@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220204_The.Monkees.jpg"
 date: 2022-02-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themonkees"]
 categories: ["Listen"]
 ---
 ### Track 1, "(Theme from) The Monkees" is one of my all time favourite childhood memories and still fills me with delight to this day.

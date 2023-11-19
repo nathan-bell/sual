@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200303_SL.SF.03032020.06.JPEG"
 date: 2020-03-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
  Having spent the last month totally immersed in everything Stereolab, I was hoping that this newly re-formed groop, down in this neck of the woods, would at least meet expectations.   

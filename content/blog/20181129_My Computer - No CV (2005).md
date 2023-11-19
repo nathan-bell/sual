@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181129_My.Computer.No.CV.jpg"
 date: 2018-11-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mycomputer"]
 categories: ["Listen"]
 ---
 ### I was first attracted to My Computer by the mythical and magical debut release "Vulnerabilia" which I never managed to get a physical copy of in any format.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180316_Kanye.West.Dark.Twisted.Fantasy.jpg"
 date: 2018-03-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kanyewest"]
 categories: ["Listen"]
 ---
 ### Anyone who thinks Kanye West is a total and talentless plonker should be strapped to a chair and made to listen to this all the way through. (OK he is a complete plonker but oh no no, he's definitely not talentless!)  

@@ -4,7 +4,7 @@ image: "/images/post/jonrich.jpg"
 date: 2017-06-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jonathanrichman"]
 categories: ["Listen"]
 ---
 ### Three years on from Goodbye Yellow Brick Road, the world of rock'n'roll was a very different place for me -  I'd discovered Patti Smith, Iggy Pop and Lou Reed.

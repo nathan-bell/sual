@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210822_BM.IV.jpg"
 date: 2021-08-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackmountain"]
 categories: ["Listen"]
 ---
 ### Another terrific record, their forth, in a faultless catalogue of neo-70's rock/prog.

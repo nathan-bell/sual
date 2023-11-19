@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220604_Grouper.Dragging.jpg"
 date: 2022-06-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grouper"]
 categories: ["Listen"]
 ---
 ### Quite a rare find yesterday. This record is pretty impossible to find and definitely one to grab if you can find it. 

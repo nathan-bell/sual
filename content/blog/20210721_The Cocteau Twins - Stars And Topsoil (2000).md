@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210721_Cocteau.Twins.Stars.jpg"
 date: 2021-07-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thecocteautwins"]
 categories: ["Listen"]
 ---
 ### Picked this fine compilaton up from my second favourite Melbourne record shop, Rocksteady Records in Lonsdale St, CBD.

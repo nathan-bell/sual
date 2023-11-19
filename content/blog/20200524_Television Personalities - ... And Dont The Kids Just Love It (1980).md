@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200524_TV.Personalities.jpg"
 date: 2020-05-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["televisionpersonalities"]
 categories: ["Listen"]
 ---
 ### I didn't quite get this record on first listen but subsequently it's now a thing of great beauty.   

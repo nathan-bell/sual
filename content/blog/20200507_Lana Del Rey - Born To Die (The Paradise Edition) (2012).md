@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200507_Lana.Paradise.jpg"
 date: 2020-05-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lanadelrey"]
 categories: ["Listen"]
 ---
 ### This "Paradise" edition vinyl was made available in this format several years after the special edition was released on CD in 2012. I hunted this down in Melbourne a few moons ago now. 

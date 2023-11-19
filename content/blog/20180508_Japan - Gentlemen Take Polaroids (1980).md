@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180508_Japan.Polaroids.jpg"
 date: 2018-05-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["japan"]
 categories: ["Listen"]
 ---
 ### [Original 1980 Japanese pressing from Lo Cost Vinyl in Jackson Street, Petone]

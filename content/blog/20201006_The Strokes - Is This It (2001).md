@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201006_image-asset.jpeg"
 date: 2020-10-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thestrokes"]
 categories: ["Listen"]
 ---
 ### It this It? I really think it is!   

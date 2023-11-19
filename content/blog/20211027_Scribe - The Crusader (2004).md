@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211027_Scribe.jpg"
 date: 2021-10-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["scribe"]
 categories: ["Listen"]
 ---
 ### This record (especially the track "Not Many") was a bit of a soundtrack for my teenagers. It also resonated strongly with me at the time.

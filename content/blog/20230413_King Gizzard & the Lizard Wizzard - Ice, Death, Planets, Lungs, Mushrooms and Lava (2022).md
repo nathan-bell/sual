@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230413_KGLW.jpg"
 date: 2023-04-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinggizzardandthelizardwizzard"]
 categories: ["Listen"]
 ---
 ### By my count, this is record number 20 (since 2012) for this Melbourne sextet. 

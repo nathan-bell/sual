@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230120_TOT.Everything.jpg"
 date: 2023-01-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tonesontail"]
 categories: ["Listen"]
 ---
 ### A fantastic post-Bauhaus compilation of Daniel Ash's side project prior to establishing the equally wonderful Love & Rockets.

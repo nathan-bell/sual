@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201101_image-asset.jpeg"
 date: 2020-11-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nickmason"]
 categories: ["Listen"]
 ---
 ### I did NOT expect this! A few of those try-hard Psych bands could learn a trick or two from these dudes.

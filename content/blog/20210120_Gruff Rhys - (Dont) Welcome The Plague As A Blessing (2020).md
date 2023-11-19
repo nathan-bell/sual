@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210120_image-asset.jpeg"
 date: 2021-01-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gruffrhys"]
 categories: ["Listen"]
 ---
 ### The Babelsberg Basement Tapes.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211125_Labs.LPs.01.jpg"
 date: 2021-11-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### Switched On Volume 2

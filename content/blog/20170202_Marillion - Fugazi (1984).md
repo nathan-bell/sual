@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170202_image-asset.jpeg"
 date: 2017-02-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marillion"]
 categories: ["Listen"]
 ---
 ### I was never a Marillion fan but when you are confronted with a brand new, mint copy of their highly regarded 2nd album for $9.98 what do you do? It's good for a punt I reckon?

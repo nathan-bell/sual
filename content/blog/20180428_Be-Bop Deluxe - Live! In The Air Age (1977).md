@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180428_BeBopDeluxe.AirAge.jpg"
 date: 2018-04-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["be-bopdeluxe"]
 categories: ["Listen"]
 ---
 ### It's taken a few days to recover from our latest "Shut Up And Listen" session. I have been bereft of enthusiasm following an at times mind-warping journey through seven unique musical showcases of iconic musicians.  

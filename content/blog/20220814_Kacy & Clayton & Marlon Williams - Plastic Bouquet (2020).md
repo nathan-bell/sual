@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220814_KCandMW.jpg"
 date: 2022-08-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kacyandclaytonandmarlonwilliams"]
 categories: ["Listen"]
 ---
 ### Recorded in Saskatoon (Saskatchewan?) Nashville and Lyttelton, this country and western tinged folk record is a brilliantly realised collaberation between Cananadian duo Kacy Lee Anderson and Clayton Linthcium, of Kacy & Clayton, and New Zealand wunderkid, Marlon Williams. A beautiful, cathartic gem recorded just prior to the Covid unpleasantness.

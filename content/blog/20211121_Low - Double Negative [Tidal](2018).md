@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211121_Low.Double.Negative.jpg"
 date: 2021-11-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["low"]
 categories: ["Listen"]
 ---
 ### I'm really not sure about this. Low going all electronic noize with hyper-processed/distorted vocals just hasn't got me feeling the love.

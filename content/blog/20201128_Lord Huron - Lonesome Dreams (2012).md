@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201128_image-asset.jpeg"
 date: 2020-11-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lordhuron"]
 categories: ["Listen"]
 ---
 ### This pre-loved record has obviously been played to death and there's a few pops and crackles in evidence. However, it wasn't until I saw the debris on my stylus that I realised that I needed to do some immediate needle maintenance.

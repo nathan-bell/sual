@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180509_Wolfgang.Press.Funky.jpg"
 date: 2018-05-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thewolfgangpress"]
 categories: ["Listen"]
 ---
 ### These dudes started off as a post-new-wave, gothy-punk-avant-garde-noise-band. (It's a proper musical genre, I'm telling you!)  

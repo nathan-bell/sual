@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200719_Jarvis.Sunday.Service.jpg"
 date: 2020-07-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### ACE Records presents: Music From Jarvis Cocker's Sunday Service.   

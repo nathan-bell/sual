@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210101_Dntel.CD2.jpg"
 date: 2021-01-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dntel"]
 categories: ["Listen"]
 ---
 ### This is totally apt to bring in the new year. 

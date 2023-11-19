@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180320_LandR.Sweet.FA.jpg"
 date: 2018-03-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["loveandrockets"]
 categories: ["Listen"]
 ---
 ### When I hear Daniel Ash play his guitar, it always reminds me of Mick Ronson without The Thin White Duke chewing on his guitar strings. This is circa "The Man Who Sold The World" through to "Ziggy".  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200802_image-asset.jpeg"
 date: 2020-08-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["arthurrussell"]
 categories: ["Listen"]
 ---
 ### This FANTASTIC remastered 2014 compilation on 3 great slabs of vinyl just sounds well…. FANTASTIC!   

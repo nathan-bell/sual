@@ -4,7 +4,7 @@ image: "/images/post/Bush.Tetras.jpg"
 date: 2022-12-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebushtetras"]
 categories: ["Listen"]
 ---
 ### This beautifully presented box set from New York funky punk pioneers Bush Tetras, is a fabulous compilation of their best moments accross 6 sides of vinyl.

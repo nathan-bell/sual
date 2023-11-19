@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181113_The.Horrors.Higher.jpg"
 date: 2018-11-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thehorrors"]
 categories: ["Listen"]
 ---
 ### I needed some chill down music this evening. I've just arrived back from Auckland after a spectacular live show last night at one of the best venues I've ever been to. In all of my pre-gig anticipation/expectation it couldn't have been any better.

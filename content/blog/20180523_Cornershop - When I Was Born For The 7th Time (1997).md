@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180523_Cornershop.Born.jpg"
 date: 2018-05-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cornershop"]
 categories: ["Listen"]
 ---
 ### It's astounding to realise that this gem was made more than 20 years ago! Played for the first time in it's entirety in at least a decade, I am reminded of just how good it is.  

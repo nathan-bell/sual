@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200105_Stereolab.Refried.jpg"
 date: 2020-01-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### Stereolab never cease to amaze and surprise.   

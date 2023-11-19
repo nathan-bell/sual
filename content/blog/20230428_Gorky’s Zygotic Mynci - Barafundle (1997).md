@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230428_GZM.Barafundle.jpg"
 date: 2023-04-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gorky’szygoticmynci"]
 categories: ["Listen"]
 ---
 ### Along with The Super Furries, these fellow Welshmen, proudly celebrate their musical heritage as well as their language. 

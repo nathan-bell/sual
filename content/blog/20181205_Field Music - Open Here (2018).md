@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181205_Field.Music.Open.Here.jpg"
 date: 2018-12-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fieldmusic"]
 categories: ["Listen"]
 ---
 ### Another stunning release from Sunderland's Brewis brothers. Purchased from Marbecks on a recent Auckland excursion, this very vinyl-worthy long player is clearly made (on clear vinyl), for needle and groove.

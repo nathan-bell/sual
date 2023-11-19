@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210427_Pretty.Things.Parachute.jpg"
 date: 2021-04-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["prettythings"]
 categories: ["Listen"]
 ---
 ### This record was released in 1970 and was named Rolling Stone's album of the year ahead of Let It Be by The Beatles, Morrison Hotel by The Doors, After the Gold Rush by Neil Young, Moondance by Van Morrison, Bridge Over Troubled Water by Simon and Garfunkel, Pink Floyd's Atom Heart Mother and Led Zeppelin III. Now that's pretty impressive company to be ahead of in the subjective music stakes.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221005_NOW.Space.jpg"
 date: 2022-10-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nightmaresonwax"]
 categories: ["Listen"]
 ---
 ### Bulging to the brim full of bangers, this post-rave/downtempo collection requires little listening investment.

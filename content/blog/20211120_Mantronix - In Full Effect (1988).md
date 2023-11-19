@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211120_mantronix.Full.jpg"
 date: 2021-11-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mantronix"]
 categories: ["Listen"]
 ---
 ### After gifting my old turntable to my daughter Imogen and partner Tim in Wellington, they have now been plunged into the world of pain that is collecting and listening to vinyl.

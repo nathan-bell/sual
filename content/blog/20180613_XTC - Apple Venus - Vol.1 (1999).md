@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180613_XTC.Apple.Venus.jpg"
 date: 2018-06-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### I finally got to watch the fantastic XTC documentary ["This Is Pop"](https://www.imdb.com/title/tt7465694/?ref_=fn_al_tt_1) today  via some dodgy streaming service (ok, I was desperate!)  

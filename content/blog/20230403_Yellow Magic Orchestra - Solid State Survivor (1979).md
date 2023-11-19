@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230403_YMO.SSS.jpg"
 date: 2023-04-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yellowmagicorchestra"]
 categories: ["Listen"]
 ---
 ### RIP: The Great Ryuici Sakamoto, founding member of YMO, actor, record producer and composer/muscian, died after a long illness on March 28th. 

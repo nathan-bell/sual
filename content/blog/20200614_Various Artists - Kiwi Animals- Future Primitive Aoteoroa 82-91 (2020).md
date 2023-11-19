@@ -4,7 +4,7 @@ image: "/images/post/a1669188000_16.jpg"
 date: 2020-06-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I was prepared to get very uncomfortable with this brand new compilation of "forgotten New Zealand electronic and avante music of the 1980s" released in late May this year. 

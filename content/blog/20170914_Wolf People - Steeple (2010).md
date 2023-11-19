@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170914_Wolf.People.Steeple.jpg"
 date: 2017-09-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["wolfpeople"]
 categories: ["Listen"]
 ---
 ### Any band that recycles the mighty Tull, flutes and all, better get away with it.

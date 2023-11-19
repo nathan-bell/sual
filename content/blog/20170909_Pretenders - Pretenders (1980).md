@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170909_Pretenders.jpg"
 date: 2017-09-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pretenders"]
 categories: ["Listen"]
 ---
 ### I wasn't much of a Pretenders fan really, but their first record is an absolute stunner and totally vinyl worthly. (when it's $25 on newly minted vinyl at TWH it's a no brainer!)

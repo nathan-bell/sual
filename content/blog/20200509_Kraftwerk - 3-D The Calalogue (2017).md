@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200509_Kraftwerk.3D.jpg"
 date: 2020-05-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kraftwerk"]
 categories: ["Listen"]
 ---
 RIP Florian Schneider

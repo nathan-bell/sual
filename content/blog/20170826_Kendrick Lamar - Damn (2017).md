@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170826_Kendrick.Lamar.Damn.jpg"
 date: 2017-08-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kendricklamar"]
 categories: ["Listen"]
 ---
 ### This guy can do no wrong. This record is highly likely to be voted by all music critics as the best album of 2017. DAMN is simply astounding!

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210728_Rev.Corps.jpg"
 date: 2021-07-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["revolutionarycorpsofteenagejesus"]
 categories: ["Listen"]
 ---
 ### Holy Moly, I didn't expect this! It's the same old Alan Vega and his same old completely left of everything approach to making music - but god it sounds so frighteningly refreshing listening to this today.

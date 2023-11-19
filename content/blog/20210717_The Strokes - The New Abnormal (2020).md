@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210717_Strokes.Abnormal.jpg"
 date: 2021-07-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thestrokes"]
 categories: ["Listen"]
 ---
 ### My Melbournian pal, Maurice, who I caught up with in person recently, has been raving about this record ad nauseam. To tone down his incessant admiration somewhat, I thought I'd better buy it on CD.

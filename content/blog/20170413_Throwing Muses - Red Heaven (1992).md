@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170413_image-asset.jpeg"
 date: 2017-04-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["throwingmuses"]
 categories: ["Listen"]
 ---
 ### **Live:    Thursday 25/09/2014 - Islington Assembly Hall, London (with Tanya Donnelly)**

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230105_EBTG.Temp.jpg"
 date: 2023-01-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["everythingbutthegirl"]
 categories: ["Listen"]
 ---
 ### 1996's "Walking Wounded" and this, their last record as EBTG, have aged very well indeed.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180611_Fleetwood.Mac.Future.Games.jpg"
 date: 2018-06-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fleetwoodmac"]
 categories: ["Listen"]
 ---
 ### I’ve listened to Peter Green’s Fleetwood Mac, up to and including the excellent “Then Play On” and the megastar Linsey Buckingham-era Fleetwood Mac that peaked with “Rumours” and “Tusk”.  

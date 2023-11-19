@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170822_Death.In.Vegas.Contino.Sessions.jpg"
 date: 2017-08-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["deathinvegas-thecontinosessions(1999)"]
 categories: ["Listen"]
 ---
 ### A strange old beast this one!? Smack in the middle of being a rock-noise-electronic record it borrows heavily from a myriad of in-congruent sources. You couldn't categorise this if it got up and bit you on the arse!

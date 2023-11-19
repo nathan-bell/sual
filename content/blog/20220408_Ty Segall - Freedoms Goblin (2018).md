@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220408_Ty.Segall.Goblin.jpg"
 date: 2022-04-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tysegall"]
 categories: ["Listen"]
 ---
 ### This is a record that is bulging at the seams with wonderful invention and brilliant performance.

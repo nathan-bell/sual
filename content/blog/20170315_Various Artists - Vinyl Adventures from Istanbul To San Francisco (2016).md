@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170315_image-asset.jpeg"
 date: 2017-03-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I recently read the excellent chronicles of Tim Burgess's bin trawling around the globe, "Tim Book Two: Vinyl Adventures...") and picked up this lovely 2 LP to accompany it.

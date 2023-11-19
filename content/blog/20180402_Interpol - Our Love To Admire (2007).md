@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180402_Interpol.Our.Love.jpg"
 date: 2018-04-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["interpol"]
 categories: ["Listen"]
 ---
 ### “Expert” reviews can really be polarising. I nearly didn’t watch a very good thriller the other night, a most entertaining and exciting Jackie Chan/Pearce Brosnan movie “The Foreigner”, coz at least half of the reviews said it sucked. It didn’t.  

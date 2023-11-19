@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220626_The.Smile.jpg"
 date: 2022-06-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesmile"]
 categories: ["Listen"]
 ---
 ### Holy moly! This really came out the blue. While its clearly a side project of Thom Yorke and Jonny Greenwood, (and Sons Of Kemet’s Tom Skinner), it could really pass as an extraordinary new Radiohead record. 

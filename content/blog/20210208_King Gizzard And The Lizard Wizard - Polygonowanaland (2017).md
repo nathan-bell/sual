@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210208_King.Lizzard.pix.jpg"
 date: 2021-02-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinggizzardandthelizardwizard"]
 categories: ["Listen"]
 ---
 ### The Aussies seem to have the Psychedelic-Progressive-Space-Metal market completely cornered.

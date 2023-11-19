@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220905_The.Oh.Sees.Mutilator.jpg"
 date: 2022-09-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theeohsees"]
 categories: ["Listen"]
 ---
 ### While I was completely gob smacked with the brilliance of [2018's "Smote Reverser"](http://www.shutupandlisten.co.nz/what-im-listening-too/2021/12/16/thee-oh-sees-smote-reverser-2018), this is it's little noisy brother. The same sentiments apply just as equally to this album.

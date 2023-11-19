@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161226_image-asset.jpeg"
 date: 2016-12-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themonochromeset"]
 categories: ["Listen"]
 ---
 ### Another record from my London haul, this vinyl/CD combo harks back to a familiar sound I first encountered and thought had ended in the early to mid 80's. 

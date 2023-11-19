@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220529_BBR.Facts.Of.Life.jpg"
 date: 2022-05-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackboxrecorder"]
 categories: ["Listen"]
 ---
 ### Wonderful turn-of-the-millennium expose on British life by auteur Luke Haines and co.

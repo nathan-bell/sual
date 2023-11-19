@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220611_Dope.Lemon.Cadillac.jpg"
 date: 2022-06-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dopelemon"]
 categories: ["Listen"]
 ---
 ### Another trippy, dippy stoner psych release from the Y gene carrying, younger sibling of Angus and Julia Stone fame.

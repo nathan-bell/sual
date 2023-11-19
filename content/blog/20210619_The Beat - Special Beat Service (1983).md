@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210619_The.Beat.Service.jpg"
 date: 2021-06-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebeat"]
 categories: ["Listen"]
 ---
 ### Known as "The English Beat" in North America to allay any clash and confusion with the American "The Beat", these dudes were right in the thick of things with other budding SKA bands of the time.

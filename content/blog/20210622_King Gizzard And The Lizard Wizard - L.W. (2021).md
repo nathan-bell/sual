@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210622_King.Gizzard.L.W.jpg"
 date: 2021-06-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinggizzardandthelizardwizard"]
 categories: ["Listen"]
 ---
 ### What a mish mash of a record! And that's high praise indeed. The width and depth of this covid lockdown production by these obviously bored and highly prolific Australians is quite remarkable.

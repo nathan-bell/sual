@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170521_image-asset.jpeg"
 date: 2017-05-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["joecocker"]
 categories: ["Listen"]
 ---
 ### I've just arrived back from Wellington where we spent a few days and whilst there, I came across this double vinyl remnant from my early years. (Cost me a measly $19.99 from JB-Hifi)

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190617_EJ.Dont.Shoot.jpg"
 date: 2019-06-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### It's been a fucking ridiculous week! A quick trip to Hastings, a week ago today, where I sat with my father overnight and through part of the next day when he finally lost his battle with life. 

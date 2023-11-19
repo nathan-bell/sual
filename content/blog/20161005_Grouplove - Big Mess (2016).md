@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161005_image-asset.jpeg"
 date: 2016-10-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grouplove"]
 categories: ["Listen"]
 ---
 ### I didn't know much about this LA group before impulsively booking a ticket to see them play at the Electric Ballroom in Camden. 

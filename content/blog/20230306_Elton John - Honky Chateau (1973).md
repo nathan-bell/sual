@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230306_EJ.HC.jpg"
 date: 2023-03-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### For various reasons, I felt a little nostalgic this evening. 

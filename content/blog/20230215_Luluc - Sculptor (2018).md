@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230215_Luluc.Sculptor.jpg"
 date: 2023-02-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["luluc"]
 categories: ["Listen"]
 ---
 ### Here’s yet another fantastic band from Melbourne. Several recent favourites of the last few years have come from this town.

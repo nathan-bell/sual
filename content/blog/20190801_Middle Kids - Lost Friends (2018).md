@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190801_Middle.Kids.jpg"
 date: 2019-08-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["middlekids"]
 categories: ["Listen"]
 ---
 ### This is another record from my newly acquired Aussie collection kindly gifted to me by my Wattle Glen friends from the Shire of Nillumbik (About 25 km North East of Melbourne).

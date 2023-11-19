@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191014_Slab-Dots.jpg"
 date: 2019-10-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### I've got a shit load of Stereolab records to work through. 22 sides of beautifully remastered clear vinyl in fact. There's a new batch of their later catalogue remasters coming soon.

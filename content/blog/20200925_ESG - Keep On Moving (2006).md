@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200925_image-asset.jpeg"
 date: 2020-09-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["esg"]
 categories: ["Listen"]
 ---
 ### There's some truly gut-busting, funky minimalism going on here!   

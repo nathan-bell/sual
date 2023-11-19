@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200816_image-asset.jpeg"
 date: 2020-08-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Along with [ACE Records](https://acerecords.co.uk/), [Soul Jazz Records](https://soundsoftheuniverse.com/sjr) out of Soho in London is my favorite record label for delivering stunning "new" music.   

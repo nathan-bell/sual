@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210331_Moon.Duo.jpg"
 date: 2021-03-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["moonduo"]
 categories: ["Listen"]
 ---
 ### Holy fuck this is wonderfully intense. If you can't handle relentless wall-to-wall jamming look elsewhere.

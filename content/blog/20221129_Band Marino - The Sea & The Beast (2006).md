@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221129_Band.Marino.jpg"
 date: 2022-11-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bandmarino"]
 categories: ["Listen"]
 ---
 ### It's $32 Tuesday. Time to rip open another CD from The Red Cross Collection.

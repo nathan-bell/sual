@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170601_image-asset.jpeg"
 date: 2017-06-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["arabstrap"]
 categories: ["Listen"]
 ---
 ### Brilliantly murky and minimal, this is the wonderfully named Scottish duo's first record.

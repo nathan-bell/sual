@@ -6,7 +6,7 @@ image: "/images/post/20190827_Opi.jpg"
 date: 2019-08-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","jonimitchell"]
+tags: ["chrisssession","thewho","paulkelly","jonimitchell","lanadelrey","scottwalker","therails","tommybolin","tommybolin","jamesgang","lauraveirs","yujawang","spiritfingers","newtelepathics","phosphorescent","theeastpointers","seankellyandfriends","stpaulandthebrokenbones","durandjonesandtheindications","louisarmstrongandellafitzgerald"]
 categories: ["Gatherings"]
 ---
 > The theme - _You have a total of up to 18 minutes (or less) at your disposal to play and fill as you wish (and that others can bear)._

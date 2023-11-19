@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161007_image-asset.jpeg"
 date: 2016-10-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["assoicates"]
 categories: ["Listen"]
 ---
 ### Billie Mackenzie had one of the most distinctive and extraordinary voices in pop/rock history. He eventually met a tragic, self-inflicted demise despite being an exceptional but underappreciated talent.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211214_Thee.Oh.Sees.Smote.jpg"
 date: 2021-12-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theeohsees"]
 categories: ["Listen"]
 ---
 ### One of the greatest finds of this year is this killer record from San Fran's totally unhinged Thee Oh Sees.

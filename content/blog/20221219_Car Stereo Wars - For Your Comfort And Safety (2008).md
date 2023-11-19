@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221219_car.seat.wars.jpg"
 date: 2022-12-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["carstereowars"]
 categories: ["Listen"]
 ---
 ### Another selection from my penny each, CD haul from the Red Cross shop. There's almost nothing much on the interweb about this Melbourne-based band or this recording.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210125_image-asset.jpeg"
 date: 2021-01-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fourtet"]
 categories: ["Listen"]
 ---
 ### This couldn't be further along the other end of the continuum than yesterday's outing with Analogue Africa. It’s probably as close to Ambient as I want to get but has an underlying grime to proceedings.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211010_ilimanas.Vol1.jpg"
 date: 2021-10-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thelimiñanas"]
 categories: ["Listen"]
 ---
 ### [7' and rare stuff 2009/2014]

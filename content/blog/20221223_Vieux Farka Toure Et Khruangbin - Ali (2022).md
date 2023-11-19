@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221223_All.jpg"
 date: 2022-12-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["vieuxfarkatoureetkhruangbin"]
 categories: ["Listen"]
 ---
 ### After the highlight of last night’s Neneh Cherry and Youssou N'Dour collaboration on “7 seconds”, this whole album is another match made in heaven. 

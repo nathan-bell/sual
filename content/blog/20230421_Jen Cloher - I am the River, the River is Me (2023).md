@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230421_Jan.Cloher.jpg"
 date: 2023-04-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jencloher"]
 categories: ["Listen"]
 ---
 ### A lovely first listen to Australian singer, Jen Cloher this evening. This beautiful recording took me completely by surprise. 

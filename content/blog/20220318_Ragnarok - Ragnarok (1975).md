@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220318_ragnarok.jpg"
 date: 2022-03-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ragnarok"]
 categories: ["Listen"]
 ---
 ### I may or may not have seen Ragnarok at the Racecourse Hotel, Hastings as a highschool lad back in the day.

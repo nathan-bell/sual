@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211222_BH.DC.jpg"
 date: 2021-12-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["beachhouse"]
 categories: ["Listen"]
 ---
 ### A very ethereal record from Beach House. 

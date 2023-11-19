@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210520_Royal.Blood.Typhoons.jpg"
 date: 2021-05-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["royalblood"]
 categories: ["Listen"]
 ---
 ### Gave this a whirl this evening as I cooked. A bit indifferent for the first couple of tracks but then it all clicked. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161105_image-asset.jpeg"
 date: 2016-11-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thecreatures"]
 categories: ["Listen"]
 ---
 ### Dropped in for a beer at The Free House this afternoon with my lovely wife Sarah and son Peter. Coincidentally, a "Black Vinyl Brown Beer" record fair was in full swing in the yurt. It was only manners to venture in and have a gander.

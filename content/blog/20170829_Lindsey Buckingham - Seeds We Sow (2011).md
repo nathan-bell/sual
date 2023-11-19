@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170829_Lindsey.Buckingham.Seeds.We.Sow.jpg"
 date: 2017-08-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lindseybuckingham"]
 categories: ["Listen"]
 ---
 ### While there's more than one Fleetwood Mac, which originated as a hard rocking blues collective and totally trans-morphed into AOR stadium fillers, there's definitely only one Lindsey Buckingham.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210127_image-asset.jpeg"
 date: 2021-01-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thinlizzy"]
 categories: ["Listen"]
 ---
 ### This is without question Thin Lizzy's high water mark.   

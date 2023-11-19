@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170110_image-asset.jpeg"
 date: 2017-01-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["roddyframe"]
 categories: ["Listen"]
 ---
 ### While a bit samey - it's a great samey. Just Mr. Frame and an acoustic guitar.

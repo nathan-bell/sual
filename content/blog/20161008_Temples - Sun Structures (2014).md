@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161008_image-asset.jpeg"
 date: 2016-10-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["temples"]
 categories: ["Listen"]
 ---
 ### Brilliant debut from 4 Kettering lads. Along with Tame Impala, who springs to mind immediately, these neo-retro specialists are stuck in a mid to late 60's time warp.

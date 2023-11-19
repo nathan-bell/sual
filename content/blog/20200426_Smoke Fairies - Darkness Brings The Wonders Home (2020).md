@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200426_Smoke.Fairies.Darkness.jpg"
 date: 2020-04-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["smokefairies"]
 categories: ["Listen"]
 ---
 ### I'm just listening to "Coffee Shop Blues" as I'm hearing this Tidal stream for the 2nd time today. Wouldn't a proper cup of barista quality coffee and a cheese scone dripping in butter go down well!    

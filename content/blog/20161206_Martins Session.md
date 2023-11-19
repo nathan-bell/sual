@@ -6,7 +6,7 @@ image: "/images/post/20161213_image-asset.png"
 date: 2016-12-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","brucespringsteen","thewho","leonardcohen"]
+tags: ["martinssession","brucespringsteen","thewho","jeffbeck","wilco","leonardcohen","leonardcohen","eilenjewell","moseallison","norahjones","michaelkiwanuka","thinlizzy","cassandrawilson","bobweir","imeldamay","markknopfler","alisonkrauss","dinosaur","paulblade","conoroberst","marygauthier","laurencejones","davidswarbrick","monstersoffolk","waltertroutband"]
 categories: ["Gatherings"]
 ---
 > Theme: Births, Deaths and Marriages

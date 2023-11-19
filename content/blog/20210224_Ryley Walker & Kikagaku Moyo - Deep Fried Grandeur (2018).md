@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210224_RW%26KM.DFG.jpg"
 date: 2021-02-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ryleywalkerandkikagakumoyo"]
 categories: ["Listen"]
 ---
 Ryley Walker joins forces with Kikagaku Moyo to venture into (equally unpronounceable) Khruangbin's blissed-out Asian psyche-blues territory.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181130_P.Hope.R.H.Kirk.Hoodoo.Talk.jpg"
 date: 2018-11-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["peterhopeandrichardhkirk"]
 categories: ["Listen"]
 ---
 ### Now this record is just frightening! As previously mentioned, I've been watching the latest/last series of Twin Peaks and every episode gets stranger, darker and more bewildering than the previous episode.

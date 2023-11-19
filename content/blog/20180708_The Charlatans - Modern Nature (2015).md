@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180708_Charlatans.Modern.Nature.jpg"
 date: 2018-07-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thecharlatans"]
 categories: ["Listen"]
 ---
 ### "Remember where you were yesterday" is a sentiment conveyed in the liner notes on this record dedicated to founding member and drummer Jon Brookes, who died of a terminal illness just prior to its recording.  

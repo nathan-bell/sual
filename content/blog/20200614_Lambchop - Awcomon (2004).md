@@ -4,7 +4,7 @@ image: "/images/post/Lambchop.jpg"
 date: 2020-06-14T12:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lambchop"]
 categories: ["Listen"]
 ---
 ### Put on as background music this afternoon while tidying the cave, I was also trying to convince myself that when compared with vinyl, CDs sound like shit. 

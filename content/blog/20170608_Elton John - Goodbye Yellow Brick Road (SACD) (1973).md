@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170608_image-asset.jpeg"
 date: 2017-06-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### I don't give a rat's arsehole what other people think of this record - it's an amazing record that epitomised the brilliance of growing up in the musical potpourri of the early to mid 70's.

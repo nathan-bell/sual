@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200928_madlib.jpg"
 date: 2020-09-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["madlib"]
 categories: ["Listen"]
 ---
 ### More “Jazz Club”! Madlib invades Blue Note.    

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170722_image-asset.jpeg"
 date: 2017-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xymox"]
 categories: ["Listen"]
 ---
 ### One of my most favourite recordings from the mid-80s, this Dutch group made all the right noises. It was electronic, it was goth, it was moody. It was an amalgam of the best bands I was listening to.

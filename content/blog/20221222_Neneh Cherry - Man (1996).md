@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221222_Neneh.Man.jpg"
 date: 2022-12-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nenehcherry"]
 categories: ["Listen"]
 ---
 ### A bit of Neneh this evening was warranted following an earlier full on, engulfed-by-music moment while driving back into Nelson this afternoon.

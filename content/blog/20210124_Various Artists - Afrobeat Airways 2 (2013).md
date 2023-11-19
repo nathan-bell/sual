@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210124_image-asset.jpeg"
 date: 2021-01-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I was prompted to play this after a mention of the first volume from Analogue Africa yesterday on Radio NZ Music 101. The (frustratingly un-named) track that followed was a stunner. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160715_image-asset.jpeg"
 date: 2016-07-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["opeth"]
 categories: ["Listen"]
 ---
 ### You can't be a passive listener with this! It can lull you into your happy place one moment then punch you in the temporal lobe when you are all nice and cosy. It's exhilarating to say the least.

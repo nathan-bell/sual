@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210710_Holger.Czukay.jpg"
 date: 2021-07-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["holgerczukay"]
 categories: ["Listen"]
 ---
 ### Completely wacko but totally enjoyable forth solo record from co-founder of krautrock band Can.

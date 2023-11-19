@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210607_Genesis.Wind.jpg"
 date: 2021-06-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["genesis"]
 categories: ["Listen"]
 ---
 ### Two albums after Peter Gabriel left and the last record to feature guitarist Steve Hackett.

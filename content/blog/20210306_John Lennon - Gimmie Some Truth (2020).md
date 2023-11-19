@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210306_John.Lennon.Gimmee.jpg"
 date: 2021-03-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnlennon"]
 categories: ["Listen"]
 ---
 ### I've never really been a John Lennon fan. The purchase of this record and subsequent listening experience came about purely by chance.

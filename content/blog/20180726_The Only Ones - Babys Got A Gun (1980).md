@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180726_The.Only.Ones.Baby.jpg"
 date: 2018-07-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theonlyones"]
 categories: ["Listen"]
 ---
 ### A criminally underappreciated band that I simply couldn't (perhaps can't) get enough of. Peter Perrett's fragile, vulnerable, between-keys voice is stunningly authentic and matched for uniqueness and virtuosity by John Perry's amazing fret work.  

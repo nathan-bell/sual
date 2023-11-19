@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210711_Suicide.RSD.jpg"
 date: 2021-07-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["suicide"]
 categories: ["Listen"]
 ---
 ### I was thrilled to get a copy of this very limited Record Store Day release on 10" clear vinyl.

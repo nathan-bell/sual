@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170624_image-asset.jpeg"
 date: 2017-06-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["katatonia"]
 categories: ["Listen"]
 ---
 ### The last few records I've listened to have been a bit introspective and at times demanding.  This afternoon I've gone all Swedish Metal gone Prog, and uncut! And it's all rather majestic.  

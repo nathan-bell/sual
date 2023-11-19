@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220919_Betas.3EPs.jpg"
 date: 2022-09-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebetaband"]
 categories: ["Listen"]
 ---
 ### A classic non-album from the Betas. This is a compilation of early EP's. Nary a missed beat from these Scotsmen.

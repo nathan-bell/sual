@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220718_MA.Heligoland.jpg"
 date: 2022-07-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["massiveattack"]
 categories: ["Listen"]
 ---
 ### I'm not sure why this album gets such a bad rap. Ok, it's probably not The Massive at their peak of popularity but it certainly contains all of the elements that make it a sonically rich, refreshingly experimental and ultimately rewarding listen.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230110_V.Twin.Age.jpg"
 date: 2023-01-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["vanishingtwin"]
 categories: ["Listen"]
 ---
 ### This multi-national collective make some of the most magical music I've heard in a long time.

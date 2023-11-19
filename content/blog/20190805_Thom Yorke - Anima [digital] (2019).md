@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190805_Thom.Anima.jpg"
 date: 2019-08-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thomyorke"]
 categories: ["Listen"]
 ---
 ### Just when I thought it was safe to abandon a proper stereo system for a look, no-hands, wireless streaming service-centric solution, I get sucked right back in! 

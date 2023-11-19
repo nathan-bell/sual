@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190826_Tool.Fear.jpg"
 date: 2019-08-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tool"]
 categories: ["Listen"]
 ---
 ### It’s only been 14 years since their last record! What’s the big deal!

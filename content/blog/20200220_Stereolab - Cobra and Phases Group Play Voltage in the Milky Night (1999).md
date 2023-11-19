@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200220_SL.Cobra.jpg"
 date: 2020-02-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### An end-of-century pre-millennial masterpiece.   

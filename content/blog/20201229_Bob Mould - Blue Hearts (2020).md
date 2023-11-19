@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201229_Bob.Mould.Blue.Hearts.jpg"
 date: 2020-12-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bobmould"]
 categories: ["Listen"]
 ---
 ### Bob is very angry! Hunkered down in his bunker while America burns and Trump tries to chip his way out, Bob creates some of the most vitriolic, heart-on-his-sleeve commentary he's ever recorded.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180429_Tull.Benefit.jpg"
 date: 2018-04-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jethrotull"]
 categories: ["Listen"]
 ---
 ### [5.1 DTS SW Remaster]

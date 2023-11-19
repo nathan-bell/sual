@@ -6,7 +6,7 @@ image: "/images/post/20160126_Richard1sml.png"
 date: 2016-01-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","paulkelly"]
+tags: ["richardssession","paulkelly","nickcaveandthebadseeds","tameimpala","archieroach","thechurch","warrenzevon","benchambers","kaseychambers","kaseychambers","davewarner","midnightoil","flowers","thenecks","edkuepper","mickharvey","vincejones","yothuyindi","cwstoneking","scottmatthew","suzedemarchi","thebluemartinis","huntersandcollectors","theheavenlylightquartet","chriswhitleyandjefflang"]
 categories: ["Gatherings"]
 ---
 > The theme for this one is lost

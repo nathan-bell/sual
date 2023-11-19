@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201205_grimes.miss.jpg"
 date: 2020-12-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grimes"]
 categories: ["Listen"]
 ---
 ### This is a great example of some of the most challenging, original and richly rewarding music being made in 2020.

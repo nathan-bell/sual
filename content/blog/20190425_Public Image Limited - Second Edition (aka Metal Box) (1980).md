@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190425_image-asset.jpeg"
 date: 2019-04-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["publicimagelimited"]
 categories: ["Listen"]
 ---
 ### This, PiL's 2nd outing, is equal parts atrocious and astounding. It's also possibly one of the most challenging and divisive records in my entire collection.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170323_image-asset.jpeg"
 date: 2017-03-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blonderedhead"]
 categories: ["Listen"]
 ---
 ### Next month I'm only playing stuff from bands or artists that I have experienced live. This is a bit of a head start, a band I hold in the highest regard and witnessed live in London in 2014. More on that gig later. 

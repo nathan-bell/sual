@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220907_David.Sylvian.Earth.jpg"
 date: 2022-09-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidsylvian"]
 categories: ["Listen"]
 ---
 ### A timeless masterpiece from my favourite, post-punk/decommissioned new romantic front man, neo-reclusive avant-jazzasist.

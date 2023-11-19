@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200517_image-asset.jpeg"
 date: 2020-05-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["califone"]
 categories: ["Listen"]
 ---
 Aside from a resurgence of vinyl in my world, I'm tending more and more towards playing music via a streaming service or off ripped files on network attached storage devices. The poor old CD player isn't getting much of a look in at the moment.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171112_Passenger.Whispers.jpg"
 date: 2017-11-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["passenger"]
 categories: ["Listen"]
 ---
 ### Another $5 bargain bin escapee.

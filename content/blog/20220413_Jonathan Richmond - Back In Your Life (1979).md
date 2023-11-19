@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220413_Jonathan.Richmond.Back.jpg"
 date: 2022-04-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jonathanrichmond"]
 categories: ["Listen"]
 ---
 ### I heard a great podcast this morning when out for my morning walk. “Word Podcast” (aka “Word In Your Ear) a HIGHLY RECOMMENDED music nerd-fest, mentioned the fact that Jonathan Richmond sounds like no one else on the planet. 

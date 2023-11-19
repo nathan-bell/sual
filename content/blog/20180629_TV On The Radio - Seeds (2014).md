@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180629_TVOTR.Seeds.jpg"
 date: 2018-06-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tvontheradio"]
 categories: ["Listen"]
 ---
 ### I did the $2 grab bag from TWH this afternoon. Picked up eight quite obscure albums (including The Pop Group's "Citizen Zombie" and Iron and Wine's "Sing Into My Mouth") - all for under 20 bucks.  

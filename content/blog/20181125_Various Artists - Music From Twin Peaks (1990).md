@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181125_Music.From.Twin.Peaks.jpg"
 date: 2018-11-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I watched the first episode of the latest Twin Peaks "Limited Event Series" last night. OMG! It is way, way beyond what I expected. Possibly the most challenging and enjoyable 60 minutes of television I've experienced this year.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200822_image-asset.jpeg"
 date: 2020-08-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["moonduo"]
 categories: ["Listen"]
 ---
 ### Another sonic gem from Portland's Ripley Johnson (Wooden Shjips) and Sanae Yamada.    

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170907_Wolfmother.jpg"
 date: 2017-09-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["wolfmother"]
 categories: ["Listen"]
 ---
 ### I was going to reach for my freshly minted copy of The Jimi Hendrix Experience's "Electric Ladyland" but my tired demeanour and waning concentration could never do it the justice it clearly deserves. I'll save that for a more sensible day.

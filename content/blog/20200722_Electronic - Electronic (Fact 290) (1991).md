@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200722_Electronic.jpg"
 date: 2020-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["electronic"]
 categories: ["Listen"]
 ---
  The Smiths and New Order. Two of the most influential bands of the 80’s.   

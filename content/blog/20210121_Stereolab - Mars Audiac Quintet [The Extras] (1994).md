@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210121_slmars.jpg"
 date: 2021-01-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### This triple album is part of the fan(tastic) re-release campaign undertaken by Stereolab over the last couple of years.

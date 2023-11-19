@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190905_Siouxie.Kiss.jpg"
 date: 2019-09-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["siouxsieandthebanshees"]
 categories: ["Listen"]
 ---
 ### Another beautifully eclectic and somewhat experimental offering from the post-punk, gothic sweethearts.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171213_Beaches.Second.Of.Spring.jpg"
 date: 2017-12-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["beaches"]
 categories: ["Listen"]
 ---
 Just jumped off the plane from Melbourne (via a Wellington stop over) and brought this double slab of Aussie vinyl back with me.

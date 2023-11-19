@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200910_BS.TUC.jpg"
 date: 2020-09-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blacksabbath"]
 categories: ["Listen"]
 ---
  You know what! The Warehouse is really shite!  

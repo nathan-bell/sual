@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181231_angel.olsen.burn.your.fire.jpg"
 date: 2018-12-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["angelolsen"]
 categories: ["Listen"]
 ---
 ### I had absolutely no idea what I was going to play on this, the final day of 2018. I tried to be objective and choose something that's on my "best of" list.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171217_Yeasayer.All.Hour.Cymbals.jpg"
 date: 2017-12-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yeasayer"]
 categories: ["Listen"]
 ---
 ### This wonderfully cheerful, possibly life affirming, record comes courtesy of a random glance at my CD's this afternoon. It's Summer, it's hot and this bigger than life recording does the trick nicely.

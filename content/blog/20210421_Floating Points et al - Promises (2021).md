@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210421_FP.PS.jpg"
 date: 2021-04-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["floatingpointsetal"]
 categories: ["Listen"]
 ---
 ### Floating Points, Pharoah Sanders & The London Symphony Orchestra

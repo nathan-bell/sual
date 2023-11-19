@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170618_image-asset.jpeg"
 date: 2017-06-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["depechemode"]
 categories: ["Listen"]
 ---
 ### I've been listening this for a few months now via Tidal and on the strength of repeated listens I needed to own the plastic,  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221215_Hot.Chip.Sense.jpg"
 date: 2022-12-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["hotchip"]
 categories: ["Listen"]
 ---
 ### On paper, I should probably hate this band. Instead, and despite their electronic, dance-focused, clubiness I fully imbrace all they have done. (This is especially true when there's a $2 price tag on the CD case).

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211017_Slowdive.Pygmalion.jpg"
 date: 2021-10-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["slowdive"]
 categories: ["Listen"]
 ---
 ### This beautiful album follows the magnificent "Souvlaki", a record that Brian Eno provided keyboards and treatments. While the Eno ambience wasn't obvious on that, it's right to the fore on this.

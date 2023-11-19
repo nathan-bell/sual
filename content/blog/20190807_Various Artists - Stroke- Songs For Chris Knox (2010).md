@@ -4,7 +4,7 @@ image: "/images/post/VA.Stroke.jpg"
 date: 2019-08-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["thebeatles"]
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### One of my greatest experiences ever!, was witnessing Chris Knox going completely beserk at The New Levin in the late late 70's. This was with his post The Enemy band Toy Love.

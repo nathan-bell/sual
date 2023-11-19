@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210804_Gruff.Rhys.Gods.jpg"
 date: 2021-08-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gruffrhys"]
 categories: ["Listen"]
 ---
 ### FANTASTIC new record by Chief Superior Furry Animal. The SFAs know how to create bona fide pop music alright, but this just takes it up a notch or two. 

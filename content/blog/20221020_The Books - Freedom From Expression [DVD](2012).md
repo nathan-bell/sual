@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221020_The.Books.Expression.jpg"
 date: 2022-10-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebooks"]
 categories: ["Listen"]
 ---
 ### I picked this DVD up in Auckland recently at Flying Out Records. It was sitting all alone, on a dusty old shelf, well removed from the tsunami of vinyl.

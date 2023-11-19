@@ -6,7 +6,7 @@ image: "/images/post/20220215_Vacuum.jpg"
 date: 2022-02-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","paulkelly","gillianwelch"]
+tags: ["martinssession","paulkelly","gillianwelch","avantdalebowlingclub","björk","sonvolt","hanggai","bettydavis","thehu","divinyls","shakira","hanksnow","superbrew","pavlovsdog","dirtyloops","monkeyhouse","apacheindian","charlestrenet","jonnygreenwood","mukimukimanmansu","jununftshyebentzur","highdependencyunit","anouarbrahemquartet","einsturzendeneubauten","andtherajasthanexpress","paulsimonandmiriammakeba","alifarkatouréandtoumanidiabaté"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Continental Drift_

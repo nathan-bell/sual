@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161214_image-asset.png"
 date: 2016-12-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kristinhersh"]
 categories: ["Listen"]
 ---
 ### I looked high and low for this (you definitely won't find this on Amazon). I finally got a copy via The Book Depository, delivered for $11.64 US dollars.

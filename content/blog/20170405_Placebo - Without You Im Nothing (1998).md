@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170405_image-asset.jpeg"
 date: 2017-04-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["placebo"]
 categories: ["Listen"]
 ---
 ### **Live: Saturday 19th July, 2003 - Town Hall, Auckland**

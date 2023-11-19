@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220328_King.Hannah.Mine.jpg"
 date: 2022-03-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinghannah"]
 categories: ["Listen"]
 ---
 ### I've been listening to this wonderful EP on repeat via streaming services over the last couple of weeks.

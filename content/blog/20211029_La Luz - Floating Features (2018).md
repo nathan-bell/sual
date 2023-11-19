@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211029_La.Luz.Floating.Features.jpg"
 date: 2021-10-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["laluz"]
 categories: ["Listen"]
 ---
 ### Take a bit of Dick Dale, a good chunk of Stereolab and a smidgeon of Nana Mouskouri, shake it all up, remove the men folk, and you have the sensational lady group La Luz.

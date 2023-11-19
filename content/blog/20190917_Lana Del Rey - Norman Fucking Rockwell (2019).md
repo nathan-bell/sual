@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190917_lana.NFR.jpg"
 date: 2019-09-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lanadelrey"]
 categories: ["Listen"]
 ---
 ### It's always a bit of an experience getting Lana's new big chunk of vinyl onto your own turntable.

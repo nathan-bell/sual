@@ -6,7 +6,7 @@ image: "/images/post/65034904_10156240033582765_6763995689249669120_n.jpg"
 date: 2013-10-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","jeffbeck","tonyjoewhite"]
+tags: ["nickssession","jeffbeck","jethrotull","tonyjoewhite","crosby","talktalk","johnlennon","califone","tommybolin","geneclark","kurtelling","thebeachboys","russellsmith","stillsandnash","teddythompson","connanmockasin","antonyandthejohnsons","kateandannamcgarrigle","janisian","leonredbone","barneykessel","flightoftheconchords","moreundermuttermutterrances"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Female Name, Subtle, Voice_

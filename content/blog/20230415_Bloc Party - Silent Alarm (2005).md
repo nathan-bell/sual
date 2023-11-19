@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230415_Bloc.Party.SA.jpg"
 date: 2023-04-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blocparty"]
 categories: ["Listen"]
 ---
 ### Coming up to it's second decade, this incendiary debut album from London-based Quartet, Bloc Party, is refreshingly "rock".

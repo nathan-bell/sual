@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180524_Riverside.REM.jpg"
 date: 2018-05-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["riverside"]
 categories: ["Listen"]
 ---
 ### I rolled a random "R" this evening and immediately reached for "Riverside". They are without doubt, Poland's best progressive metal band.

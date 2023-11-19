@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201226_image-asset.jpeg"
 date: 2020-12-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yvestumor"]
 categories: ["Listen"]
 ---
 ### Nothing prepares you for this. The beats are big, and at times there's a semblance of texture, structure and a hint of song craft. Other than that you are on your own. Beautifully recorded and split over 4 sides of vinyl - everything about this is magnificent.

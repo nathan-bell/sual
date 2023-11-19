@@ -6,7 +6,7 @@ image: "/images/post/toon-1228.gif"
 date: 2014-03-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thebeatles","brucespringsteen","tomwaits"]
+tags: ["richardssession","thebeatles","thecure","brucespringsteen","tomwaits","paulkelly","jimihendrix","jonimitchell","radiohead","thedoors","johnlennon","mercuryrev","otisredding","thismortalcoil","talldwarfs","emmylouharris","rageagainstthemachine","iandury","timbuckley","frankbennett","franzferdinand","redandzekefeatbilldossandneilcleary"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Want(ed)To See, Same Track_

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230223_Yo.La.Tengo.Stupid.jpg"
 date: 2023-02-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### This record is so refreshingly old school. 

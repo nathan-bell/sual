@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191008_Kristin.Hersh.Hips.jpg"
 date: 2019-10-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kristinhersh"]
 categories: ["Listen"]
 ---
 ### What a fucking amazing record! What a fucking amazing woman! When the track "Your Ghost" starts off, my goose bumps are the size of golf balls!

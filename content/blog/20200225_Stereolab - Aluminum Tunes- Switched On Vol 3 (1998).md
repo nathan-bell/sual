@@ -4,7 +4,7 @@ image: "/images/post/SLAluminum.jpg"
 date: 2020-02-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### If you think my time listening to Stereolab is fully exhausted, then think again. This compilation from 1998 is a real cracker. 

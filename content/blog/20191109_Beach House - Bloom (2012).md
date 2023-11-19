@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191109_Beach.House.Bloom.jpg"
 date: 2019-11-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["beachhouse"]
 categories: ["Listen"]
 ---
 ### There’s a lot of syrupy dream pop pouring out of my speakers this morning as I ease into the day with this treasure. (another great record I've been listening to sporadically and on the same musical continuum is Lower Dens. (more on them later)

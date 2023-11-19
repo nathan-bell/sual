@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210416_Nocturnal.jpg"
 date: 2021-04-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nocturnalprojections"]
 categories: ["Listen"]
 ---
 ### While a truly miserable record and definitely of its time, this relic of the early 80's is the antithesis of much of todays formulaic garbage. And that holds it in very high esteem.

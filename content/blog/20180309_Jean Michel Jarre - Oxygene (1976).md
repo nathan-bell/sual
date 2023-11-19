@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180309_Jean.Michel.Jarre.Oxygene.jpg"
 date: 2018-03-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jeanmicheljarre"]
 categories: ["Listen"]
 ---
 ### Right time, right place! I popped into the big red shed this afternoon in mild anticipation (as is always the case) looking for that not-so-elusive bargain.  

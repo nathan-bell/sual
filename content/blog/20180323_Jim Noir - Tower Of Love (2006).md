@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180323_Jim.Noir.Tower.jpg"
 date: 2018-03-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jimnoir"]
 categories: ["Listen"]
 ---
 ### A brilliant $2 bin trawl item that is now a highly regarded musical artifact in my collection of other musical artifacts. It's very obvious to me that I don't play this gem nearly enough.  

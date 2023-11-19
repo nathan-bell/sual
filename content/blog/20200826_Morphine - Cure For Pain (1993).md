@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200826_image-asset.jpeg"
 date: 2020-08-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["morphine"]
 categories: ["Listen"]
 ---
 ### This Boston three piece make quite the racket, albeit a beautiful one - and it's all done on a two string slide bass, saxophone and drums.   

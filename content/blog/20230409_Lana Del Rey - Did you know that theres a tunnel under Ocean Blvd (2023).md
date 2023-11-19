@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230409_ldr.did.jpg"
 date: 2023-04-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lanadelrey"]
 categories: ["Listen"]
 ---
 ### You’d think I’d be sick to death of Lana Del Rey. This is her 9th record since 2012’s “Born To Die”. Well surprise, surprise, I’m far from it.

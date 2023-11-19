@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220203_The.Coral.Island.jpg"
 date: 2022-02-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thecoral"]
 categories: ["Listen"]
 ---
 ### Merseyside’s, The Coral have never made a duff record in all of their 20 plus years of existent.

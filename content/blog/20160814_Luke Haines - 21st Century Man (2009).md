@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160814_image-asset.jpeg"
 date: 2016-08-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lukehaines"]
 categories: ["Listen"]
 ---
 ### More name-dropping madness from this eccentric Englishman (Crazy references to Peter Hammil, Klaus Kinski, David Bowie and Yasser Arafat amongst others).

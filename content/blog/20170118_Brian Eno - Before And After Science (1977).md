@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170118_image-asset.jpeg"
 date: 2017-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["brianeno"]
 categories: ["Listen"]
 ---
 ### As a young person in their 18th year, I can still remember walking into my local record shop and hearing Bowie's astonishing "Low". It wasn't just the otherworldly music and creative u-turn that stopped me in my tracks but the banter coming from behind and in front of the counter. 

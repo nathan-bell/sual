@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200323_Monks.jpg"
 date: 2020-03-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["monks"]
 categories: ["Listen"]
 ---
 ### A monumental day today in Godzone as we all prepare to go into lock down.   

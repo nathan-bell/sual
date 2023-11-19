@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220724_Stereo.MCs.jpg"
 date: 2022-07-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereomcs"]
 categories: ["Listen"]
 ---
 ### Despite an erroneous apostrophe, the Stereo MC's produced this stunner absolutely full to the brim with funky rap-infused belters.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200222_SL.Space.Age.jpg"
 date: 2020-02-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### There's more tambourine playing by Laetitia Sadier than actual singing on this record. Apparently she was sick and didn't get much studio time so the band just played on.   

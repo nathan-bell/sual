@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190415_KW.Yeasus.jpg"
 date: 2019-04-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kanyewest"]
 categories: ["Listen"]
 ---
 ### There's just no "in between" with this guy - you either love him or loath him and most people will judge him based on his public persona. OK, he certainly doesn't help himself.

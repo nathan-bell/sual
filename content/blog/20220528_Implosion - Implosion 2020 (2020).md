@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220528_Implosion.2020.jpg"
 date: 2022-05-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["implosion"]
 categories: ["Listen"]
 ---
 ### Obscure yet outstanding 80's Italian outfit that only ever released one solitary, self-titled album back in 1988.

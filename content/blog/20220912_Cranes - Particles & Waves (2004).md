@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220912_cranes.particles.jpg"
 date: 2022-09-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cranes"]
 categories: ["Listen"]
 ---
 ### OK. I'm being right up front here. Give me actual, physical media over streaming any day.

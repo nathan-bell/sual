@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200705_DAngelo.Voodoo.jpg"
 date: 2020-07-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dangelo"]
 categories: ["Listen"]
 ---
 ### The bottom end on this record is quite extraordinary. You do risk serious damage to your viscera and your speakers if you turn that knob too far.   

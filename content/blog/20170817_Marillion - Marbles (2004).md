@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170817_image-asset.jpeg"
 date: 2017-08-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marillion"]
 categories: ["Listen"]
 ---
 ### They're a snobby bunch! Prog has always suffered badly when judged by the "mainstream" music press. You won't see a review of any Marillion record in Uncut, Q Magazine or Mojo.

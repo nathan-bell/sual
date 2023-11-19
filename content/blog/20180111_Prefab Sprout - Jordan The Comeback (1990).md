@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180111_Prefab.Sprout.Jordan.jpg"
 date: 2018-01-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["prefabsprout"]
 categories: ["Listen"]
 ---
 ### Heard a great song on the way home from work today by kiwi band "Supermodel". It reminded me a lot of Prefab Sprout. As soon as I heard it, I thought "That's what I'll play tonight!" So I did.

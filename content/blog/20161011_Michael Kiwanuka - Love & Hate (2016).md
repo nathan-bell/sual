@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161011_image-asset.jpeg"
 date: 2016-10-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["michaelkiwanuka"]
 categories: ["Listen"]
 ---
 ### Brilliant second outing for this London born Ugandan. I saw a lot of references to this while in London, so had to bring this home.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220904_Fell.From.The.Sun.jpg"
 date: 2022-09-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Bob Stanley and Pete Wiggs present downtempo and after hours 1990-91

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220207_Lindsey.B.jpg"
 date: 2022-02-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lindseybuckingham"]
 categories: ["Listen"]
 ---
 ### This is a remarkable comeback record for the 72 year old, ex Fleetwood Mac guitar and song writing maestro.

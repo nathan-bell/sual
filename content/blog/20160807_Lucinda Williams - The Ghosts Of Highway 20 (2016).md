@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160807_image-asset.jpeg"
 date: 2016-08-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lucindawilliams"]
 categories: ["Listen"]
 ---
 ### This is probably my favourite album of the year so far. It's worth the price of admission alone just for the phenomenal band backing her.

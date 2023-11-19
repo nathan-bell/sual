@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170416_image-asset.jpeg"
 date: 2017-04-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["smashingpumpkins"]
 categories: ["Listen"]
 ---
 ### **Live:    Wednesday 4/02/1994 - Town Hall, Wellington (with The Breeders!)Live:    Monday 27/05/1996 - Town Hall, Christchurch**

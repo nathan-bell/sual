@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171024_Barry.Adamson.Murky.jpg"
 date: 2017-10-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["barryadamson"]
 categories: ["Listen"]
 ---
 ### Prior to his solo career which kicked off in the late 80's, he was bass player extraordinaire for Magazine (A definite desert Island band) and Nick Cave's Bad Seeds (no slouches either!) 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190331_Bill.Nelson.jpg"
 date: 2019-03-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["billnelson"]
 categories: ["Listen"]
 ---
 ### Fantastic live set with his band "The Gentlemen Rocketeers" in front of a very small select audience at the Metropolis Studios in London back in 2011.

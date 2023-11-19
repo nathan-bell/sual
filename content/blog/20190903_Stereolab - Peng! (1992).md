@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190903_SLab.Peng.jpg"
 date: 2019-09-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### Fantastic debut record from a band I couldn’t do any sort of justice by trying to describe.

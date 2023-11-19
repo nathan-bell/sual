@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170208_image-asset.jpeg"
 date: 2017-02-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marillion"]
 categories: ["Listen"]
 ---
 ### I quite like prog (which stands for progressive rock). It's a bit pretentious, like jazz, meandering, like classical. and definitely not mainstream, (un)like pop. It's more recessive rock than progressive in my book. The whole reason punk happened is because of music like this.

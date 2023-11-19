@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190507_QOTSA.RR.jpg"
 date: 2019-05-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["queensofthestoneage"]
 categories: ["Listen"]
 ---
 ### I'll wager a bet. You find a more riff-tastic record than this anytime soon and I'll eat all of my neighbours Rhododendrons.

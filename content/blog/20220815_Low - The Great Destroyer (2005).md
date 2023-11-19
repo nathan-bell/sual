@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220815_Low.Destroyer.jpg"
 date: 2022-08-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["low"]
 categories: ["Listen"]
 ---
 ### Another faultless record from these Duluth-based, slow-core pioneering Mormons. (Incidentally, Duluth was also the birth place of one Robert Zimmerman).

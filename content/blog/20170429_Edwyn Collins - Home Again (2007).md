@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170429_image-asset.jpeg"
 date: 2017-04-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["edwyncollins"]
 categories: ["Listen"]
 ---
 ### **Live:    Edwyn Collins - Thursday 23/09/2010 - Queen Elizabeth Hall, London**

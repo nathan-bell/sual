@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180627_Sundays.Reading.jpg"
 date: 2018-06-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesundays"]
 categories: ["Listen"]
 ---
 ### Richard, who I know is very fond of this record, played "My Finest Hour" at last night's Shut Up and Listen session. I thought it might be timely to give it a blast today. (OK it's such a sweet and cheerful pick-me-up sort of record, therefore "blast" is probably not the operative word).  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230304_Asobi.Seksu.jpg"
 date: 2023-03-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["asobiseksu"]
 categories: ["Listen"]
 ---
 ### Fantastic debut from New York-based group Asobi Seksu. While firmly in the noise rock genre, it’s fabulously diverse throughout. On the very first listen there's a lot to like about this record.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221211_UMO.Multi.jpg"
 date: 2022-12-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["unknownmortalorchestra"]
 categories: ["Listen"]
 ---
 ### After NZ's post-punk band The Mint Chicks broke up, guitarist Ruban Nielson formed genre-fluid combo Unknown Mortal Orchestra with his brother and ex Mint Chicks frontman Cody.

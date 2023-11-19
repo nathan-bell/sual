@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230411_Feline.02.jpg"
 date: 2023-04-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thestranglers"]
 categories: ["Listen"]
 ---
 ### The Stranglers were always outliers, probably before the term was even in the common vernacular.

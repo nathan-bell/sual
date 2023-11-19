@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220828_Depeche.Mode.Masses.jpg"
 date: 2022-08-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["depechemode"]
 categories: ["Listen"]
 ---
 ### I'm just loving rediscovering my big wall of sound. This big multi-level shelf of plastic and card-board cases hold the majority of my CDs, SACDs and DVD-Audio/Blu-ray discs.

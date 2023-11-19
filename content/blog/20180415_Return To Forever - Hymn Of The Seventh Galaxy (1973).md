@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180415_RTR.Anthology.jpg"
 date: 2018-04-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["returntoforever"]
 categories: ["Listen"]
 ---
 ### Al Di Meola was about 12 years old when he joined Return To Forever in 1973 for the classic rock fusion lineup of Chick Corea, Lenny White, Stanley Clarke and himself.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190516_NeilAndLiam.jpg"
 date: 2019-05-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["neilandliamfinn"]
 categories: ["Listen"]
 ---
 ### I just couldn't resist buying this big slab of reduced-price, double vinyl, completely unheard on one of my now rather rare excursions into the big red shed.

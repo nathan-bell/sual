@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180814_BOC.Secret.Treaties.jpg"
 date: 2018-08-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blueoystercult"]
 categories: ["Listen"]
 ---
 ### Early 70's music doesn't get much more inventive than this. A biggie record for me from undoubtedly the most fertile of musical eras.  

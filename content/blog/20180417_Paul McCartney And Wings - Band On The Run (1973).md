@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180417_PM.Wings.Band.jpg"
 date: 2018-04-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["paulmccartneyandwings"]
 categories: ["Listen"]
 ---
 ### I initially tried to listen to an electronic record (Meat Beat Manifesto) this evening but I just wasn’t in the mood at all. It lasted less than one minute. I needed something more organic. I don’t know what organic looks like but I reckon I know what it sounds like.  

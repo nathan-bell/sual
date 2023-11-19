@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170216_image-asset.jpeg"
 date: 2017-02-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["echoandthebunnymen"]
 categories: ["Listen"]
 ---
 ### Very recently pressed on beautiful blue vinyl.

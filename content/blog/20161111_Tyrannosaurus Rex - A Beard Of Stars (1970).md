@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161111_image-asset.jpeg"
 date: 2016-11-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tyrannosaurusrex"]
 categories: ["Listen"]
 ---
 ### On vinyl

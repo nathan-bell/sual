@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200908_image-asset.jpeg"
 date: 2020-09-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### Along with Low, Pavement and Stereolab, the Tengos have been nothing but consistently great.   

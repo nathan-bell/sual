@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181015_Mogwai.Special.Moves.jpg"
 date: 2018-10-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mogwai"]
 categories: ["Listen"]
 ---
 ### I swear, I will NEVER attend a live Mogwai event. I'm long past going to sonically damaging gigs where your ears fight for recovery for the next few days and your internalised speech sounds like an old transistor radio.

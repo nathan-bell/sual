@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230514_BC.Dream.jpg"
 date: 2023-05-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["billcallahan"]
 categories: ["Listen"]
 ---
 ### Everything about Mr. Prolific here, and even more so since the demise of former band Smog, is the richness of his ever maturing voice, along with the power of his story telling. 

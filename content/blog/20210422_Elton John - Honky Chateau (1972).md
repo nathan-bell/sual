@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210422_EJ%2CHonky.jpg"
 date: 2021-04-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### Before my tastes became a little more eclectic and sophisticated, I was an Elton John obsessive.

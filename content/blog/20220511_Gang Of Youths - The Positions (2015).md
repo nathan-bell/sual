@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220511_GOYs.The.Positions.jpg"
 date: 2022-05-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gangofyouths"]
 categories: ["Listen"]
 ---
 ### Half of the music I've been listening to has been from Australian artists. It's ranged from hoary old troopers to minimalist noodling and stoner folk.

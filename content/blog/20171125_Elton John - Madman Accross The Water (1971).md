@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171125_EJ.Madman.jpg"
 date: 2017-11-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### One of my watershed albums.

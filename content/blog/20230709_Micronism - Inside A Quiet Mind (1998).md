@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230709_Micronism.jpg"
 date: 2023-07-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["micronism"]
 categories: ["Listen"]
 ---
 ### 1998's "The Gathering" was a musical event I would never have contemplated ever attending, unless I was serving up curries to the masses.

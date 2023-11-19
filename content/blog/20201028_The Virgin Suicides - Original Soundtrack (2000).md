@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201028_image-asset.jpeg"
 date: 2020-10-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thevirginsuicides"]
 categories: ["Listen"]
 ---
 ### I’m loving listening to compilations and movie soundtracks at the moment. A good soundtrack is often as memorable as the film itself and usually provides an eclectic mix of styles and artists. 

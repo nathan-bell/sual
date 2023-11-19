@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181120_Dimmer.Star.jpg"
 date: 2018-11-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dimmer"]
 categories: ["Listen"]
 ---
 ### It's a fucking outrage that this record isn't even listed on [Dimmer's discography](https://www.allmusic.com/artist/dimmer-mn0000399787/discography) on Allmusic.com

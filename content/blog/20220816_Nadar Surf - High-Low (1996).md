@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220816_nada.surf.high.low.jpg"
 date: 2022-08-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nadarsurf"]
 categories: ["Listen"]
 ---
 ### I heard a great song, "Popular" by this New York-based band on a recent podcast. I really needed to check them out a bit more.

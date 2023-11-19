@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191001_Sola.Rosa.Haunted.jpg"
 date: 2019-10-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["solarosa"]
 categories: ["Listen"]
 ---
 ### This freebie grab bag from one of our Shut Up And Listen sessions, is hitting all of the right notes.

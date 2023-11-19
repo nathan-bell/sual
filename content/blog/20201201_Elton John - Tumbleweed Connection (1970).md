@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201201_EJ.Tumbleweed.jpg"
 date: 2020-12-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### From 1969's "Empty Sky" to "1976's "Blue Moves" (his last great record which I've only just began to appreciate), Elton John and Bernie Taupin produced 11 remarkable studio albums.

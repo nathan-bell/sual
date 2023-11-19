@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170130_image-asset.jpeg"
 date: 2017-01-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gerryrafferty"]
 categories: ["Listen"]
 ---
 ### I just couldn't resist getting this widely acclaimed, newly remastered record on vinyl for the measly price of $15.

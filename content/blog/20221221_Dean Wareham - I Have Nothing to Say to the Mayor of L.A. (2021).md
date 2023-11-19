@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221221_Dean.Wareham.NY.jpg"
 date: 2022-12-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["deanwareham"]
 categories: ["Listen"]
 ---
 ### One of my favourite first songs on any record in my collection is Luna's "Chinatown" from their album Penthouse. This new record from legendary\* Kiwi Muscian Dean Wareham, reignites that moment.

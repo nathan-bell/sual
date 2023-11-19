@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180623_Bonnie.Raitt.Friends.jpg"
 date: 2018-06-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bonnieraitt"]
 categories: ["Listen"]
 ---
 ### I paid nearly $7 for this gem at The Warehouse. It's just outrageous! My "five bucks" catch phrase is getting harder and harder to substantiate these days.  

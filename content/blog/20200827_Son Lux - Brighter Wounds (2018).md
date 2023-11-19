@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200827_image-asset.jpeg"
 date: 2020-08-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sonlux"]
 categories: ["Listen"]
 ---
 ### I hate always playing it safe with music and this certainly takes me well out of my comfort zone.  And this record which I'm listening to for the first time since picking it out of a bargain bin, does so in such a welcome and refreshing way.    

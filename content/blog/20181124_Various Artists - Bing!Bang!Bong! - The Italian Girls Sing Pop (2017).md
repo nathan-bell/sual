@@ -4,7 +4,7 @@ image: "/images/post/VA.Bing.Bang.Bong.jpg"
 date: 2018-11-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### What a disjointed old month this has been. A day trip to Wellington, 2 nights in Auckland and back again to Wellington for another 3 days over the last couple of weeks has made me crave for my home roots. 

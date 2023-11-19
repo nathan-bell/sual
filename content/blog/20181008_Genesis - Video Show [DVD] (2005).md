@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181008_Genesis.Video.Show.jpg"
 date: 2018-10-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["genesis"]
 categories: ["Listen"]
 ---
 ### Love em or loath em, Genesis after Peter Gabriel and Steve Hackett left, became even bigger stadium fillers and fully transformed into mega selling, production line pop superstars. 

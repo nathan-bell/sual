@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220723_Spinanes.Manos.jpg"
 date: 2022-07-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thespinanes"]
 categories: ["Listen"]
 ---
 ### Chicago two piece, Rebecca Gates, guitar and vocals, and Scott Plouf, on drums, make such a wonderful racket together.

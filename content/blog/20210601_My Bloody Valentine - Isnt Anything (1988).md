@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210601_mvb.isnt.anything.jpg"
 date: 2021-06-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mybloodyvalentine"]
 categories: ["Listen"]
 ---
 ### As well as this record being unlike anything before or after it, it's one of the quietest "loud" records you will ever hear.

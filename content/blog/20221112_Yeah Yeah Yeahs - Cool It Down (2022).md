@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221112_YYY.jpg"
 date: 2022-11-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yeahyeahyeahs"]
 categories: ["Listen"]
 ---
 ### A simply stunning comeback record after nearly a decade off grid.

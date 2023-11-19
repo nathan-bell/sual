@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200527_Gregg.A.Laidback.jpg"
 date: 2020-05-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["greggallman"]
 categories: ["Listen"]
 ---
 ### I think my life is now complete!   

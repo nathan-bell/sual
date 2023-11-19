@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201210_image-asset.jpeg"
 date: 2020-12-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["animalcollective"]
 categories: ["Listen"]
 ---
 ### You'll want to listen to this record sober. Just saying. 

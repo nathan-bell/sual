@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220310_Bonzo.Dog.Band.jpg"
 date: 2022-03-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bonzodogband"]
 categories: ["Listen"]
 ---
 ### A nice little, albeit dated, excursion tonight listening to some late 60's English Loonies. I spotted this 1986, nearly mint pressing, at a second hand record shop in Napier.

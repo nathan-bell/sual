@@ -4,7 +4,7 @@ image: "/images/post/Pavement.Terror.jpg"
 date: 2022-10-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pavement"]
 categories: ["Listen"]
 ---
 ### The only full-priced CD I bought during my sojourn to Auckland was this Pavement 2022 Redux.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211003_Boos.Giant.Steps.jpg"
 date: 2021-10-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebooradleys"]
 categories: ["Listen"]
 ---
 ### Holy shit! What a FANTASTIC record! I didn't realise what an absolute stonker this is. 

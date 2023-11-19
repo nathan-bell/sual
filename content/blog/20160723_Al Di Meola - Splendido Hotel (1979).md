@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160723_image-asset.jpeg"
 date: 2016-07-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aldimeola"]
 categories: ["Listen"]
 ---
 ### It was Al's birthday yesterday so thought I'd get into some Di Meola magic this afternoon.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210930_SY.GoToo.jpg"
 date: 2021-09-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stomuyomashta"]
 categories: ["Listen"]
 ---
 ### An absolute gem of a record found on my recent excursion up North. Discovered second hand at "Low Cost Records" in Petone, this record was always one of my favourites.   

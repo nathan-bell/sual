@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220617_Implosion.jpg"
 date: 2022-06-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["implosion"]
 categories: ["Listen"]
 ---
 ### Back in late May I discovered a fabulous, genre-less, probably more-prog-than-not, largely instrumental rock outfit from Italy.

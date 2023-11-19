@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170924_Manic.Street.+Preachers.Tigers.jpg"
 date: 2017-09-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["manicstreetpreachers"]
 categories: ["Listen"]
 ---
 ### Another fucking 3 years!!!

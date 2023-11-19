@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180621_Sparklehorse.Good.Morning.Spider.jpg"
 date: 2018-06-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sparklehorse"]
 categories: ["Listen"]
 ---
  Some times it's not fair being a bottom-shelfer! Some of my favourite albums are not always in easy reach and may at times get completely overlooked. I especially feel sorry for my X,Ys and Zs! - they're in no man's land! Bottom and End.  

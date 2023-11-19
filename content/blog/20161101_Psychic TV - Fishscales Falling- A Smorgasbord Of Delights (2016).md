@@ -4,7 +4,7 @@ image: "/images/post/fishscales.jpg"
 date: 2016-11-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["psychictv"]
 categories: ["Listen"]
 ---
 ### Heard this beast of a record while shopping at Rough Trade. I was fully engaged with it playing throughout the store. I just had to have a copy.

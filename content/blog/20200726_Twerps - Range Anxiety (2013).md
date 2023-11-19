@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200726_Twerps.jpg"
 date: 2020-07-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["twerps"]
 categories: ["Listen"]
 ---
 ### Another awesome Aussie album. This gets an AAAA+ in anyone’s book.   

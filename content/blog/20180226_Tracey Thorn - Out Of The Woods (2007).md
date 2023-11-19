@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180226_Tracey.Thorn.Woods.jpg"
 date: 2018-02-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["traceythorn"]
 categories: ["Listen"]
 ---
 ### I threw a "T" and reached into my alphabetised "T" section for this little gem. And it really is a wee gem.  This is Tracey Thorn's 2nd solo album following the dissolution of "Everything But The Girl".   

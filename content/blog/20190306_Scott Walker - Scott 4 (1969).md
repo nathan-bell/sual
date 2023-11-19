@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190306_Scott.4.jpg"
 date: 2019-03-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["scottwalker"]
 categories: ["Listen"]
 ---
 ### This record is the late 60's crooning Scott Walker NOT the so-fucking-out-there, avant-garde-doesn't-do-it-justice Scott Walker of a more recent era.

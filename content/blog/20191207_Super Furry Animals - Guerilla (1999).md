@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191207_image-asset.jpeg"
 date: 2019-12-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["superfurryanimals"]
 categories: ["Listen"]
 ---
 ### A big hefty chunk of vinyl playing at 45rpm, a "hidden" track on side one you play backwards, a pop-up cardboard engineer in the recording studio inside the lavish gatefold cover, and lots of a complete off-kilter, genre-bending tunes/experiments throughout! 

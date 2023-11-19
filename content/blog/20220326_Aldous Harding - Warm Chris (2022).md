@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220326_Aldous.Harding.Warm.jpg"
 date: 2022-03-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aldousharding"]
 categories: ["Listen"]
 ---
 ### First listen to this brand new release hot off the record press. 

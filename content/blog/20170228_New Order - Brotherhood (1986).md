@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170228_image-asset.jpeg"
 date: 2017-02-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["neworder"]
 categories: ["Listen"]
 ---
 ### I flipped an "N" on my randomiser. With less than a dozen artists to choose from I went for the midling and picked New Order's forth record.

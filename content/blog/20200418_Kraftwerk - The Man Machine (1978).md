@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200418_image-asset.jpeg"
 date: 2020-04-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kraftwerk"]
 categories: ["Listen"]
 ---
 ### This record feels totally apt for these times. Bland, mechanical and repetitious. In the case of Kraftwerk - being robotic works very well. For the rest of us, it's not so good.    

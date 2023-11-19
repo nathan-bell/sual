@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210514_Midnight.Oil.Countdown.jpg"
 date: 2021-05-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["midnightoil"]
 categories: ["Listen"]
 ---
 ### Affectionately known as the "Countdown Album" (let's face it, it flows off the tongue a lot easier than "10, 9, 8, 7, 6, 5, 4, 3, 2, 1"), this absolute stonker from the Oils is one of the great records of the 80s.

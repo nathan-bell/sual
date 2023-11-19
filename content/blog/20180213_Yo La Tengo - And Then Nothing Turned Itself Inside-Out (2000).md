@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180213_Yo.La.Tengo.Nothing.jpg"
 date: 2018-02-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### Just organising some tracks for tonight and thought I really needed to play a track from the wonderful Yo La Tengo.   

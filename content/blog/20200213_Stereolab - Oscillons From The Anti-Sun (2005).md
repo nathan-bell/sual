@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200213_SL.Oscillons.jpg"
 date: 2020-02-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### While I've replaced ALL of my Stereolab CDs over the last 12 months with astoundingly well remastered and plump-with-music, vinyl editions, I won't be getting rid of this rare 3CD/1DVD compilation anytime soon.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210315_VA.TWAGAADM.jpg"
 date: 2021-03-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Another fabulous compilation from Soul Jazz Records. (Along with ACE records, Soul Jazz does the best compilations). 

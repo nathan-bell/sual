@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161217_image-asset.jpeg"
 date: 2016-12-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mountain"]
 categories: ["Listen"]
 ---
 ### $15 at TWH buys a big slab of Mountain on vinyl at the peak of their career. I'd pay a lot more just to have a pristine version of "Mississippi Queen" on analogue.

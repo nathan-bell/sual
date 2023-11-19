@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181102_Queen.ANATO.jpg"
 date: 2018-11-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["queen"]
 categories: ["Listen"]
 ---
 ### There's simply no denying that this record is a true masterpiece. I'm not a Queen fan by any means but this is without question one of the high points of the 70's.

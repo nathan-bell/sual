@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170427_image-asset.jpeg"
 date: 2017-04-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### **Live:    Steven Wilson - Wednesday 26/10/2016 - The Powerstation, Auckland**

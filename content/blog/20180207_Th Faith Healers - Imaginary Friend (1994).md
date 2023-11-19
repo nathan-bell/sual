@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180207_Th.Faith.Healers.Imaginary.Friend.jpg"
 date: 2018-02-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thfaithhealers"]
 categories: ["Listen"]
 ---
 ### Another messy, lower than lo-fi chunk of American noise/Krautrock from London's Hamstead. WTF, I always assumed they were American!

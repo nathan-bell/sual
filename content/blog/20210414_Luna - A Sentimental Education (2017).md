@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210414_Luna.Sentimental.jpg"
 date: 2021-04-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["luna"]
 categories: ["Listen"]
 ---
 ### This is the first Luna release in quite some years. (well 13 years if you want to be more precise). 

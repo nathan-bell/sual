@@ -6,7 +6,7 @@ image: "/images/post/20170917_IMG_6992.jpg"
 date: 2017-09-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","thecure"]
+tags: ["brucessession","thecure","davidcrosby","glencampbell","richardthompson","theyounggods","stevehillage","fatfreddysdrop","wildnothing","kennygarrett","dweezilzappa","daveswarbrick","oscarpeterson","billybraggandjoehenry","stephenstillsandgrahamnash"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Acoustic, Instrumental, Electric_

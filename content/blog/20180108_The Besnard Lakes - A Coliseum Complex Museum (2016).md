@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180108_The.Besnard.Lakes.Coliseum.jpg"
 date: 2018-01-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebesnardlakes"]
 categories: ["Listen"]
 ---
 ### This husband and wife led Quebecois collective hail from Montreal, home of Arcade Fire. While their sound is just as monstrous it definitely feels like it comes from another planet altogether.  

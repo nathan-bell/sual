@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161116_image-asset.jpeg"
 date: 2016-11-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["slint"]
 categories: ["Listen"]
 ---
 ### It's that time of the year to bring this beauty out.

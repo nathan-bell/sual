@@ -6,7 +6,7 @@ image: "/images/post/20170708_image-asset.jpeg"
 date: 2017-06-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","ledzeppelin","steelydan","bobdylan"]
+tags: ["chrisssession","ledzeppelin","ledzeppelin","steelydan","bobdylan","themonkees","aldousharding","norahjones","royalblood","richardthompson","eels","lorde","lorde","sebadoh","sonvolt","billfrisell","outkast","dudleybenson","katiemelua","theparlourband","devendrabanhart","twelvefootninja"]
 categories: ["Gatherings"]
 ---
 > The themes were: _The very first lyrics of the tune must be exactly the same as the title of the tune., The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter, Fresh_

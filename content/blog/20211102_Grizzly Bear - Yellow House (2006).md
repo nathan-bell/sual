@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211102_Grizzly.Bear.Yellow.House.jpg"
 date: 2021-11-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grizzlybear"]
 categories: ["Listen"]
 ---
 ### Progressive folk at its finest. Don't expect any real song structure, just one long, meandering, multilayered, highly complex, electro-acoustic folk jam.

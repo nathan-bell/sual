@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220419_BOH.Great.jpg"
 date: 2022-04-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bandofhorses"]
 categories: ["Listen"]
 ---
 ### This is a fantastic return to top form. This is a band that just keeps being themselves.

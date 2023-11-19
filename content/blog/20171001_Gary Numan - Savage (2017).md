@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171001_Gary.Numan.Savage.jpg"
 date: 2017-10-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### I was a huge Gazza fan back in 1979 when Tubeway Army gave us "Are Friends Electric" on the "Replicas" album. Then came the phenomenal "The Pleasure Principle" record.  

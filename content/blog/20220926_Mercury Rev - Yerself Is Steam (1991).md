@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220926_Mercury.Rev.Steam.jpg"
 date: 2022-09-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mercuryrev"]
 categories: ["Listen"]
 ---
 ### I was NOT prepared for this! Even my watch protested about the noise of the first track - screaming out something 'bout "...exceeding decibels...30 minutes...potential damage..." It wasn't just the volume; it was the shear harshness of the assault.

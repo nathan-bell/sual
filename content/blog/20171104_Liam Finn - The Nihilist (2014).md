@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171104_Liam.Finn.Nihilist.jpg"
 date: 2017-11-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["liamfinn"]
 categories: ["Listen"]
 ---
 ### Had a big trawl of the bargain bins yesterday (unusual I know!) and picked up quite a few goodies for bugger all. Gary Clark. Jr, Peter Hook (et al), John Cooper Clarke, Caravan, Passenger, Blancmange and this gem from Mr. Finn Jr.

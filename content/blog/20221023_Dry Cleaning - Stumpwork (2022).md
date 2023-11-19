@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221023_Dry.Cleaning.Stumpwork.jpg"
 date: 2022-10-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["drycleaning"]
 categories: ["Listen"]
 ---
 ### Dry Cleaning's 2021 debut, "New Long Leg" was up there with my favourite peri-COVID releases. Despite it being a bit more restrained, this new record ups the musical ante significantly.

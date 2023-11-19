@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181005_Megadeth.Rust.In.Peace.jpg"
 date: 2018-10-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["megadeth"]
 categories: ["Listen"]
 ---
 ### It's Friday. It's literally the weeks end. Time to give your brain the heave ho and leave all pretensions at the front door. 

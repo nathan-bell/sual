@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190421_LFAS.Blown.Brain.jpg"
 date: 2019-04-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lo-fidelityallstars"]
 categories: ["Listen"]
 ---
 ### There's a scene in the Sopranos, I don't know what season, yet alone what episode, but someone gets whacked around the head with a telephone at the "Badda Bing" club. (It's Series 1, Episode 2 actually)

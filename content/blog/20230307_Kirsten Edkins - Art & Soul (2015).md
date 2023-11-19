@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230307_Kirsten.Edkins.Art.jpg"
 date: 2023-03-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kirstenedkins"]
 categories: ["Listen"]
 ---
 ### I didn't know anything about this recording before playing this via Tidal this evening. 

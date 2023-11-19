@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190427_UT.Conviction.jpg"
 date: 2019-04-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ut"]
 categories: ["Listen"]
 ---
 ### I’ve made a pact with myself to listen to a brand new new release or brand new old album (or whatever you call a collection of songs by a single artist or curator these days?) at least three times a week. There’s so much great music literally at arm’s reach. 

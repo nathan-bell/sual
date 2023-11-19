@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180604_Wax.Chattels.jpg"
 date: 2018-06-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["waxchattels"]
 categories: ["Listen"]
 ---
 ### I went for a nice solo walk on a cold, dull morning - just me, my iPhone and my Sennheiser Headphones. Sometimes, it's the only way to get uninterrupted, listening time. Whether it's music or one of my new favourite pastimes, listening to podcasts.

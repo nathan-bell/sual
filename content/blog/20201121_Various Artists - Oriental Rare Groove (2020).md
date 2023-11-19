@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201121_image-asset.jpeg"
 date: 2020-11-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Rare funky songs from the Arabic world. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211116_El.Michaels.Liam.Bailey.jpg"
 date: 2021-11-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["elmichelsaffairmeetsliambailey"]
 categories: ["Listen"]
 ---
 ### Brilliant remix/dubbed up version of Liam Bailey's "Ekundayo" album - which I listened to just the other day.

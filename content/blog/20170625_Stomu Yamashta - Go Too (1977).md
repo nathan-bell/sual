@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170625_image-asset.jpeg"
 date: 2017-06-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stomuyamashta"]
 categories: ["Listen"]
 ---
 ### God knows how I got into this in the late 70's?

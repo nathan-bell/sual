@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180220_Kraftwerk.Computer.World.jpg"
 date: 2018-02-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kraftwerk"]
 categories: ["Listen"]
 ---
 ### This record is without question one of my top 10 albums. And if you are talking about pioneering electronic records, it's second to none.  

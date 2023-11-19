@@ -6,7 +6,7 @@ image: "/images/post/340c4999f4be0767bf50595907bc02ff.jpg"
 date: 2023-01-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","ledzeppelin","gratefuldead","thewho"]
+tags: ["davidssession","ledzeppelin","thewho","nickcaveandthebadseeds","beck","gratefuldead","donaldfagen","paulsimon","hotchip","arcadefire","littlefeat","thexx","benchambers","tamineilson","theblackkeys","johnnymarr","carseatheadrest","themountaingoats","newridersofthepurplesage","martyrobbins","jonbatisteandstayhuman","djshadowandrunthejewels"]
 categories: ["Gatherings"]
 ---
 > The themes were: _F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016. , Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along, Who let the cows out - The track you select must contain a cow bell as an instrument._

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220130_VA.More.Better.Days.jpg"
 date: 2022-01-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This is an absolutely fabulous compilation of Japanese rock, electronic and fringe dwelling music from the 1980s.

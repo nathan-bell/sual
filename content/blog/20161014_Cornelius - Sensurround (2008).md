@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161014_Cornelius-Sensurround.jpg"
 date: 2016-10-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cornelius"]
 categories: ["Listen"]
 ---
 ### Is this the best sounding 5.1 DTS recording on the planet? This little chunk of plastic rendered by my player and theatre system/amplifier in glorious surround sound certainly warrants that tag.

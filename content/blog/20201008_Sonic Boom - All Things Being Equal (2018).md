@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201008_image-asset.jpeg"
 date: 2020-10-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sonicboom"]
 categories: ["Listen"]
 ---
 ### This is a slightly bonkers, completely trippy, alien mantra by ex Spaceman 3 co-founder Pete Kemper aka Sonic Boom.   

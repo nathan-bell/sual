@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200413_image-asset.jpeg"
 date: 2020-04-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["magazine"]
 categories: ["Listen"]
 ---
  This is for me the best record of the late 70's early 80's.   

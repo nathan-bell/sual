@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221124_Poor.Moon.jpg"
 date: 2022-11-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["poormoon"]
 categories: ["Listen"]
 ---
 ### Another random selection from my "Lucky Strike At The Red Cross" collection.

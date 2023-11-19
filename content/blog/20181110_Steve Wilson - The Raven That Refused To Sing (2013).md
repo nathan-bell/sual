@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181110_SW.TRTRTS.jpg"
 date: 2018-11-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevewilson"]
 categories: ["Listen"]
 ---
 ### One last spin before venturing to Auckland to see the Prog God in the flesh.

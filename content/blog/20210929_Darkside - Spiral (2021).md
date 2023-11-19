@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210929_Darkside.Spiral.jpg"
 date: 2021-09-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["darkside"]
 categories: ["Listen"]
 ---
 ### I've had a bit of a revelation today after a great Shut Up And Listen Session the evening before.   

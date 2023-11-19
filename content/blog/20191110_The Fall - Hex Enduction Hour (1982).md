@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191110_Fall.HEH.jpg"
 date: 2019-11-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thefall"]
 categories: ["Listen"]
 ---
 ### A glorious racket!  

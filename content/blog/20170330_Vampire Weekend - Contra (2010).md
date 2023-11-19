@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170330_image-asset.jpeg"
 date: 2017-03-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["vampireweekend"]
 categories: ["Listen"]
 ---
 ### Same year and era as Tuesday's record, but an entirley different beast altogether. An Afro-infused ryhtmic treat.

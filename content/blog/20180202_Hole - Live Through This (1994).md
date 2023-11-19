@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180202_Hole.Live.Through.This.jpg"
 date: 2018-02-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["hole"]
 categories: ["Listen"]
 ---
 ### I should have played Rory this evening. "Too Much Alcohol" perhaps?  

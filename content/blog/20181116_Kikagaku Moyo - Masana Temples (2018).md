@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181116_Kikagaku.Moyo.Masana.Temples.jpg"
 date: 2018-11-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kikagakumoyo"]
 categories: ["Listen"]
 ---
 ### I possibly heard about this record while listening to the "All Songs Considered" podcast on one of my mindful(less) walks.

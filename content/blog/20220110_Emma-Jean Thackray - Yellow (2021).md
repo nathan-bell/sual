@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220110_E-JT.Yellow.jpg"
 date: 2022-01-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["emma-jeanthackray"]
 categories: ["Listen"]
 ---
 ### Starting of with a discordant mess worthy of "Jazz Club" \*, this record quickly asserts itself as a mix of 70's jazz fusion, funk and cosmic greatness.

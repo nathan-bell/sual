@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220410_Arthur.Russell.Another.Thought.jpg"
 date: 2022-04-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["arthurrussell"]
 categories: ["Listen"]
 ---
 ### This remarkable album of demos, half finished pieces and other in-studio recordings by cellist and studio magician Arthur Russell was released posthumously soon after his death in 1992.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220311_Black.Mountain.Destroyer.jpg"
 date: 2022-03-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackmountain"]
 categories: ["Listen"]
 ---
 ### When these Canadian Space Rock Psych Warriors put any record out, you know it's always a wall to wall riff fest.

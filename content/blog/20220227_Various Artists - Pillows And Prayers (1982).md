@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220227_Pillows.And.Prayers.jpg"
 date: 2022-02-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I've just spent the last week or so travelling up North between Wellington and Hawkes Bay. 

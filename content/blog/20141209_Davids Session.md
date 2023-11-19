@@ -6,7 +6,7 @@ image: "/images/post/R-6331236-1416660344-8119.jpg"
 date: 2014-12-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","ledzeppelin","johnhiatt","blackberrysmoke"]
+tags: ["davidssession","ledzeppelin","xtc","johnhiatt","blackberrysmoke","jamesbrown","rlburnside","damonalbarn","rayj","earth","spikejones","damienrice","windandfire","glenhansard","mavisstaples","pattygriffin","acertainratio","rodrigoygabriela","frankiegoestohollywood","screamingheadlesstorsos"]
 categories: ["Gatherings"]
 ---
 > The themes were: _“Grow some funk of your own”. Does funk belong in rock music?, Movie soundtrack music. Music used in a Movie or TV program., Something new that you have heard recently._

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180419_Ultravox.Ultravox.jpg"
 date: 2018-04-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ultravox!"]
 categories: ["Listen"]
 ---
 ### Considering the date this was released, it was remarkably ahead of it's time. It must have sounded absolutely bonkers when I first heard it. It still does.  

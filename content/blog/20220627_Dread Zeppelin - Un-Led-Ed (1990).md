@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220627_Dread.Zeppelin.jpg"
 date: 2022-06-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dreadzeppelin"]
 categories: ["Listen"]
 ---
 ### I recently re-discovered this wonderful, satire heavy, musically rich, dignity intact record from a few decades back.

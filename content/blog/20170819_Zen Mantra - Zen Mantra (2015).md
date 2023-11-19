@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170819_Zen.Mantra.Zen.Mantra.jpg"
 date: 2017-08-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["zenmantra"]
 categories: ["Listen"]
 ---
 ### Thanks Nick, you bought this great slab of vinyl along to Tuesday's Shut Up And Listen session and the ear worm hasn't left since!

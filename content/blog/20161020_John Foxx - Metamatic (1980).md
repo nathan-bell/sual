@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161020_image-asset.jpeg"
 date: 2016-10-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnfoxx"]
 categories: ["Listen"]
 ---
 ### In 1977, as a bare assed teenager - Ultravox changed my life. This was the great John Foxx years and those first three records changed my musical roadmap.

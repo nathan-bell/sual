@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181202_My.Computer.Vulnerabilia.jpg"
 date: 2018-12-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mycomputer"]
 categories: ["Listen"]
 ---
 ### As explained last month, My Computer's second album "No CV" is way way up there as one of my greatest discoveries. This record is close behind (or even Stephen if we really must rate it).

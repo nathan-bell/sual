@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230521_Weather.jpg"
 date: 2023-05-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Bob Stanley & Pete Wiggs Present English Weather.

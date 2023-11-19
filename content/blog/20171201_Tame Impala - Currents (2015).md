@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171201_Tame.Impala.Currents.jpg"
 date: 2017-12-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tameimpala"]
 categories: ["Listen"]
 ---
 ### It's December already! Off to Melbourne on Sunday for my daughter's wedding. I thought it more than apt to honour the Aussies with one of their more competent and revered musical eccentrics. 

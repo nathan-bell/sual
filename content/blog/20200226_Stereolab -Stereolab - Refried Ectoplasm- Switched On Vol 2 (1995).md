@@ -4,7 +4,7 @@ image: "/images/post/Stereolab.Refried.jpg"
 date: 2020-02-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### Just a couple of albums to go on my Anglo-French band adventures over the last month. They play live on Tuesday night next week!!! 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210117_image-asset.jpeg"
 date: 2021-01-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["broadcast"]
 categories: ["Listen"]
 ---
 ### This is Broadcast stripped down both in sound and personnel. Originally from Birmingham,  Broadcast started out as a quintet for their first couple of records.

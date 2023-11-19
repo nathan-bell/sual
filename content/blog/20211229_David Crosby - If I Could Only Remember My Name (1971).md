@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211229_David.Crosby.Name.jpg"
 date: 2021-12-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidcrosby"]
 categories: ["Listen"]
 ---
 ### Splendid, hippy dippy masterpiece that sounds both completely messed up and singularly focused all at the same time.

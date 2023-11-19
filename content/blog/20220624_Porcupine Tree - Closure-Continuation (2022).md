@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220624_PT.CC.jpg"
 date: 2022-06-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### OK, it’s been a good decade since Porcupine Tree shed their seemingly evergreen leaves and ceased to be. Steve Wilson, of course went from strong to stronger and his prolific output continued as a solo artist and wunderkid producer/remaster specialist.

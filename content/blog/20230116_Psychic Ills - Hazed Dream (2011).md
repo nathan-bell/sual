@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230116_Psychic.Ills.Hazed.jpg"
 date: 2023-01-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["psychicills"]
 categories: ["Listen"]
 ---
 ### There’s been a recent but gradual (r)evolution in my musical consumption of late, firstly with the introduction of headphones, but now taken to the next level with the purchase of a dedicated headphone DAC. 

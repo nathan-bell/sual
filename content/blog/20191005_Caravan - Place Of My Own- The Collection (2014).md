@@ -4,7 +4,7 @@ image: "/images/post/Caravan.Place.jpg"
 date: 2019-10-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["caravan"]
 categories: ["Listen"]
 ---
 ### A great place to start if you are completely new to Caravan(ing).

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211124_Janne.K.jpg"
 date: 2021-11-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["janneschaffer"]
 categories: ["Listen"]
 ---
 ### This mid-70's gem from Sweden's own/only guitar-swinger Janne Schaffer, has finally come back home to me. I thank you Martin.

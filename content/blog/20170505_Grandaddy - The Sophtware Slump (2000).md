@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170505_image-asset.jpeg"
 date: 2017-05-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grandaddy"]
 categories: ["Listen"]
 ---
 ### What do you play on the day of the birth of your first grand child? (Hello Emma). It's simply a no-brainer!

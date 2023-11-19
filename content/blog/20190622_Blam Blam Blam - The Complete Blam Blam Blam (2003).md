@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190622_Blam.Blam.Blam.jpg"
 date: 2019-06-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blamblamblam"]
 categories: ["Listen"]
 ---
 ### I remember exactly the moment I bought this from Everyman Records. It was in 2003 and it was such a surprise to see this 20 year old relic compiled onto one collection.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210516_VA.Cure.jpg"
 date: 2021-05-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Mojo Presents A Tribute To The Cure.  

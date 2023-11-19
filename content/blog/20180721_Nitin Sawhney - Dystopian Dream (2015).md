@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180721_Nitin.Sawhney.Dystopian.Dream.jpg"
 date: 2018-07-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nitinsawhney"]
 categories: ["Listen"]
 ---
 ### Nitin Sawhney's first record, which I encountered at the end of last century, was a game changer for me.  

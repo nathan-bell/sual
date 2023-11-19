@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161018_image-asset.jpeg"
 date: 2016-10-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### One of my guilty pleasures is still liking some early Elton John records. 

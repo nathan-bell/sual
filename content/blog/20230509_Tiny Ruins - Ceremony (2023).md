@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230509_Tiny.Ruins.Ceremony.jpg"
 date: 2023-05-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tinyruins"]
 categories: ["Listen"]
 ---
 ### I just love it when you can hear the strings rattle on the frets and actually feel the reach of the singer's breath.

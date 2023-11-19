@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201130_image-asset.jpeg"
 date: 2020-11-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### As [previously explained](https://www.shutupandlisten.co.nz/what-im-listening-too/2020/12/7/lord-huron-lonesome-dreams-2012), this was the compilation that was playing the track "Danger" by Pylon as a spooky coincidence when I walked into The Family Jewels on Saturday. Of course I just had to buy it.

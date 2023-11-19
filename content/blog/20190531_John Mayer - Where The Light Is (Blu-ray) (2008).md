@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190531_JM.Live.jpg"
 date: 2019-05-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnmayer"]
 categories: ["Listen"]
 ---
 ### Got a bit of a haul from The Warehouse this evening.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200516_image-asset.jpeg"
 date: 2020-05-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["juliajacklin"]
 categories: ["Listen"]
 ---
 ### Since coming out of lockdown, I've decided to take a few punts and purchase a bit of vinyl from my local "Family Jewels" record shop on the strength of reputation and Smithies recommendations. It's good to be spending local and helping out a struggling service provider ala musical therapist.   

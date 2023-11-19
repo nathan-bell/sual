@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190517_AIC.Dirt.jpg"
 date: 2019-05-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aliceinchains"]
 categories: ["Listen"]
 ---
 ### Good old fashioned dirge from the bowels of mid 90’s grunge.   

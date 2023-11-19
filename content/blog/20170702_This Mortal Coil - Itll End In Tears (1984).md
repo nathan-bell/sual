@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170702_image-asset.jpeg"
 date: 2017-07-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thismortalcoil"]
 categories: ["Listen"]
 ---
 ### I'm reading "Facing The Other Way: The Story of 4AD" at the moment and reliving memories of the truly eclectic music I was exposed to during the post-punk 80s.

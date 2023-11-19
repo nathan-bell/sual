@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220412_Love.Revisited.jpg"
 date: 2022-04-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["love"]
 categories: ["Listen"]
 ---
 ### Some of my very best purchases I've ever made are sometimes found in the new vinyl, bargain bins of the big mega music shops like JB-Hifi and Real Groovy. 

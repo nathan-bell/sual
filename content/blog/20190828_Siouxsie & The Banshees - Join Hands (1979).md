@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190828_Siouxsie.Join.Hands.jpg"
 date: 2019-08-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["siouxsieandthebanshees"]
 categories: ["Listen"]
 ---
 ### I was really prepared to hate this record. This was one of those Siouxsie & The Banshees records I had never given the time of day.

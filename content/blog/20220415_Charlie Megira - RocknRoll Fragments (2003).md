@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220415_Charlie.Megira.jpg"
 date: 2022-04-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["charliemegira"]
 categories: ["Listen"]
 ---
 ### Holy Moly, Charlie Megira's whole world has now opened up to me after a visit to my local recently. 

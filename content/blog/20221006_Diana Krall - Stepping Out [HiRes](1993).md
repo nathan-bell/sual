@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221006_Diana.Krall.Stepping.Out.jpg"
 date: 2022-10-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dianakrall"]
 categories: ["Listen"]
 ---
 ### I actually stepped into "Stepping Out" following a very informative YouTube clip offering a list of the best sounding CDs to listen to. The message was really aimed at giving the old format (ironic isn't it!) some love.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201230_image-asset.jpeg"
 date: 2020-12-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesubliminals"]
 categories: ["Listen"]
 ---
 ### There is just so much to love about this record. The track "Uh-oh" alone would be worth the price by itself. This newly minted 20th anniversary is one album you really need in your collection. 

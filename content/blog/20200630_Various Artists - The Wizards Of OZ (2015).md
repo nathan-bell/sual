@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200630_image-asset.jpeg"
 date: 2020-06-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This FANTASTIC compilation is the 4th volume in the "A Monstrous Psychedelic Bubble (Exploding In Your Mind)" series compiled and mixed by The Amorphous Androgynous (aka The Future Sound Of London).   

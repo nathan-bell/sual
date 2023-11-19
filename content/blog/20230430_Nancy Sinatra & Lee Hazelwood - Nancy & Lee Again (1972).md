@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230430_NL.NLAgain.jpg"
 date: 2023-04-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nancysinatraandleehazelwood"]
 categories: ["Listen"]
 ---
 ### This album is the 4th in the Nancy Sinatra Archival Series on "Light in the Attic" records.

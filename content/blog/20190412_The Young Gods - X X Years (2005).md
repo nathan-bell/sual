@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190412_YGs.XXY.jpg"
 date: 2019-04-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theyounggods"]
 categories: ["Listen"]
 ---
 ### It's Friday night - it's sonics over substance tonight. These Swiss electro-noise terrorists totally anilate all the rule books and smash you around the head with some of the heftiest beats and riffs imaginable.

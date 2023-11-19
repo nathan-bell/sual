@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170706_image-asset.jpeg"
 date: 2017-07-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebreeders"]
 categories: ["Listen"]
 ---
 ### Insane cover, insanely good record! And all over in less than 30 minutes.  

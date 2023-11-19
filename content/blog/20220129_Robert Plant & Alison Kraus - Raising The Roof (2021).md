@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220129_RP.AK.Roof.jpg"
 date: 2022-01-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["robertplantandalisonkraus"]
 categories: ["Listen"]
 ---
 ### Another record I’ve been holding off listening to. The moment needed to be just right.

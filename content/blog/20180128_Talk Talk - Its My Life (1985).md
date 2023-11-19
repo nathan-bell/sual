@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180128_Talk.Talk.Its.My.Life.jpg"
 date: 2018-01-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["talktalk"]
 categories: ["Listen"]
 ---
 ### I picked this up a couple of years ago on vinyl at some second hand shop but hadn't felt any need to give it a spin since. To be honest I was never brave enough to play it until today in fear of promptly removing it from my turntable.

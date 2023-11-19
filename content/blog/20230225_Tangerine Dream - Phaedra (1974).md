@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230225_Tangs.Ph.jpg"
 date: 2023-02-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tangerinedream"]
 categories: ["Listen"]
 ---
 ### **David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972)**

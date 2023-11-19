@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200128_SG.SO.jpg"
 date: 2020-01-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["supergrass"]
 categories: ["Listen"]
 ---
 ### Literally just out of Kindy, these Oxford youngsters thrust themselves into mid-90's Brit-Pop obsessed England. This debut is surprisingly competent for such tiny tots and remains a highly listenable and classic pop record.   

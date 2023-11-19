@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171218_Bobb.Trimble.Harvest.Of.Dreams.jpg"
 date: 2017-12-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bobbtrimble"]
 categories: ["Listen"]
 ---
 ### Trying to write some kind of coherent approbation of this record is nigh on impossible. I've tried to make sense of it, I really have.

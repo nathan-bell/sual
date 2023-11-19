@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180223_Soft.Cell.Non-Stop.jpg"
 date: 2018-02-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["softcell"]
 categories: ["Listen"]
 ---
 ### This is such a great snapshot of sleazy 80's English disco delivered effortlessly by a brilliantly deviant "chatty man" Marc Almond and electronic knob twiddler David Ball.  

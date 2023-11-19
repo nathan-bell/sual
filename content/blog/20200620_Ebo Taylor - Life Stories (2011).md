@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200620_image-asset.jpeg"
 date: 2020-06-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ebotaylor"]
 categories: ["Listen"]
 ---
 ### I've had Afro-beat rhythms going on in my head all day since listening to this wee gem this morning.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160710_image-asset.jpeg"
 date: 2016-07-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["deeppurple"]
 categories: ["Listen"]
 ---
 ### **Vinyl**

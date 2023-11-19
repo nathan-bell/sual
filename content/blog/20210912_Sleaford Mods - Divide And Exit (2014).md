@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210912_Sleaford.Mods.Exit.jpg"
 date: 2021-09-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sleafordmods"]
 categories: ["Listen"]
 ---
 ### Bought this Friday. Played it Friday night. Didn't love it.

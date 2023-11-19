@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220205_Broadcast.Haha.Sound.jpg"
 date: 2022-02-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["broadcast"]
 categories: ["Listen"]
 ---
 ### Aside from the impeccable music on this record, the first thing that really strikes you is the quality of the packaging.

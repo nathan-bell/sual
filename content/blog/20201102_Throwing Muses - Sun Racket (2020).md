@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201102_image-asset.jpeg"
 date: 2020-11-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["throwingmuses"]
 categories: ["Listen"]
 ---
 ### I just couldn’t resist picking this beauty out of the forever expanding bins of prestige new records at JB-Hifi (at The Hutt) and adding it to my ever increasing haul of vinyl-worthy, North Island souvenirs. 

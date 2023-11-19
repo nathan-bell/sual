@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220430_Calexico.El.Mirador.jpg"
 date: 2022-04-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["calexico"]
 categories: ["Listen"]
 ---
 ### Great to have some new Calexico back on the turntable. Actually to be truthful, this is my first Calexico album on vinyl.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201103_Joy.Division.Unknown.Pleasures.jpg"
 date: 2020-11-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["joydivision"]
 categories: ["Listen"]
 ---
 ### I was completely absorbed and inspired to play this following a recent bus commute from Richmond to Nelson.

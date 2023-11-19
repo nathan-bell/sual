@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170820_Morning.ost.jpg"
 date: 2017-08-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["morningoftheearth"]
 categories: ["Listen"]
 ---
 ### OK, I raved about this stunning box set that I practically stole from TWH back in July last year.

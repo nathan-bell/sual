@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201227_Na.Noise.1.jpg"
 date: 2020-12-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["nanoise"]
 categories: ["Listen"]
 ---
 ### This record is made for live performance.   

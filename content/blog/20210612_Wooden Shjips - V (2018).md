@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210612_Wooden.Shjips.V.jpg"
 date: 2021-06-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["woodenshjips"]
 categories: ["Listen"]
 ---
 ### Another mind-blowingly, guitar-rich, floaty, hazy wig out!

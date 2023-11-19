@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170322_image-asset.jpeg"
 date: 2017-03-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["billfay"]
 categories: ["Listen"]
 ---
 ### Working at home on a Wednesday demands a certain level of restraint - it's a work environment afterall.

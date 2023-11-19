@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191210_Bill.Callahan.Shepherd.jpg"
 date: 2019-12-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["billcallahan"]
 categories: ["Listen"]
 ---
 ### This record is like your very own private audience with Bill Callaghan. The songs are intimate and slightly discomforting, but it's always very, very engaging.  

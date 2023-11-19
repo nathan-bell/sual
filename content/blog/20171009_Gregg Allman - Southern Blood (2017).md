@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171009_Gregg.Allman.Southern.Blood.jpg"
 date: 2017-10-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["greggallman"]
 categories: ["Listen"]
 ---
 ### [As previously proclaimed](http://www.shutupandlisten.co.nz/what-im-listening-too/2017/5/30/greg-allman-laidback-1973), Gregg Allman's "Laidback" is one of my most treasured records. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190411_Sparklehorse.Dreamt.jpg"
 date: 2019-04-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sparklehorse"]
 categories: ["Listen"]
 ---
 ### It's very difficult to try and say anything about the genius of Mark Linkous. Talking about or trying to explain his music is mostly futile. The music just speaks for itself. 

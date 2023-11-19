@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230528_Damien.jpg"
 date: 2023-05-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["damien"]
 categories: ["Listen"]
 ---
 ### This stonkingly great 6 Track, mini-album comes from the remnants of the incredible band Low.

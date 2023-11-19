@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200717_Khruangbin.Mordechai.jpg"
 date: 2020-07-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["khruangbin"]
 categories: ["Listen"]
 ---
 ### It's obvious I'm not meant to be digging this band!  

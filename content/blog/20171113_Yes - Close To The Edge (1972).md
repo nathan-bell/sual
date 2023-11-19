@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171113_Yes.Close.jpg"
 date: 2017-11-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yes"]
 categories: ["Listen"]
 ---
 ### I'm not sure if I was exposed to this record first or the earlier "The Yes Album". Whatever the case was, the impact was astounding but just not a positive one at the time.

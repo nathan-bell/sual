@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220619_Led.Er.Est.jpg"
 date: 2022-06-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lederest"]
 categories: ["Listen"]
 ---
 ### As it says on the cover “an LP recorded in 2011”

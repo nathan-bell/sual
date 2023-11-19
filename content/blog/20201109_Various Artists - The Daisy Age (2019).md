@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201109_image-asset.jpeg"
 date: 2020-11-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Yet another ace ACE Records compilation lovingly curated by Bob Stanley. I continue to hoover these up like nose candy.

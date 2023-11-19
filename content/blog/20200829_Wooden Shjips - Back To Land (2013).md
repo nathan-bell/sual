@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200829_image-asset.jpeg"
 date: 2020-08-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["woodenshjips"]
 categories: ["Listen"]
 ---
 ### The only problem with this record is that each of the 8 tracks, with an average length of just over 5 minutes, just aren’t long enough. Perhaps each track should be a whole side of vinyl then there would be no break in the hypnotic buzz?    

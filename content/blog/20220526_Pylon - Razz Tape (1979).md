@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220526_Pylon.Razz.Tape.jpg"
 date: 2022-05-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pylon"]
 categories: ["Listen"]
 ---
 ### This cracker of a live session was captured on primitive recording equipment solely for the purposes of garnering interest for potential employment around the local clubs of Athens, Georgia.

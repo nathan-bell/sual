@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180906_PT.In.Absentia.jpg"
 date: 2018-09-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### The first Porcupine Tree record I really listened to. And what a way to listen to it! - in all of it's 5.1 high resolution, surround sound splendour.  

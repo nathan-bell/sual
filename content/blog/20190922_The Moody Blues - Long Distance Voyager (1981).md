@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190922_Moody.Blues.Long.jpg"
 date: 2019-09-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themoodyblues"]
 categories: ["Listen"]
 ---
 ### I'm always a bit reluctant to lock into the old mainstream dinosaurs from yesteryear just in case I completely lose my street cred.

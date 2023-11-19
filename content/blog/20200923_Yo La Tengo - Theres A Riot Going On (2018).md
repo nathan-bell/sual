@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200923_image-asset.jpeg"
 date: 2020-09-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### This band couldn't make a bad album if they tried.    

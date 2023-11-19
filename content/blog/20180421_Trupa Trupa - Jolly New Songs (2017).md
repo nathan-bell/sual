@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180421_Trupa.Trupa.Jolly.New.Songs.jpg"
 date: 2018-04-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["trupatrupa"]
 categories: ["Listen"]
 ---
 ### OK I cheated with this one. I'm streaming this into my headphones via hi-res Tidal on my iPhone as I make my signature dish, chicken biryani rice for this evening's meal.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210722_King.Gizzard.Butterfly.jpg"
 date: 2021-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinggizzardandthelizardwizard"]
 categories: ["Listen"]
 ---
 ### Prolific as ever, this is the Gizzard's 18th record. 

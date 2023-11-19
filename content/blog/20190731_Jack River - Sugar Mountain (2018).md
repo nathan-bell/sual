@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190731_Jack.River.Sugar.Mountain.jpg"
 date: 2019-07-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jackriver"]
 categories: ["Listen"]
 ---
 ### Another cracking good record from our neighbours across the ditch.   

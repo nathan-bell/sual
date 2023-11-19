@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210327_For.The.First.Time.jpg"
 date: 2021-03-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["newroad","blackcountry"]
 categories: ["Listen"]
 ---
 ### This is another example of not being risk adverse when choosing new music. This is just brilliant and being brave has given me the biggest buzz in donks.

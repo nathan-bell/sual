@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180424_Thin.Lizzy.Fighting.jpg"
 date: 2018-04-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thinlizzy"]
 categories: ["Listen"]
 ---
 ### This is where it all started with me and the Lizzy boys. The best dual guitar attack since Dick Wagner and Steve Hunter ambushed Lou's "Rock'n'Roll Animal".  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190820_KV.Down.jpg"
 date: 2019-08-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kurtvile"]
 categories: ["Listen"]
 ---
 ### Fantastic on first listen - this just hooks you in right from the needle drop. I've always avoided Kurt Vile because I was never sure what to expect. Talk about risk adverse!

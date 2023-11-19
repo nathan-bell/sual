@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170703_image-asset.jpeg"
 date: 2017-07-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebigpink"]
 categories: ["Listen"]
 ---
 ### "The Big Dirge" more like it! But amidst all of the suffocation are some really good songs that hark back to the sound I was engrossed with during the late 80's and 90's.

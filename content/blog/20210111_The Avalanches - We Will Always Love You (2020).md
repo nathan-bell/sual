@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210111_image-asset.jpeg"
 date: 2021-01-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theavalanches"]
 categories: ["Listen"]
 ---
 ### The Avalanches  "Since I Left You" from 2000 and DJ Shadow’s "Endtroducing" from 1996 are two astounding records produced exclusively from other peoples vocal and musical samples. 

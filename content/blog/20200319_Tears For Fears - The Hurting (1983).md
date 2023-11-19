@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200319_Tears.For.Fears.Hurting.jpg"
 date: 2020-03-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tearsforfears"]
 categories: ["Listen"]
 ---
 While definitely sounding like it was made in the early 80's (it was!) this record is testament to good songwriting, not quirky, clever production (which it also has).   

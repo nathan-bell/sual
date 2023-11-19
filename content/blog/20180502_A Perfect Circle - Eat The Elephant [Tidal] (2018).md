@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180502_APC.Eat.The.Elephant.jpg"
 date: 2018-05-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aperfectcircle"]
 categories: ["Listen"]
 ---
 ### I've decided it's music-streaming-month. I'm now spending more on streaming services like Tidal, Amazon Music and YouTube Red and far less on a physical CD or vinyl record.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161031_image-asset.jpeg"
 date: 2016-10-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Brilliant compilation of obscure (mostly) 50's and 60's artists recording Hazlewood songs. Just as the title implies.

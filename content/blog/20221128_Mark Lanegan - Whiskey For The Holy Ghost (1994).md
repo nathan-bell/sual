@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221128_Mark.Lanegan.Whiskey.jpg"
 date: 2022-11-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marklanegan"]
 categories: ["Listen"]
 ---
 ### You can feel the smoke and whiskey blend hit your face as the big gravelly voice of Mark Lanegan oozes out of the speakers. 

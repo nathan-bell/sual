@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210725_Darkside.Live.jpg"
 date: 2021-07-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["darkside"]
 categories: ["Listen"]
 ---
 ### Insanely good live performance of Darkside's brilliant 2013 album "Psychic", a mind warping, non-genre specific monster of a record.

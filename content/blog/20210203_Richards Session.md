@@ -6,7 +6,7 @@ image: "/images/post/20210223_Cmon.jpg"
 date: 2021-02-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","frankzappa","paulkelly","themagneticfields"]
+tags: ["richardssession","thebeatles","therollingstones","thewho","jimihendrix","love","traffic","smallfaces","theladedas","janisjoplin","petergreensplintergroup","thesedays","thecowsills","thetremeloes","theunderdogs","vanillafudge","theamboydukes","thefiveamericans","thehumaninstinct","thehi-revvingtongues","raywoolfandtheavengers","captainbeefheartandhismagicband"]
 categories: ["Gatherings"]
 ---
 > The themes were: _15 minutes of music from 1967_

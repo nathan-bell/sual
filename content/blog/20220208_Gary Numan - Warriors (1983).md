@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220208_Gazza.Warriors.jpg"
 date: 2022-02-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### Shit, I've heard many worse records than this one. 

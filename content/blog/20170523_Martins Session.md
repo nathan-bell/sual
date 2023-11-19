@@ -6,7 +6,7 @@ image: "/images/post/20170605_image-asset.jpeg"
 date: 2017-05-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","bobdylan"]
+tags: ["martinssession","bobdylan","thesundays","pattismith","grandaddy","chefu","splitenz","elvispresley","dougiemaclean","johncooperclarke","x","3ds","blerta","mi‐sex","ddsmash","johnnyray","pattipage","johnclarke","soundgarden","danauerbach","paulchambers","lowellfulson","badlydrawnboy","montyalexander","electricwirehustle","raycolumbusandtheinvaders"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Year of Birth, NZ Hits, Anagram Of Dan_

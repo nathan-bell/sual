@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210329_voom.jpg"
 date: 2021-03-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["voom"]
 categories: ["Listen"]
 ---
 ### This re-release from 2006 is an astonishing hidden-from-me NZ gem that in my universe-wide musical horizon flew completely under my exceptionally big reflecting telescope.

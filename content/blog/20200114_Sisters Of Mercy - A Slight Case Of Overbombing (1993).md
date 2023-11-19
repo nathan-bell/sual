@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200114_SOM.Greatest.jpg"
 date: 2020-01-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sistersofmercy"]
 categories: ["Listen"]
 ---
 ### This greatest hits (volume one) is a non-stop riff fest - I'm not kidding.   

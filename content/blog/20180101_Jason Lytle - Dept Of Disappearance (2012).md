@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180101_Jason.Lytle.Dept.jpg"
 date: 2018-01-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jasonlytle"]
 categories: ["Listen"]
 ---
 ### I swear Jason Lytle played a busker's set at the Saturday Nelson market a few months back. My son Peter can confirm it.  It wasn't him, but the fantastic Lytle(esque) vocals could very well have belonged to the Grandaddy main man. We were both riveted to the spot by this magnificent auditory spectacle.  Unfortunately, we didn't catch his name.

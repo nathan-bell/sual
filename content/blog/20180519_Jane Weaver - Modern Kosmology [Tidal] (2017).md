@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180519_J.W.Modern.Kosmology.jpg"
 date: 2018-05-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["janeweaver"]
 categories: ["Listen"]
 ---
 ### Every so often I catch the bus (reluctantly) to Richmond. (This endlessly sprawling and souless "location" where I just happen to work, would never be on any of my "favourite-places-to-be" list. I'm just saying!)  

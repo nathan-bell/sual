@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200831_image-asset.jpeg"
 date: 2020-08-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["spiritualized"]
 categories: ["Listen"]
 ---
 ### I didn't always "get" Jason Peirce's Spiritualized or Spacemen 3 back in the 80's and 90's. It just seemed so last century!   

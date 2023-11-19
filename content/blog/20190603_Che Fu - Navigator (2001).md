@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190603_Che.Fu.Navigator.jpg"
 date: 2019-06-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["chefu"]
 categories: ["Listen"]
 ---
 ### Another NZ recording artist I've admired since first hearing the wonderful "Chains" released nearly 2 decades ago.

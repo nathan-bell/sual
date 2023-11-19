@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180513_The.Roots.Phrenololy.jpg"
 date: 2018-05-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theroots"]
 categories: ["Listen"]
 ---
 ### It's a mixed bag for me this one. 

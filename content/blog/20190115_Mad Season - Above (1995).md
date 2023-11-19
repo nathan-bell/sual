@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190115_Mad.Season.Above.jpg"
 date: 2019-01-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["madseason"]
 categories: ["Listen"]
 ---
 ### An absolute stonker of a record this evening. This is truly a forgotten gem from the very short-lived Seattle supergroup made up of members of Alice In Chains (Layne Staley), Screaming Trees (Barrett Martin), Pearl Jam (Mike McCready - who I tolerate big time on this record) and some dude called John Baker Saunders. Mark Lanegan also shows up to sing on a few tracks.

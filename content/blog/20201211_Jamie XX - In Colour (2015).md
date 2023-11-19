@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201211_image-asset.jpeg"
 date: 2020-12-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jamiexx"]
 categories: ["Listen"]
 ---
 ### Jamie Smith (XX) and his main collective The XX, are very hard to define musically. Despite borrowing from many different sources they still seem to be bereft of any definable genre. I’m not sure that matters however.

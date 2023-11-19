@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230716_TMB.LDV.jpg"
 date: 2023-07-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themoodyblues"]
 categories: ["Listen"]
 ---
 ### I picked up this rather nice, vinyl re-press for bugger-all back when The Warehouse was a proper pot pouri of un-loved and abandoned musical media.

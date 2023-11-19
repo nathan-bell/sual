@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171220_Television.Marquee.Moon.jpg"
 date: 2017-12-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["television"]
 categories: ["Listen"]
 ---
 ### I had coffee with a couple of work colleagues today and we got talking about music. (as you do)  

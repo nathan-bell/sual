@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201115_image-asset.jpeg"
 date: 2020-11-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["iggypop"]
 categories: ["Listen"]
 ---
 ### Iggy looks extremely happy on the cover of this record with a grin a mile wide. Why wouldn't he? He'd just been thrown a great big life line from David Bowie - who co-writ and recorded this and the preceeding "The Idiot".

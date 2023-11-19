@@ -6,7 +6,7 @@ image: "/images/post/R-18011944-1616722513-8662.jpg"
 date: 2013-11-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nathanssession","tomwaits","ween","leonardcohen"]
+tags: ["nathanssession","tomwaits","ween","leonardcohen","sergegainsbourg","countryjoeandthefish","therutles","warrenzevon","walterbecker","primus","schnauser","schnauser","texwilliams","phonk","drhook","jimorourke","petersellers","waitingforgufman","thehandsomefamily","theliberationproject","dudleymooreandpetercook","davebillerandjerrywakefield"]
 categories: ["Gatherings"]
 ---
 > In which we aim to discover “Does humour belong in music?”

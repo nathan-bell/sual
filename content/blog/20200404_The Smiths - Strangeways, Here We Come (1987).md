@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200404_Smiths.Strangeway.jpg"
 date: 2020-04-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesmiths"]
 categories: ["Listen"]
 ---
 ### I don't often bring out old misery guts but given the bleakness of the situation nothing seems more apt.   

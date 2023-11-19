@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200603_DEM.jpg"
 date: 2020-06-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Soul Jazz Records Presents: Experimental German Rock and Electronic Musik 1972-1983 (Record A)    

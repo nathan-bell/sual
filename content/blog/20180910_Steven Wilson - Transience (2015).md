@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180910_SW.Transience.jpg"
 date: 2018-09-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### Imagine my surprise a couple of years back going into The Warehouse and discovering this big chunk of vinyl along with two other equally exciting Steven Wilson recordings. 

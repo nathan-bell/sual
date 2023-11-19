@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170720_Pixies.WOM.jpg"
 date: 2017-07-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pixies"]
 categories: ["Listen"]
 ---
 ### Illness does funny things to your ears! Tonight is the first time I have felt like listening to any form of music in nearly 10 days.

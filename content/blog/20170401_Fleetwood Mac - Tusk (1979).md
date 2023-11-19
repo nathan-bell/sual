@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170401_image-asset.jpeg"
 date: 2017-04-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fleetwoodmac"]
 categories: ["Listen"]
 ---
 ### **Live: Thursday 20th March 1980, Athletic Park, Wellington.**

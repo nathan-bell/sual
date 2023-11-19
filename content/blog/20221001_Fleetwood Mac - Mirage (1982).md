@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221001_Fleetwood.Mac.Mirage.jpg"
 date: 2022-10-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fleetwoodmac"]
 categories: ["Listen"]
 ---
 ### I picked up a few soon-to-be-tossed-out CDs while in Hastings over the last few days. (My Brother was having a clean out. His new, live-in caravan now demands the convenience of streaming only).

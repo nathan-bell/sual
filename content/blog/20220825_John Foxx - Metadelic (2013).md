@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220825_John.Foxx.Metadelic.jpg"
 date: 2022-08-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnfoxx"]
 categories: ["Listen"]
 ---
 ### While there were a few fleeting moments sans John Foxx, with Ultravox version 2.0, which followed on after his departure, the original Ultravox was more of a real deal.

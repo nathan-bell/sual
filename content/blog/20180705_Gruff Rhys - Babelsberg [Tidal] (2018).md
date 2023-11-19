@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180705_Gruff.Rhys.Babelsberg.jpg"
 date: 2018-07-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gruffrhys"]
 categories: ["Listen"]
 ---
 ### Absolutely brilliant solo album lovingly crafted by the Super Furry Animals frontman.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210226_Theivery.Corp.jpg"
 date: 2021-02-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thieverycorporation"]
 categories: ["Listen"]
 ---
 ### This is the perfect Friday night leave-your-brain-behind music fodder. It's 22 years plus, and around the time of this record, since I gathered at The Gathering at Kanaan Downs in Golden Bay.

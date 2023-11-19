@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230412_Sparklehorse.Mountain.jpg"
 date: 2023-04-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sparklehorse"]
 categories: ["Listen"]
 ---
 ### While not prolific, averaging 3 to 4 years between records, Mark Linkous is consistent in his greatness.  

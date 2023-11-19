@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190302_Prefab.Sprout.Crimson.Red.jpg"
 date: 2019-03-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["prefabsprout"]
 categories: ["Listen"]
 ---
 ### A beautiful return to form for Paddy McAloon. A cast-aside solitary CD recently (re)-discovered in a Red Shed bargain bin.

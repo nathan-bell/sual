@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210723_david.axelrod.SOI.jpg"
 date: 2021-07-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidaxelrod"]
 categories: ["Listen"]
 ---
  Another taste of the Axelrod. Where has this been all of my life??

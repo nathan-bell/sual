@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220316_Garageland.jpg"
 date: 2022-03-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garageland"]
 categories: ["Listen"]
 ---
 ### To these ears this is one of the best records that Pavement didn’t make. 

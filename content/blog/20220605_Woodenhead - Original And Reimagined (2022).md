@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220605_Woodenhead.jpg"
 date: 2022-06-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["woodenhead"]
 categories: ["Listen"]
 ---
 ### This beyond extraordinary New Zealand film from 2003 definitely wouldn't be everyone's cup of tea (or cup o’ sick!).

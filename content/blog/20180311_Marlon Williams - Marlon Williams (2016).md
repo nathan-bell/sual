@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180311_Marlon.Williams.jpg"
 date: 2018-03-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marlonwilliams"]
 categories: ["Listen"]
 ---
 ### There’s a real glut of Kiwi talent at the moment but fortunately this doesn’t dilute the quality of what’s on offer. There’s been some stunning emerging artists from these parts lately that are truly unique and the ears of the world are pricking up. 

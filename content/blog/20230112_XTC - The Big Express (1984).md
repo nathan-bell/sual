@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230112_XTC.Big.jpg"
 date: 2023-01-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### The big news of the day was the passing of guitar maestro and personal hero, Jeff Beck.

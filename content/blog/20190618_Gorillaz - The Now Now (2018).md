@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190618_Gorillaz.The.Now.Now.jpg"
 date: 2019-06-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gorillaz"]
 categories: ["Listen"]
 ---
 ### Another vinyl gem picked up from TWH. 

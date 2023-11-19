@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170830_Rory.Irish.Tour.jpg"
 date: 2017-08-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["rorygallagher"]
 categories: ["Listen"]
 ---
 ### Rory was a guitar god when I was 15.

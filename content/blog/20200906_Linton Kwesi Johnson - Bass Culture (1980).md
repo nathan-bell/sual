@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200906_image-asset.jpeg"
 date: 2020-09-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lintonkwesijohnson"]
 categories: ["Listen"]
 ---
 ### This is a great relic and snapshot of life in Thatcher's England. "Inglan is a bitch, there's no escaping it!"   

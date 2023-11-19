@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230520_K%26D.1995.jpg"
 date: 2023-05-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kruderanddorfmeister"]
 categories: ["Listen"]
 ---
 ### 1998's "The K&D Sessions" is a big 21 track, 2-hour plus, 6-LP behemoth of blissful bangers and downtempo/trip hop reworks of other artists material.

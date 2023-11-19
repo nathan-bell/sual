@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180506_Gary.Numan.Splinter.jpg"
 date: 2018-05-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### Along with last year's wonderful "Savage", this earlier release just ticks so many boxes. It's dark. It's heavy. It's impossibly catchy and it's possibly the most unfashionable record in my entire collection.  

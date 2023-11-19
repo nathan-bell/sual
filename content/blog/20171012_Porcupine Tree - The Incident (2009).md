@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171012_PT.The.Incident.jpg"
 date: 2017-10-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### I had a browse through the latest "Prog" magazine today and felt mildly embarrassed with the imagery and pseudo-seriousness that pervaded through each page turn. 

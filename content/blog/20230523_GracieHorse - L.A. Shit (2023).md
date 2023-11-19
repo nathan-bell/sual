@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230523_GracieHorse.jpg"
 date: 2023-05-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["graciehorse"]
 categories: ["Listen"]
 ---
 ### Sometimes country music can be right up on top of my "this-genre-ain't-for-me" list, along with some god awful Jazz.

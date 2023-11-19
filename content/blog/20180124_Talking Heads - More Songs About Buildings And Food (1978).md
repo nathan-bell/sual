@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180124_Talking.Heads.More.Songs.jpg"
 date: 2018-01-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["talkingheads"]
 categories: ["Listen"]
 ---
 ### This is the Talking Heads record that got away. While familiar with some of the songs on subsequent live records or compilations, this is the first time I've actually had the pleasure of listening to the whole record.  

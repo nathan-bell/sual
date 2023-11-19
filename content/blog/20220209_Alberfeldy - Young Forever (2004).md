@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220209_Alberfeldy.Young.jpg"
 date: 2022-02-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["alberfeldy"]
 categories: ["Listen"]
 ---
 ### This CD sits right at the very top of my collection. OK, alphabetically it's a given, but musically it's simply an embarrassment of riches.

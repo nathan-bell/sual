@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161031_image-asset.jpeg"
 date: 2016-10-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fieldmusic"]
 categories: ["Listen"]
 ---
 ### This is one busy record. Always up there on my "should not be obscure" list, Field Music deliver truly dynamic, tempo changing, complicated but catchy pop music.

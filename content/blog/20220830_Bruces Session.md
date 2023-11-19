@@ -6,7 +6,7 @@ image: "/images/post/20220830_Vinyl.Sucks.JPG"
 date: 2022-08-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","bobdylan","jimihendrix","loureed"]
+tags: ["brucessession","bobdylan","loureed","jimihendrix","ettajames","lucindawilliams","johnlennon","thewarondrugs","tinyruins","troykingi","tonybennett","thethe","israelnash","littlesimz","sharonvanetten","ofege","jungle","waltertrout","theguesswho","scottlavene","billieholiday","scarypocketsfeatmariojose","andersonpaakandthefreenationals"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Old, New, Borrowed, Bonus Track_

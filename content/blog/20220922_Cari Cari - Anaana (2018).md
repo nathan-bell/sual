@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220922_cari.cari.jpg"
 date: 2022-09-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["caricari"]
 categories: ["Listen"]
 ---
 ### Fabulous surf-punk-everything-including-the-kitchen-sink-psych. This is a recently discovered album from duo Stephanie Widmer (vocals, drums, didgeridoo) and Alexander Köck (vocals, guitar) aka Cari Cari.

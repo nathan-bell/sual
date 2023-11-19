@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180118_School.Of.Language.jpg"
 date: 2018-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["schooloflanguage"]
 categories: ["Listen"]
 ---
 ### I listened to the solo album of sibling Peter Brewis last night and just couldn't get enough. (I just had to listen to a couple of tracks multiple times to un-suspend my disbelief).  

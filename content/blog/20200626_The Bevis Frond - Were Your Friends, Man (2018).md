@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200626_image-asset.jpeg"
 date: 2020-06-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebevisfrond"]
 categories: ["Listen"]
 ---
 ### I'd heard of The Bevis Frond but up until this evening I'd never "heard" The Bevis Frond.   

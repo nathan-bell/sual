@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180616_Sugar.Copper.Blue.jpg"
 date: 2018-06-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sugar"]
 categories: ["Listen"]
 ---
 ### Faultless post-Hüsker Dü record from their legendary front man.  

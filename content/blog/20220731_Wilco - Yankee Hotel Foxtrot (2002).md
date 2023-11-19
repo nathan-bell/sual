@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220731_Wilco.Foxtro.jpg"
 date: 2022-07-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["wilco"]
 categories: ["Listen"]
 ---
 ### When Alt-Country does Radiohead. This was absolutely panned by Wilco's record company and seen as commercial suicide. Wilco refused to budge and left the label.

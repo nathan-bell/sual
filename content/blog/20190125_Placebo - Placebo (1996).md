@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190125_Placebo.jpg"
 date: 2019-01-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["placebo"]
 categories: ["Listen"]
 ---
 ### A placebo is a substance that has no therapeutic effect or a measure designed merely to humour or placate someone.

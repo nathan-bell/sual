@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220312_The.Gluts.Dengue.jpg"
 date: 2022-03-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thegluts"]
 categories: ["Listen"]
 ---
 ### I took a bit of a gamble with my record buying this evening. It's becoming a bit of a habit lately, buying stuff I know nothing about.

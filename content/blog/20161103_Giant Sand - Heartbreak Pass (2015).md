@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161103_image-asset.jpeg"
 date: 2016-11-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["giantsand"]
 categories: ["Listen"]
 ---
 ### Finally bought myself a copy of this. I've been listening to this on Tidal for months and just needed a copy for prosperity. I'm loving it.

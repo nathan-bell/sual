@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200609_image-asset.jpeg"
 date: 2020-06-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kristinhersh"]
 categories: ["Listen"]
 ---
 ### I could listen to Kristin Hersh play the bongos while reciting “The Lord’s Prayer”. It would still be mesmerising.   

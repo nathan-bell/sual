@@ -6,7 +6,7 @@ image: "/images/post/20191203_feature1-1-618c49d62448eef0.jpg"
 date: 2019-12-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","frankzappa","therollingstones","gratefuldead"]
+tags: ["nickssession","frankzappa","therollingstones","santana","santana","gratefuldead","joejackson","joejackson","rem","rem","kristinhersh","nickcave","bryanferry","joanarmatrading","u2","lonejustice","geoffmuldaur","dwightyoakam","orlandocachaítolópez"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Worst track on one of yer favourite albums., Jumpin' Jack flashes a gas gas gas!!!, Lean on me!_

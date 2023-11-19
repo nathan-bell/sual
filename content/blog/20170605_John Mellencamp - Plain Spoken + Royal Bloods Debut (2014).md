@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170605_image-asset.jpeg"
 date: 2017-06-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnmellencamp"]
 categories: ["Listen"]
 ---
 ### **John Mellencamp - Plain Spoken (2014)**

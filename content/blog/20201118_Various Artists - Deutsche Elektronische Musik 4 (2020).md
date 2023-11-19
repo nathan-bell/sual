@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201118_image-asset.jpeg"
 date: 2020-11-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Soul Jazz Records Presents Experimental German Rock And Electronic Music 1971-83.

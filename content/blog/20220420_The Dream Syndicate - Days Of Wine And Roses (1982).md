@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220420_DS.Days.jpg"
 date: 2022-04-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thedreamsyndicate"]
 categories: ["Listen"]
 ---
 ### How on earth did this astounding record slip past me. In all honesty this early 80's classic is one of the biggest sonic surprises I've ever experienced.

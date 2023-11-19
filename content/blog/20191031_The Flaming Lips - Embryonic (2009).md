@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191031_FL.Embryonic.jpg"
 date: 2019-10-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theflaminglips"]
 categories: ["Listen"]
 ---
 ### The Lips have always been very generous with their non-standard CD releases - if you can find them. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210528_Blonde.Redhead.Melody.jpg"
 date: 2021-05-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blonderedhead"]
 categories: ["Listen"]
 ---
 ### I was really pleased recently to find a re-pressed, USA made copy of this early Blonde Redhead record. 

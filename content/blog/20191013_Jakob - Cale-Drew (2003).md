@@ -4,7 +4,7 @@ image: "/images/post/Jakob.Cale.Drew.jpg"
 date: 2019-10-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jakob"]
 categories: ["Listen"]
 ---
 ### One of my greatest live experiences ever was witnessing Jakob play live at some dodgy club in Nelson to an audience of about 10.

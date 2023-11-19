@@ -6,7 +6,7 @@ image: "/images/post/20230315_JustSUALfilled.jpg"
 date: 2023-02-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","brucespringsteen"]
+tags: ["brucessession","brucespringsteen","paulsimon","thebeths","troykingi","drycleaning","laurajean","amywinehouse","russellsmith","teddythompson","ramones","melvins","kennordine","hobojohnson","ronsexsmith","theweekthatwas","christinemcvie","publicimageltd","themasonrackband","jimmiedalegilmore","schoolofsevenbells","elviscostelloandtheroots"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Back to School, Voice , Don’t Judge a Book  By Its Cover_

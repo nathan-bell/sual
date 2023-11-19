@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210219_PT.Versions.jpg"
 date: 2021-02-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thepineapplethief"]
 categories: ["Listen"]
 ---
 ### Following on from my rave about Mr. Steven Wilson's wrath from passionate fans of a very specific genre of musical stasis, this band will certainly not disappoint them and might even appease more than a few of the old fickle Porcupine Tree proggers.

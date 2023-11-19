@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220104_POR.DD.jpg"
 date: 2022-01-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["poetsofrhythm"]
 categories: ["Listen"]
 ---
 ### The more I dig into German music of the last 50 or so years, the more I am blown away.

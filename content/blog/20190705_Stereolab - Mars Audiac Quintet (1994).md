@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190705_Stereolab.Mars.Audiac.Quintet.jpg"
 date: 2019-07-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### One of my newly acquired possessions appropriated during a recent raid of "The Family Jewels". Who could resist the Stereolabs on 6 sides of see through, clear vinyl?

@@ -6,7 +6,7 @@ image: "/images/post/20230516_Maggie.sml.jpg"
 date: 2023-05-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession"]
+tags: ["richardssession","lanadelrey","lanadelrey","paramore","paramore","greggallman","greggallman","kurtvile","kurtvile","pattismith","jasonandthescorchers","jasonandthescorchers","herbiehancock","rickieleejones","rickieleejones","metallica","ronnyjordan","blackbelteaglescout","blackbelteaglescout","blakemillsandpinopalladino","blakemillsandpinopalladino","carpenters","thehotrats","maryhalvorson","laurieandersonandkronosquartet"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc., Another track pulled from the VERY SAME album that has provided track 1., A cover song._

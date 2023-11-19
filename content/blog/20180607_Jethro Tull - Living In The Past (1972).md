@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180607_JT.Living.jpg"
 date: 2018-06-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jethrotull"]
 categories: ["Listen"]
 ---
 ### More from those seminal years then. Thank god punk and new wave eventually came along to rescue one from the dinosaurs that prevailed but there really was no other period for rock like the early to mid 70s.

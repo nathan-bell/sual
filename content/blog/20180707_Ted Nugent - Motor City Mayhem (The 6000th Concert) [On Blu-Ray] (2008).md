@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180707_Ted.Nugent.MCM.jpg"
 date: 2018-07-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tednugent"]
 categories: ["Listen"]
 ---
 ### Well Wang Dang Sweet Poontang! You may wonder why on earth would I be watching this red neck, right wing, NRA high priest, racoon tailed, misogynist geriatric play to an audience of mostly chubby fellow white trash devotees.  

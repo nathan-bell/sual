@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210106_NO.Movement.jpg"
 date: 2021-01-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["neworder"]
 categories: ["Listen"]
 ---
 ### Just 12 months after the demise of Ian Curtis and Joy Division, New Order (initially "The People's New Order of Kampuchea") produced this transitional record to very mixed reviews. 

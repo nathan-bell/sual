@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191204_Stereolab.Alumium.jpg"
 date: 2019-12-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### On Tuesday 3rd March 2020, my latest musical obsession, [Stereolab are playing at the San Franscisco Bath House](https://www.eventfinda.co.nz/2020/stereolab/wellington) in Wellington.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221024_Pink.Mountaintops.Axis.jpg"
 date: 2022-10-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pinkmountaintops"]
 categories: ["Listen"]
 ---
 ### Stephen McBean, front man and guitarist of the fabulous Black Mountain, takes a trippy diversion with offshoot band, Pink Mountaintops.

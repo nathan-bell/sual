@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161113_image-asset.jpeg"
 date: 2016-11-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### More of the same but different from the labs. Consistently reliable over all of their albums there's always some subtleties on offer with each album.

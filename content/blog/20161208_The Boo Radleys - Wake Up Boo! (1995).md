@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161208_image-asset.jpeg"
 date: 2016-12-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebooradleys"]
 categories: ["Listen"]
 ---
 ### Loved the Boos from their first proper record, 1992's "Everything's Alright Forever". That was a rowdy, and somewhat murky affair (just post MBV's "Loveless") but definitely hinted of great things to come.

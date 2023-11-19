@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170910_Henri.Mancini.jpg"
 date: 2017-09-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["henrymancini"]
 categories: ["Listen"]
 ---
 ### As cool as fuck and on icy blue vinyl to match.

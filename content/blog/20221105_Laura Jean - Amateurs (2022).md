@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221105_Laura.Jean.Amateurs.jpg"
 date: 2022-11-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["laurajean"]
 categories: ["Listen"]
 ---
 ### In my persute of "making do" with what I've already got, I've even gone back to wired headphones via a little DragonFly DAC. This is rigged to my iPhone when I'm out on walkabout with the pooch.

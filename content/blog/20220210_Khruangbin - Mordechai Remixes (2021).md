@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220210_Khruangbin.Remixes.jpg"
 date: 2022-02-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["khruangbin"]
 categories: ["Listen"]
 ---
 ### I don't always go for remixes, but this band just screams out for the treatment.

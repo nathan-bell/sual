@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170507_RA.RA.jpg"
 date: 2017-05-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ryanadams"]
 categories: ["Listen"]
 ---
 ### I've just finished listening to a great interview between Ryan Adams and Marc Maron courtesy of [WTF podcast](http://www.wtfpod.com/).  

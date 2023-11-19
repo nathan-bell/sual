@@ -33,10 +33,12 @@
     <p>{{ .Summary }}</p>
     <ul class="card-meta list-inline mb-2">
     <li class="list-inline-item">
-      <ul class="post-meta-tags list-unstyled list-inline">
-          {{range .Params.tags}}
-          <li class="list-inline-item"><a href="{{site.BaseURL}}tags/{{.| urlize}}">#{{.}}</a></li>
-          {{end}}
+      <ul class="post-meta-tags list-unstyled list-inline">         
+          {{ with .Params.tags }}
+            {{ range first 4 . }}
+              <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}">#{{.}}</a></li>
+            {{end}}
+          {{ end }}
         </ul>
       </li>
     </ul>

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170325_image-asset.jpeg"
 date: 2017-03-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["slayer"]
 categories: ["Listen"]
 ---
 ### I've got 30 minutes to spare this afternoon. I've therefore taken a speed over substance approach.

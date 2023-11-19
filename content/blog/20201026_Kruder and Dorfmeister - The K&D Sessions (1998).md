@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201026_image-asset.jpeg"
 date: 2020-10-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kruderanddorfmeister-thek&dsessions(1998)"]
 categories: ["Listen"]
 ---
 ### This hefty 5 LP box was one of the finds of my recent trip up North.   

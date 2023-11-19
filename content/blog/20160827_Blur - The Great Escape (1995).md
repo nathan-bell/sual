@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160827_image-asset.jpeg"
 date: 2016-08-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blur"]
 categories: ["Listen"]
 ---
 ### Still working sequentially through Blur's massive 21 box.  

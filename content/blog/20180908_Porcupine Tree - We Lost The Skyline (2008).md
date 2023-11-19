@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180908_PT.We.Lost.The.Skyline.jpg"
 date: 2018-09-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### The Tree stripped bare. This is an instore, mainly acoustic set, with just Steven Wilson and John Wesley accompanying him on guitar and backing vocals.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230309_Goldfrapp.Felt.jpg"
 date: 2023-03-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["goldfrapp"]
 categories: ["Listen"]
 ---
 ### Wow! This ain’t rock’n’roll, this is an electro-cabaret masterpiece. Tricky prodigy Alison Goldfrapp, croons like Liza Minelli, yodels like Melanie Oesch, and whistles like Roger Whitaker. 

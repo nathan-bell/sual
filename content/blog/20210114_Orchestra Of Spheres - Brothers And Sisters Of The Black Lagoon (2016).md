@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210114_image-asset.jpeg"
 date: 2021-01-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["orchestraofspheres"]
 categories: ["Listen"]
 ---
 ### Recorded live at the Pyramid and Meow Clubs in Wellington during December 2014.

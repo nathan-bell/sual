@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190502_America.Homecoming.jpg"
 date: 2019-05-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["america"]
 categories: ["Listen"]
 ---
 ### There’s really no shame these days in admitting you once enjoyed (and still do) the sonic aesthetic of the less than revered artists of yesteryear. 

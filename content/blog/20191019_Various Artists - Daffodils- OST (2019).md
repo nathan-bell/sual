@@ -4,7 +4,7 @@ image: "/images/post/daffo.jpg"
 date: 2019-10-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Another cheapie from The Warehouse. As I've stated before, you need to loiter there at least once a week and you will usually be handsomely rewarded.

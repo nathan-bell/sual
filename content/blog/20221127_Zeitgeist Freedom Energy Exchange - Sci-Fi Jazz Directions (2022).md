@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221127_ZFEE.Sci-fi.jpg"
 date: 2022-11-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["zeitgeistfreedomenergyexchange"]
 categories: ["Listen"]
 ---
 ### OK, I wasn't expecting this.

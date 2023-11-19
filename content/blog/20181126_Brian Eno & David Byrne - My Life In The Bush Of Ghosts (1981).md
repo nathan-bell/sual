@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181126_EB.MLITBOG.jpg"
 date: 2018-11-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["brianeno","davidbyrne"]
 categories: ["Listen"]
 ---
 ### The six years between 1976 and 1982 probably had the greatest impact on my musical roadmap. 

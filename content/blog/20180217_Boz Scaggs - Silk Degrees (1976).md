@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180217_Boz.Silk.Degrees.jpg"
 date: 2018-02-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bozscaggs"]
 categories: ["Listen"]
 ---
 ### I left home in 1977 and remember trying to find my "cool". I never did find it but this was as close as I got to at least planting a seed.  

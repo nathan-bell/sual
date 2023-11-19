@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170805_image-asset.jpeg"
 date: 2017-08-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### This record is just an embarrassment of riches. I really had forgotten just how brilliant this album is.  Not a wasted note from start to finish and at over 70 minutes in length, that's a big ask.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160716_image-asset.jpeg"
 date: 2016-07-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["the","velvetunderground"]
 categories: ["Listen"]
 ---
 ### My god! "Who loves the Sun" is such a lovely song to start VU's final "real" record.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200329_Elton.Blue.jpg"
 date: 2020-03-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### This album has been popping up on a few underrated records rants and references lately so I thought I better check it out.    

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200101_Gruff.Pang.jpg"
 date: 2020-01-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gruffrhys"]
 categories: ["Listen"]
 ---
 ### Wowee, we've got a right one here! It's the perfect way to see in the new year.  

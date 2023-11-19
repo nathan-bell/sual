@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200530_lie.to.me.jpg"
 date: 2020-05-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
  This year, as Jessie from the "Fast Show" would say, I have been mainly eating compilations.  

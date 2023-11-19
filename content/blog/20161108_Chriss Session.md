@@ -6,7 +6,7 @@ image: "/images/post/20161120_image-asset.jpeg"
 date: 2016-11-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","santana","jamestaylor"]
+tags: ["chrisssession","santana","wilco","jamestaylor","crosby","paulsimon","thechills","stills","nashandyoung","canzonieregrecanicosalentino","talldwarfs","firstaidkit","highway","gasmask","skunkhour","boogarins","theosmonds","stevehackett","headlikeahole","charlesbradley","gramparsonsandemmylouharris"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Artist/band not  from USA nor UK., Old artist still do-oo-oo-ing it (cannot be younger than our oldest committee member, nor won a Nobel prize)., Another example/update for a theme that you enjoyed from a previous month/year_

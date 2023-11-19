@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220424_TBE.LP.jpg"
 date: 2022-04-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebodyelectric"]
 categories: ["Listen"]
 ---
 ### I managed to pick up one of only 200 copies of this, the Record Store Day release version, on beautiful yellow and blue vinyl.

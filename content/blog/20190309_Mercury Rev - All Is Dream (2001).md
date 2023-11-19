@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190309_Mercury.Rev.All.Is.Dream.jpg"
 date: 2019-03-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mercuryrev"]
 categories: ["Listen"]
 ---
 ### Nothing short of profound, this turn-of-the-new-millennium record, with ostentatious string arrangements by Tony Visconti, is a beautiful mess. 

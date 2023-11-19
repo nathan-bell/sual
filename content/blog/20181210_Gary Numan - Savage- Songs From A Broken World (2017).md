@@ -4,7 +4,7 @@ image: "/images/post/gnsavage.jpg"
 date: 2018-12-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### Here it is...and STILL my favourite record of the last 2 years. 

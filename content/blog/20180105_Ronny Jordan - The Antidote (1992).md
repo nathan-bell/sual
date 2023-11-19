@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180105_Ronny.Jordan.The.Antidote.jpg"
 date: 2018-01-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ronnyjordan"]
 categories: ["Listen"]
 ---
 ### Nothing heavy this evening, just throw me some hooky grooves that take me to my happy place.

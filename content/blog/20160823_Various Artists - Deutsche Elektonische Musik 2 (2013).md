@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160823_image-asset.jpeg"
 date: 2016-08-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I needed some thinking time this afternoon while working out what to play at tonight's "Shut Up And Listen" session. While I've got it pretty well sorted you just over think things sometimes. This helps flush out the dross from the day's work.

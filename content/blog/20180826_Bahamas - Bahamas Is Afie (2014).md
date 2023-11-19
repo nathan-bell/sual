@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180826_Bahamas.Is.Afie.jpg"
 date: 2018-08-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bahamas"]
 categories: ["Listen"]
 ---
 ### Fuckin' Canadians! Sarah has the TV permanently tuned to Channel 17 on Freeview. HGTV is dedicated to the very best in home improvement, DIY design, real estate and gardening - Canadian style!   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210507_GSYBE.Lift.jpg"
 date: 2021-05-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["godspeedyou!blackemperor"]
 categories: ["Listen"]
 ---
 ### Never listen to this record. It will change your life. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170113_image-asset.jpeg"
 date: 2017-01-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["doves"]
 categories: ["Listen"]
 ---
 ### You find a better debut and I'll eat Kettley's pajamas. I'm with Richard on this one! A proper, bona fide rock classic.

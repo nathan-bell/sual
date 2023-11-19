@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220909_Autechre.Amber.jpg"
 date: 2022-09-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["autechre"]
 categories: ["Listen"]
 ---
 ### This ambient/techno record is startlingly apt for a day of national introspection.

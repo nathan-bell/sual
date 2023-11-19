@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220606_Trees.Speak.jpg"
 date: 2022-06-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["treesspeak"]
 categories: ["Listen"]
 ---
 ### Emancipation of the dissonance and temperaments in irrational wavelengths.

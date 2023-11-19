@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230212_TP.Happening.jpg"
 date: 2023-02-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["televisionpersonalities"]
 categories: ["Listen"]
 ---
 ### Singles 1978 to 1989.

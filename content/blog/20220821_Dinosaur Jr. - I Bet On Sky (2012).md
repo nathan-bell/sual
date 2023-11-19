@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220821_Dinosaur.Jr.Sky.jpg"
 date: 2022-08-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dinosaurjr"]
 categories: ["Listen"]
 ---
 ### This is guitar heaven for alt-rock/dirgey guitar slinger freaks. J. Mascis, as on this album, remains a true shred maestro with his trusty '63 Fender Jazzmaster amped up to the hilt.

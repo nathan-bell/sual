@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170604_image-asset.jpeg"
 date: 2017-06-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blacksabbath"]
 categories: ["Listen"]
 ---
 ### Had an absolute field day today at the Big Red Shed. (coincidentally, on the Sabbath day!!)

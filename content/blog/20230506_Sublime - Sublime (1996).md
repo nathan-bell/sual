@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230506_Sublime.jpg"
 date: 2023-05-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["sublime"]
 categories: ["Listen"]
 ---
 ### I know absolutely nothing about Sublime. I always thought they were just another stoner, spliff-toting, skateboard pretenders. How wrong was I.

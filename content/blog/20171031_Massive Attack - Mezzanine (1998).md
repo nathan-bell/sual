@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171031_Massive.Attack.Mezzanine.jpg"
 date: 2017-10-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["massiveattack"]
 categories: ["Listen"]
 ---
 ### Just bought this big, 4-sided monster on vinyl. One of my "Desert Island Discs" without doubt, it is certainly way up there as one of the greatest and most pioneering works ever created.

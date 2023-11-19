@@ -4,7 +4,7 @@ image: "/images/post/Mansun.Legacy.jpg"
 date: 2018-03-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mansun"]
 categories: ["Listen"]
 ---
 ### One of the most overlooked British bands ever, Mansun completely piss all over the best of them - especially the god-awful shite pushers, Oasis.   

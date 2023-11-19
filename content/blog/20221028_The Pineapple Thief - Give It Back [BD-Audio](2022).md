@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221028_TPT.GiveItBack.jpg"
 date: 2022-10-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thepineapplethief"]
 categories: ["Listen"]
 ---
 ### Gavin Harrison is probably the world's best unknown drummer. 

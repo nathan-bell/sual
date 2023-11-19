@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220629_Blackfield.Live.jpg"
 date: 2022-06-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackfield"]
 categories: ["Listen"]
 ---
 ### Blackfield - Recorded live at the Bowery Ballroom, NYC on 16th March 2007

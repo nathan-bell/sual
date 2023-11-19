@@ -6,7 +6,7 @@ image: "/images/post/20160826_image-asset.png"
 date: 2016-08-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","neilyoung","vanmorrison","joejackson"]
+tags: ["nickssession","neilyoung","vanmorrison","brianeno","joejackson","moseallison","davidbyrne","sebadoh","joehenry","joanarmatrading","hottuna","vanhalen","stvincent","pandabear","jaymcshann","electrafixion","petergreensplintergroup","spiro","steveashley","weatherreport","alasdairroberts","vandergraafgenerator"]
 categories: ["Gatherings"]
 ---
 > THEME = Fire/ hot/ warm for each round. ( if you’re struggling, I’ll accept cold/ icy/ freezing, but you’ll definitely lose points!)

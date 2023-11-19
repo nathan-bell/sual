@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220505_Monkees.Pisces.jpg"
 date: 2022-05-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themonkees"]
 categories: ["Listen"]
 ---
 ### The evening started out with a Monkees sampler. I’d just play side 1 of each of the 3 long players I’ve got of theirs. OK, I managed to get through the first side of “The Monkees” and “More Of The Monkees” (both fabulous) but hit a snag on this one. It’s simply too good to skip.   

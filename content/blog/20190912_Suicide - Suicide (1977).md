@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190912_suicide.jpg"
 date: 2019-09-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["suicide"]
 categories: ["Listen"]
 ---
 ### Wedged between "The Stooges" and "Talking Heads" in my highly alphabetasied and well sorted vinyl collection, is this true punk masterpiece. But hey, WTF, no guitars!

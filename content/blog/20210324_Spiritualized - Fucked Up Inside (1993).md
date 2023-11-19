@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210324_Spiritualized.Fucked.Up.jpg"
 date: 2021-03-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["spiritualized"]
 categories: ["Listen"]
 ---
 ### Great live recording of Jason Pierce's early post Spacemen 3 collective. 

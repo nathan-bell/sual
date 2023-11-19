@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230708_After.Dark.3.jpg"
 date: 2023-07-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This Triple LP pressing, on hefty purple vinyl, is a compilation of "Italians Do It Better" label artists.

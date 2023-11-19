@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211129_DEM2.jpg"
 date: 2021-11-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 My life is now complete (well nearly, I just need to take delivery of the latest MASSIVE Bowie box which I also picked up for a steal - but I'll save that particular story for later).

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180713_Emile.Haynie.We.Fall.jpg"
 date: 2018-07-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["emilehaynie"]
 categories: ["Listen"]
 ---
 ### I spilt my coffee all over my desk at work and into my back pack this black Friday morning. Coincidence, not really - shit happens sometimes and I was a fuck wit for being so careless.  

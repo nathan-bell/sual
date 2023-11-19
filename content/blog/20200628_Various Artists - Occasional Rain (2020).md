@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200628_image-asset.jpeg"
 date: 2020-06-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
  Bob Stanley & Pete Wiggs Present England, the day after the 60's.   

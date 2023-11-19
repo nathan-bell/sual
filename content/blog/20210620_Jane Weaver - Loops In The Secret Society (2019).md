@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210620_Jane.Weaver.Loops.jpg"
 date: 2021-06-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["janeweaver"]
 categories: ["Listen"]
 ---
 ### Fantastic double (black) vinyl re-working of Jane Weaver's 2014 record "The Silver Globe" and 2017's "Modern Kosmology".

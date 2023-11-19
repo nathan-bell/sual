@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230201_Katie.Kim.jpg"
 date: 2023-02-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["katiekim"]
 categories: ["Listen"]
 ---
 ### Going through the top albums lists of the previous year is always a great way of letting others do the heavy lifting in one’s search for new music.

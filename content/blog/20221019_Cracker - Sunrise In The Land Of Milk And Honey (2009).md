@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221019_Cracker.jpg"
 date: 2022-10-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cracker"]
 categories: ["Listen"]
 ---
 ### I had a bit of a field day in Auckland during the weekend hunting for those (not so elusive) CD bargains. With some success I might add. While new CD releases are creeping over the $30 mark, there’s bins and bins of aging, unloved stock, going for mere pittance. 

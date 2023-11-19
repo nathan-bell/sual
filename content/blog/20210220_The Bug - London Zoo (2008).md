@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210220_The.Bug.London.Zoo.jpg"
 date: 2021-02-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebug"]
 categories: ["Listen"]
 ---
 ### Holy shit this is one intense slab of vinyl that does not relent over its 6 sides. The complete antithesis and double-handed middle finger to rock's bloated carcass, this is a welcome challenge that rips musical convention to shreds.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230118_Roger.Waters.Amused.jpg"
 date: 2023-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["rogerwaters"]
 categories: ["Listen"]
 ---
 ### The audiophile vinyl box set of this has just been released. While I’m not at all interested in an analogue version of a digital recording, the high resolution bu-ray version will do me nicely thanks, I did watch a YouTube reveiw by German vinyl guru Michael of 45RPM Audiophile fame.

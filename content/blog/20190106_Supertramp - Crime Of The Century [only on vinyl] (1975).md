@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190106_Supertramp.Crime.jpg"
 date: 2019-01-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["supertramp"]
 categories: ["Listen"]
 ---
 ### You may be thinking "it's 2019 and this Geezer is still play fucking Supertramp". While not everyone's cup-of-very-British-tea, this particular record is a significant bit of ear candy for me.

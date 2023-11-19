@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170318_image-asset.jpeg"
 date: 2017-03-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["joydivision"]
 categories: ["Listen"]
 ---
 ### An amazing compilation of singles and non-album tracks. Incidently, New Order released a compilation a year earlier also called ["Substance"](http://www.allmusic.com/album/substance-mw0000191190). While, that's probably a preferable way to listen to NO, this seems a far more relevant and comfortable listen.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181021_Imelda.May.Life.Love.Flesh.Blood.jpg"
 date: 2018-10-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["imeldamay"]
 categories: ["Listen"]
 ---
 ### A very classy, post-break-up-with-hubby record produced by T Bone Burnett. There's some real texture and reverby guitar added to proceedings that is in real contrast to her previous "clean" rockabilly recordings.

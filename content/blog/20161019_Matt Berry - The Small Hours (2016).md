@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161019_image-asset.jpeg"
 date: 2016-10-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mattberry"]
 categories: ["Listen"]
 ---
 ### More minor key madness from Mr. Toast. OK, it's the same song played 57 slightly different ways over 5 albums but I just love this guy. This is his latest.

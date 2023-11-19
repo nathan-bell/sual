@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171229_Opeth.Damnation.jpg"
 date: 2017-12-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["opeth"]
 categories: ["Listen"]
 ---
 ### Another stunning hi-res recording. This time from the world's best exponent of Swedish psychedelic progressive extreme folk metal.   

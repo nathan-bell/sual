@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230519_FireOrchEchoes.jpg"
 date: 2023-05-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fire!orchestra"]
 categories: ["Listen"]
 ---
 ### Holy cow! This monster is quite something else. While I don't dig the more chaotic avant guarde elements, there are some simply stunning arrangements and performances.

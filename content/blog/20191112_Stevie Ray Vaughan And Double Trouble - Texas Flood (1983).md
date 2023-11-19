@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191112_SRV.Texas.Flood.jpg"
 date: 2019-11-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevierayvaughananddoubletrouble"]
 categories: ["Listen"]
 ---
 ### SRV's first and best record.   

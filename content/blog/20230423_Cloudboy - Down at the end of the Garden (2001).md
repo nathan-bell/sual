@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230423_Cloudboy.jpg"
 date: 2023-04-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cloudboy"]
 categories: ["Listen"]
 ---
 ### My second and only other RSD purchase  was this little gem from Dunedin's, now long-defunct, Cloudboy. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210107_image-asset.jpeg"
 date: 2021-01-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["faunts"]
 categories: ["Listen"]
 ---
 7 years to the day, I played this CD. According to my notes "it was a real surprise".

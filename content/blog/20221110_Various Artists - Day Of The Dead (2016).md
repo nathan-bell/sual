@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221110_DOTD.jpg"
 date: 2022-11-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I can’t say I’ve ever (intentionally) listened to The Grateful Dead. If I have in the past, its hardly been memorable. 

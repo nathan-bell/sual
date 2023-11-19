@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190111_SW.HI.jpg"
 date: 2019-01-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### In Concert At The Royal Albert Hall

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191102_Die.Antwoord.jpg"
 date: 2019-11-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dieantwoord"]
 categories: ["Listen"]
 ---
 ### Die Antwoord still goes down as one of my most gob smacking live music moments ever.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170119_image-asset.jpeg"
 date: 2017-01-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["teenagefanclub"]
 categories: ["Listen"]
 ---
 ### "Harmless enough!" you might think but by the third song you are fully infected/affected by their luxurious folky pop mantra.

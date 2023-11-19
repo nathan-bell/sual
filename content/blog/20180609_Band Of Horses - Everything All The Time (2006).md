@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180609_Band.Of.Horses..jpg"
 date: 2018-06-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bandofhorses"]
 categories: ["Listen"]
 ---
 ### This very strong debut catapulted this band into indie superstardom and you can hear why. (actually, prior to putting it on I had forgotten it was their first record!).  

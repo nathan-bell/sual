@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220720_Enigma01.jpg"
 date: 2022-07-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["enigma"]
 categories: ["Listen"]
 ---
 ### The CD strikes back saga continues. I'm truly blown away by a few recent revelations that have now been fully implemented with spectacular results.

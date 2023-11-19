@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180911_BF.V.jpg"
 date: 2018-09-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackfield"]
 categories: ["Listen"]
 ---
 ### Steven Wilson and Aviv Geffen return for their best collaborative effort in donks. A true Blackfield return to form I reckon.

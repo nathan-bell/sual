@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220809_Bang.Gang.Wrong.jpg"
 date: 2022-08-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["banggang"]
 categories: ["Listen"]
 ---
 ### The wonderful film "Screaming Masterpiece" introduced me to many great Icelandic musicians. 

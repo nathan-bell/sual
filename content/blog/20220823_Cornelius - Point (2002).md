@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220823_Cornelius.Point.jpg"
 date: 2022-08-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cornelius"]
 categories: ["Listen"]
 ---
 ### If you can find a better sounding CD than this, I'll eat my entire vinyl collection.

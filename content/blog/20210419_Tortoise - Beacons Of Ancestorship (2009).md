@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210419_Tortoise.Ancestorship.jpg"
 date: 2021-04-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tortoise"]
 categories: ["Listen"]
 ---
 ### Some of this reminds me a bit of Herbie Hancock and the robotic dancing legs of "Rockit.   

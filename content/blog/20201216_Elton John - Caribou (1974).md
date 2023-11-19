@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201216_image-asset.jpeg"
 date: 2020-12-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### Being sandwiched between "Goodbye Yellow Brick Road" and "Captain Fantastic And The Brown Dirt Cowboy" doesn't help.

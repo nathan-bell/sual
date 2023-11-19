@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170628_image-asset.jpeg"
 date: 2017-06-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["royalblood"]
 categories: ["Listen"]
 ---
 ### I just so impressed with the $2.95c treasure that was Royal Blood's first record, I stumbled across in the old Warehouse bargain bins. 

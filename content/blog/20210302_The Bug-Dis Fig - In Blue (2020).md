@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210302_The.Bug.Blue.jpg"
 date: 2021-03-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebug/disfig"]
 categories: ["Listen"]
 ---
 ### While missing some of the confrontational intensity of "London Zoo" this brilliant slab of blue vinyl continues to shatter expectations on this very first listen.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210209_SW.TFB.jpg"
 date: 2021-02-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### While I continue to lap up everything Mr. Wilson does, he could fart the Lord's Prayer and I'd still be consuming his product, it's very hard to find Steven Wilson product in this country.

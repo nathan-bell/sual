@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220213_Betty.Davis.Different.jpg"
 date: 2022-02-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["bettydavis"]
 categories: ["Listen"]
 ---
 ### This is one of those records that would have really frightened the normals. Especially considering it was the early 70's.

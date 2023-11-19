@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180829_Eels.Beautiful.Freak.jpg"
 date: 2018-08-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eels"]
 categories: ["Listen"]
 ---
 ### This was my first exposure to the eccentric world of Mark Oliver Everett (aka E) and it remains my favourite Eels record.  

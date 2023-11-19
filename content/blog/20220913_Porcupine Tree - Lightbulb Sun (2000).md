@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220913_PT.Lightbulb.jpg"
 date: 2022-09-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### I reached for a safety net this evening. Steven Wilson/Porcupine Tree is always an easy win to stimulate the synapses and trim back the auditory neurons back to normal.

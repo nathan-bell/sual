@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191029_Beach.House.Teen.jpg"
 date: 2019-10-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["beachhouse"]
 categories: ["Listen"]
 ---
 ### It's 6 days since I've actually sat down and listened to a full record. Family do take precedence, especially when there's tiny tots involved, but it is a sacrifice you make never the less.

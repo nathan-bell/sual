@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220918_Beths.Expert.jpg"
 date: 2022-09-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebeths"]
 categories: ["Listen"]
 ---
 ### Full of catchy riffage and pop-leaning hooks, this new release from The Beths should be great to see played live next week.

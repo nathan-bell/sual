@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180827_Doors.The.Doors.jpg"
 date: 2018-08-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thedoors"]
 categories: ["Listen"]
 ---
 ### I was never a great Doors fan. To be fair I never really listened much to any American music until ... gulp.... and quite possibly ... another gulp... the fucking Eagles and Doobie Brothers.  

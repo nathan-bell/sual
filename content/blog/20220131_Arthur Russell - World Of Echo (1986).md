@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220131_AR.World.Of.Echo.jpg"
 date: 2022-01-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["arthurrussell"]
 categories: ["Listen"]
 ---
 ### Nothing prepares the listener for this. It's Arthur Russell's only non-collaborative record consisting of cello, voice (somewhere between Boz Scaggs and Nick Drake) and in-studio or live, sounds and textures. There's also lots and lots of reverb and delay.

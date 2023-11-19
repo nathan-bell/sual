@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170917_Cream.Disraeli.Gears.jpg"
 date: 2017-09-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cream"]
 categories: ["Listen"]
 ---
 ### I remember seeing Cream's farewell concert on the goggle box back in the early to mid 70's. It was fairly brutal stuff that really didn't hold that much interest for me.

@@ -6,7 +6,7 @@ image: "/images/post/punk-holding-elderly-lady-under-260nw-2112975284.png"
 date: 2015-08-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["david’ssession","thecure","nickcaveandthebadseeds","leonardcohen"]
+tags: ["david’ssession","thecure","xtc","nickcaveandthebadseeds","tameimpala","leonardcohen","davidcrosby","donmcglashan","jacksonbrowne","donaldfagan","benchambers","metallica","elvispresley","submotionorchestra","lespaul","bingcrosby","muddywaters","houseoflove","lonniedonegan","louisarmstrong","thedavebrubeckquartet","sunnyafternoonstageshow","sharonjonesandthedapkings"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Year of Your Birth , Birth Of First Child , Last 12 Months _

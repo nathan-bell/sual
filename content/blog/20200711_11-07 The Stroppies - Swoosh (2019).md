@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200711_Stroppies.Whoosh.jpg"
 date: 2020-07-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["11/07thestroppies"]
 categories: ["Listen"]
 ---
  This really could be Dunedin circa 1982.   

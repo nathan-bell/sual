@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210311_Japan.Quiet.Life.jpg"
 date: 2021-03-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["japan"]
 categories: ["Listen"]
 ---
 ### This wasn't the starting place for me, that was 1981's "Tin Drum", but retrospectively the hint of Japan's sophistication emerges on this transitional record.

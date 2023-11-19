@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210325_VA.Crossroads.jpg"
 date: 2021-03-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This pre-Covid, end-of-September 2019 event could really have done with a shake up.   

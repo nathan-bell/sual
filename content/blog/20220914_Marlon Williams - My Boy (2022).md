@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220914_Marlon.Williams.My.Boy.jpg"
 date: 2022-09-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marlonwilliams"]
 categories: ["Listen"]
 ---
 ### A courier package arrived from Flying Out Records this afternoon. In that package was a compact disc (aka CD).

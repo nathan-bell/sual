@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180206_Yo.La.Tengo.Extra.Painful.jpg"
 date: 2018-02-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### One of my favourite slabs of vinyl gets some rotation time this afternoon.   

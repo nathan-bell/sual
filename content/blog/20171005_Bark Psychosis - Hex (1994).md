@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171005_Bark.Psychosis.Hex.jpg"
 date: 2017-10-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["barkpsychosis"]
 categories: ["Listen"]
 ---
 ### Still enigmatic after all of these years, 23 of them at last count, I will never do it any justice by talking about it. 

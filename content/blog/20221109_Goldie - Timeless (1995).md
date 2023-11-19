@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221109_Goldie.Timeless.jpg"
 date: 2022-11-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["goldie"]
 categories: ["Listen"]
 ---
 ### After last night's fabulous, Afro-centric jazz monster, something equally rich and musical is called for.

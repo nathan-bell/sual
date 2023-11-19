@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180712_Yeah.Yeah.Yeahs.Mosquito.jpg"
 date: 2018-07-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yeahyeahyeahs"]
 categories: ["Listen"]
 ---
 ### Another trawl through the bins at Richmond's big red shed has again delivered a great return on investment for my time, patience and perseverance. I picked up another great stash of 6 or so CDs for under $20.  

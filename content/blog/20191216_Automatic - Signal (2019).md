@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191216_automatic.signal.2.jpg"
 date: 2019-12-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["automatic"]
 categories: ["Listen"]
 ---
 ### Released just a few months ago, this debut record by LA trio "Automatic", is possibly my find of the year.   

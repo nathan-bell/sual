@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170226_image-asset.jpeg"
 date: 2017-02-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["depechemode"]
 categories: ["Listen"]
 ---
 ### The first thing that hits you is the BIG production. Being on vinyl it feels impossibly expansive.   

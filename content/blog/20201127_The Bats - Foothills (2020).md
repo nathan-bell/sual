@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201127_image-asset.jpeg"
 date: 2020-11-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebats"]
 categories: ["Listen"]
 ---
 ### This new record by The Bats is like a big warm sneaky hug. As each song meanders along on it's lackadaisical way, it's easy to think "what's happening here?".

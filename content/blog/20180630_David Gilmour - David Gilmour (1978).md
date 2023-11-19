@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180630_David.Gilmour.jpg"
 date: 2018-06-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidgilmour"]
 categories: ["Listen"]
 ---
 ### This record is more often than not completely rubbished by the music critics. This debut by the ex, and once second-in-charge Floydian, is full of trademark Gilmour and recalls great memories of me playing this with great regularity.  

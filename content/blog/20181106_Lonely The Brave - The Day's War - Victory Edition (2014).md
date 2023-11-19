@@ -4,7 +4,7 @@ image: "/images/post/The_Day's_War_cover.jpg"
 date: 2018-11-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lonelythebrave"]
 categories: ["Listen"]
 ---
 ### Debut release from big boy Cambridge rockers. While it's not …… hideous, it's not something I'm likely to have on high rotation. I only parted with one coin for this.

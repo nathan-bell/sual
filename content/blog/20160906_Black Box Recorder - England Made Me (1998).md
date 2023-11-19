@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160906_image-asset.jpeg"
 date: 2016-09-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blackboxrecorder"]
 categories: ["Listen"]
 ---
 ### London, here we come. On the big 24+ hour flight tomorrow - first stop to Dubai then another 8 hour haul to Heathrow.

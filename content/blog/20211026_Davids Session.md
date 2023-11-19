@@ -6,7 +6,7 @@ image: "/images/post/20211026_acrobat.jpg"
 date: 2021-10-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","frankzappa","jimihendrix","beck"]
+tags: ["davidssession","frankzappa","jimihendrix","beck","donaldfagen","janeweaver","lordhuron","prefabsprout","gangoffour","theblackkeys","themuttonbirds","alstewart","grinspoon","thewaterboys","squirrelflower","vulfpeck","röyksopp","fruitbats","levonhelm","oysterhead","cassmccombs","deborahconway","runthejewelsfeatgregniceanddjpremier"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Animal, Vegetable, Mineral_

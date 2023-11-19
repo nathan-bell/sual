@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221210_Cat02.jpg"
 date: 2022-12-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["catstevens"]
 categories: ["Listen"]
 ---
 ### I'm not a great Cat Stevens fan but couldn't resist buying this 2CD, 50th Anniversay edition of his best? (selling) album rather cheaply at Rotorua's "Q Records". 

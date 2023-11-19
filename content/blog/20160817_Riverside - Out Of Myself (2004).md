@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160817_image-asset.jpeg"
 date: 2016-08-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["riverside"]
 categories: ["Listen"]
 ---
 ### I've followed this great Polish progressive metal band (for want of a better description) over the last decade. This is their debut record.

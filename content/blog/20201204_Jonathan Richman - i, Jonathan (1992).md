@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201204_image-asset.jpeg"
 date: 2020-12-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jonathanrichman"]
 categories: ["Listen"]
 ---
 ### "The Modern Lovers", from 1976 is in my top 10 records of all time. (The Modern Lovers was also the name of the band fronted by the Jonathan Richman.)

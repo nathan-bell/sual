@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230406_Echo.Siberia.jpg"
 date: 2023-04-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["echoandthebunnymen"]
 categories: ["Listen"]
 ---
 ### Unlike the Cure's later, post 1992's "Wish" albums, the Bunnymen HAVE continued to make great records.

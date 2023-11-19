@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170530_image-asset.jpeg"
 date: 2017-05-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["beulah"]
 categories: ["Listen"]
 ---
 ### Wonderful, but short lived, indie alt-country rockers from San Francisco. This record, their second, is just full of magical hooks and glorious melodies.

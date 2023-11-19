@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220616_TMV.O.jpg"
 date: 2022-06-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themarsvolta"]
 categories: ["Listen"]
 ---
 ### This, the Volta's fifth record, is their ambient acoustic country folk rock album. It’s as accessible as they ever get but if you think for a moment it’s not a proper The Mars Volta recording you will be completely deluded. 

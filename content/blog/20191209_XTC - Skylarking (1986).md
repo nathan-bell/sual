@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191209_XTC.Skylarking.jpg"
 date: 2019-12-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### Is this the perfect pop record? A faultless masterpiece from Swindon's finest.

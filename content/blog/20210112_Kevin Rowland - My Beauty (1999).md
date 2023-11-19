@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210112_image-asset.jpeg"
 date: 2021-01-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kevinrowland"]
 categories: ["Listen"]
 ---
 ### This universally panned solo record by the Dexy's Midnight Runner front man is an absolute treasure.

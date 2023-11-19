@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230325_Roxy.Country.Life.jpg"
 date: 2023-03-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["roxymusic"]
 categories: ["Listen"]
 ---
 ### This was right amongst the pomp and excess of the times. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180503_Hot.Snakes.Jerico.Sirens.jpg"
 date: 2018-05-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["hotsnakes"]
 categories: ["Listen"]
 ---
 ### What a fucking glorious racket!!  This recently discovered quintet hail from San Diego and this monster is their first release in 14 years.  

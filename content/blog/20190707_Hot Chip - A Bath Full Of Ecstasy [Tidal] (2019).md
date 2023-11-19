@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190707_Hot.Chip.Ecstasy.jpg"
 date: 2019-07-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["hotchip"]
 categories: ["Listen"]
 ---
 ### Sunday afternoon is not a time to get the heavies out. Something soft and bouncy is called for.

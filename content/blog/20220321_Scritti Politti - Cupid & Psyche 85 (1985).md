@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220321_Scritti.Politti.Cupid.jpg"
 date: 2022-03-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["scrittipolitti"]
 categories: ["Listen"]
 ---
 ### Lush is the word that sums up this wonderful mid-80s record. It’s also up and over the brim with charm.   

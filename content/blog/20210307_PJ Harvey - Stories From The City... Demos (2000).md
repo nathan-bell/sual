@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210307_PJH.Stories.Demos.jpg"
 date: 2021-03-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pjharvey"]
 categories: ["Listen"]
 ---
  I had a bit of a sneaky listen last night to the re-released, remastered proper version of "Stories From The City, Stories From The Sea".   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170724_image-asset.jpeg"
 date: 2017-07-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["palesaints"]
 categories: ["Listen"]
 ---
 ### The wonderful sound of new wave/no wave imploding! Bands like Ride, My Bloody Valentine, Spiritualized and Bang Bang Machine (maybe not!) were getting all jangly and introspective.  This was in my mind at the top of the heap. A classic!

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161006_image-asset.jpeg"
 date: 2016-10-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["polica"]
 categories: ["Listen"]
 ---
 ### On pink vinyl.

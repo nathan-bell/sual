@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170813_image-asset.jpeg"
 date: 2017-08-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fleetfoxes"]
 categories: ["Listen"]
 ---
 ### A far cry from Friday's everything-bar-the-kitchen-sink early 70's psycho-soup, this is sparse and demanding of concentration.

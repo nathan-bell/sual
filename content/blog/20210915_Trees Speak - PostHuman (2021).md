@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210915_Trees.Speak.Posthuman.jpg"
 date: 2021-09-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["treesspeak"]
 categories: ["Listen"]
 ---
 ### Is this album one of those genre-less wonders or an amalgam of everything put through a musical mincer? I really can't make up my mind. 

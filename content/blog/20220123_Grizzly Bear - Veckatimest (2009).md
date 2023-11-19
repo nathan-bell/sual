@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220123_Grizzly.Bear.Veck.jpg"
 date: 2022-01-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["grizzlybear"]
 categories: ["Listen"]
 ---
 ### This is a brilliantly mixed up, but carefully contrived mess, that just sounds sensational in all of it's vinyl glory.

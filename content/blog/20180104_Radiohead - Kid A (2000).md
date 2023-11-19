@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180104_Radiohead.Kid.jpg"
 date: 2018-01-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["radiohead"]
 categories: ["Listen"]
 ---
 ### It’s a bit scary putting this record on when people are around. I was happy when my wife Sarah left the house this evening midway during the first track. While mostly accepting of my eclectic tastes, I have no way of protecting her from this. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210729_shelleydevoto.jpg"
 date: 2021-07-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["shelleydevoto"]
 categories: ["Listen"]
 ---
 ### There was only going to be one album to listen to this evening. After yesterday's fabulous Alan Vega and Stephen Lironi show, it's time for some Pete Shelley and Howard Devoto.

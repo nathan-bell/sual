@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230706_Curve.Come.Clean.jpg"
 date: 2023-07-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["curve"]
 categories: ["Listen"]
 ---
 ### Take Massive Attack's "Mezzanine", give it a bit more edge ala The Prodigy, then add Toni Halliday's calm but devastating vocals into the mix.

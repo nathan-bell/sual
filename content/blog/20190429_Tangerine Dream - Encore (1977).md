@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190429_TD.Encore.jpg"
 date: 2019-04-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tangerinedream"]
 categories: ["Listen"]
 ---
 ### I've just finished watching the 80 minute Game Of Thrones battle scene (Episode 3 Series 8). I'm not an obsessive GOT fan but it is brilliant television all the same.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181207_shelleydevoto.buzzkunst.jpg"
 date: 2018-12-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["shelleydevoto"]
 categories: ["Listen"]
 ---
 ### [Today we lost another musical legend in Pete Shelley](https://www.theguardian.com/music/2018/dec/06/pete-shelley-lead-singer-of-buzzcocks-dies-at-63). While The Buzzcocks weren’t directly on my own personal radar his influence on British and American music is without question.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221007_Tame.Impala.Lonerism.jpg"
 date: 2022-10-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tameimpala"]
 categories: ["Listen"]
 ---
 ### If this record wasn't so awash with psychedelic goo, it could be a lost Beatles record.

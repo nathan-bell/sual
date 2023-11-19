@@ -4,7 +4,7 @@ image: "/images/post/LNTs.jpg"
 date: 2020-03-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### I've been really enjoying mix tapes and compilations over the last few years. The best collections tend to expose one to other artists, genres and sometimes entire worm holes for further investigation. 

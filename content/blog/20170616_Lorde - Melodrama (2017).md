@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170616_image-asset.jpeg"
 date: 2017-06-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lorde"]
 categories: ["Listen"]
 ---
 ### It's no surprise to me at all that I queued up like many others to get my copy of Lorde's new record.  This is a big, grown up record that oozes classy production and great songs to match.  

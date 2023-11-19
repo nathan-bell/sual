@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220717_Venessa.Fernandez.Use.Me.jpg"
 date: 2022-07-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["venessafernandez"]
 categories: ["Listen"]
 ---
 ### OK there's a bit of a back story to this. 

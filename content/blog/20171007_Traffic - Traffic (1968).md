@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171007_Traffic.Traffic.jpg"
 date: 2017-10-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["traffic"]
 categories: ["Listen"]
 ---
 ### Picked up this beautiful gate-fold vinyl record for bugger all from the big red shed.

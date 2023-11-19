@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220301_BCNR.Ants.jpg"
 date: 2022-03-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["newroad","blackcountry"]
 categories: ["Listen"]
 ---
 ### I'm a bit disappointed with this new "special edition" release. The music is brilliant, the packaging and blue splatter vinyl exceptional.

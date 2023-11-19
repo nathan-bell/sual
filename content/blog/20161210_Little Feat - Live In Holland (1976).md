@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161210_image-asset.jpeg"
 date: 2016-12-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["littlefeat"]
 categories: ["Listen"]
 ---
 ### Fantastic DVD/CD set of Little Feat playing live at the Nederlands muziekfestival Pinkpop in Geleen. Picked up at the Red Shed for $6!

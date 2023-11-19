@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170603_image-asset.jpeg"
 date: 2017-06-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mymorningjacket"]
 categories: ["Listen"]
 ---
 ### Aside from John Grant, try and find a more pure voice in rock than Jim James. As with John Grant's band, the Czars, it's really all about the front guy. While MMJ is a great, great band, the true inspiration and catalyst for this astonishing record is Jim James. 

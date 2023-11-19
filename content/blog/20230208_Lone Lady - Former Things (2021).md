@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230208_LoneLady.jpg"
 date: 2023-02-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lonelady"]
 categories: ["Listen"]
 ---
 ### Time warp, flash back alert. There’s a somewhat wacky (corny even!) minimalistic analogue synth and drum machine vibe happening on this surprisingly catchy recent release. This is something you might have expected in mid 80s New Wave Manchester, certainly not made for this age. New Order, early Human League and a soft-centered Cabaret Voltaire come to mind. 

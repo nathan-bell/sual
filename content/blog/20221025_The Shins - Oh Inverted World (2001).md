@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221025_The.Shins.Inverted.jpg"
 date: 2022-10-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["theshins"]
 categories: ["Listen"]
 ---
 ### I'm a new convert to James Mercer's witty, whimsical stories and quirky, off-centre soundtracks.

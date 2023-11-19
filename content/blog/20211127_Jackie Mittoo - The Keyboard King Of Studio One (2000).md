@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211127_Jackie.Mittoo.jpg"
 date: 2021-11-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jackiemittoo"]
 categories: ["Listen"]
 ---
 ### Jackie Mittoo is the coolest man that ever lived. That’s according to The Guardian. I’m not arguing one iota, this Kingston born keyboard wiz is the cats pyjamas. This 2000 compilation, which has just had a one off repress on clear blue vinyl, is just the tonic on a Saturday morning for no other reason than the privalege of hearing it. 

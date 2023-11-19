@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171226_Phil.Collins.Face.Value.jpg"
 date: 2017-12-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["philcollins"]
 categories: ["Listen"]
 ---
 ### It's funny how things can become more acceptable over time. OK, I'll concede that corduroy pants and feral cardigans will never be acceptable. In any context.

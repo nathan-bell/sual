@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170930_SW.To.The.Bone.jpg"
 date: 2017-09-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### What a load of bollocks to suggest Steven Wilson has sold out. Giving up his more "progressive" attributes to go all "pop" on this, his latest offering. Bring back Porcupine Tree they shout. Hey, Steven Wilson was ALWAYS Porcupine Tree with some really good musicians surrounding him.  

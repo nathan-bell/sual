@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191117_Run.The.Jewels.jpg"
 date: 2019-11-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["runthejewels"]
 categories: ["Listen"]
 ---
 ### I don't give a tinker's cuss what these dudes are on about but the sonics, bottom end, verbal riffage and discomfort on this record is second to none. 

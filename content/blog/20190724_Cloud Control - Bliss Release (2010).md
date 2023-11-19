@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190724_Cloud.Control.Bliss.jpg"
 date: 2019-07-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cloudcontrol"]
 categories: ["Listen"]
 ---
 ### While the Aussies continue to under-perform in the sporting arena, those playing for the psychedelic dream pop team are scoring a lot of points on the ear candy ledger.

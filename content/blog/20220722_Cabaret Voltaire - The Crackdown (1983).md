@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220722_Cabs.Crackdown.jpg"
 date: 2022-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cabaretvoltaire"]
 categories: ["Listen"]
 ---
 ### This really was the "band" that shocked me out of any lethargy following the mid-70s/early-80s punk/post-punk correction.

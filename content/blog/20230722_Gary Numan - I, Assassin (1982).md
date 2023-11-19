@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230722_Gazza.I+Assissin.jpg"
 date: 2023-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### Gazza was absolutely persecuted, nay despised by the music press and completely ignored by the radio jocks after his early fame.

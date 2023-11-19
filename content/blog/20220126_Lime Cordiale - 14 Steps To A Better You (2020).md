@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220126_Lime.Cordiale.14.Steps.jpg"
 date: 2022-01-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["limecordiale"]
 categories: ["Listen"]
 ---
 ### My Aussie mate Maurice bought this CD for me during our 2021 by-the-seat-of-our-pants visit to Melbourne.

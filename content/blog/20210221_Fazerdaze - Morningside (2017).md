@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210221_fazerdaze.jpg"
 date: 2021-02-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fazerdaze"]
 categories: ["Listen"]
 ---
 ### This LP was literally thrust into my hands the other day with the messaage "This will be right up your street".

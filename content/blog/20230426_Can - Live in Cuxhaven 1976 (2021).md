@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230426_Can.Cuxhaven.jpg"
 date: 2023-04-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["can"]
 categories: ["Listen"]
 ---
 ### This recording is as close to improvisational "free" jazz as I'm willing to ever venture. Can never just play their last record, they deconstruct, reconstruct or completely destroy it at every opportunity.

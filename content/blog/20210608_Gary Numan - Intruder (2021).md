@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210608_Gazz.Intruder.jpg"
 date: 2021-06-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garynuman"]
 categories: ["Listen"]
 ---
 ### Gazza just goes from strength to strength. Honestly, I kind of reluctantly bought this new record thinking it's going to be somewhat disappointing after his astonishing 2017 release "Savage".

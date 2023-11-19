@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230515_Mako.Road.EP.jpg"
 date: 2023-05-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["makoroad"]
 categories: ["Listen"]
 ---
 ### As Kiwi as Bro! This is a sensational six track EP release from Christchurch-based Mako Road. 

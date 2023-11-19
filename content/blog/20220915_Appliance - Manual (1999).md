@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220915_Appliance.Manual.jpg"
 date: 2022-09-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["appliance"]
 categories: ["Listen"]
 ---
 ### Not a bad haul this. I got all three Appliance CD's, including this debut, super dirt cheap at the big red shed during peak multi-format media acquisition days.

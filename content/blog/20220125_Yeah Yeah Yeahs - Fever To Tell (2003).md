@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220125_YYYs.FTT.jpg"
 date: 2022-01-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yeahyeahyeahs"]
 categories: ["Listen"]
 ---
 ### This is was one of my holy grail records to find on vinyl. Jason from "My Music Taupo", who by the way has one of the best record shops in all of Aotearoa, found it for me.

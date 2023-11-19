@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190703_Dimmer.Star.jpg"
 date: 2019-07-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dimmer"]
 categories: ["Listen"]
 ---
 ### My top NZ Desert Island disc. Definitely my most played NZ record of all time and finally purchased on vinyl.

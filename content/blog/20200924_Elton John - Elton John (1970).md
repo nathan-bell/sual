@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200924_image-asset.jpeg"
 date: 2020-09-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["eltonjohn"]
 categories: ["Listen"]
 ---
 ### I give Elton's "Your Song" the same respect as I do for Bowie's "Space Oddity".   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211104_Party.Girls.OST.jpg"
 date: 2021-11-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thewhitboydcombo"]
 categories: ["Listen"]
 ---
 ### An Organ Grindin' Funky Good Time soundtrack from 1969's "Party Girls" a long lost (probably for the best) low budget sleaze fest.

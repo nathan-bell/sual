@@ -6,7 +6,7 @@ image: "/images/post/1297864.jpg"
 date: 2013-12-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","nickcaveandthebadseeds","theallmanbrothersband","cowboyjunkies"]
+tags: ["davidssession","stevenwilson","loureed","loureed","loureed","nickcaveandthebadseeds","nickcaveandthebadseeds","cowboyjunkies","theallmanbrothersband","throwingmuses","sarahjarosz","kellyjoephelps","rem","johngrant","boris","wayneshorter","sunno","donovan","johncale","unknownartist","vieuxfarkatouré","sterlingmorrison"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Summer Daze, Lou Reed/Velvets, Best of 2013_

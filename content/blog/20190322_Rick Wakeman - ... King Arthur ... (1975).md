@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190322_Rick.Wakeman.King.Arthur.jpg"
 date: 2019-03-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["rickwakeman"]
 categories: ["Listen"]
 ---
 ### Full title - The Myths and Legends of King Arthur and the Knights of the Round Table 

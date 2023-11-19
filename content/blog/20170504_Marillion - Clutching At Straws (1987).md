@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170504_image-asset.jpeg"
 date: 2017-05-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["marillion"]
 categories: ["Listen"]
 ---
 ### Not so long ago, I wouldn't have touched this sort of stuff with a barge pole. It's only recently that I've delved into English rock pomposity in the interests of expanding my musical horizons. 

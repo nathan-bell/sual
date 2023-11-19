@@ -4,7 +4,7 @@ image: "/images/post/R-1660563-1304406973.jpg"
 date: 2020-04-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["microdisney"]
 categories: ["Listen"]
 ---
 ### Bought this on a whim a while back. I had never listened to Microdisney prior to purchasing this, I'd just read glowing references. So this was more or less an impulse buy based on reputation.  

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210809_Troy.Kingi.Black.Sea.jpg"
 date: 2021-08-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["troykingi"]
 categories: ["Listen"]
 ---
 ### Tickets booked, I'd better have a listen. This is Troy Kingi's "folk" record with Delaney Davidson, the proper folkie, lending a steady hand.

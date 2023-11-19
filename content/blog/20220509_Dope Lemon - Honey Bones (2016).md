@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220509_Dope.Lemon.Bones.jpg"
 date: 2022-05-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["dopelemon"]
 categories: ["Listen"]
 ---
 ### I picked up Dope Lemon's second record, "Smooth Big Cat" a couple of trips back when I ventured across the big ditch to Melbourne. I've been looking for this release, the debut album, ever since.

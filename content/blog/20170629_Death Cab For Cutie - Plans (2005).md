@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170629_image-asset.jpeg"
 date: 2017-06-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["deathcabforcutie"]
 categories: ["Listen"]
 ---
 ### I Randomised things and threw a big "D" this evening. I immediately reached for the Cabs. One of the best bands starting with the letter D. That's a fact!

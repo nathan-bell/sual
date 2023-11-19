@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180331_Luna.Bewitched..jpg"
 date: 2018-03-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["luna"]
 categories: ["Listen"]
 ---
 ### I'm just about to dig into the book "Black Postcards: A Memoir" by Wellingtonian Dean Wareham, founder of Galaxie 500 and Luna.  

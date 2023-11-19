@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220425_Nightingales.Pigs.jpg"
 date: 2022-04-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thenightingales"]
 categories: ["Listen"]
 ---
 ### I knew absolutely nothing about this band other than they were completely underappreciated and are now worthy of re-evaluation. Well that's what the hype sticker on the cover says.

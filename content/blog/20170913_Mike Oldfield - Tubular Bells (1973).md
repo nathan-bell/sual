@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170913_Mike.Oldfield.Tubular.Bells.jpg"
 date: 2017-09-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mikeoldfield"]
 categories: ["Listen"]
 ---
 ### The film "The Exorcist" scared the fuck out of me as a 14 or 15 year old. The bits I managed to watch anyway. I remember cowering between the theatre seats and glancing occasionally through webbed hands. I'm not sure what the rating was at the time but I probably shouldn't have been there - it haunted me for years! I refuse to watch it even now.

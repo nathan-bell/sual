@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200301_Tame.Impala.01.jpg"
 date: 2020-03-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tameimpala"]
 categories: ["Listen"]
 ---
 ### You know what, I’m getting sick of the same old same old.   

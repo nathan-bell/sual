@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220822_Israel.Nash.Pains.jpg"
 date: 2022-08-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["israelnash"]
 categories: ["Listen"]
 ---
 ### The New Zealand-based "A Sonic Youth" podcast just keeps on dishing up truly splendid, under-the-radar, what-the-fuck-is-alternative-music-anyway, musical richness. That's four absolutely killer references in four episodes.

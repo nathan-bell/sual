@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180129_Miles.Davis.Bitches.Brew.jpg"
 date: 2018-01-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["milesdavis"]
 categories: ["Listen"]
 ---
 ### I was really hesitant about playing this record today and as I later found out, for very good reason.  

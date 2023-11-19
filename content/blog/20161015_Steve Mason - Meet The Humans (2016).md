@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161015_Steve.Mason.Humans.jpg"
 date: 2016-10-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevemason"]
 categories: ["Listen"]
 ---
 ### As with all of the Beta Band releases, Steve Mason's song writing and mastery of the pop hook continues. This is a meandering beauty that just creeps along dragging you along with it.

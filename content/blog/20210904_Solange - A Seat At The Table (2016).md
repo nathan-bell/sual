@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210904_Solange.Table.jpg"
 date: 2021-09-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["solange"]
 categories: ["Listen"]
 ---
 ### I really needed a vinyl fix today. It's been a few weeks since I’ve done any digging.

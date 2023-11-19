@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220930_AVBC.Trees.jpg"
 date: 2022-09-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["avantdalebowlingclub"]
 categories: ["Listen"]
 ---
 ### I had my first listen to this hot-off-the-press album {OK, I streamed and downloaded it from off-shore servers somewhere in the ethers} from Taite Music Prize-winning hip hop / jazz project Avantdale Bowling Club.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191208_Group.1850.jpg"
 date: 2019-12-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["group1850"]
 categories: ["Listen"]
 ---
 ### I recently spotted a reference to Group 1850 in a recent "Shindig!" magazine.   

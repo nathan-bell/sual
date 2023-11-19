@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220427_Little.Simz.jpg"
 date: 2022-04-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["littlesimz"]
 categories: ["Listen"]
 ---
 ### This wonderful Hip Hop/R&B/Rap (whatever-you-call-it?) record from Islington born, British Ghanian, London lady, Simbiatu Ajikawo, was way up there on all of the "best of" 2021 lists.

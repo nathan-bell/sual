@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200411_Sonic.Dawn.Eclipse.jpg"
 date: 2020-04-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesonicdawn"]
 categories: ["Listen"]
 ---
 ### This is a lovely, hazy trip back to the late 60's American West Coast except this band hails from 21st Century Denmark.   

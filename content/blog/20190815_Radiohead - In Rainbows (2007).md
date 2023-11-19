@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190815_radiohead.rainbows.jpg"
 date: 2019-08-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["radiohead"]
 categories: ["Listen"]
 ---
 ### Absolute awesomeness from the worlds best band from Oxford. Recently purchased on vinyl to add to my "must-have-on-vinyl" list.

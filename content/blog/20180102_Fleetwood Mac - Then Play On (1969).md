@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180102_Fleetwood.Mac.Then.Play.On.jpg"
 date: 2018-01-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["fleetwoodmac"]
 categories: ["Listen"]
 ---
 ### My first foray into pre Buckingham-Nicks Fleetwood Mac and it’s a fucking mess! And that’s brilliant. Think "Tusk" a decade later?!

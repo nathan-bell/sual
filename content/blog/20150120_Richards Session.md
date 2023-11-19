@@ -6,7 +6,7 @@ image: "/images/post/cover.991646.2400x600.jpg"
 date: 2015-01-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","ledzeppelin","neilyoung","donaldfagen"]
+tags: ["richardssession","ledzeppelin","neilyoung","donaldfagen","ettajames","throwingmuses","thewarondrugs","pattismith","archieroach","thecramps","vanhalen","stvincent","juleecruise","thestranglers","fog","edsheeran","sunkilmoon","clairemartin","brianseltzer","stephenstills","barrysaunders","murderbydeath","drive-bytruckers","thebreckerbrothers","slyandthefamilystone"]
 categories: ["Gatherings"]
 ---
 > 2015 is kicking off with a Bang / Fizz.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220728_Yard.Act.jpg"
 date: 2022-07-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yardact"]
 categories: ["Listen"]
 ---
 ### Wonderful debut from another Smith-led collective from Leeds.

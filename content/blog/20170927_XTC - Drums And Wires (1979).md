@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170927_XTC.Drums.jpg"
 date: 2017-09-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### My first encounter with XTC was this record.

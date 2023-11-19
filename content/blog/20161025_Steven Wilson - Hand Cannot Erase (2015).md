@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161025_image-asset.jpeg"
 date: 2016-10-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### The night before going to see this genius live in concert in Auckland, I thought I better give this another run through.

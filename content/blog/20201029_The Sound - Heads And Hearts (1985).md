@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201029_The.Sound.Heads.jpg"
 date: 2020-10-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesound"]
 categories: ["Listen"]
 ---
 ### Not only an underrated band, THE MOST underrated band of all time!

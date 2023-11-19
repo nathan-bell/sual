@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191231_XTC.Black.Sea.jpg"
 date: 2019-12-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["xtc"]
 categories: ["Listen"]
 ---
 ### Gone are the days of trucking over to Wellington and coming back over-endowed with swags of shiny new CDs and DVDs. (It doesn't stop me bringing back over stuffed bags of vinyl however!).  

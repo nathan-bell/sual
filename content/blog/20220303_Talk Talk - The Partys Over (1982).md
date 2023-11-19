@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220303_Talk.Talk.Party.jpg"
 date: 2022-03-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["talktalk"]
 categories: ["Listen"]
 ---
 ### I first encountered the great Mark Hollis and Talk Talk via their third release 1986's "The Colour Of Spring". 

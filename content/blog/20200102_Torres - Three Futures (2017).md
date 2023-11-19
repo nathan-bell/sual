@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200102_Torres.jpg"
 date: 2020-01-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["torres"]
 categories: ["Listen"]
 ---
 ### This record was a complete impulse buy whilst trawling the JB-Hifi bins in Wellington. I heard mention of Torres via the "Sound Opinions" podcast a while back where she was highly revered by Greg Kot.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181024_Phil.Collins.Both.Sides.jpg"
 date: 2018-10-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["philcollins"]
 categories: ["Listen"]
 ---
 ### I'm far from being a musical snob, but I did try and hide Phil's face as I discreetly slid the monstrous double vinyl cover across the counter before parting with my $19.98. 

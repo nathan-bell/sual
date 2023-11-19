@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180923_SW.GAYD.jpg"
 date: 2018-09-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevenwilson"]
 categories: ["Listen"]
 ---
 ### Behind the veil. One of the best props I've ever seen at any gig is the transparent/translucent cloak that Mr Wilson's band plays behind on this 2012 recorded gig and also experienced live for most of his 2016 gig in Auckland. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201207_Jonathan.Richmond.SA.jpg"
 date: 2020-12-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jonathanrichman"]
 categories: ["Listen"]
 ---
 ### Here comes the Martian Martian!   

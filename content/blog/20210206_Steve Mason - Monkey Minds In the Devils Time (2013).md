@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210206_Steve.Mason.Monkey.jpg"
 date: 2021-02-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stevemason"]
 categories: ["Listen"]
 ---
 ### This is Steve Mason's third album since leaving one of Scotland's finest turn-of-this-century musical ensembles, The Beta Band.

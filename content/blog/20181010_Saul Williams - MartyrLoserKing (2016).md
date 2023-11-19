@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181010_Saul.Williams.MartyLoserKing.jpg"
 date: 2018-10-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["saulwilliams"]
 categories: ["Listen"]
 ---
 ### Another souvenir from one of my bin diving adventures, this is a very interesting mix of musical genres. To actually determine what those genres are however, is a rather perplexing challenge.

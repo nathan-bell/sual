@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210405_tune-yards.sketchy.jpg"
 date: 2021-04-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["tune-yards"]
 categories: ["Listen"]
 ---
 ### One of several vinyl purchases picked up over Easter Weekend in Wellington was this little gem from New York duo Merrill Garbus and Nate Brenner.

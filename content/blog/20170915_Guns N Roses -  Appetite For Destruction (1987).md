@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170915_GNR.Appetite.jpg"
 date: 2017-09-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["gunsnroses"]
 categories: ["Listen"]
 ---
 ### I've never owned this record. I bought this classic record on vinyl as a 2 for $40 deal. It kicks arse. Need any other reason?

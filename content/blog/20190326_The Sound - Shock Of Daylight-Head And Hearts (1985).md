@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190326_The.Sound.HHs.jpg"
 date: 2019-03-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thesound"]
 categories: ["Listen"]
 ---
 ### Another fantastic record from the world's most forgotten band. Criminally ignored but now highly revered. 

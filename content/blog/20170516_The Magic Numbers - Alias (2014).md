@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170516_image-asset.jpeg"
 date: 2017-05-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["themagicnumbers"]
 categories: ["Listen"]
 ---
 ### I'm off to Wellington for a few days so I immediately reached for The Phoenix Foundation.

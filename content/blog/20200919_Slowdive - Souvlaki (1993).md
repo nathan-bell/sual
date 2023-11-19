@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200919_image-asset.jpeg"
 date: 2020-09-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["slowdive"]
 categories: ["Listen"]
 ---
 ### A gorgeous mid-nineties dreamy shoegaze record of the highest order.    

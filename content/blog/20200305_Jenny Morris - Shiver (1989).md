@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200305_Jenny.Morris.jpg"
 date: 2020-03-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jennymorris"]
 categories: ["Listen"]
 ---
 ### Lovely late-80's album from Tokoroa-Born Australian citizen, Jennifer Patricia Morris.    

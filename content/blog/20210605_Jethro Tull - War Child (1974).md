@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210605_Tull.Warchild.jpg"
 date: 2021-06-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jethrotull"]
 categories: ["Listen"]
 ---
 ### This is a Tull record that was never "in the circle" of their great predecessors - namely "Aqualung", "Thick As A Brick" and "A Passion Play", and I missed it completely.

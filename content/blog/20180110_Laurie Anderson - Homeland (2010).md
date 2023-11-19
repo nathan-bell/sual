@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180110_Laurie.Anderson.Homeland.jpg"
 date: 2018-01-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["laurieanderson"]
 categories: ["Listen"]
 ---
 ### There's something rather comforting about Laurie Anderson. She's very much an "Emperor's New Clothes" protagonist. 

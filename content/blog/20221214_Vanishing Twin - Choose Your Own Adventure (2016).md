@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221214_Vanishing.Twin.Adventure.jpg"
 date: 2022-12-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["vanishingtwin"]
 categories: ["Listen"]
 ---
 ### While the influences on this, Vanishing Twin's first record are clear, it's nearly impossible to categorise.

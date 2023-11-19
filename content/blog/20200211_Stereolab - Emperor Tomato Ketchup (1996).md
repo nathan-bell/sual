@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200211_SL.Emperor.jpg"
 date: 2020-02-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### This album, their fourth, may have been my very first exposure to the Stereolab collective back in the late 90's.    

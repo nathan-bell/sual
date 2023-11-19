@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190317_Doves.Last.Broadcast.jpg"
 date: 2019-03-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["doves"]
 categories: ["Listen"]
 ---
 ### It's hard to believe that the Doves first record, the wonderful "Lost Souls" with that astounding lead-in track "Firesuite", was made in 2000.

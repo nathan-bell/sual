@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210709_Rupert.Hine.Immunity.jpg"
 date: 2021-07-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["ruperthine"]
 categories: ["Listen"]
 ---
 ### One real blessing of spending an extra week in Melbourne, following a 7 day Covid-19 Aussie/NZ travel bubble pause, was spending some quality time trawling the records shops in Melbourne City and Brunswick/Smiths Street in Collingwood.

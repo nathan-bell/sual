@@ -4,7 +4,7 @@ image: "/images/post/Pavement.Brighten.jpg"
 date: 2019-01-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["pavement"]
 categories: ["Listen"]
 ---
 ### Ane of my favourite musical adventures was seeing Pavement in the flesh at The Caledonian Hall, in Christchurch on Wednesday 13th July 1994. 

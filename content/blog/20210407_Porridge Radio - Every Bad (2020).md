@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210407_Porridge.Radio.Every.Bad.jpg"
 date: 2021-04-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porridgeradio"]
 categories: ["Listen"]
 ---
 ### Another great Easter Weekend purchase while over in the windy city.

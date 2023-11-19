@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220116_TreesSpeak.OHMs.jpg"
 date: 2022-01-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["treesspeak"]
 categories: ["Listen"]
 ---
 ### I've been waiting a long time to find this record. This is the first (proper) record by Tuscon, Arizona duo Trees Speak.

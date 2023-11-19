@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171115_JCC.Very.Best.Of.jpg"
 date: 2017-11-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johncooperclarke"]
 categories: ["Listen"]
 ---
 ### Cracking retrospective of the legendary punk poet John Cooper Clarke.

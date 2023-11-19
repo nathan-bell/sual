@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220504_Jon.Hopkins.Immunity.jpg"
 date: 2022-05-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["jonhopkins"]
 categories: ["Listen"]
 ---
 ### Just sit down, shut up and listen to this. This is not a record to have in the background.

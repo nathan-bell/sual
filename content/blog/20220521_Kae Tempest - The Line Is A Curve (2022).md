@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220521_Kae.Tempest.Curve.jpg"
 date: 2022-05-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kaetempest"]
 categories: ["Listen"]
 ---
 ### Usually I'm not overly bothered with a poet or spoken word artist and wouldn't necessarily cross the street to involve myself. 

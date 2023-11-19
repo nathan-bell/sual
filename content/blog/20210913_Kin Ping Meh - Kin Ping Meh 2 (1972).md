@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210913_Kin.Ping.Meh.2.jpg"
 date: 2021-09-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["kinpingmeh"]
 categories: ["Listen"]
 ---
 ### Second album from German band "Kin Ping Meh" (Chinese for "The Golden Lotus")

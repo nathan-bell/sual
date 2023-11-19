@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230704_Nigeria.70.jpg"
 date: 2023-07-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Original Heavyweight Afrobeat, Highlife & Afro-Funk.

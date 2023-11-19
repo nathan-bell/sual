@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220612_DM.Exciter.jpg"
 date: 2022-06-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["depechemode"]
 categories: ["Listen"]
 ---
 ### The argument about vinyl vs digital media is thrown right out the window when you stick a remuxed, DVD-Audio disc such as this into a half-decent media player.

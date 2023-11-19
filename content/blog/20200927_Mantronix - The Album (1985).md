@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200927_image-asset.jpeg"
 date: 2020-09-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["mantronix"]
 categories: ["Listen"]
 ---
 ### Along with Cabaret Voltaire, who had taken a bit of a right turn mixing menacing electronic textures with funky dance rhythms in the early to mid 80's, I was totally hooked on the electronic/hip hop mashups of Mantronix.   

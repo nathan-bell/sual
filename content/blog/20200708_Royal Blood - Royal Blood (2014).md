@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200708_Royal.Blood.jpg"
 date: 2020-07-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["royalblood"]
 categories: ["Listen"]
 ---
  It’s hard to believe that this duo from Old Blighty’s Briton can make such a god forsaken racket.   

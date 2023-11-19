@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220824_YLT.Heart.jpg"
 date: 2022-08-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["yolatengo"]
 categories: ["Listen"]
 ---
 ### This record encompasses everything I like but is also unlike anything else I like. Does that make any sense? I really doesn’t need to. 

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210812_Spiritualized.Laser.jpg"
 date: 2021-08-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["spiritualized"]
 categories: ["Listen"]
 ---
 ### Amazing, other/outer worldly and essential. Now this really IS a wall of sound. 

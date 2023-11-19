@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210813_Radio.Moscow.Brain.jpg"
 date: 2021-08-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["radiomoscow"]
 categories: ["Listen"]
 ---
 ### These hairy MFs from Ames, Iowa really know how to kick the barn doors down!

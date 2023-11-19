@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200729_image-asset.jpeg"
 date: 2020-07-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["joannanewsom"]
 categories: ["Listen"]
 ---
 ### There's absolutely no in-between with Ms. Newsom. You either love her or loathe her. 

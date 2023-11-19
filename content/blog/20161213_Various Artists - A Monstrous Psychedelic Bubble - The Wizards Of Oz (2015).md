@@ -4,7 +4,7 @@ image: "/images/post/wilt_20161213_image-asset.jpeg"
 date: 2016-12-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Usually the Aussies really know how to fuck things up! Rugby Tests against any opposition, humility (never 'erd of it!) and coffee (I've never had a good one over the ditch!). However, I must regretfully advise this ISN'T the case with this gem

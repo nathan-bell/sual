@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171128_Robert.Plant.Carry.Fire.jpg"
 date: 2017-11-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["robertplant"]
 categories: ["Listen"]
 ---
 ### It was 10 years ago when Robert Plant and Alison Krauss treated the world to a brilliant collection of songs where their rock and bluegrass worlds intertwined. That was also the first time I listened to any post Zeppelin Robert Plant.

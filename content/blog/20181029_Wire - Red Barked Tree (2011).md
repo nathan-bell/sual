@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181029_Wire.RBT.jpg"
 date: 2018-10-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["wire"]
 categories: ["Listen"]
 ---
 ### A randomly chosen selection this evening. Despite being four decades since their highly revered, smack-you-around-the-head trio of utter brilliance, Mr Colin Newman and Co return with a very worthy stunner that harks back to their best.

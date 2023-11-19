@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171105_blancmange.Best.Of.jpg"
 date: 2017-11-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blancmange"]
 categories: ["Listen"]
 ---
 ### Another great bargain bin find that helps greatly with my retro-manic obsession.

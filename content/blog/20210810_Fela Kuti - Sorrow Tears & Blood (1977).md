@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210810_Fela.Kuti.Sorrow.jpg"
 date: 2021-08-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["felakuti"]
 categories: ["Listen"]
 ---
 ### A bit of a "High Fidelity" moment last Friday evening as I strolled into The Family Jewels.

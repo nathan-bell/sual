@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191021_VA.Sunday.Service.jpg"
 date: 2019-10-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Talk about eclectic! This is just about the epitome of it.

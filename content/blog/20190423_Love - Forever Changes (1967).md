@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190423_Love.Forever.jpg"
 date: 2019-04-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["love"]
 categories: ["Listen"]
 ---
 ### While I've heard the odd song from the album over the years, I have never listened to this record in it's entirety. Found in a bargain bin a few years ago, this 2001 remaster has sat on the shelf since. I suppose I've just never been brave enough to play this very much (over)hyped album.

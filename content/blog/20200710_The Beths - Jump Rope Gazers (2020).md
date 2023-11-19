@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200710_The.Beths.Jump.jpg"
 date: 2020-07-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebeths"]
 categories: ["Listen"]
 ---
 ### More vinyl I've never listened to. It's great to just buy stuff like in the old days when you only have reference to music choices courtesy of NME, Melody Maker, Sounds and local music rags like Rip It Up.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171214_Belligerents.Science.Fiction.jpg"
 date: 2017-12-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thebelligerents"]
 categories: ["Listen"]
 ---
 ### We stayed with our very good friends Maurice and Viv (affectionately known as "Mo & Vi") in Melbourne recently and immersed ourselves in Aussie culture. Mainly eating and drinking.  

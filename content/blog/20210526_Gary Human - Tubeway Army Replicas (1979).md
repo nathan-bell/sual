@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210526_Gazza.Replicas.jpg"
 date: 2021-05-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["garyhuman"]
 categories: ["Listen"]
 ---
 ### Gazza has always been an outlier/outsider. Diagnosed with Asperger’s  his imagination and creativity has actually got the better of him. He’s been more prolific than ever and his latest record "Intruder" is up there’s with his best. 

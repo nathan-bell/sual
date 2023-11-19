@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190324_Dire.Straits.Love.Over.Gold.jpg"
 date: 2019-03-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["direstraits"]
 categories: ["Listen"]
 ---
 ### A big moment happened today that will potentially have a huge impact on my future consumption of music. 

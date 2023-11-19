@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180717_White.Denim.Stiff.jpg"
 date: 2018-07-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["whitedenim"]
 categories: ["Listen"]
 ---
 ### Throw a bit of Lizzy, Skynyrd and some James Brown in the mix and this is what you get. It's a crazy mélange but these Texans really make it work.  

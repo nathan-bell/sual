@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191126_zero.7.simple.things.jpg"
 date: 2019-11-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["zero7"]
 categories: ["Listen"]
 ---
 ### I've been looking out for a vinyl version of this treasure for a while now. I happened to find it in Hamilton and this is probably the antithesis of that dump.

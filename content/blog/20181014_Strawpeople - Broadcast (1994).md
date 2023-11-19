@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181014_Strawpeople.Broadcast.jpg"
 date: 2018-10-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["strawpeople"]
 categories: ["Listen"]
 ---
 ### I heard a great interview on Radio New Zealand this morning with songwriter, producer and documentary maker Mark Tierney. 

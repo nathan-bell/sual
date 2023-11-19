@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191114_image-asset.jpeg"
 date: 2019-11-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["echoohs"]
 categories: ["Listen"]
 ---
 ### I heard "New Music with Grant Smithies" for 11th Oct 2019 via podcast this morning. One group particularly stood out for me. The Echo Ohs out of Auckland.

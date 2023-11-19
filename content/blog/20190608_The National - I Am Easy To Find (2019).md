@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190608_The.National.Easy.To.Find.jpg"
 date: 2019-06-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thenational"]
 categories: ["Listen"]
 ---
 ### This is not a typical The National record. In fact, if you like The National, you may not like this record.

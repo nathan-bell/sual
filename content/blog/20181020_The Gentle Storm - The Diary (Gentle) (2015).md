@@ -4,7 +4,7 @@ image: "/images/post/wilt_20181020_The.Gentle.Storm.The.Diary.jpg"
 date: 2018-10-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thegentlestorm"]
 categories: ["Listen"]
 ---
 ### I knew absolutely nothing about this particular gatefold sleeved, double CD wedged amongst the boxes of unloved discs sitting under the big "clearance" sign.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180913_PT.UpTheDownstair.jpg"
 date: 2018-09-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### Nearly a decade prior to the release of one of my favourite SW moments, 2002's "In Absentia" where things started heading North towards metal, this gem is a previously neglected treasure trove of progressive rock meets psychedelia.   

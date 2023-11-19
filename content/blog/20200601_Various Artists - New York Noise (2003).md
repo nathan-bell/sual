@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200601_NY.Noise.jpg"
 date: 2020-06-01T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### Soul Jazz Records New York Noise: Dance Music from the New York Underground 1977-1982    

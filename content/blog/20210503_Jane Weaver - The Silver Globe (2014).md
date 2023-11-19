@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210503_Jane.Weaver.Globe.jpg"
 date: 2021-05-03T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["janeweaver"]
 categories: ["Listen"]
 ---
 ### This record, the first in a trilogy of great Jane Weaver albums, is a real treat.

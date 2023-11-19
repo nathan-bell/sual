@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230218_Lord.Huron.Trails.jpg"
 date: 2023-02-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lordhuron"]
 categories: ["Listen"]
 ---
 ### A very easy choice tonight. When you are out walking and the dog makes a bee line for a young American woman wearing a Lord Huron "Long Lost" T Shirt, there's a clear message there.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210228_Cabs.Shadow.jpg"
 date: 2021-02-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["cabaretvoltaire"]
 categories: ["Listen"]
 ---
 ### I LOVE this! While it's really Richard H. Kirk's baby now, Stephen Mallinder now long departed, this really truly sounds likes a new Cabs record.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20191130_Roxy.Music.Pleasure.jpg"
 date: 2019-11-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["roxymusic"]
 categories: ["Listen"]
 ---
 ### I had a few turntable issues this evening which nearly derailed my listening pleasure. I eventually tracked it down to being an interconnect cable issue.

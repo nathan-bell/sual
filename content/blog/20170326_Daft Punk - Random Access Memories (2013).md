@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170326_image-asset.jpeg"
 date: 2017-03-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["daftpunk"]
 categories: ["Listen"]
 ---
 ### To be perfectly honest, I've never been a fan of Daft Punk. This changed this morning while reading my book "Vinyl Me, Please: 100 Albums You Need on Vinyl and Why".

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211112_Liam.Bailey.Ekundayo.jpg"
 date: 2021-11-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["liambailey"]
 categories: ["Listen"]
 ---
 ### Another deep dive into a rabbit hole for me of late as I take several forays into the world of Jamaican-influenced music.

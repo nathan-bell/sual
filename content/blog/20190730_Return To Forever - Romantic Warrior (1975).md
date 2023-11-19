@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190730_RTF.Romantic.Warrior.jpg"
 date: 2019-07-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["returntoforever"]
 categories: ["Listen"]
 ---
 ### I finally got this big MF of an album on vinyl!   

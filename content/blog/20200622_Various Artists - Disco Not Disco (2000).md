@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200622_VA.Disco.N.Disco.jpg"
 date: 2020-06-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 Leftfield disco classics from the New York Underground.   

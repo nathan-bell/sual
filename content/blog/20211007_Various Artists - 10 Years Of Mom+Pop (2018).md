@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211007_Mom.Pop.jpg"
 date: 2021-10-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This is the headline: "THREE YEARS OF BIN WATCHING AT JB-HIFI IN LOWER HUTT FINALLY PAYS OFF"

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170426_image-asset.jpeg"
 date: 2017-04-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["blonderedhead"]
 categories: ["Listen"]
 ---
 ### **Live:    Blonde Redhead - Monday 29/09/2014 - Islington Assembly Hall, London**

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171118_LCD.SoundSystem.American.Dream.jpg"
 date: 2017-11-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["lcdsoundsystem"]
 categories: ["Listen"]
 ---
 ### This record was very recently voted "Record of the Year" 2017 by Uncut Magazine. Up until today, I did not own this record. Up until today, I had not heard this record. 

@@ -4,7 +4,7 @@ image: "/images/post/johnfox.jpg"
 date: 2016-11-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["johnfoxx"]
 categories: ["Listen"]
 ---
 ### John Foxx has been making brilliantly retro, analogue music since he fronted the first incantation of Ultravox back in the late 70's. 

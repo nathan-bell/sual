@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180119_PT.In.Absentia.jpg"
 date: 2018-01-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### One of my go to records when you just want to get smacked around the head (sonically speaking) without any serious investment or effort. Honestly, I can't always be bothered trying to "qualify" what I'm listening to. This record just does it's business and does it oh so very well.  

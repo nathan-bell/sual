@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180927_PT.Stupid.Dream.jpg"
 date: 2018-09-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["porcupinetree"]
 categories: ["Listen"]
 ---
 ### Another great release for a SW/PT newbie to wrap their ears around. This record, along with "In Absentia" and "Deadwing" would be the perfect place to start appraising Mr. Wilson's PT output.

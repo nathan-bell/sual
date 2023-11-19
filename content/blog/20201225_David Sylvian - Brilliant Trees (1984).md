@@ -4,7 +4,7 @@ image: "/images/post/wilt_20201225_image-asset.jpeg"
 date: 2020-12-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["davidsylvian"]
 categories: ["Listen"]
 ---
 ### It's hard to know what to play on Christmas day. It's not a day to go all out hardcore or overtly political. It's also a day NOT to play anything representative of Yuletide.

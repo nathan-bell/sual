@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190407_Stooges.Funhouse.jpg"
 date: 2019-04-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thestooges"]
 categories: ["Listen"]
 ---
 ### Always one of my favourite records, the importance of this landmark record by Iggy and The Stooges was reinforced this morning while on my Sunday ramble over to Raglan Roast.

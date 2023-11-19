@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170108_image-asset.jpeg"
 date: 2017-01-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### A tasteful compilation of 4 Stereolab EPs released between 2005 and 2006.

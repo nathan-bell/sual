@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160719_image-asset.jpeg"
 date: 2016-07-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["loslobos"]
 categories: ["Listen"]
 ---
 ### The first thing that struck me was the bottom end coming out of my speakers. What a great sound. 

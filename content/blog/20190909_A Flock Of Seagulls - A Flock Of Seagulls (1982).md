@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190909_A.Flock.jpg"
 date: 2019-09-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["aflockofseagulls"]
 categories: ["Listen"]
 ---
 ### Please don't judge me but this early eighties gem is a lot better than anyone, including myself, ever gave it credit for.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160904_image-asset.jpeg"
 date: 2016-09-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["suede"]
 categories: ["Listen"]
 ---
 ### I remember seeing Suede on TV whilst on holiday in Hastings around the time of the release of this album (Jools Holland if I remember) and was totally blown away.

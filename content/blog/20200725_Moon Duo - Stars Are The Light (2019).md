@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200725_image-asset.jpeg"
 date: 2020-07-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["moonduo"]
 categories: ["Listen"]
 ---
 ### Allmusic.com, and their  “know it all, yes we do have the final say on the matter” approach  to music reviews is wearing thin.   

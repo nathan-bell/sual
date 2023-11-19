@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180802_Pop.Group.Citizen.Zombie.jpg"
 date: 2018-08-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["thepopgroup"]
 categories: ["Listen"]
 ---
 ### The definitive antithesis of "Pop" music, these anti-establishment aural activists return 35 years after their last release with a snarling, menacing go fuck yourself monster.  

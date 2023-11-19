@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220810_limperatrice.Tako.jpg"
 date: 2022-08-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["limpératrice"]
 categories: ["Listen"]
 ---
 ### Oh yeah! Parisian disco collective completely stuck in a 70s time warp. Banging out on my big B&Ws. Awesome!

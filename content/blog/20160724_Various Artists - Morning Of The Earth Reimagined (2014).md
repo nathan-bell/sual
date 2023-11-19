@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160724_image-asset.jpeg"
 date: 2016-07-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["variousartists"]
 categories: ["Listen"]
 ---
 ### This is the reimagined version of the wonderful "Morning Of The Earth" original soundtrack which I raved about a couple of weeks ago. It really is like journeying back into the 70's.

@@ -6,7 +6,7 @@ image: "/images/post/20180908_FavRecord.jpg"
 date: 2018-08-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thebeatles","ledzeppelin","neilyoung"]
+tags: ["richardssession","davidbowie","thebeatles","ledzeppelin","thecure","steelydan","neilyoung","thewho","bobdylan","ween","echoandthebunnymen","nirvana","thedoors","richardandlindathompson","johnmayallandthebluesbreakers","avrillavigne","thesiegel‐schwallband"]
 categories: ["Gatherings"]
 ---
 > THE BIG THREE (The First Session)

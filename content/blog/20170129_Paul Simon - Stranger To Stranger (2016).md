@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170129_image-asset.jpeg"
 date: 2017-01-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["paulsimon"]
 categories: ["Listen"]
 ---
 ### Picked this up for a bargain at the great TWH sale. (Incidently, where else in Nelson can you actually buy vinyl?)

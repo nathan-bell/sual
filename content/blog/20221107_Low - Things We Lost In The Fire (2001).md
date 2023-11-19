@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221107_Low.Things.jpg"
 date: 2022-11-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: []
+tags: ["low"]
 categories: ["Listen"]
 ---
 ### A very sad day today with the passing of Mimi Parker.
