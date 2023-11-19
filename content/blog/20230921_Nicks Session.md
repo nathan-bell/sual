@@ -6,7 +6,7 @@ image: "/images/post/fellowkids.jpg"
 date: 2023-09-21T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nickssession","jonimitchell","kurtvile","kinghannah","ryuichisakamoto","bach","kaleo","marcin","2cellos","documentry","coupdeville","guthriegovan","andréssegovia","wyntonmarsalis","jacquesloussier","connanandthemockasins","christonekingfishingram"]
+tags: ["nickssession","jonimitchell","kurtvile","kinghannah","ryuichisakamoto","bach","kaleo","marcin","2cellos","documentry","coupdeville","guthriegovan","andréssegovia","wyntonmarsalis","jacquesloussier","connanandthemockasins","christonekingfishingram","youtube"]
 categories: ["Gatherings"]
 ---
 > We got to hang out in Nick's expanded living space and spin some records.

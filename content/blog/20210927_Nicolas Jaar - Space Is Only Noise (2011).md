@@ -4,7 +4,7 @@ image: "/images/post/wilt_20210927_Nicolas.Jaar.Noise.jpg"
 date: 2021-09-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nicolasjaar"]
+tags: ["nicolasjaar","youtube"]
 categories: ["Listen"]
 ---
 ### This is an exquisite, sumptuous recent discovery courtesy of the wonderful [45 RPM Audiophile YouTube channel](https://www.youtube.com/channel/UCc1G80Jjz1vkJKVqUy2zmoQ/featured) hosted by Michael the German.

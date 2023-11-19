@@ -4,7 +4,7 @@ image: "/images/post/wilt_20221209_Fishmans.Long.Season.jpg"
 date: 2022-12-09T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["fishmans"]
+tags: ["fishmans","youtube"]
 categories: ["Listen"]
 ---
 ### This amazing recording has been haunting my dreams lately (as well as causing a few offline listening nightmares on my iPhone with the finiky Tidal app)

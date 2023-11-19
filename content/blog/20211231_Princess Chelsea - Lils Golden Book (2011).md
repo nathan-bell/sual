@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211231_Princess.Chelsea.Lil.jpg"
 date: 2021-12-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["princesschelsea"]
+tags: ["princesschelsea","youtube"]
 categories: ["Listen"]
 ---
 ### At this time of year who wants to overthink the previous 12 months? For most of us it's been a proper, global annus horribilis. A year best forgotten.

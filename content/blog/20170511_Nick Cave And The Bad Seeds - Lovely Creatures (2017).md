@@ -4,7 +4,7 @@ image: "/images/post/wilt_20170511_image-asset.jpeg"
 date: 2017-05-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickcaveandthebadseeds"]
+tags: ["nickcaveandthebadseeds","youtube"]
 categories: ["Listen"]
 ---
 ### Grinderman at the Coronet, Elephant And Castle, London on October 2nd 2010 was undoubtedly the loudest and most organ eviscerating gig I've ever experienced.

@@ -6,7 +6,7 @@ image: "/images/post/59c546c0e4b019db5f2da0d0_medium.png"
 date: 2013-06-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","steelydan","brucespringsteen","paulkelly","lanadelrey","theband","rycooder","eilenjewell","various","deeppurple","mattsweeney","robertwyatt","bonnieprincebilly","queensofthestoneage","johnmclaughlin","princesschelsea","thefirm","chickcorea","clairybrowne","lauramarling","sircharlesmackerras","londonphilharmonicorchestra"]
+tags: ["martinssession","steelydan","brucespringsteen","paulkelly","lanadelrey","theband","rycooder","eilenjewell","various","deeppurple","mattsweeney","robertwyatt","bonnieprincebilly","queensofthestoneage","johnmclaughlin","princesschelsea","thefirm","chickcorea","clairybrowne","lauramarling","sircharlesmackerras","londonphilharmonicorchestra","youtube"]
 categories: ["Gatherings"]
 ---
 > As it is Queen’s Birthday month the theme is Majesty 

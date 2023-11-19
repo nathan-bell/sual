@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180312_Kraftwerk.ElectroPop.jpg"
 date: 2018-03-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["kraftwerk"]
+tags: ["kraftwerk","youtube"]
 categories: ["Listen"]
 ---
 ### While not held in the same regard as an “Autobahn” or “The Man Machine”, this mid-80’s effort remains one of my favourite Kraftwerk records.  
