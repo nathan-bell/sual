@@ -14,5 +14,5 @@
 {{ end }}
 {{ $scripts := $scripts | append (resources.Get "js/script.js" | minify) }}
 {{ $scripts := $scripts | resources.Concat "/js/vendor.js" | minify | fingerprint "sha512" }}
-<script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}" type="application/javascript" src="{{ $scripts.Permalink }}"></script>
+<script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}" type="application/javascript" src="{{ $scripts.RelPermalink }}"></script>
 <script id="dsq-count-scr" src="//shutupandlisten-co-nz.disqus.com/count.js" async></script>
