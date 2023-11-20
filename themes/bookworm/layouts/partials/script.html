@@ -4,7 +4,7 @@
 {{ range site.Params.plugins.js}}
 {{ if findRE "^http" .link }}
   {{ if .async }}
-    <script src="{{ .link | absURL }}" ></script>
+    <script crossorigin="anonymous" defer="defer" src="{{ .link | absURL }}" ></script>
   {{ else }}
     <script src="{{ .link | absURL }}"></script>
   {{ end }}
