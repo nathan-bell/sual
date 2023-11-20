@@ -29,7 +29,7 @@ unsafe = true
 [[params.plugins.css]]
 link = "css/style_purged.css"
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;700&"
+link = "https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;700&display=swap"
 async = true
 # JS Plugins
 [[params.plugins.js]]

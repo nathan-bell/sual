@@ -38,9 +38,9 @@
         {{ $imageFallback:= $image.Resize $size }}
         {{ $imageWebp:= $image.Resize (add (string $size) " webp") }}
           {{ if lt $index 3 }}
-            <img src="{{$imageWebp.RelPermalink}}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" width="{{$width}}" height="{{$height}}">
+            <img src="{{$imageWebp.RelPermalink}}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" width="{{$imageWebp.Width}}" height="{{$imageWebp.Height}}">
           {{ else }}       
-            <img loading="lazy" decoding="async" src="{{$imageWebp.RelPermalink}}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" width="{{$width}}" height="{{$height}}" onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
+            <img loading="lazy" decoding="async" src="{{$imageWebp.RelPermalink}}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" width="{{$imageWebp.Width}}" height="{{$imageWebp.Height}}" onerror="this.onerror='null';this.src='{{$imageFallback.RelPermalink}}'">
           {{ end }}        
         {{ else }}
 
