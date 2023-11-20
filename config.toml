@@ -126,3 +126,8 @@ weight = 1
 name = "Authors"
 url = "author/"
 weight = 2
+
+# Social Icons
+[[params.social]]
+icon = "lab la-facebook-f" 
+url = "https://github.com/nathan-bell/sual"
