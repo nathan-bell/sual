@@ -6,7 +6,7 @@ image: "/images/post/2000.png"
 date: 2015-05-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richard’ssession","ledzeppelin","steelydan","neilyoung","vanmorrison","ween","thetimejumpers","thetimejumpers","superfurryanimals","giantsand","bonnieraitt","jacksonbrowne","redhousepainters","emmylouharris","carrierodriguez","theamazingrhythmaces","newridersofthepurplesage","ohio","davidgray","daniellanois","thepretenders","carrieunderwood","drivebytruckers","michelleshocked"]
+tags: ["richard’ssession","ledzeppelin","steelydan","neilyoung","vanmorrison","ween","thetimejumpers","superfurryanimals","giantsand","bonnieraitt","jacksonbrowne","redhousepainters","emmylouharris","carrierodriguez","theamazingrhythmaces","newridersofthepurplesage","ohio","davidgray","daniellanois","thepretenders","carrieunderwood","drivebytruckers","michelleshocked"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Pedal Steel – Round 1, Pedal Steel – Round 2, Pedal Steel – Round 3_

@@ -6,7 +6,7 @@ image: "/images/post/20170219_image-asset.png"
 date: 2017-02-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","therollingstones","jeffbeck","jonimitchell","ryanadams","ryanadams","jamestaylor","ettajames","bonnieraitt","kellyjoephelps","blur","loslobos","arcadefire","norahjones","yeahyeahyeahs","grouplove","aljarreau","dinosaurjr","thewhitestripes","thecivilwars","sonnylandreth"]
+tags: ["richardssession","therollingstones","jeffbeck","jonimitchell","ryanadams","jamestaylor","ettajames","bonnieraitt","kellyjoephelps","blur","loslobos","arcadefire","norahjones","yeahyeahyeahs","grouplove","aljarreau","dinosaurjr","thewhitestripes","thecivilwars","sonnylandreth"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Must be Track No 1. , Must feature electric slide guitar, Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds, Bonus Track_

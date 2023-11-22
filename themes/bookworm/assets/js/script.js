@@ -76,4 +76,18 @@
     $(this).parent().find('.collapse-minus').addClass('d-none');
   });
 
+// youtube placeholder
+var ytplaceholder = document.getElementById ('ytplaceholder'); 
+
+// change the video
+var videolistner = function(e) {
+   var ytiframe = document.getElementById('ytiframe');
+   ytiframe.src = ytiframe.getAttribute('data-src');
+   ytiframe.onload = ytiframe.style.opacity = 1;
+   ytplaceholder.removeEventListener("mouseover", videolistner);
+};
+
+//listen to the mouseover event to change the video
+ytplaceholder.addEventListener('mouseover', videolistner);
+
 // });
