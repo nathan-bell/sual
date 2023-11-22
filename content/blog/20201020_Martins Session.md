@@ -6,7 +6,7 @@ image: "/images/post/20201020_Hendrix.Accordian.jpg"
 date: 2020-10-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","frankzappa","brucespringsteen","jimihendrix","jimihendrix","jimihendrix","jimihendrix","wilco","mazzystar","thesundays","thephoenixfoundation","catstevens","estherphillips","estherphillips","drjohn","jimhall","thepogues","tracynelson","katrinaandthewaves"]
+tags: ["martinssession","frankzappa","brucespringsteen","jimihendrix","wilco","mazzystar","thesundays","thephoenixfoundation","catstevens","estherphillips","drjohn","jimhall","thepogues","tracynelson","katrinaandthewaves"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Jimi Hendrix original or cover, and now extended to any other virtuoso performer!, Sadness, Joyous/ joyful_
