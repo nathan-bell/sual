@@ -7,7 +7,11 @@
 {{ $width:= index (split $size `x`) 0 }}
 <!-- image static/CDN -->
 {{ if or (hasPrefix $imagePath "http") (fileExists (add `static/` (string $imagePath))) }}
-  <img loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" height="{{$height}}" width="{{$width}}">
+  {{ if lt $index 3 }}
+    <img loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" height="{{$height}}" width="{{$width}}">
+  {{ else }}
+    <img src="{{ $imagePath | absURL }}" alt="{{.Alt}}" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" height="{{$height}}" width="{{$width}}">
+  {{ end }}
 {{ else }}
   <!-- /image cdn -->
 

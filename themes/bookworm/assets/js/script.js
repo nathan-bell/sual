@@ -88,6 +88,7 @@ var videolistner = function(e) {
 };
 
 //listen to the mouseover event to change the video
-ytplaceholder.addEventListener('mouseover', videolistner);
+if (ytplaceholder != null )
+  ytplaceholder.addEventListener('mouseover', videolistner);
 
 // });
