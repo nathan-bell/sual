@@ -9,7 +9,7 @@ author: "Nathan"
 tags: ["martinssession","porcupinetree","pinkfloyd","stevenwilson","avantdalebowlingclub","solarosa","theroots","littlesimz","rickwakeman","slyandthefamilystone","scarypocketsandtalwilkenfeld","nasa","2pac","lahza","ishancooper","thekingites","skylarspence","patmethenygroup","averagewhiteband","thepoetsofrhythm","manfredmannsearthband","youtube"]
 categories: ["Gatherings"]
 ---
-> We quaffed mead (does it still count as quaffing if you only have a thimble full) and exploored unfamiliar territories: funk, rap and prog.
+> We quaffed mead (does it still count as quaffing if you only have a thimble full?) and exploored unfamiliar territories: funk, rap and prog.
 ### Funk
 - **Scary Pockets & Tal Wilkenfeld** - _"Big Yellow Taxi"_ (Martin) [youtube](https://www.youtube.com/watch?v=8jm1Zl2Fjd4)
 - **Skylar Spence** - _"Private Caller"_ (Keira)  [youtube](https://www.youtube.com/watch?v=PsoJNBWkKWQ)
