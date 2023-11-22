@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200130_TP.Greatest.Hits.jpg"
 date: 2020-01-30T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["tompettyandtheheartbreakers"]
+tags: ["tompetty"]
 categories: ["Listen"]
 ---
 ### You can thank not taking the time to properly programme stations on the car radio and the holiday break for my two latest indiscretions. (I’ll leave the other one up my sleeve).  

@@ -6,7 +6,7 @@ image: "/images/post/Tribals.jpg"
 date: 2019-04-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thebeatles","thecure","neilyoung","brucespringsteen","thewho","gratefuldead","themagneticfields","echoandthebunnymen","nirvana","thedoors","paramore","johnmayallandthebluesbreakers","glennmiller","avrillavigne","latinplayboys","thesiegel‐schwallband"]
+tags: ["richardssession","thebeatles","thecure","neilyoung","brucespringsteen","thewho","gratefuldead","themagneticfields","echoandthebunnymen","nirvana","thedoors","paramore","johnmayall","glennmiller","avrillavigne","latinplayboys","thesiegel‐schwallband"]
 categories: ["Gatherings"]
 ---
 > The themes were: _The "BANG" record, where it shifted or consolidated again, Extra Track (Quiz Winner), The "BOOM" record, where it all began_

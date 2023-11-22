@@ -6,7 +6,7 @@ image: "/images/post/20160223_image-asset.png"
 date: 2016-02-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","davidbowie","thechills","johnmartyn","tinyruins","theclash","toriamos","minutemen","thestreets","mward","thewaifs","joelovano","helenabonhamcarter","bobmarleyandthewailers","bertjanschandjohnrenbourn"]
+tags: ["brucessession","davidbowie","thechills","johnmartyn","tinyruins","johnrenbourn","theclash","toriamos","minutemen","thestreets","bertjansch","mward","thewaifs","joelovano","helenabonhamcarter","bobmarleyandthewailers"]
 categories: ["Gatherings"]
 ---
 > The themes were: _London, Bowie, Food_

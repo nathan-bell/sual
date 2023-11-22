@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200913_TBE12.jpg"
 date: 2020-09-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["blonderedhead/thebodyelectric"]
+tags: ["blonderedhead"]
 categories: ["Listen"]
 ---
  It's quite apparent within a few seconds how sonically pleasing the old 12" singles and EPs are.   

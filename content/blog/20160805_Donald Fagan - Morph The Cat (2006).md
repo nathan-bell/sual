@@ -4,7 +4,7 @@ image: "/images/post/wilt_20160805_image-asset.jpeg"
 date: 2016-08-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["donaldfagan"]
+tags: ["donaldfagen"]
 categories: ["Listen"]
 ---
 ### Play that funky music white boy! This is great for a Friday night cleaning out my den upstairs. 

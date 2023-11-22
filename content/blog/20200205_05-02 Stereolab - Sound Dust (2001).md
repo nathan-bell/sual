@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200205_SL.Sound-Dust.jpg"
 date: 2020-02-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["05/02stereolab"]
+tags: ["stereolab"]
 categories: ["Listen"]
 ---
 ### I always wanted to listen to this record this evening.   

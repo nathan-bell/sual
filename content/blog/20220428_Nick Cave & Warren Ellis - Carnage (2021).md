@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220428_NC%26WE.Carnage.jpg"
 date: 2022-04-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickcaveandwarrenellis"]
+tags: ["nickcave","warrenellis"]
 categories: ["Listen"]
 ---
 ### I’ve kept this one up my sleeve. 

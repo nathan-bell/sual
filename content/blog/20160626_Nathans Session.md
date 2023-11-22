@@ -6,7 +6,7 @@ image: "/images/post/elliotsmith.png"
 date: 2016-06-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nathanssession","neilyoung","pinkfloyd","tomwaits","johnhiatt","yes","thestooges","sarahjarosz","björk","bigcountry","thestrokes","ironandwine","overtherhine","gregbrown","ericclapton","chriswhitley","algreen","tajmahal","rickyskaggs","elliottsmith","tracychapman","arthuralexander"]
+tags: ["nathanssession","neilyoung","pinkfloyd","tomwaits","johnhiatt","yes","thestooges","sarahjarosz","ironandwine","björk","bigcountry","thestrokes","overtherhine","chriswhitley","gregbrown","ericclapton","algreen","tajmahal","rickyskaggs","elliottsmith","tracychapman","arthuralexander"]
 categories: ["Gatherings"]
 ---
 > The theme is “Digging through the archives” 

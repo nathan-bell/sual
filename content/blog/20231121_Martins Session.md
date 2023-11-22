@@ -6,7 +6,7 @@ image: "/images/post/istockphoto-165505438-612x612.jpg"
 date: 2023-11-21T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["martinssession","porcupinetree","pinkfloyd","stevenwilson","avantdalebowlingclub","solarosa","theroots","littlesimz","rickwakeman","slyandthefamilystone","scarypocketsandtalwilkenfeld","nasa","2pac","lahza","ishancooper","thekingites","skylarspence","patmethenygroup","averagewhiteband","thepoetsofrhythm","manfredmannsearthband","youtube"]
+tags: ["martinssession","porcupinetree","pinkfloyd","stevenwilson","avantdalebowlingclub","solarosa","theroots","littlesimz","scarypockets","talwilkenfeld","2pac","patmetheny","rickwakeman","poetsofrhythm","slyandthefamilystone","nasa","lahza","ishancooper","thekingites","skylarspence","averagewhiteband","manfredmannsearthband","youtube"]
 categories: ["Gatherings"]
 ---
 > We quaffed mead (does it still count as quaffing if you only have a thimble full?) and explored unfamiliar territories: funk, rap and prog.

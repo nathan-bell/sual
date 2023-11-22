@@ -6,7 +6,7 @@ image: "/images/post/20200121_Trump.Guitar.jpg"
 date: 2020-01-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","xtc","paulkelly","rycooder","bozscaggs","therutles","thechurch","jamesbrown","rodneycrowell","uriahheep","jakobdylan","squirrelflower","christineandthequeens","thomasdolby","adeleparody","davidbromberg","mandolinorange","stevenseagulls","thedukesofstratosphear"]
+tags: ["brucessession","xtc","paulkelly","rycooder","bozscaggs","jamesbrown","therutles","thechurch","rodneycrowell","uriahheep","jakobdylan","davidbromberg","squirrelflower","christineandthequeens","thedukesofstratosphear","thomasdolby","adeleparody","mandolinorange","stevenseagulls"]
 categories: ["Gatherings"]
 ---
 > The themes were: _New! , A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played), A piece of music that reflects one of your resolutions or goals for the new year _

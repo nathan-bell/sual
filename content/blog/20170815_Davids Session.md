@@ -6,7 +6,7 @@ image: "/images/post/20170824_IMG_3455.JPG"
 date: 2017-08-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","themagneticfields","mazzystar","sarahjarosz","pretenders","garyclarkjr","bryanferry","herbiehancock","zenmantra","funkadelic","angelolsen","caitlinsmith","aoifeodonovan","jurassic5","rilokiley","thejacksons","rufusthomas","johncoltrane","ellafitzgerald","thenevillebrothers","robertgordonandlinkwray","englishrugbyleaguecommentary"]
+tags: ["davidssession","themagneticfields","mazzystar","pretenders","sarahjarosz","garyclarkjr","bryanferry","herbiehancock","linkwray","zenmantra","funkadelic","angelolsen","caitlinsmith","robertgordon","aoifeodonovan","ellafitzgerald","jurassic5","rilokiley","thejacksons","rufusthomas","johncoltrane","thenevillebrothers","englishrugbyleaguecommentary"]
 categories: ["Gatherings"]
 ---
 > The themes were: _African American (any musical genre welcome), Lady Singers Only (transgender inclusive), Make up your own theme (no theme IS a theme!)_

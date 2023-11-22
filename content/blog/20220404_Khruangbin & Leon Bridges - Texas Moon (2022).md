@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220404_KLB.Texas.Moon.jpg"
 date: 2022-04-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["khruangbinandleonbridges"]
+tags: ["khruangbin","leonbridges"]
 categories: ["Listen"]
 ---
 ### My usual bag of coffee beans has gone up by $2.50 over the last couple of months. WTF! Now that’s serious and potentially troublesome for my boy and his two-cups-of-my-coffee-a-day habit.  

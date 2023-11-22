@@ -4,7 +4,7 @@ image: "/images/post/wilt_20180702_Dark.Night.Of.The.Souls.jpg"
 date: 2018-07-02T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["dangermouseandsparklehorse"]
+tags: ["sparklehorse","dangermouse"]
 categories: ["Listen"]
 ---
 ### Some of my favourite vocalists appear on this final collaborative outing for Mark Linkous, who died just months before it's release.

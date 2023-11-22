@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220911_The.Pearl.jpg"
 date: 2022-09-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["haroldbudd/brianeno"]
+tags: ["brianeno","haroldbudd"]
 categories: ["Listen"]
 ---
 ### When we happen to have a visiting contingent of guests, related or otherwise, I'm always conscious of playing music in the lounge that does not challenge.

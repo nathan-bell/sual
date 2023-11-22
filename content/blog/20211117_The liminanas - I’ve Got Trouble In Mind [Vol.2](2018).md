@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211117_liminanas.2.jpg"
 date: 2021-11-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["theliminanas"]
+tags: ["thelimiñanas"]
 categories: ["Listen"]
 ---
 ### Another fabulous compilation from French couple, Marie and Lionel Liminana (with a bit of help from a myriad of others).This is their second collection in two years. 

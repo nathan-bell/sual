@@ -6,7 +6,7 @@ image: "/images/post/1556933438_6d57f2f92e.jpg"
 date: 2015-06-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nick’ssession","therollingstones","eltonjohn","paulkelly","jamestaylor","bonnieraitt","doves","therails","brighteyes","eels","theblackkeys","mountain","sandydenny","mariamuldaur","steveearleandthedukes(andduchesses","bbking","beneking","jimmysmith","grinderman","joerobinson","tuckandpatti","johnleehooker","charlottegainsbourg"]
+tags: ["nick’ssession","nickcave","therollingstones","paulkelly","eltonjohn","jamestaylor","steveearle","brighteyes","conoroberst","bonnieraitt","doves","therails","eels","theblackkeys","mountain","sandydenny","mariamuldaur","bbking","beneking","jimmysmith","grinderman","joerobinson","tuckandpatti","johnleehooker","charlottegainsbourg"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Women, Duos, Royalty_

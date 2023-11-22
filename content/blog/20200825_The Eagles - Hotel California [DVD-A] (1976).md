@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200825_image-asset.jpeg"
 date: 2020-08-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["theeagles"]
+tags: ["eagles"]
 categories: ["Listen"]
 ---
 ### Don't you dear judge me for listening to this! I grew hair on my bollocks listening to this record.   

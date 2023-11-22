@@ -6,7 +6,7 @@ image: "/images/post/20181116_IMG_4256.JPG"
 date: 2018-10-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","frankzappa","blackberrysmoke","mazzystar","johngrant","hanggai","thebooks","kikagakumoyo","fugazi","strawpeople","gogolbordello","sash!","spirit","baabamaal","robertgordon","miroslavvitouš","alicephoebelou","karlheinzstockhausen","edgarwinterswhitetrash"]
+tags: ["brucessession","frankzappa","blackberrysmoke","mazzystar","johngrant","kikagakumoyo","hanggai","thebooks","fugazi","strawpeople","robertgordon","gogolbordello","sash!","spirit","baabamaal","edgarwinters","miroslavvitouš","alicephoebelou","karlheinzstockhausen"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Electronic , International, Rock_

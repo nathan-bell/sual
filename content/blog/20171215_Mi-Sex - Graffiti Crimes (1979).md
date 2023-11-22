@@ -4,7 +4,7 @@ image: "/images/post/wilt_20171215_Misex.Graffiti.Crimes.jpg"
 date: 2017-12-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["mi-sex"]
+tags: ["misex"]
 categories: ["Listen"]
 ---
 ### Reviewed previously on 2nd March 2014

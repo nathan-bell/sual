@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200117_Dukes.PS.jpg"
 date: 2020-01-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["xtcasthedukesofstratosphear"]
+tags: ["xtc","thedukesofstratosphear"]
 categories: ["Listen"]
 ---
 ### This astounding surround-sounding compilation is the cats pajamas for XTC completists.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190320_Dick.Dale.jpg"
 date: 2019-03-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["dickdaleandhisdel-tones"]
+tags: ["dickdale"]
 categories: ["Listen"]
 ---
 ### **16th March 2019 - RIP Dick Dale.**

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190117_Prodigy.Music.jpg"
 date: 2019-01-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["prodigy"]
+tags: ["theprodigy"]
 categories: ["Listen"]
 ---
 ### A classic dance/drum'n'bass/rock/metal cross-over record that absolutely slam dunks all of the big beats, electronic riffage and squelchy brilliance. 

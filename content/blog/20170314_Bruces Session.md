@@ -6,7 +6,7 @@ image: "/images/post/20170326_image-asset.jpeg"
 date: 2017-03-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","porcupinetree","bobdylan","blackfield","joejackson","themarsvolta","caravan","robertwyatt","stevehillage","deadkennedys","chon","toylove","kingcrimson","scrittipolitti","man","pfm+pagani","pseudoecho","akron/family","looktowindward"]
+tags: ["brucessession","porcupinetree","bobdylan","blackfield","joejackson","themarsvolta","caravan","robertwyatt","stevehillage","deadkennedys","chon","toylove","kingcrimson","scrittipolitti","man","pfm+pagani","pseudoecho","akronfamily","looktowindward"]
 categories: ["Gatherings"]
 ---
 > Return of the Giant Progweed.

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20190529_BM.Destroyer.jpg"
 date: 2019-05-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["29/05blackmountain"]
+tags: ["blackmountain"]
 categories: ["Listen"]
 ---
 ### Having a 5 hour bus trip ahead of me to contend with works out to be the perfect opportunity to listen to a couple of new records courtesy of Tidal.

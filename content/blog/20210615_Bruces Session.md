@@ -6,7 +6,7 @@ image: "/images/post/20210620_IMG_1074.JPG"
 date: 2021-06-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","blackberrysmoke","theband","jamestaylor","cowboyjunkies","pjharvey","giantsand","nickdrake","donmcglashan","sonvolt","bryanferry","larrycarlton","benee","caitlinsmith","sleafordmods","thebeachboys","leehazlewood","straitjacketfits","theblueaeroplanes","theamazingrhythmaces","tamamshud","gregjohnson","larrycoryell","jabercrombie","jscofieldtalfarlow"]
+tags: ["brucessession","blackberrysmoke","theband","jamestaylor","cowboyjunkies","pjharvey","giantsand","nickdrake","leehazlewood","donmcglashan","sonvolt","bryanferry","larrycarlton","benee","caitlinsmith","sleafordmods","thebeachboys","straitjacketfits","theblueaeroplanes","theamazingrhythmaces","tamamshud","gregjohnson","larrycoryell","jabercrombie","jscofieldtalfarlow"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Sun, Sea and Surf , Storm and Pestilence , Harvest, Leaves Falling_

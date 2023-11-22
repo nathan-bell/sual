@@ -4,7 +4,7 @@ image: "/images/post/wilt_20230111_Alt-J.Yours.jpg"
 date: 2023-01-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["alt-j"]
+tags: ["altj"]
 categories: ["Listen"]
 ---
 ### I don't know why I even bother reading reviews on "Pitchfork.com". 

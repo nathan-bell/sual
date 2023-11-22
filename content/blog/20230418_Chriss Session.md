@@ -6,7 +6,7 @@ image: "/images/post/20230418_Chick.jpg"
 date: 2023-04-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","blackberrysmoke","theband","themonkees","fleetwoodmac","cowboyjunkies","troykingi","beachhouse","jacksonbrowne","massiveattack","jamesbrown","barryadamson","herbiehancock","cracker","jamesgang","coast","louiscole","barrywhite","stevemartin","chrystabell","adrianbelew","reginaspektor"]
+tags: ["chrisssession","blackberrysmoke","theband","themonkees","fleetwoodmac","cowboyjunkies","troykingi","beachhouse","jamesbrown","jacksonbrowne","massiveattack","barryadamson","herbiehancock","cracker","jamesgang","coast","louiscole","barrywhite","stevemartin","chrystabell","adrianbelew","reginaspektor"]
 categories: ["Gatherings"]
 ---
 > The themes were: _The letter S , The letter U, The letter L_

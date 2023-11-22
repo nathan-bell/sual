@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220806_Jazzmatazz.02.jpg"
 date: 2022-08-06T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["gurusjazzmatazz"]
+tags: ["guru"]
 categories: ["Listen"]
 ---
 ### Great 2nd release that merges mainstream Jazz with street cred Hip-Hop and successfully ticks the "really cool" box.

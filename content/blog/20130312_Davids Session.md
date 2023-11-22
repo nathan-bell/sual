@@ -6,7 +6,7 @@ image: "/images/post/il_fullxfull.1487619988_4tp9.jpg"
 date: 2013-03-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","thebeatles","ledzeppelin","america","califone","otisredding","glencampbell","countryjoeandthefish","dimmer","jennylewis","direstraits","lylelovett","larrysrebels","fairportconvention","octopus","thepolice","georgiefame","steviewonder","raphaelsaadiq","sharonrobinson","vintagetrouble","johnjorgensonquintet","therighteousbrothers","theladybugtransistor","mikenockandmartyehrlich","bobbrozmanandledwardka`apana"]
+tags: ["davidssession","thebeatles","ledzeppelin","america","califone","otisredding","glencampbell","countryjoeandthefish","dimmer","jennylewis","direstraits","lylelovett","larrysrebels","fairportconvention","octopus","thepolice","bobbrozman","georgiefame","steviewonder","raphaelsaadiq","sharonrobinson","vintagetrouble","ledwardkaapana","johnjorgensonquintet","therighteousbrothers","theladybugtransistor","mikenockandmartyehrlich"]
 categories: ["Gatherings"]
 ---
 > The themes were: _A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!), Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities), A new discovery. (Surprise us with something you believe no one else has heard!)_

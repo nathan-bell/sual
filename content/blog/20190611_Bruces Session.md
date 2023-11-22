@@ -6,7 +6,7 @@ image: "/images/post/Shipbuilding.jpg"
 date: 2019-06-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","bobdylan","eltonjohn","blacksabbath","aabondy","robertwyatt","mondorock","blamblamblam","aurora","thecult","theangels","melparsons","ralphmctell","johntavener","avantidalebowlingclub"]
+tags: ["brucessession","bobdylan","eltonjohn","blacksabbath","avantdalebowlingclub","aabondy","robertwyatt","mondorock","blamblamblam","aurora","thecult","theangels","melparsons","ralphmctell","johntavener"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Two tracks that you know from the past, but have not played for at least 15 years, And one track that you discover after the session at David’s last week_
@@ -27,5 +27,5 @@ categories: ["Gatherings"]
 - **Mel Parsons** - _"Blame"_ (Nick)
 - **Aurora** - _"The River"_ (Richard)
 - **The Cult** - _"She Sells Sanctuary"_ (David)
-- **Avantidale Bowling Club** - _"F(r)iends"_ (Martin)
+- **Avantdale Bowling Club** - _"F(r)iends"_ (Martin)
 

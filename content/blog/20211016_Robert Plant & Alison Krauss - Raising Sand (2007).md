@@ -4,7 +4,7 @@ image: "/images/post/wilt_20211016_Plant.Krauss.02.jpg"
 date: 2021-10-16T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["robertplantandalisonkrauss"]
+tags: ["alisonkrauss","robertplant"]
 categories: ["Listen"]
 ---
 ### It’s really hard to believe that this wonderful record was made the year I started working in my current (and hopefully last) job. Now that's 14 years ago! I simply can't fathom the time that has past and my mind is still suggesting that it's been a lot less than that. I'll let my cerebrum fight that battle.

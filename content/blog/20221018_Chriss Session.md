@@ -6,7 +6,7 @@ image: "/images/post/20221018_IMG_4585.JPEG"
 date: 2022-10-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","jonimitchell","ryanadams","marlonwilliams","gillianwelch","arthurrussell","johnbutlertrio","thebeths","portishead","eagles","bobweir","theshins","bigthief","osees","ericbogle","thetenants","drive‐bytruckers","anohniandthejohnsons"]
+tags: ["chrisssession","jonimitchell","marlonwilliams","ryanadams","gillianwelch","arthurrussell","johnbutlertrio","eagles","thebeths","portishead","bobweir","theshins","bigthief","osees","ericbogle","thetenants","drive‐bytruckers","anohniandthejohnsons"]
 categories: ["Gatherings"]
 ---
 > This session was originally to be hosted by Martin. The fucking COVID unpleasantness put paid to that!

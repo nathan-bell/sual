@@ -6,7 +6,7 @@ image: "/images/post/773x435_cmsv2_396d6dd8-cead-545b-bb1b-67415144ca82-7501764.
 date: 2014-04-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","thebeatles","paulkelly","gratefuldead","tonyjoewhite","mattberry","moseallison","thejesusandmarychain","no-man","kort","dogage","robertconti","nigelkennedy","dextergordon","salmonelladub","williamburroughs","mightyaccordionband","gerryandthepacemakers"]
+tags: ["martinssession","thebeatles","paulkelly","gratefuldead","tonyjoewhite","mattberry","moseallison","noman","thejesusandmarychain","kort","dogage","robertconti","nigelkennedy","dextergordon","salmonelladub","williamburroughs","mightyaccordionband","gerryandthepacemakers"]
 categories: ["Gatherings"]
 ---
 > The themes were: _April, Foolishness, Wisdom_

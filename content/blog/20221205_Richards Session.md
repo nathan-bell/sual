@@ -6,7 +6,7 @@ image: "/images/post/20221205_French01.jpg"
 date: 2022-12-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","stereolab","thecure","sonicyouth","rycooder","sergegainsbourg","madeleinepeyroux","beirut","jimkweskin","christineandthequeens","kateandannamcgarrigle","gwendal","corridor","palatine","halfnoise","joedassin","grandblanc","davidgrisman","claudedebussy","wesmontgomery","françoisehardy","philippegonnand","jacquelinetaïeb","rufuswainwright","airfeatbethhirsch","alvinyoungbloodhart","mahavishnuorchestra","thelimiñanasfeatnuria"]
+tags: ["richardssession","stereolab","thecure","sonicyouth","rycooder","jimkweskin","sergegainsbourg","madeleinepeyroux","beirut","christineandthequeens","kateandannamcgarrigle","gwendal","corridor","palatine","halfnoise","joedassin","grandblanc","davidgrisman","claudedebussy","wesmontgomery","françoisehardy","philippegonnand","jacquelinetaïeb","rufuswainwright","airfeatbethhirsch","alvinyoungbloodhart","mahavishnuorchestra","thelimiñanasfeatnuria"]
 categories: ["Gatherings"]
 ---
 > The themes were: _THE FRENCH CONNECTION_

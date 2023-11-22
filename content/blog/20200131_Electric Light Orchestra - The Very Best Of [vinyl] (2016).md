@@ -4,7 +4,7 @@ image: "/images/post/wilt_20200131_ELO.TVBO.jpg"
 date: 2020-01-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["electriclightorchestra"]
+tags: ["elo"]
 categories: ["Listen"]
 ---
  Another brilliant collection, like yesterday's compilation, of extraordinary and ageless AOR music.   

@@ -4,7 +4,7 @@ image: "/images/post/wilt_20220531_ESA-S.DSOTM.jpg"
 date: 2022-05-31T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["easystarall-stars"]
+tags: ["easystarallstars"]
 categories: ["Listen"]
 ---
 ### Some times old rock dinosaurs just need to lighten up a bit. Roger Waters especially continues to be an old misery guts and wallows in self-pity.

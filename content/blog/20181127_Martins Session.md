@@ -6,7 +6,7 @@ image: "/images/post/20190207_IMG_3470.JPG"
 date: 2018-11-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","thebeatles","nickcaveandthebadseeds","fleetwoodmac","tonyjoewhite","jeffersonairplane","jakob","mycomputer","arethafranklin","chon","espers","laurieanderson","nataliemerchant","lite","chriswood","markesmith","alexthekidd","thefolkimplosion","kurtvileandstevegunn","annesofievonotterandbrooklynrider"]
+tags: ["martinssession","thebeatles","nickcave","kurtvile","fleetwoodmac","tonyjoewhite","jeffersonairplane","jakob","mycomputer","laurieanderson","arethafranklin","chon","espers","nataliemerchant","lite","chriswood","stevegunn","markesmith","alexthekidd","brooklynrider","thefolkimplosion","annesofievonotter"]
 categories: ["Gatherings"]
 ---
 > The themes were: _STEM (science, technology, engineering, mathematics) , One track to commemorate a 2018 rock death._

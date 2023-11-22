@@ -6,7 +6,7 @@ image: "/images/post/20171116_masks2.jpg"
 date: 2017-11-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","thecure","jimihendrix","jonimitchell","johnhiatt","radiohead","lucindawilliams","nickdrake","therails","jacksonbrowne","lynyrdskynyrd","deathcabforcutie","mattsweeney","walterbecker","bonnieprincebilly","lylelovett","foofighters","mariamuldaur","paulkellyandthemessengers","fuckedup","ragnboneman","themilkcartonkids","thejimkweskinjugband"]
+tags: ["nickssession","thecure","paulkelly","jimihendrix","jonimitchell","johnhiatt","radiohead","lucindawilliams","nickdrake","jimkweskin","therails","walterbecker","jacksonbrowne","lynyrdskynyrd","deathcabforcutie","mattsweeney","bonnieprincebilly","lylelovett","foofighters","mariamuldaur","fuckedup","ragnboneman","themilkcartonkids"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Name Check, Chess Board, Impress Me_

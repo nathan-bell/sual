@@ -6,7 +6,7 @@ image: "/images/post/singing-on-the-brain.jpg"
 date: 2014-11-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nathanssession","frankzappa","tomwaits","beck","themonkees","hanggai","marcribot","billfrisell","fourtet","aldimeola","juleecruise","janisjoplin","thebetaband","jacopastorius","thedecemberists","themountaingoats","sambaker","leeranaldo","thecrumbfamily","victoriawilliams","thejameshuntersix","creedenceclearwaterrevival"]
+tags: ["nathanssession","frankzappa","tomwaits","beck","themonkees","marcribot","billfrisell","hanggai","fourtet","aldimeola","juleecruise","janisjoplin","thebetaband","jacopastorius","thedecemberists","themountaingoats","ccr","sambaker","leeranaldo","thecrumbfamily","victoriawilliams","thejameshuntersix"]
 categories: ["Gatherings"]
 ---
 > The Secretary apologised for completely misinterpreting the evening's theme. A vote of no confidence was marginally avoided.

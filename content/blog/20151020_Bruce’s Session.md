@@ -6,7 +6,7 @@ image: "/images/post/images.jpg"
 date: 2015-10-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["bruce’ssession","davidbowie","steelydan","tomwaits","paulkelly","johngrant","archieroach","glencampbell","donmcglashan","tamineilson","shihad","neilfinn","kurtelling","worldparty","ebandsparrow","thelemonpipers","the3ds","mrgreen","snarkypuppy","supergroove","theapplesinstereo","eventhoughi’mblue","florenceandthemachine"]
+tags: ["bruce’ssession","davidbowie","steelydan","tomwaits","paulkelly","johngrant","archieroach","glencampbell","donmcglashan","tamineilson","the3ds","shihad","neilfinn","kurtelling","worldparty","ebandsparrow","thelemonpipers","florenceandthemachine","mrgreen","snarkypuppy","supergroove","theapplesinstereo","eventhoughi’mblue"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Rebirth, Green, Kiwi_
