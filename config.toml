@@ -131,3 +131,10 @@ weight = 2
 [[params.social]]
 icon = "lab la-facebook-f" 
 url = "https://github.com/nathan-bell/sual"
+
+
+
+[services]
+  [services.disqus]
+    shortname = 'shutupandlisten-co-nz'
+
