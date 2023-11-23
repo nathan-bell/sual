@@ -59,7 +59,11 @@
           <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
           <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
           <source srcset="{{ $imageXL.RelPermalink }}">
-          <img loading="lazy" decoding="async" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
+          {{ if lt $index 3 }}
+            <img class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
+          {{ else }}
+            <img loading="lazy" decoding="async" class="{{with $class}}{{.}}{{else}}img-fluid{{end}}" src="{{$imageFallback.RelPermalink}}" alt="{{.Alt}}" width="{{$image.Width}}" height="{{$image.Height}}">
+          {{ end }}
         </picture>
       {{ end }} <!-- end image processing -->
     {{ end }} <!-- end single image -->
