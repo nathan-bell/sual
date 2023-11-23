@@ -6,9 +6,24 @@
 {{- $title := .Get "title" | default "YouTube Video" }}
 
 <div id="ytplaceholder" {{ with $class }}class="{{ . }}"{{ else }}style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"{{ end }}>
-    <img class="ytcover"       
-         loading="lazy"
-         src="https://i.ytimg.com/vi/{{ $id }}/maxresdefault.jpg">
+     {{ $s := slice (print "https://i.ytimg.com/vi_webp/" $id "/maxresdefault.webp") 
+                    (print "https://i.ytimg.com/vi_webp/" $id "/sddefault.webp") 
+                    (print "https://i.ytimg.com/vip/" $id "/sddefault.jpg") 
+                    (print "https://i.ytimg.com/vi_webp/" $id "/hqdefault.webp") 
+                    (print "https://i.ytimg.com/vi/" $id "/hqdefault.jpg") 
+                    (print "https://i.ytimg.com/vi_webp/" $id "/mqdefault.webp") 
+                    (print "https://i.ytimg.com/vi/" $id "/mqdefault.jpg") 
+                     (print "https://i.ytimg.com/vi_webp/" $id "/default.webp")  
+                     (print "https://i.ytimg.com/vi/" $id "/default.jpg")  }}    
+
+    {{ range $s }}
+      {{ $url := . }} 
+      {{ with resources.GetRemote $url }}
+            {{ $.Scratch.Set "url" $url }}
+            {{ break }}
+        {{ end }}
+    {{ end }}
+    <img class="ytcover" loading="lazy" src="{{ .Scratch.Get "url" }}">
     <iframe 
         id="ytiframe" 
         data-src="https://www.youtube.com/embed/{{ $id }}"
