@@ -81,10 +81,13 @@ var ytplaceholder = document.getElementById ('ytplaceholder');
 
 // change the video
 var videolistner = function(e) {
-   var ytiframe = document.getElementById('ytiframe');
-   ytiframe.src = ytiframe.getAttribute('data-src');
-   ytiframe.onload = ytiframe.style.opacity = 1;
-   ytplaceholder.removeEventListener("mouseover", videolistner);
+  if( inViewport( ytplaceholder ) ){
+    var ytiframe = document.getElementById('ytiframe');
+    ytiframe.src = ytiframe.getAttribute('data-src');
+    ytiframe.onload = ytiframe.style.opacity = 1;
+    ytplaceholder.removeEventListener("mouseover", videolistner);    
+    document.removeEventListener( 'scroll', videolistner);
+  }
 };
 
 //listen to the mouseover event to change the video
@@ -92,3 +95,10 @@ if (ytplaceholder != null )
   ytplaceholder.addEventListener('mouseover', videolistner);
 
 // });
+
+function inViewport( element ){  
+  var bb = element.getBoundingClientRect();
+  return !(bb.top > innerHeight || bb.bottom < 0);
+}
+
+document.addEventListener( 'scroll', videolistner);
