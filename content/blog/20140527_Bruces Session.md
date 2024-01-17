@@ -6,7 +6,7 @@ image: "/images/post/60640963e670b28c15e77e7c7adbc092.jpg"
 date: 2014-05-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","neilyoung","vanmorrison","gratefuldead","brianeno","thetimejumpers","kellyjoephelps","johnbutlertrio","archieroach","davidsylvian","nin","thebeat","larrycarlton","overtherhine","mymorningjacket","u2","neilfinn","sexpistols","orangejuice","beastieboys","smashingpumpkins","jimreeves","therosenbergtrio"]
+tags: ["brucessession","neilyoung","vanmorrison","gratefuldead","brianeno","thetimejumpers","kellyjoephelps","johnbutlertrio","archieroach","davidsylvian","nin","thebeat","beastieboys","larrycarlton","overtherhine","mymorningjacket","u2","neilfinn","sexpistols","orangejuice","smashingpumpkins","jimreeves","therosenbergtrio"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Wisdom, Slowdown Relax, Stay There, Crank Yourself Up_

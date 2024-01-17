@@ -6,7 +6,7 @@ image: "/images/post/20220920_IMG_0996.JPG"
 date: 2022-09-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","beck","low","marlonwilliams","depechemode","pjharvey","thechills","bonnieraitt","marklanegan","lynyrdskynyrd","dianakrall","kaseychambers","whirimakoblack","barb","kahao","ladyhawke","procolharum","theunthanks","spandauballet","thecaitlinsmithgroup"]
+tags: ["chrisssession","beck","low","marlonwilliams","thechills","depechemode","pjharvey","bonnieraitt","marklanegan","lynyrdskynyrd","dianakrall","kaseychambers","whirimakoblack","barb","kahao","ladyhawke","procolharum","theunthanks","spandauballet","thecaitlinsmithgroup"]
 categories: ["Gatherings"]
 ---
 > The themes were: _R.I.P. , Break Up, Kiwi_
