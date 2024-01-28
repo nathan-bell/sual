@@ -2,6 +2,8 @@
 <html lang="{{ site.LanguageCode | default `en-US` }}">
 {{ partial "head.html" . }}
 <body>
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v18.0" nonce="4D35eq0E"></script>
   {{ partialCached "header.html" .  .Kind .Type .Data.Singular .Data.Term }}  
   {{if and (not .IsHome) (ne .Section "blog") (ne .Permalink (`about/` | absURL)) (ne .Permalink (`search/` | absURL)) }}
     {{ partialCached "page-header.html" . .Section .Title }}
