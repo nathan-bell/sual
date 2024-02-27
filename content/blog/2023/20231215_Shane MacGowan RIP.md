@@ -6,7 +6,7 @@ image: "/images/post/231208110648-01-shane-macgowan-funeral.webp"
 date: 2023-12-15T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["pogues","nickcave","shanemacgowan", "youtube"]
+tags: ["shanemacgowan","youtube"]
 categories: ["blog"]
 ---
 > Shane MacGowan (25 December 1957 – 30 November 2023)

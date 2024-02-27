@@ -6,7 +6,7 @@ image: "/images/post/8b72c9d81a5a790664509c4b91dcb1fa.jpg"
 date: 2013-05-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thewho","sonicyouth","wilco","rycooder","steveearle","gillianwelch","jonathanrichman","pretenders","johngrant","divinyls","kingsofleon","sufjanstevens","thecharlatans","jjcale","mikewatt","staticframes","peterblegvad","thelemonheads","masonjennings","andypartridge","neutralmilkhotel"]
+tags: ["richardssession","thewho","sonicyouth","rycooder","wilco","steveearle","gillianwelch","jonathanrichman","pretenders","johngrant","divinyls","kingsofleon","sufjanstevens","thecharlatans","jjcale","mikewatt","staticframes","peterblegvad","thelemonheads","masonjennings","andypartridge","neutralmilkhotel"]
 categories: ["Gatherings"]
 ---
 > The themes were: _US States, Anything Goes, Anything Goes Again, Signature Tunes_

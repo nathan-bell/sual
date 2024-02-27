@@ -5,7 +5,7 @@ image: "/images/post/jonbenjamin-wellishouldhave-cover-900x900-300.jpg"
 date: 2024-02-13T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["youtube"]
+tags: ["jonbenjamin","youtube"]
 categories: ["blog"]
 ---
 > _I don't play piano, at all, and I'm not a huge fan of jazz. I never was.  And that's why I thought it would be funny to make a jazz album_ - H. Jon Benjamin

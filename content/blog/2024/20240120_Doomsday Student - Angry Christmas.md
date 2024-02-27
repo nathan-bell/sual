@@ -6,7 +6,7 @@ image: "/images/post/61OIP2pclYL._UXNaN_FMjpg_QL85_.jpg"
 date: 2024-01-20T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["youtube","doomsdaystudent"]
+tags: ["doomsdaystudent","youtube"]
 categories: ["blog"]
 ---
 > Another contender for 'most disturbing video'?

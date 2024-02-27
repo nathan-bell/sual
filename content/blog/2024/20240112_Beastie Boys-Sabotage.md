@@ -5,7 +5,7 @@ image: "/images/post/tmp-name-3-814-1670763023-309_dblbig.jpg"
 date: 2024-01-12T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["youtube","beastieboys"]
+tags: ["beastieboys","youtube"]
 categories: ["blog"]
 ---
 > Spike Jonze directed this classic music video for the Beastie Boys parodying cop shows from the 70s.

@@ -6,7 +6,7 @@ image: "/images/post/polyphia-press@2000x1500-1-696x522.jpg"
 date: 2024-01-16T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["youtube","polyphia","stevevai"]
+tags: ["polyphia","youtube"]
 categories: ["blog"]
 ---
 > In September 2022, Polyphia released the single "Ego Death", the fourth from their latest album, Remember That You Will Die. The release was accompanied by a video, both of which feature guitar virtuoso Steve Vai.

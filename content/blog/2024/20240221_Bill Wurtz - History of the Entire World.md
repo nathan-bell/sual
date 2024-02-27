@@ -5,7 +5,7 @@ image: "/images/post/Screen_Shot_2017_05_11_at_2.05.56_PM.jpg"
 date: 2024-02-21T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["youtube"]
+tags: ["billwurtz","youtube"]
 categories: ["blog"]
 ---
 > Bill Wurtz released a 20-minute overview of world history, _history of the entire world, i guess_, on May 10, 2017.

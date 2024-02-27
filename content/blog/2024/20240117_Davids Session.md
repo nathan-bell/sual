@@ -15,7 +15,7 @@ categories: ["Gatherings"]
 - **alt-J** - _"U&ME"_ (Bruce)
 - **Everything But the Girl** - _"Nothing to Lose (Four Tet Remix)"_ (David)
 - **Cowboy Junkies** - _"Mike Tyson (Here It Comes)"_ (Chris)
-- **Purple Mountains** - _"All Myu Happiness is Gone"_ (Nathan)
+- **Purple Mountains** - _"All My Happiness is Gone"_ (Nathan)
 - **Lainey Wilson** - _"Grease"_ (Richard)
 - **Gentle Giant** - _"Free Hand"_ (Martin)  [youtube](https://www.youtube.com/watch?v=vMrYSTzqFI8)
 - **The Chills** - _"Rain"_ (Bruce)

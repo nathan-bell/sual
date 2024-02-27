@@ -5,7 +5,7 @@ image: "/images/post/Deliaderbyshire.jpg"
 date: 2023-11-18T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["deliaderbyshire"]
+tags: ["deliaderbyshire","youtube"]
 categories: ["blog"]
 ---
 > A short documentary on Delia Derbyshire - the unsung heroine of British electronic music.
