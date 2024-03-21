@@ -38,10 +38,8 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
 link = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.min.js"
 async = true
 [[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"
 async = true
-[[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 async = true
@@ -132,9 +130,4 @@ weight = 2
 icon = "lab la-facebook-f" 
 url = "https://github.com/nathan-bell/sual"
 
-
-
-[services]
-  [services.disqus]
-    shortname = 'shutupandlisten-co-nz'
 

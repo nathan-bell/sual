@@ -1,18 +1,13 @@
 summaryInclude=60;
-var fuseOptions = {
-  shouldSort: true,
-  includeMatches: true,
-  threshold: 0.0,
-  tokenize:true,
-  location: 0,
-  distance: 100,
-  maxPatternLength: 32,
+var fuseOptions = {  
+  tokenize: false,
+  includeMatches: true,    
+  ignoreLocation : true,
   minMatchCharLength: 1,
   keys: [
     {name:"title",weight:0.8},
     {name:"contents",weight:0.5},
-    {name:"tags",weight:0.3},
-    {name:"categories",weight:0.3}
+    {name:"tags",weight:0.5}
   ]
 };
 
@@ -65,9 +60,6 @@ function populateResults(result){
     var output = render(templateDefinition,{key:key,title:value.item.title,image:value.item.image,date:value.item.date,month:value.item.month,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet});
     $('#search-results').append(output);
 
-    $.each(snippetHighlights,function(snipkey,snipvalue){
-      $("#summary-"+key).mark(snipvalue);
-    });
   });
 }
 
