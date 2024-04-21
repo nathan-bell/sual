@@ -14,7 +14,7 @@ categories: ["Gatherings"]
 - **The Warratahs** - _"Mount Victoria Rain"_ (Chris)
 - **Mike Oldfield** - _"Platinum, Pt. 3 & 4 (Charleston/North Star/Platinun Finale)"_ (Bruce)
 - **Johnny Horton** - _"North To Alaska"_ (Richard)
-- **The Quebe Sisters** - _"Summer of the Roses"_ (Nathan)
+- **The Quebe Sisters** - _"Summer of the Roses"_ (Martin)
 - **LCD Soundsystem** - _"North American Scum"_ (Nathan)
 ### South.
 - **The Time Jumpers** - _"My Window Faces the South"_ (Martin) [youtube](https://www.youtube.com/watch?v=aGartzpXuyo)
