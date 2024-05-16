@@ -6,7 +6,7 @@ image: "/images/post/photo-1501139083538-0139583c060f.png"
 date: 2012-11-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","steelydan","neilyoung","pinkfloyd","jonimitchell","vanmorrison","gillianwelch","calexico","loslobos","grizzlybear","sistersofmercy","dexysmidnightrunners","drdog","delays","lazysmoke","kaleidoscope","alecbathgate","davidshrigley","deanandbritta"]
+tags: ["nickssession","neilyoung","steelydan","pinkfloyd","jonimitchell","vanmorrison","gillianwelch","calexico","loslobos","grizzlybear","sistersofmercy","dexysmidnightrunners","drdog","delays","lazysmoke","kaleidoscope","alecbathgate","davidshrigley","deanandbritta"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Time, D, F_

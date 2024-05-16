@@ -6,7 +6,7 @@ image: "/images/post/20210318_IMG_0940.JPG"
 date: 2021-03-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","ledzeppelin","neilyoung","steelydan","gratefuldead","sonicyouth","japan","crosby","kraftwerk","theallmanbrothersband","jimkweskin","jeffersonairplane","thephoenixfoundation","pylon","stills","davidbyrne","nashandyoung","thebeat","pavement","theincrediblestringband","gramparsons","thesearchers","geoffmuldaur","porridgeradio","elastica","kennyclarke","francyboland","charleystarr","buttholesurfers","justintownesearle","thepsychedelicfurs","fab5freddyandvexruffin"]
+tags: ["davidssession","ledzeppelin","neilyoung","steelydan","gratefuldead","sonicyouth","japan","crosby","kraftwerk","theallmanbrothersband","thephoenixfoundation","jimkweskin","jeffersonairplane","pylon","stills","davidbyrne","nashandyoung","thebeat","pavement","theincrediblestringband","gramparsons","thesearchers","geoffmuldaur","porridgeradio","elastica","kennyclarke","francyboland","charleystarr","buttholesurfers","justintownesearle","thepsychedelicfurs","fab5freddyandvexruffin"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like., A recent discovery which you think reflects those earlier influences._

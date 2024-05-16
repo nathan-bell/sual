@@ -5,7 +5,7 @@ image: "/images/post/1_65b8891c-75e6-425a-8b09-84814a6a0598.webp"
 date: 2024-02-27T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["richardssession","thebeatles","thewho","jamestaylor","rycooder","alisonkrauss","america","robertplant","lynyrdskynyrd","fleetfoxes","kateandannamcgarrigle","bbking","thecivilwars","teenagefanclub","thenottinghillbillies","theheavenlylightquartet","blink-182","theroches","johnprine","linkinpark","elliotsmith","ralphstanley","systemofadown","tonybennetandkdlang","betteroblivioncommunitycenter","youtube"]
+tags: ["richardssession","thebeatles","thewho","jamestaylor","rycooder","alisonkrauss","america","robertplant","lynyrdskynyrd","fleetfoxes","kateandannamcgarrigle","bbking","linkinpark","thecivilwars","teenagefanclub","thenottinghillbillies","theheavenlylightquartet","blink-182","theroches","johnprine","elliotsmith","ralphstanley","systemofadown","tonybennetandkdlang","betteroblivioncommunitycenter","youtube"]
 categories: ["Gatherings"]
 ---
 > We explored the world of harmony and it's importance in Country music, went down rabbit holes and fox holes, and discussed the relevance of Taylor Swift as a cultural icon.

@@ -6,7 +6,7 @@ image: "/images/post/20180529_Artist.Showcase.jpg"
 date: 2018-04-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","ledzeppelin","porcupinetree","stevenwilson","tomwaits","blackfield","cowboyjunkies","wilco","scottwalker","johnmartyn","jimmypage","thewalkerbrothers","nelscline","fleurdelys","thenelscline4"]
+tags: ["brucessession","ledzeppelin","porcupinetree","tomwaits","stevenwilson","blackfield","cowboyjunkies","wilco","scottwalker","johnmartyn","jimmypage","thewalkerbrothers","nelscline","fleurdelys","thenelscline4"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Choose a musician, performer or whatever and 3 tracks which feature that special person._
