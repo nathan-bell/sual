@@ -1,6 +1,1 @@
-{{- $pc := .Site.Config.Privacy.Disqus -}}
-{{- if not $pc.Disable -}}
-{{ if .Site.DisqusShortname }}
 <div class="fb-comments" data-href="{{ .Permalink }}" data-width="100%" data-numposts="5"></div>
-{{ end }}
-{{- end -}}
