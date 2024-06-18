@@ -6,7 +6,7 @@ image: "/images/post/20210928_robosml.jpg"
 date: 2021-09-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssessionatpetes","therollingstones","brucespringsteen","brianeno","joejackson","gillianwelch","calexico","billfrisell","johnrenbourn","htrk","dudleybenson","flowerkid","billwurtz","pentatonix","ruperthine","nicolasjaar","willjohnson","renaudgarcia‐fons","wakaatea","jerryreed","danreeder","madrugada","terryriley","annesalmond","thomasmorgan","marvinpontiac","danielnorgren","glenbrownandkingtubby"]
+tags: ["martinssessionatpetes","therollingstones","brucespringsteen","brianeno","joejackson","gillianwelch","calexico","billfrisell","johnrenbourn","htrk","willjohnson","dudleybenson","flowerkid","billwurtz","pentatonix","ruperthine","nicolasjaar","renaudgarcia‐fons","wakaatea","jerryreed","danreeder","madrugada","terryriley","annesalmond","thomasmorgan","marvinpontiac","danielnorgren","glenbrownandkingtubby"]
 categories: ["Gatherings"]
 ---
 > The theme: Less Is More - three tracks celebrating minimalism (with the usual expectation of creative interpretation, misinterpretation or contradiction, of course)
@@ -33,5 +33,5 @@ categories: ["Gatherings"]
 - **Bill Wurtz** - _"Mount St. Helens Is About to Blow Up"_ (Nathan)
 - **Rupert Hine** - _"I Hang on to My Vertigo"_ (David)
 - **Bruce Springsteen** - _"State Trooper"_ (Richard)
-- **Dudley Benson featuring Anne Salmond & Waka Atea** - _"Kiwi)"_ (Nick)
+- **Dudley Benson featuring Anne Salmond & Waka Atea** - _"Kiwi"_ (Nick)
 - **Daniel Norgren** - _"Moonshine Got Me"_ (Pete)
