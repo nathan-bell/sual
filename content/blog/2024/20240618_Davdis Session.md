@@ -1,6 +1,6 @@
 ---
-title: "David's Session - May 24"
-description: "A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear worm is."
+title: "David's Session - June 24"
+description: "A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear-worm is."
 image: "/images/post/dominos-falling.gif"
 date: 2024-06-18T00:00:00.0000000
 draft: false
@@ -8,7 +8,7 @@ author: "Nathan"
 tags: ["davdissession","willjohnson","billcallahan","andersonpaak","freenationals","gavinharrison","astorpiazzolla","mofro","jandek","slackwax","busdriver","stanleydee","emilyremler","caroemerald","$uicideboy$","jocelyngould","screamingtrees","laddiobollocko","emilyremlerandmontyalexander","youtube"]
 categories: ["Gatherings"]
 ---
-> A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear worm is
+> A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear-worm is
 
 ### A top-of-their-game musician who flys under the radar.
 - **Gavin Harrison** - _"Pick up the Pieces"_ (David) [youtube](https://www.youtube.com/watch?v=HHoHT3UEJyE)
