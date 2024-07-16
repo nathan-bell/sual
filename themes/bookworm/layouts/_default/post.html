@@ -11,7 +11,7 @@
     <ul class="card-meta list-inline mb-2">
       {{ if .Params.Author }}
       <li class="list-inline-item mb-2">
-        {{ with site.GetPage (.Params.Author | urlize | lower) }}
+        {{ with site.GetPage (printf "/author/%s" .Params.author | urlize | lower) }}
         <a href="{{.RelPermalink}}" class="card-meta-author">
           {{ $title := print "An avatar for " .Title}}
           {{if .Params.image}}

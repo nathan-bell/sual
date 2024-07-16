@@ -7,6 +7,11 @@ paginate = "5"
 # post excerpt
 summaryLength = "20"
 timeZone = "Pacific/Auckland"
+
+[author]
+name = "Nathan"
+email = "nathan@outlook.com"
+
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true
@@ -106,6 +111,11 @@ name = "Gatherings"
 weight = 2
 url = "categories/listen/"
 name = "Listen"
+
+[[menu.main]]
+weight = 2
+url = "members"
+name = "Members"
 
 
 [[menu.main]]

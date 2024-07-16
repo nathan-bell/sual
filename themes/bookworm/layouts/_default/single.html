@@ -13,7 +13,7 @@
             <li class="list-inline-item">
               {{ if .Params.author }}
               
-                {{ with .Site.GetPage (.Params.author | urlize | lower) }}
+                {{ with .Site.GetPage (printf "/author/%s" .Params.author | urlize | lower) }}
                 <a href="{{.RelPermalink}}" class="card-meta-author">                  
                   {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" "" "index" 0 ) }}
                   <span>{{.Title}}</span>
