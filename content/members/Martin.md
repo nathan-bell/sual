@@ -2,13 +2,17 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20171215_Misex.Graffiti.Crimes.jpg"
+date: 2024-07-17
+image:  "/images/members/Martin.jpg"
 draft: false
+tags: ["martin"]
+categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
 ### 306 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
+Martin's Top 5 most played artists are: Steely Dan, The Time Jumpers, Scott Walker, Mose Allison and Etta James.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Emily Remler & Monty Alexander</td><td><a href="https://www.youtube.com/watch?v=Am6P78jDTUw">Joy Spring</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Emily Remler</td><td><a href="https://www.youtube.com/watch?v=wJYqqA1U0mc">Tenor Madness</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>

@@ -2,13 +2,17 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20230207_XTC.BS.jpg"
+date: 2024-07-17
+image:  "/images/members/David.jpg"
 draft: false
+tags: ["david"]
+categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
 ### 333 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/David.jpg" %}}</p>
+David's Top 5 most played artists are: David Bowie, The Who, Steven Wilson, Serge Gainsbourg and The Stooges.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Gavin Harrison</td><td><a href="https://www.youtube.com/watch?v=HHoHT3UEJyE">Pick up the Pieces</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Mofro</td><td>Dirtfloorcracker</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>

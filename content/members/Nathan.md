@@ -2,13 +2,17 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20220509_Dope.Lemon.Bones.jpg"
+date: 2024-07-17
+image:  "/images/members/Nathan.jpg"
 draft: false
+tags: ["nathan"]
+categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
 ### 306 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
+Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Nick Cave & the Bad Seeds and Sonic Youth.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Bill Callahan</td><td>Jim Cain</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Jandek</td><td>Mostly All From You</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>

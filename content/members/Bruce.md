@@ -2,13 +2,17 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20160731_image-asset.jpeg"
+date: 2024-07-17
+image:  "/images/members/Bruce.jpg"
 draft: false
+tags: ["bruce"]
+categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
 ### 292 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
+Bruce's Top 5 most played artists are: The Chills, Grateful Dead, The Cure, John Butler Trio and Canzoniere Grecanico Salentino.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Hüsker Dü</td><td>Crystal</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>The Phoenix Foundation</td><td>Pot</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>

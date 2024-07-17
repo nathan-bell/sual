@@ -2,13 +2,17 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20220612_DM.Exciter.jpg"
+date: 2024-07-17
+image:  "/images/members/Chris.jpg"
 draft: false
+tags: ["chris"]
+categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
 ### 321 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
+Chris's Top 5 most played artists are: Eilen Jewell, John Hiatt, Son Volt, Ry Cooder and Joni Mitchell.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Screaming Trees</td><td>All I Know</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Slackwax</td><td>On the Road Again</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>

@@ -2,13 +2,17 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20210817_PF.GUYD.jpg"
+date: 2024-07-17
+image:  "/images/members/Richard.jpg"
 draft: false
+tags: ["richard"]
+categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
 ### 311 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
+Richard's Top 5 most played artists are: Frank Zappa, The Beatles, Bruce Springsteen, James Taylor and Led Zeppelin.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Johnny Horton</td><td>North To Alaska</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>Tony Joe White & Johnny Cash</td><td>Polk Salad Annie</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>

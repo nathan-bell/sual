@@ -2,13 +2,17 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2024-07-16
-image:  "/images/post/wilt_20220605_Woodenhead.jpg"
+date: 2024-07-17
+image:  "/images/members/Nick.jpg"
 draft: false
+tags: ["nick"]
+categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
 ### 308 tracks in total
-<table>
+<p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
+Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Floyd and Gillian Welch.
+ <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Linkin Park</td><td>One Step Closer</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>David Bowie</td><td>Moonage Daydream</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
