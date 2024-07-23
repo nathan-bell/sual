@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 321 tracks in total
+### 324 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: Eilen Jewell, John Hiatt, Son Volt, Ry Cooder and Joni Mitchell.
+Chris's Top 5 most played artists are: Eilen Jewell (5 plays), John Hiatt (5 plays), Son Volt (4 plays), Ry Cooder (4 plays) and Joni Mitchell (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Jimmie Dale Gilmore</td><td>I'm Movin' On</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bill Lake and the Right Mistake</td><td>Grown out of the Blues</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The Psychedelic Furs</td><td>India</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Screaming Trees</td><td>All I Know</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Slackwax</td><td>On the Road Again</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Will Johnson</td><td>Of Passengers and Plight</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>

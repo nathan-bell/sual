@@ -2,22 +2,25 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 306 tracks in total
+### 309 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
-Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Nick Cave & the Bad Seeds and Sonic Youth.
+Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Neil Young (6 plays) and Nick Cave (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Monks</td><td>Love Came Tumblin' Down</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Iron & Wine</td><td>Sunset Soon Forgotten</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The Mars Volta</td><td>Inertiatic ESP</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Bill Callahan</td><td>Jim Cain</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Jandek</td><td>Mostly All From You</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Laddio Bollocko</td><td>The Man Who Never Was</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Neil Young & Crazy Horse</td><td>Powderfinger (alternate version from 'Dume')</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Neil Young</td><td>Powderfinger (alternate version from 'Dume')</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Della Reese</td><td>Gotta' Tracel On</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Afric Simone</td><td>Hafanana</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>LCD Soundsystem</td><td>North American Scum</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
@@ -64,7 +67,7 @@ Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Ni
 <tr><td>Hobo Johnson</td><td>Romeo & Juliet</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Melvins</td><td>Going Blind</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>The Mountain Goats</td><td>This Year</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>Death Is Not the End</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Nick Cave</td><td>Death Is Not the End</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Beck</td><td>Mixed Bizzness</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Jonny Fritz</td><td>Happy in Hindsight</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Half Man Half Biscuit</td><td>Joy Division Oven Gloves</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
@@ -162,7 +165,7 @@ Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Ni
 <tr><td>Adam Green</td><td>Before My Bedtime</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>The Folk Implosion</td><td>Mechanical Man</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Espers</td><td>Moon Occults the Sun</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>I Let Love In</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Nick Cave</td><td>I Let Love In</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>The Books</td><td>Smells Like Content</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Gogol Bordello</td><td>Harem in Tuscany (Taranta)</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Fugazi</td><td>Long Distance Runner</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
@@ -257,7 +260,7 @@ Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Ni
 <tr><td>Sonic Youth</td><td>Tom Violence</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
 <tr><td>Leonard Cohen</td><td>The Gypsy's Wife</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Sharon Jones And The Dap Kings</td><td>Now I See</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>No More Shall We Part</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Nick Cave</td><td>No More Shall We Part</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>The Jon Spencer Blues Explosion</td><td>Magical Colours</td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
 <tr><td>Screaming Jay Hawkins</td><td>I Put A Spell On You</td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
 <tr><td>Suburban Kids With  Biblical Names</td><td>Rent A Wreck</td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
@@ -287,7 +290,7 @@ Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Ni
 <tr><td>Tall Dwarfs</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
 <tr><td>Red & Zeke feat. Bill Doss & Neil Cleary</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
 <tr><td>Sunn O))) & Boris</td><td>The Sinking Belle (Blue Sheep)</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>All Tomorrow’s Parties</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td>All Tomorrow’s Parties</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>John Grant</td><td>Jesus Hates Faggots</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Peter Sellers</td><td>Beatles cover</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>The Handsome Family</td><td>Drunk by Noon</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
@@ -299,7 +302,7 @@ Nathan's Top 5 most played artists are: The Magnetic Fields, Ween, Tom Waits, Ni
 <tr><td>Chet Atkins</td><td>Excerpt from the Johnn Cash Show</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
 <tr><td>Frank Zappa</td><td>Inca Roads</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
 <tr><td>Jane's Addiction</td><td>Summertime Rolls</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>Up Jumped the Devil</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Nick Cave</td><td>Up Jumped the Devil</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Aaron Freeman</td><td>Doesn't Anybody Know My Name</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Queens of the Stone Age</td><td>No One Knows</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td>Beast for Thee</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>

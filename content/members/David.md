@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 333 tracks in total
+### 336 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
-David's Top 5 most played artists are: David Bowie, The Who, Steven Wilson, Serge Gainsbourg and The Stooges.
+David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Beth Gibbons</td><td>Rewind</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Kim Gordon</td><td>BYE BYE</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>New Orleans Klezmer Allstars</td><td>Moroccan Roller</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Gavin Harrison</td><td><a href="https://www.youtube.com/watch?v=HHoHT3UEJyE">Pick up the Pieces</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Mofro</td><td>Dirtfloorcracker</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Caro Emerald</td><td>Back It Up</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>

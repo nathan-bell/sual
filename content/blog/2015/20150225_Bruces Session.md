@@ -6,7 +6,7 @@ image: "/images/post/1 ZViPQPjE5WcfzeJv-E5AUw.gif"
 date: 2015-02-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","gratefuldead","johnhiatt","echoandthebunnymen","thetimejumpers","theallmanbrothersband","pattismith","eilenjewell","kellyjoephelps","neworder","deathcabforcutie","thethe","aljarreau","madeleinepeyroux","wishboneash","quicksilvermessengerservice","andypratt"]
+tags: ["brucessession","gratefuldead","johnhiatt","echoandthebunnymen","thetimejumpers","theallmanbrothersband","pattismith","eilenjewell","kellyjoephelps","thethe","neworder","deathcabforcutie","aljarreau","madeleinepeyroux","wishboneash","quicksilvermessengerservice","andypratt"]
 categories: ["Gatherings"]
 ---
 > The themes were: _A recent discovery that is really very good and needs to be shared, A song that does good things for you and helps you relax, A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish. , Bonus Track_

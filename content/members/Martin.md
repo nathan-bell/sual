@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 306 tracks in total
+### 309 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan, The Time Jumpers, Scott Walker, Mose Allison and Etta James.
+Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (5 plays), Mose Allison (5 plays) and Etta James (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Robert Gordon with Link Wray</td><td>Red Hot</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Lisa Ekdahl</td><td><a href="https://www.youtube.com/watch?v=AANeqglm2cg">Now or Never</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Frankfurt Radio Symphony</td><td><a href="https://www.youtube.com/watch?v=HP5xhyPn58U">Gustav Holst: The Planets op. 32 -  Mars, the Bringer of War</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Emily Remler & Monty Alexander</td><td><a href="https://www.youtube.com/watch?v=Am6P78jDTUw">Joy Spring</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Emily Remler</td><td><a href="https://www.youtube.com/watch?v=wJYqqA1U0mc">Tenor Madness</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Stanley Dee</td><td><a href="https://www.youtube.com/watch?v=oy5HTlkg7Lc">Kid Charlemagne</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>

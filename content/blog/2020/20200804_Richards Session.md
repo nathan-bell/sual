@@ -6,7 +6,7 @@ image: "/images/post/20200907_image-asset.jpeg"
 date: 2020-08-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thebeatles","therollingstones","paulsimon","nancysinatra","velvetunderground","artgarfunkel","simonandgarfunkel","thebyrds","thezombies","johnmayall","captainbeefheart","countryjoeandthefish","bonzodogband","monks","theladedas","thesearchers","jeffreylewis","buffalospringfield","thepaulbutterfieldbluesband","dozy","nico","beaky","davedee","philochs","thechicks","thetroggs","thehollies","johnnycash","theremains","mickandtich","mariannefaithfull","thebobbyfullerfour"]
+tags: ["richardssession","thebeatles","therollingstones","paulsimon","nancysinatra","velvetunderground","artgarfunkel","simonandgarfunkel","thebyrds","thezombies","johnmayall","captainbeefheart","countryjoeandthefish","monks","bonzodogband","theladedas","thesearchers","jeffreylewis","buffalospringfield","thepaulbutterfieldbluesband","dozy","nico","beaky","davedee","philochs","thechicks","thetroggs","thehollies","johnnycash","theremains","mickandtich","mariannefaithfull","thebobbyfullerfour"]
 categories: ["Gatherings"]
 ---
 > The themes were: _15 minutes of music recorded or released in 1966._

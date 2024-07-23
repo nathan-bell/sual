@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 308 tracks in total
+### 311 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Floyd and Gillian Welch.
+Nick's Top 5 most played artists are: Neil Young (12 plays), Paul Kelly (9 plays), Bob Dylan (7 plays), Nick Cave (6 plays) and Pink Floyd (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Neil Young</td><td>When You Dance I Can Really Love</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bruce Springsteen</td><td>Tunnel of Love</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Neil Young</td><td>Mother Earth (Natural Anthem)</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Linkin Park</td><td>One Step Closer</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>David Bowie</td><td>Moonage Daydream</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Mory Kante</td><td>Mama</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
@@ -201,7 +204,7 @@ Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Fl
 <tr><td>Ella Fitzgerald</td><td>It Ain't Necessarily So</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Zen Mantra</td><td>Maybe I'll See You In My Dreams</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Julie Miller</td><td>Don't Let the Devil Ride</td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Neil Young & Crazy Horse</td><td>Love and Only Love</td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>Neil Young</td><td>Love and Only Love</td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Pink Floyd</td><td>See Emily Play</td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Sebadoh</td><td>Everybodys Been Burned</td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
 <tr><td>Dudley Benson</td><td>Pīpī Manu E</td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
@@ -229,7 +232,7 @@ Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Fl
 <tr><td>Joe Jackson</td><td>Cancer</td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
 <tr><td>Spiro</td><td>I Am the Blaze on Every Hill</td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
 <tr><td>John Scofield</td><td>Busted</td><td>Entree:  Light Hammond B3</td><td> Richard's Session - Jul 2016</td></tr>
-<tr><td>Paul Kelly and the Messengers</td><td>Yil Lull</td><td>Main:  Meaty Brass</td><td> Richard's Session - Jul 2016</td></tr>
+<tr><td>Paul Kelly</td><td>Yil Lull</td><td>Main:  Meaty Brass</td><td> Richard's Session - Jul 2016</td></tr>
 <tr><td>Donald Fagen</td><td>Brite Nightgown</td><td>Dessert:  Sweet and Tasty Wah Wah</td><td> Richard's Session - Jul 2016</td></tr>
 <tr><td>Tom Waits</td><td>Invitation to the Blues</td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
 <tr><td>Over the Rhine</td><td>Don't Let the Bastards Get You Down</td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
@@ -246,7 +249,7 @@ Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Fl
 <tr><td>Bob Marley & The Wailers</td><td>Get Up, Stand Up</td><td>London</td><td> Bruce's Session - Feb 2016</td></tr>
 <tr><td>David Bowie</td><td>Time</td><td>Bowie</td><td> Bruce's Session - Feb 2016</td></tr>
 <tr><td>Tiny Ruins</td><td>Just Desserts</td><td>Food</td><td> Bruce's Session - Feb 2016</td></tr>
-<tr><td>Nick Cave & The Bad Seeds</td><td>Where the Wild Roses Grow</td><td>Round One</td><td> Richard's Session - Jan 2016</td></tr>
+<tr><td>Nick Cave</td><td>Where the Wild Roses Grow</td><td>Round One</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Archie Roach</td><td>From Paradise</td><td>Round Two</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Yothu Yindi</td><td>Gany'tjurr</td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Archie Roach</td><td>Jamu Dreaming</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
@@ -291,7 +294,7 @@ Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Fl
 <tr><td>Bruce Springsteen</td><td>Rocky Ground</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Unknown Artist</td><td>Julia</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Lou Reed</td><td>Coney Island Baby</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>There She Goes, My Beautiful World</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td>There She Goes, My Beautiful World</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Phonk</td><td>Arse</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Leonard Cohen</td><td>Anyhow</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Dr. Hook</td><td>Cover of the Rolling Stone</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
@@ -318,7 +321,7 @@ Nick's Top 5 most played artists are: Neil Young, Paul Kelly, Bob Dylan, Pink Fl
 <tr><td>The Eastern</td><td>Wait Out the Winter</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
 <tr><td>Yes</td><td>And You and I</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
 <tr><td>Bob Dylan</td><td>Leopard‐Skin Pill‐Box Hat</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Nick Cave & the Bad Seeds</td><td>Gates to the Garden</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Nick Cave</td><td>Gates to the Garden</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
 <tr><td>Warren Zevon feat. Bruce Springsteen</td><td>Disorder in the House</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
 <tr><td>Gillian Welch</td><td>Revelator</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
 <tr><td>Van Morrison</td><td>Saint Dominic's Preview</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>

@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 311 tracks in total
+### 314 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Frank Zappa, The Beatles, Bruce Springsteen, James Taylor and Led Zeppelin.
+Richard's Top 5 most played artists are: Frank Zappa (12 plays), The Beatles (11 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Tex Ritter</td><td>Bury Me Not On The Lone Prairie</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bob Wills</td><td>Pan Handle Rag</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Parallel Park</td><td>We Don't Call It Love</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Johnny Horton</td><td>North To Alaska</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>Tony Joe White & Johnny Cash</td><td>Polk Salad Annie</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>James Taylor</td><td>Captain Jim's Drunken Dream</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>

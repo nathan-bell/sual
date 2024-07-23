@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-07-17
+date: 2024-07-24
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 292 tracks in total
+### 295 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: The Chills, Grateful Dead, The Cure, John Butler Trio and Canzoniere Grecanico Salentino.
+Bruce's Top 5 most played artists are: The Chills (5 plays), Grateful Dead (5 plays), The Cure (5 plays), John Butler Trio (5 plays) and Canzoniere Grecanico Salentino (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Jay Clarkson</td><td>Wheeling</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Nick Feretti</td><td>Never Leave Your lover Alone</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The The</td><td>Sweet Bird of Truth</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Hüsker Dü</td><td>Crystal</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>The Phoenix Foundation</td><td>Pot</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Canzoniere Grecanico Salentino</td><td>Tienime tata</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
@@ -193,7 +196,7 @@ Bruce's Top 5 most played artists are: The Chills, Grateful Dead, The Cure, John
 <tr><td>The Moody Blues</td><td>The Actor</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
 <tr><td>Larry's Rebels</td><td>Painter Man</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
 <tr><td>Little Feat</td><td>Romance Dance</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>Paul Kelly and the Messengers</td><td>Leaving Her for the Last Time</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Paul Kelly</td><td>Leaving Her for the Last Time</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Radiohead</td><td>Bishops Robes</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>The Rails</td><td>Late Surrender</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Dave Swarbrick</td><td>Sir Charles Coote / Smiths</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
