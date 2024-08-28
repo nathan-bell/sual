@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-07-24
+date: 2024-08-28
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 309 tracks in total
+### 312 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (5 plays), Mose Allison (5 plays) and Etta James (4 plays).
+Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (5 plays), Mose Allison (5 plays) and Walter Becker (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Parsons & Hayward</td><td>Daddy Fox</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Walter Becker</td><td>Do You Remember the Name</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Camille</td><td>Ta douleur</td><td>Track 2 or 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Robert Gordon with Link Wray</td><td>Red Hot</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Lisa Ekdahl</td><td><a href="https://www.youtube.com/watch?v=AANeqglm2cg">Now or Never</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Frankfurt Radio Symphony</td><td><a href="https://www.youtube.com/watch?v=HP5xhyPn58U">Gustav Holst: The Planets op. 32 -  Mars, the Bringer of War</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>

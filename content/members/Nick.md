@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2024-07-24
+date: 2024-08-28
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 311 tracks in total
+### 314 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Paul Kelly (9 plays), Bob Dylan (7 plays), Nick Cave (6 plays) and Pink Floyd (4 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Paul Kelly (9 plays), Bob Dylan (7 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Paul Simon</td><td>Darling Lorraine</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Paul Simon</td><td>Another Galaxy</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Charles Lloyd</td><td>You Are So Beautiful</td><td>Track 2 or 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Neil Young</td><td>When You Dance I Can Really Love</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Bruce Springsteen</td><td>Tunnel of Love</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Neil Young</td><td>Mother Earth (Natural Anthem)</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>

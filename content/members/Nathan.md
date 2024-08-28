@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-07-24
+date: 2024-08-28
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 309 tracks in total
+### 312 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Neil Young (6 plays) and Nick Cave (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Tunng</td><td>Woodcat</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Dimmer</td><td>Searching Time</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Eleni Mandell</td><td>Perfect Stranger</td><td>Track 2 or 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Monks</td><td>Love Came Tumblin' Down</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Iron & Wine</td><td>Sunset Soon Forgotten</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>The Mars Volta</td><td>Inertiatic ESP</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>

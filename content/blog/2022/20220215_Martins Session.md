@@ -6,7 +6,7 @@ image: "/images/post/20220215_Vacuum.jpg"
 date: 2022-02-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","paulkelly","paulsimon","gillianwelch","avantdalebowlingclub","sonvolt","björk","hanggai","bettydavis","thehu","divinyls","alifarkatouré","einsturzendeneubauten","hdu","shakira","hanksnow","superbrew","pavlovsdog","dirtyloops","monkeyhouse","apacheindian","miriammakeba","charlestrenet","jonnygreenwood","toumanidiabaté","mukimukimanmansu","jununftshyebentzur","anouarbrahemquartet","andtherajasthanexpress"]
+tags: ["martinssession","paulsimon","paulkelly","gillianwelch","avantdalebowlingclub","sonvolt","björk","hanggai","bettydavis","thehu","divinyls","alifarkatouré","einsturzendeneubauten","hdu","shakira","hanksnow","superbrew","pavlovsdog","dirtyloops","monkeyhouse","apacheindian","miriammakeba","charlestrenet","jonnygreenwood","toumanidiabaté","mukimukimanmansu","jununftshyebentzur","anouarbrahemquartet","andtherajasthanexpress"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Continental Drift_

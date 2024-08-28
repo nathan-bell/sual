@@ -6,7 +6,7 @@ image: "/images/post/20210525_IMG_4604.JPG"
 date: 2021-05-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","bobdylan","garynuman","america","thechills","scottwalker","thesundays","moseallison","kinggizzardandthelizardwizard","jimnoir","michaelkiwanuka","newroad","blackcountry","delaneydavidson","squid","sexpistols","barrysaunders","nataliemerchant","tomjones","rosecityband","pacificrange","gustavosantaolalla","rickkandtheallnighters","babyhueyandthebabysitters"]
+tags: ["chrisssession","bobdylan","garynuman","thechills","thesundays","america","scottwalker","moseallison","kinggizzardandthelizardwizard","jimnoir","michaelkiwanuka","newroad","blackcountry","delaneydavidson","squid","sexpistols","barrysaunders","nataliemerchant","tomjones","rosecityband","pacificrange","gustavosantaolalla","rickkandtheallnighters","babyhueyandthebabysitters"]
 categories: ["Gatherings"]
 ---
 > The themes were: _You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof._

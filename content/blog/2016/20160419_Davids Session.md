@@ -6,7 +6,7 @@ image: "/images/post/20160419_image-asset.png"
 date: 2016-04-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","brucespringsteen","blacksabbath","thechills","cream","tonybennett","jimwhite","tamineilson","jonathanwilson","alstewart","worldparty","karendalton","raylamontagne","abba","video","blanche","alvinlee","patsycline","barenakedladies","theisleybrothers","stavangerbrassband","casiotoneforthepainfullyalone"]
+tags: ["davidssession","brucespringsteen","thechills","blacksabbath","cream","tonybennett","jimwhite","tamineilson","jonathanwilson","alstewart","worldparty","karendalton","raylamontagne","abba","video","blanche","alvinlee","patsycline","barenakedladies","theisleybrothers","stavangerbrassband","casiotoneforthepainfullyalone"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Sorry, I nearly missed my deadline - think days, weeks, months, years or any measurement of time. (But NOT the word “time” by itself), It just wasn't my cup of tea. A song from yesteryear that you appreciate a lot more these days., Let’s stop this reminiscing nonsense! Something from this decade_
