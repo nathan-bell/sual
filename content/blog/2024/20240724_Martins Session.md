@@ -1,5 +1,5 @@
 ---
-title: "Martin's Session - July 24"
+title: "Martin's Session - July 2024"
 description: "A full-house (plus a new guest) went back to basics, kept it simple, and then gave it heaps."
 summary: "A full-house (plus a new guest) went back to basics, kept it simple, and then gave it heaps."
 image: "/images/post/91Eynt8DQ6L.jpg"

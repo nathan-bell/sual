@@ -6,7 +6,7 @@ image: "/images/post/gettyimages-91139146-580e3a01-1b2f-43bf-b26c-a676bc43a5a8.p
 date: 2015-07-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chris’ssession","neilyoung","frankzappa","brucespringsteen","therollingstones","radiohead","alisonkrauss","aldousharding","therails","milesdavis","davidcrosby","garyclarkjr","captainbeefheart","steppenwolf","jonathanwilson","returntoforever","littlevillage","alkooper","thebarrbrothers","screamingjayhawkins","thejonspencerbluesexplosion","suburbankidswithbiblicalnames"]
+tags: ["chris’ssession","neilyoung","frankzappa","brucespringsteen","therollingstones","radiohead","alisonkrauss","aldousharding","returntoforever","therails","milesdavis","davidcrosby","garyclarkjr","captainbeefheart","steppenwolf","jonathanwilson","littlevillage","alkooper","thebarrbrothers","screamingjayhawkins","thejonspencerbluesexplosion","suburbankidswithbiblicalnames"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Magical, Mystery, Tour_

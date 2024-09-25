@@ -1,5 +1,5 @@
 ---
-title: "Richard's Session - Feb 24"
+title: "Richard's Session - Feb 2024"
 description: "We explored the world of harmony and it's importance in Country music, went down rabbit holes and fox holes, and discussed the relevance of Taylor Swift as a cultural icon."
 image: "/images/post/1_65b8891c-75e6-425a-8b09-84814a6a0598.webp"
 date: 2024-02-27T00:00:00.0000000

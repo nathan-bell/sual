@@ -1,5 +1,5 @@
 ---
-title: "Nick's Session - May 24"
+title: "Nick's Session - May 2024"
 description: "We enjoyed an evening of noise, submission to a higher thing, and appreciated the energy and joy of it all."
 image: "/images/post/WhatsApp Image 2024-04-24 at 19.14.50_3bf4a2b9.jpg"
 date: 2024-05-16T00:00:00.0000000

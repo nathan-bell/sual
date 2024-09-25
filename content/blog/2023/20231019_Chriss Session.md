@@ -6,7 +6,7 @@ image: "/images/post/grieg_op17no15.png"
 date: 2023-10-19T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession","richardthompson","steveearle","califone","nickdrake","joehenry","scarypockets","lindathompson","talwilkenfeld","shihad","bookert","londongrammar","andrewlondontrio","miltonnascimento","est","cocorosie","darylhall","gotanproject","anthonywilson","mayerhawthorne","juliantempleband","darylhallandjohnoates","youtube"]
+tags: ["chrisssession","richardthompson","steveearle","califone","nickdrake","joehenry","scarypockets","lindathompson","londongrammar","talwilkenfeld","shihad","bookert","andrewlondontrio","miltonnascimento","est","cocorosie","darylhall","gotanproject","anthonywilson","mayerhawthorne","juliantempleband","darylhallandjohnoates","youtube"]
 categories: ["Gatherings"]
 ---
 > We learned that not everyone listens to different types of music on different days of the week, that 2 members down and an earlier start means we all go home early, and that Daryl Hall wears sunglasses when inside and always looks super-pleased with himself

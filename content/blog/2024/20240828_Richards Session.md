@@ -1,5 +1,5 @@
 ---
-title: "Richard's Session - August 24"
+title: "Richard's Session - August 2024"
 description: "We raised our glasses to Martin's mum, said goodbye to The Sundays' Reading, Writing and Arithmetic, and limited ourselves to tracks 2 and 8."
 summary: "We raised our glasses to Martin's mum, said goodbye to The Sundays' Reading, Writing and Arithmetic, and limited ourselves to tracks 2 and 8."
 image: "/images/post/CSR00041.jpg"

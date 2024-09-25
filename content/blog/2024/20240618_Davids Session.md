@@ -1,5 +1,5 @@
 ---
-title: "David's Session - June 24"
+title: "David's Session - June 2024"
 description: "A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear-worm is."
 image: "/images/post/dominos-falling.gif"
 date: 2024-06-18T00:00:00.0000000
