@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 341 tracks in total
+### 344 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Buffy Sainte-Marie</td><td>Cod'ine</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Ween</td><td>Reggaejunkiejew</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Depeche Mode</td><td>Where's the Revolution</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>King Hannah</td><td>Lily Pad</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>The Alan Parsons Project</td><td>I Robot</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Death and the Maiden</td><td>Hourglass</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>

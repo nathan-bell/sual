@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 314 tracks in total
+### 317 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
 Nick's Top 5 most played artists are: Neil Young (12 plays), Paul Kelly (9 plays), Bob Dylan (7 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Phil Broadhurst</td><td>Soliloquy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Pat Metheny & Charlie Haden</td><td>Spiritual</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Keith Jarrett Trio</td><td>Blame It On My Youth</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Paul Simon</td><td>Darling Lorraine</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Paul Simon</td><td>Another Galaxy</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Charles Lloyd</td><td>You Are So Beautiful</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>

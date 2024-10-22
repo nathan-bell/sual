@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 320 tracks in total
+### 323 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: Frank Zappa (12 plays), The Beatles (11 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Wildwood Guitars</td><td><a href="https://www.youtube.com/watch?v=hbuJwcs1MV0">Gibson Firebird Sales Pitch</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The Allman Brothers Band</td><td>Little Martha</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Rory Gallagher</td><td>Should've Learnt My Lesson</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Bee Gees</td><td>Every Christian Lion Hearted Man Will Show You</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>BENEE</td><td>Plain (feat. Lily Allen & Flo Milli)</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>London Music Works</td><td>Theme (From The Jetsons")"</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>

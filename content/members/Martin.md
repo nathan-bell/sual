@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 314 tracks in total
+### 317 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (5 plays), Mose Allison (5 plays) and Walter Becker (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Camille</td><td>Ta douleur</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=Rg3IcbvozBs">Hoop & Pole</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The Paladins</td><td>Five Minute Love Affair</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Brad Mehldau</td><td><a href="https://www.youtube.com/watch?v=YPuZ671t5t4">I Am The Walrus</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Return to Forever</td><td>Beyond The Seventh Galaxy</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Parsons & Hayward</td><td>Daddy Fox</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>

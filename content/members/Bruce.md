@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 301 tracks in total
+### 304 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: The Chills (6 plays), Grateful Dead (5 plays), The Cure (5 plays), John Butler Trio (5 plays) and Canzoniere Grecanico Salentino (4 plays).
+Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6 plays), Grateful Dead (5 plays), The Cure (5 plays) and Canzoniere Grecanico Salentino (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Bert Jansch</td><td>Angie</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Andy Irvine & Donal Lunny</td><td><a href="https://www.youtube.com/watch?v=vRFD0TzJfbk">The Blacksmith</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>John Butler Trio</td><td>Pickapart</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Jethro Tull</td><td>The Whistler</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>London Grammar</td><td>Into Gold</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Gary Numan</td><td>My Name Is Ruin</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>

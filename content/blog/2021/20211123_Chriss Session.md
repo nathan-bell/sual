@@ -6,7 +6,7 @@ image: "/images/post/20211123_IMG_0617.JPEG"
 date: 2021-11-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","jeffbeck","themagneticfields","johnhiatt","theallmanbrothersband","nirvana","thelimiñanas","kellyjoephelps","marcribot","milesdavis","jaymcshann","theoray","culdesac","brunomars","kttunstall","fionapears","paulweller","henryparker","townesvanzandt","cedricburnside"]
+tags: ["chrisssession","jeffbeck","johnhiatt","themagneticfields","theallmanbrothersband","nirvana","kellyjoephelps","thelimiñanas","marcribot","milesdavis","jaymcshann","theoray","culdesac","brunomars","kttunstall","fionapears","paulweller","henryparker","townesvanzandt","cedricburnside"]
 categories: ["Gatherings"]
 ---
 > The themes were: _(Predominantly) acoustic/unplugged., Instrumental., Whatever._

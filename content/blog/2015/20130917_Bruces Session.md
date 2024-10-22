@@ -6,7 +6,7 @@ image: "/images/post/fc-slider.png"
 date: 2013-09-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","frankzappa","johnhiatt","japan","fleetwoodmac","richardthompson","johnmartyn","johnbutlertrio","marcribot","wayneshorter","roybuchanan","zappaplayszappa","andrewlondontrio","arttatum","davegrusin","chetatkins","drfeelgood","earlscruggs","timejumpers","ruthunderwood","egbertogismonti","mrscareysconcert"]
+tags: ["brucessession","frankzappa","johnhiatt","japan","fleetwoodmac","richardthompson","johnbutlertrio","johnmartyn","marcribot","wayneshorter","roybuchanan","zappaplayszappa","andrewlondontrio","arttatum","davegrusin","chetatkins","drfeelgood","earlscruggs","timejumpers","ruthunderwood","egbertogismonti","mrscareysconcert"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Virtuosity - Round 1, Virtuosity - Round 2, Virtuosity - Round 3_

@@ -2,18 +2,22 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2024-09-25
+date: 2024-10-23
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 330 tracks in total
+### 334 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: Jimi Hendrix (5 plays), Eilen Jewell (5 plays), John Hiatt (5 plays), Son Volt (4 plays) and Ry Cooder (4 plays).
+Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays), Son Volt (4 plays) and Ry Cooder (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Kelly Joe Phelps</td><td>Katy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The White Stripes</td><td>Jolene (Live)</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The White Stripes</td><td>I Just Don't Know What to Do With Myself</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>John Hiatt</td><td>Take It Down</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Marcel Pérès & Ensemble Organum</td><td>Gradual of Eleanor of Brittany - Kyrie: Orbis Factor</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Delaney Davidson</td><td>Care of You</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
 <tr><td>Jason Morran</td><td>Time Into Space Into Time</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
