@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-10-23
+date: 2024-11-29
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 323 tracks in total
+### 326 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Frank Zappa (12 plays), The Beatles (11 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
+Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Jason & The Scorchers</td><td>Absolutely Sweet Marie</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>The Beatles</td><td>You've Got to Hide Your Love Away</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td>Jokerman</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Wildwood Guitars</td><td><a href="https://www.youtube.com/watch?v=hbuJwcs1MV0">Gibson Firebird Sales Pitch</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Allman Brothers Band</td><td>Little Martha</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Rory Gallagher</td><td>Should've Learnt My Lesson</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

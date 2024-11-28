@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-10-23
+date: 2024-11-29
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 344 tracks in total
+### 347 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Dead Weather</td><td>New Pony</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Emmylou Harris</td><td>Every Grain of Sand</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Antony and the Johnsons</td><td>Knockin' On Heaven's Door</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Buffy Sainte-Marie</td><td>Cod'ine</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Ween</td><td>Reggaejunkiejew</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Depeche Mode</td><td>Where's the Revolution</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

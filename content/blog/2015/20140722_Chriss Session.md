@@ -6,7 +6,7 @@ image: "/images/post/Mothers-3000DPI300RGB1000129343-820x820.png"
 date: 2014-07-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","thebeatles","frankzappa","pinkfloyd","leonardcohen","thesmiths","bozscaggs","gruffrhys","brighteyes","billfrisell","conoroberst","sarahjarosz","tommybolin","otisredding","sufjanstevens","dougiemaclean","stevemillerband","theidlerace","sonnyrollins","jacquelinedupre"]
+tags: ["chrisssession","thebeatles","frankzappa","pinkfloyd","sarahjarosz","leonardcohen","thesmiths","bozscaggs","gruffrhys","brighteyes","billfrisell","conoroberst","tommybolin","otisredding","sufjanstevens","dougiemaclean","stevemillerband","theidlerace","sonnyrollins","jacquelinedupre"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Mothers, Dedicated To, M.O.T.H.E.R_

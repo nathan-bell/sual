@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-10-23
+date: 2024-11-29
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 317 tracks in total
+### 320 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (5 plays), Mose Allison (5 plays) and Walter Becker (4 plays).
+Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Persuasions</td><td>Three Angels</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Pops Staples</td><td>You Got to Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Etta James</td><td>Gotta Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Camille</td><td>Ta douleur</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=Rg3IcbvozBs">Hoop & Pole</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Paladins</td><td>Five Minute Love Affair</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

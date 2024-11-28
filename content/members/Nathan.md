@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-10-23
+date: 2024-11-29
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 318 tracks in total
+### 321 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Neil Young (6 plays) and Nick Cave (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Joni Mitchell</td><td>Talk to Me</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td>Folsom Prison Blues</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td>Hard Times</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Johnny Cash</td><td>The Man Who Couldn't Cry</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Buddy Miller, Julie Miller</td><td>Memphis Jane</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Dolly Parton, Linda Ronstadt, and Emmylou Harris</td><td>After the Gold Rush</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

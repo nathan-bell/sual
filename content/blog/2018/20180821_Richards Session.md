@@ -6,7 +6,7 @@ image: "/images/post/20180908_FavRecord.jpg"
 date: 2018-08-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","davidbowie","thebeatles","ledzeppelin","thecure","neilyoung","steelydan","thewho","bobdylan","ween","echoandthebunnymen","richardthompson","nirvana","thedoors","johnmayall","lindathompson","avrillavigne","thesiegel‐schwallband"]
+tags: ["richardssession","davidbowie","thebeatles","ledzeppelin","thecure","neilyoung","bobdylan","steelydan","thewho","ween","echoandthebunnymen","richardthompson","nirvana","thedoors","johnmayall","lindathompson","avrillavigne","thesiegel‐schwallband"]
 categories: ["Gatherings"]
 ---
 > https://static1.squarespace.com/static/571986653c44d8e556c508d5/t/5b934a846d2a7348d76e6da0/1536379526456/TheBigThree.pdf

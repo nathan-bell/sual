@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-10-23
+date: 2024-11-29
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 304 tracks in total
+### 307 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6 plays), Grateful Dead (5 plays), The Cure (5 plays) and Canzoniere Grecanico Salentino (4 plays).
+Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6 plays), Sarah Jarosz (5 plays), Grateful Dead (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Sandy Denny</td><td>Tomorrow Is A Long Time</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td>Shelter from the Storm</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Sarah Jarosz</td><td>Simple Twist of Fate</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bert Jansch</td><td>Angie</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Andy Irvine & Donal Lunny</td><td><a href="https://www.youtube.com/watch?v=vRFD0TzJfbk">The Blacksmith</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>John Butler Trio</td><td>Pickapart</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

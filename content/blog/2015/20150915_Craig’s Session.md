@@ -6,7 +6,7 @@ image: "/images/post/Untitled.jpg"
 date: 2015-09-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["craig’ssession","tomwaits","bobdylan","beck","sonicyouth","deadkennedys","ninasimone","ryuichisakamoto","addntox","hairspray","johnfarnham","michaeljfox","theyardbirds","futureislands","hedwigandtheangryinch","thenewhotclubofamerica"]
+tags: ["craig’ssession","bobdylan","tomwaits","beck","sonicyouth","deadkennedys","ninasimone","ryuichisakamoto","addntox","hairspray","johnfarnham","michaeljfox","theyardbirds","futureislands","hedwigandtheangryinch","thenewhotclubofamerica"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Musical Theatre , Soundtrack, Mostly I Have Been Listening To _

@@ -6,7 +6,7 @@ image: "/images/post/20190911_IMG_0909.JPG"
 date: 2019-09-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","davidbowie","ledzeppelin","thecure","steelydan","brucespringsteen","bobdylan","gratefuldead","ween","themagneticfields","echoandthebunnymen","richardthompson","paramore","lindathompson","glennmiller","latinplayboys"]
+tags: ["richardssession","davidbowie","ledzeppelin","thecure","bobdylan","steelydan","brucespringsteen","gratefuldead","ween","themagneticfields","echoandthebunnymen","richardthompson","paramore","lindathompson","glennmiller","latinplayboys"]
 categories: ["Gatherings"]
 ---
 > The themes were: _The "SHAKE" record, where it shifted or consolidated, The "BANG" record, where it shifted or consolidated again_
