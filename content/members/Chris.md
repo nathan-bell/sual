@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -69,9 +69,6 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 pla
 <tr><td>Amy Winehouse</td><td>Teach Me Tonight</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Jimmie Dale Gilmore</td><td>Don't Worry 'bout Me</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Elvis Costello And The Roots</td><td>Stick Out Your TONGUE</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The Black Keys</td><td>Strange Times</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Paul Simon</td><td>Cool Papa Bell</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Jon Batiste and Stay Human</td><td>Believe In Love</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>The Band</td><td>Life Is a Carnival</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Tedeschi Trucks Band</td><td>Midnight in Harlem</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Quicksilver Messenger Service</td><td>It's Been Too Long</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -93,9 +90,6 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 pla
 <tr><td>Steve Earle</td><td>Conspiracy Theory</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Mad River</td><td>Academy Cemetery</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>David Bromberg Band</td><td>900 Miles</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>The Jesus and Mary Chain</td><td>Darklands</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Little Feat</td><td>Somebody's Leavin'</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Steve Winwood</td><td>Can't Find My Way Home - Live</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Paul Kelly</td><td>Nothing On My Mind</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Son Volt</td><td>Lucky Ones</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Anouar Brahem Quartet</td><td>The Astounding Eyes Of Rita</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -149,6 +143,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 pla
 <tr><td>The Byrds</td><td>5D (Fifth Dimension)</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Country Joe and the Fish</td><td>Section 43</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Paul Butterfield Blues Band</td><td>Mary, Mary</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Jesus and Mary Chain</td><td>Darklands</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Little Feat</td><td>Somebody's Leavin'</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Steve Winwood</td><td>Can't Find My Way Home - Live</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Boz Scaggs</td><td>On the Beach</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Jakob Dylan</td><td>I Told You I Couldn't Stop</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>David Bromberg</td><td>I Like to Sleep Late in the Morning</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
@@ -231,6 +228,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 pla
 <tr><td>Joni Mitchell</td><td>Cotton Avenue</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Bonnie Raitt</td><td>Spit Of Love</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Los Lobos</td><td>I Walk Alone</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>The Black Keys</td><td>Strange Times</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Paul Simon</td><td>Cool Papa Bell</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Jon Batiste and Stay Human</td><td>Believe In Love</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Eilen Jewell</td><td>Here With Me</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Paul Blade</td><td>Started</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Bob Weir and Wilco</td><td>St. Stephen</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

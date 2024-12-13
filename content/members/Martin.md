@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 320 tracks in total
+### 323 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Nina Simone</td><td>Mood Indigo</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>John Patitucci</td><td>Ivory Coast, Pt. 2</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Brian Eno & Jah Wobble</td><td>Like Organza</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>The Persuasions</td><td>Three Angels</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Pops Staples</td><td>You Got to Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Etta James</td><td>Gotta Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -99,9 +102,6 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Eugene Ionesco</td><td>Rap</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>The Quebe Sisters</td><td>Cold, Cold Heart</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Mohini Dey</td><td>Bass Guitar Solo</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Ry Cooder</td><td>The Prodigal Son</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Paul Simon</td><td>God Bless the Absentee</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Astrud Gilberto & Stan Getz</td><td>The Girl From Ipanema</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Avantdale Bowling Club</td><td>Home</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Monkey House</td><td>It's Already Dark In New York</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Dirty Loops</td><td>Rock You</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -153,6 +153,9 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Viagra Boys</td><td>Sports</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
 <tr><td>Helen Shapiro</td><td>Look Who It Is</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
 <tr><td>TOOL</td><td>Pneuma</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Ry Cooder</td><td>The Prodigal Son</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Paul Simon</td><td>God Bless the Absentee</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Astrud Gilberto & Stan Getz</td><td>The Girl From Ipanema</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Ry Cooder</td><td>The Prodigal Son</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Rodney Crowell</td><td>Here Come the 80's</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>James Brown</td><td>Papa's Got a Brand New Bag</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>

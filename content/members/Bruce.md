@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 307 tracks in total
+### 310 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6 plays), Sarah Jarosz (5 plays), Grateful Dead (5 plays) and The Cure (5 plays).
+Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), The Cure (5 plays) and Grateful Dead (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Sarah Jarosz</td><td>The Way It Is Now</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Mark Knopfler</td><td>Smart Money</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Father John Misty</td><td>She Cleans Up</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Sandy Denny</td><td>Tomorrow Is A Long Time</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Shelter from the Storm</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Sarah Jarosz</td><td>Simple Twist of Fate</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -73,9 +76,6 @@ Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6
 <tr><td>Troy Kingi</td><td>Call My Name (School)</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Teddy Thompson</td><td>Think Again</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Russell Smith</td><td>Someday We Will</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>New Riders of the Purple Sage</td><td>Panama Red</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Grateful Dead</td><td>Greatest Story Ever Told</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Little Feat</td><td>Fat Man in the Bathtub</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Josh Pyke</td><td>To Find Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>David Gideon</td><td>Nice to Meet You</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Rammstein</td><td>Zeit</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -98,9 +98,6 @@ Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6
 <tr><td>Nirvana</td><td>Lithium</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>David Gideon</td><td>Southwestern Skies</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Rick Bryant</td><td>Angel</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Mazzy Star</td><td>She Hangs Brightly</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Hüsker Dü</td><td>Don't Want to Know If You Are Lonely</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>The Cranberries</td><td>Promises</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Björk</td><td>Hyper-ballad</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Pavlov's Dog</td><td>Song Dance</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Ali Farka Touré & Toumani Diabaté</td><td>Debe Live At Bozar</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -150,6 +147,9 @@ Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6
 <tr><td>The La De Da's</td><td>How Is the Air up There</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>John Mayall & the Bluesbreakers</td><td>Hideaway</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Marianne Faithfull</td><td>Sally Free And Easy</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Mazzy Star</td><td>She Hangs Brightly</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Hüsker Dü</td><td>Don't Want to Know If You Are Lonely</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>The Cranberries</td><td>Promises</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Squirrel Flower</td><td>Streetlight Blues</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Thomas Dolby</td><td>Eastern Bloc</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Adele Parody</td><td>Hella Cravings</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
@@ -235,6 +235,9 @@ Bruce's Top 5 most played artists are: John Butler Trio (6 plays), The Chills (6
 <tr><td>Arcade Fire</td><td>Neighborhood #1 (Tunnels)</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Kelly Joe Phelps</td><td>Roll Away the Stone</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>The Civil Wars</td><td>20 Years</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>New Riders of the Purple Sage</td><td>Panama Red</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Grateful Dead</td><td>Greatest Story Ever Told</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Little Feat</td><td>Fat Man in the Bathtub</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Conor Oberst</td><td>You All Loved Him Once</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>David Swarbrick</td><td>Medley</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Alison Krauss</td><td>Through The Morning Through The Night</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

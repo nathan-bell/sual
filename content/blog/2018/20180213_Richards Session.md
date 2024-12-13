@@ -6,7 +6,7 @@ image: "/images/post/20180320_Notes.Building.jpg"
 date: 2018-02-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thecure","yolatengo","vanmorrison","low","nadiareid","pretenders","throwingmuses","thewarondrugs","elviscostello","ninasimone","thesuperjesus","burtbacharach","carrierodriguez","theblueaeroplanes","fairportconvention","ajbell","mimifox","gretamatassa","caetanoveloso","sarabethtucek","theicicleworks"]
+tags: ["richardssession","thecure","yolatengo","vanmorrison","low","nadiareid","pretenders","throwingmuses","thewarondrugs","ninasimone","elviscostello","thesuperjesus","burtbacharach","carrierodriguez","theblueaeroplanes","fairportconvention","ajbell","mimifox","gretamatassa","caetanoveloso","sarabethtucek","theicicleworks"]
 categories: ["Gatherings"]
 ---
 > The themes were: _One Word Songs. (Bonus points if led by a woman singer), Bonus Track_

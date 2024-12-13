@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 347 tracks in total
+### 350 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Nilüfer Yanya</td><td>Binding</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Eva Cassidy</td><td>Ain't No Sunshine</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Ween</td><td>A Tear For Eddie</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>The Dead Weather</td><td>New Pony</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Emmylou Harris</td><td>Every Grain of Sand</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Antony and the Johnsons</td><td>Knockin' On Heaven's Door</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -73,9 +76,6 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>The Week That Was</td><td>Learn to Learn</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Dry Cleaning</td><td>Magic of Meghan</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Laura Jean</td><td>Amateurs</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The xx</td><td>Performance</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Tami Neilson</td><td>Only Tears</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Car Seat Headrest</td><td>Destroyed By Hippie Powers</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Tones on Tail</td><td>Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>alt-J</td><td>Nara</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Sweet</td><td>Love Is Like Oxygen</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -101,9 +101,6 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Anita Lane</td><td>Bella ciao</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Kae Tempest</td><td>Nothing to Prove</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Dope Lemon</td><td>Hey You</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Stereolab</td><td>Miss Modular</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Gregg Allman</td><td>My Only True Friend</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Gang of Four</td><td>Love Like Anthrax</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Betty Davis</td><td>If I'm In Luck I Might Get Picked Up</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>The HU</td><td>Yuve Yuve Yu</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Shakira</td><td>Can't Remember to Forget You (feat. Rihanna)</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -159,6 +156,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>The Velvet Underground</td><td>I'm Waiting for the Man</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Rolling Stones</td><td>I Am Waiting</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Remains</td><td>Don't Look Back</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Stereolab</td><td>Miss Modular</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Gregg Allman</td><td>My Only True Friend</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Gang of Four</td><td>Love Like Anthrax</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>The Dukes of Stratosphear</td><td>The Mole From the Ministry</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>The Rutles</td><td>Eine Kleine Middle Klasse Musik</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>XTC</td><td>No Language in Our Lungs</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
@@ -243,6 +243,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Grouplove</td><td>Welcome to Your Life</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Sonny Landreth</td><td>Uberesso</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Yeah Yeah Yeahs</td><td>Black Tongue</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>The xx</td><td>Performance</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Tami Neilson</td><td>Only Tears</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Car Seat Headrest</td><td>Destroyed By Hippie Powers</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Michael Kiwanuka</td><td>Falling</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>The Who</td><td>Young Man Blues</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Dinosaur</td><td>Robin</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

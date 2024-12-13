@@ -6,7 +6,7 @@ image: "/images/post/20210420_IMG_0529.JPEG"
 date: 2021-04-20T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","davidbowie","beck","yolatengo","johnhiatt","nin","cassandrawilson","foofighters","burtbacharach","zappaplayszappa","ladi6","chrome","theavener","agnesobel","tinariwen","tamikrest","staceykent","kevinmorby","jimfassett","faunfables","carlosramos","martincreed"]
+tags: ["martinssession","davidbowie","beck","yolatengo","johnhiatt","cassandrawilson","nin","foofighters","burtbacharach","zappaplayszappa","ladi6","chrome","theavener","agnesobel","tinariwen","tamikrest","staceykent","kevinmorby","jimfassett","faunfables","carlosramos","martincreed"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Something fine, finessed, fragile or sofisticated, Something foreign, far-fetched, far out or unfamiliar, Something flamboyant, flashy, flaunting or florid_

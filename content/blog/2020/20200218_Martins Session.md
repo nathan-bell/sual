@@ -1,9 +1,9 @@
 ---
-title: "Martin's Session - Feb 22"
+title: "Martin's Session - Feb 2020"
 description: "The themes were: _Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back, Leaving - E.g. bands that have broken up, or band members who've left to forge new careers , Gone For Good - E.g. someone from the latest crop of rock, etc, deaths _"
 summary: "The themes were: _Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back, Leaving - E.g. bands that have broken up, or band members who've left to forge new careers , Gone For Good - E.g. someone from the latest crop of rock, etc, deaths _"
 image: "/images/post/20200219_Brexit-25.jpg"
-date: 2022-02-18T00:00:00.0000000
+date: 2020-02-18T00:00:00.0000000
 draft: false
 author: "David"
 tags: ["martinssession","stereolab","paulsimon","rycooder","themonkees","tameimpala","greggallman","mazzystar","brighteyes","conoroberst","eagles","tinyruins","littlefeat","nin","gangoffour","thejesusandmarychain","fugazi","huskerdu","jeffreylewis","thecranberries","stangetz","mermaidens","silverjews","stevewinwood","littlebushman","astrudgilberto"]

@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 326 tracks in total
+### 329 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Joe Cocker</td><td>Just Like A Woman</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Kacey Musgraves</td><td>Cardinal</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Kacey Musgraves</td><td>Heaven Is</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Jason & The Scorchers</td><td>Absolutely Sweet Marie</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>The Beatles</td><td>You've Got to Hide Your Love Away</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Jokerman</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -57,9 +60,6 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Ramones</td><td>Rock 'N' Roll High School</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Bruce Springsteen</td><td>The Sun Ain't Gonna Shine Anymore</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Public Image Ltd</td><td>Hawaii</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Ben Chambers</td><td>Deadly Silence</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>The Who</td><td>Helpless Dancer</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Led Zeppelin</td><td>Good Times Bad Times</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Jeff Beck</td><td>Dedication [DVD]</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Corridor</td><td>Domino</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Jacqueline Taïeb</td><td>7 heures du matin</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
@@ -87,9 +87,6 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Frank Zappa</td><td>Sam With the Showing Scalp Flat Top</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Chase Atlantic</td><td>Angeline</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Grace Jones</td><td>Private Life</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>The Monkees</td><td>What Am I Doing Hanging Around</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>The Monkees</td><td>Goin' Down</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Eagles</td><td>Already Gone</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Charles Trenet</td><td>Fleur Bleue</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Hank Snow</td><td>When Mexican Joe Met Jole Blon</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Divinyls</td><td>Bless My Soul (It's Rock-N-Roll)</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -146,6 +143,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Nancy Sinatra</td><td>These Boots Are Made for Walking</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Simon & Garfunkel</td><td>Homeward Bound</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Beatles</td><td>Paperback Writer</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Monkees</td><td>What Am I Doing Hanging Around</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>The Monkees</td><td>Goin' Down</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Eagles</td><td>Already Gone</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Christine and the Queens</td><td>Girlfriend</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>The Church</td><td>The Unguarded Moment</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Uriah Heep</td><td>Look at Yourself</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
@@ -234,6 +234,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Jeff Beck</td><td>The Revolution Will Be Televised</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>The Rolling Stones</td><td>Sway</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>James Taylor</td><td>Hour That the Morning Comes</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Ben Chambers</td><td>Deadly Silence</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>The Who</td><td>Helpless Dancer</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Led Zeppelin</td><td>Good Times Bad Times</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Thin Lizzy</td><td>Fight or Fall</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Bruce Springsteen</td><td>Dream Baby Dream</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Mark Knopfler</td><td>Sailing to Philadelphia</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

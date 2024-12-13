@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 321 tracks in total
+### 324 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
-Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Neil Young (6 plays) and Nick Cave (5 plays).
+Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Nick Cave (6 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Adrianne Lenker</td><td>Sadness As a Gift</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Mercury Rev</td><td>Born Horses</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Nick Cave</td><td>Joy</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Joni Mitchell</td><td>Talk to Me</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Folsom Prison Blues</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Hard Times</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -78,9 +81,6 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>School of Seven Bells</td><td>Half Asleep</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Hobo Johnson</td><td>Romeo & Juliet</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Melvins</td><td>Going Blind</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The Mountain Goats</td><td>This Year</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Nick Cave</td><td>Death Is Not the End</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Beck</td><td>Mixed Bizzness</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Jonny Fritz</td><td>Happy in Hindsight</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Half Man Half Biscuit</td><td>Joy Division Oven Gloves</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Camera Obscura</td><td>Happy New Year</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -102,9 +102,6 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Wevie Stonder</td><td>Und</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>North Americans</td><td>Rivers That You Cannot See</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Alabaster dePlume</td><td>Mrs Calamari</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Jeffrey Lewis & Los Bolts</td><td>Scowling Crackhead Ian</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Bright Eyes</td><td>At the Bottom of Everything</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Silver Jews</td><td>Trains Across the Sea</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Einsturzende Neubauten</td><td>Total Eclipse Of The Sun</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>High Dependency Unit</td><td>Grace</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Mukimukimanmansu</td><td>Andromeda</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -155,6 +152,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Johnny Cash</td><td>Boa Constrictor</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Velvet Underground & Nico</td><td>The Black Angels Death Song</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Jeffrey Lewis & Los Bolts</td><td>The Pigeon</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Jeffrey Lewis & Los Bolts</td><td>Scowling Crackhead Ian</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Bright Eyes</td><td>At the Bottom of Everything</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Silver Jews</td><td>Trains Across the Sea</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Sonic Youth</td><td>Kool Thing</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Vashti Bunyan</td><td>Diamond Day</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Animal Collective</td><td>Fireworks</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
@@ -231,6 +231,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>The White Stripes</td><td>I Fought Piranhas</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Ryan Adams</td><td>Gimme A Sign</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Ryan Adams</td><td>Dear Chicago</td><td>Bonus Track</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>The Mountain Goats</td><td>This Year</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Nick Cave</td><td>Death Is Not the End</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Beck</td><td>Mixed Bizzness</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Mary Gauthier</td><td>I Drink</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Leonard Cohen</td><td>Dear Heather</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Monsters of Folk</td><td>Dear God (sincerely M.O.F.)</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

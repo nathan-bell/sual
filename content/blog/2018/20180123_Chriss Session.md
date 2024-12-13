@@ -6,7 +6,7 @@ image: "/images/post/20180213_AdobeStock_54078438.jpg"
 date: 2018-01-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","neilyoung","santana","blackberrysmoke","tonyjoewhite","bozscaggs","joehenry","delaneydavidson","madeleinepeyroux","jarviscocker","michaelhedges","us3","lard","sade","bigblack","lukabloom","lamacanita","petrahaden","chuckjohnson","davidsanborn","petetownshend"]
+tags: ["chrisssession","neilyoung","santana","blackberrysmoke","tonyjoewhite","bozscaggs","delaneydavidson","joehenry","madeleinepeyroux","jarviscocker","michaelhedges","us3","lard","sade","bigblack","lukabloom","lamacanita","petrahaden","chuckjohnson","davidsanborn","petetownshend"]
 categories: ["Gatherings"]
 ---
 > Theme: “take the rough with the smooth” (however you wish to interpret).

@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2024-11-29
+date: 2024-12-13
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 321 tracks in total
+### 324 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Cassandra Wilson</td><td>Resurrection Blues</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Nitin Sawhney</td><td>Nadia</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Cowboy Junkies</td><td>Marathon</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>David Bowie</td><td>Song for Bob Dylan</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Gotta Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td>Like A Rolling Stone</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
@@ -66,9 +69,6 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Paul Simon</td><td>Kodachrome</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Christine McVie</td><td>Friend</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Ron Sexsmith</td><td>Everyday I Write the Book (live W/Ec)</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Johnny Marr</td><td>Playland</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Marty Robbins</td><td>I'm Gonna Miss You When You Go</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Donald Fagen</td><td>New Frontier</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Johnny Marr</td><td>Playland</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Dusty Springfield</td><td>Anyone Who Had a Heart</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>David Grisman</td><td>Steppin' With Stephane</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
@@ -92,9 +92,6 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Courtney Barnett</td><td>Elevator Operator</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Nick Cave</td><td>Mack the Knife</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
 <tr><td>Lucinda Williams</td><td>Pray the Devil Back to Hell</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Tiny Ruins</td><td>Olympic Girls</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Mermaidens</td><td>Give It Up</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Little Bushman</td><td>Jimi</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Junun ft. Shye Ben Tzur, Jonny Greenwood, & The Rajasthan Express</td><td>Junun</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Superbrew</td><td>Aroha</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
 <tr><td>Paul Simon & Miriam Makeba</td><td>Under African Skies - Paul Simon & Miriam Makeba</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
@@ -144,6 +141,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>The Chicks</td><td>Ticket To Ride</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Troggs</td><td>I Can't Control Myself</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Zombies</td><td>How We Were Before</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Tiny Ruins</td><td>Olympic Girls</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Mermaidens</td><td>Give It Up</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Little Bushman</td><td>Jimi</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Paul Kelly</td><td>Meet Me In The Middle Of The Air</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Mandolin Orange</td><td>Wildfire</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Steve 'n' Seagulls</td><td>Thunderstruck</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
@@ -232,6 +232,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Etta James</td><td>Born Under a Bad Sign</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Norah Jones</td><td>Creepin' In</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Al Jarreau</td><td>Mas Que Nada</td><td>Bonus Track</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Johnny Marr</td><td>Playland</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Marty Robbins</td><td>I'm Gonna Miss You When You Go</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Donald Fagen</td><td>New Frontier</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
 <tr><td>Norah Jones</td><td>Burn</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Leonard Cohen</td><td>You Want It Darker</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Cassandra Wilson</td><td>Strange Fruit</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>

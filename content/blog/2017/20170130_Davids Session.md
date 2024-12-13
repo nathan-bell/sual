@@ -1,9 +1,9 @@
 ---
-title: "David's Session - Jan 23"
+title: "David's Session - Jan 2017"
 description: "The themes were: _F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016. , Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along, Who let the cows out - The track you select must contain a cow bell as an instrument._"
 summary: "The themes were: _F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016. , Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along, Who let the cows out - The track you select must contain a cow bell as an instrument._"
 image: "/images/post/340c4999f4be0767bf50595907bc02ff.jpg"
-date: 2023-01-25T00:00:00.0000000
+date: 2017-01-30T00:00:00.0000000
 draft: false
 author: "David"
 tags: ["davidssession","ledzeppelin","nickcave","thewho","paulsimon","donaldfagen","beck","gratefuldead","hotchip","arcadefire","littlefeat","runthejewels","thexx","benchambers","tamineilson","theblackkeys","johnnymarr","carseatheadrest","themountaingoats","newridersofthepurplesage","djshadow","stayhuman","jonbatiste","martyrobbins"]
