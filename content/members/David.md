@@ -2,18 +2,20 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 350 tracks in total
+### 352 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Nilüfer Yanya</td><td><a href="https://www.youtube.com/watch?v=2YJfRrd8EqU">Method Actor</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>The Pineapple Thief</td><td><a href="https://www.youtube.com/watch?v=d8qMOc4dN6c">Now It's Yours</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Nilüfer Yanya</td><td>Binding</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Eva Cassidy</td><td>Ain't No Sunshine</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Ween</td><td>A Tear For Eddie</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>

@@ -2,18 +2,20 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 334 tracks in total
+### 336 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: John Hiatt (6 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays), Son Volt (4 plays) and Ry Cooder (4 plays).
+Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Son Volt (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=L5Hu9nzQc6U">I Just Go</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Kelly Joe Phelps</td><td>Katy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The White Stripes</td><td>Jolene (Live)</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The White Stripes</td><td>I Just Don't Know What to Do With Myself</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>

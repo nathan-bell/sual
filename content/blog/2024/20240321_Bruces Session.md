@@ -5,7 +5,7 @@ image: "/images/post/_91e19760-1b16-4c8f-b584-a10fac07c103.jpeg"
 date: 2024-02-27T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["brucessession","paulsimon","pretenders","thepineapplethief","ericclapton","halfjapanese","angádíaz","kaiclark","kayleebell","obyonyioha","coryhanson","jolieholland","patentochsner","thomasmapfumo","thehangingstars","klergyandmindyjones"]
+tags: ["brucessession","paulsimon","pretenders","thepineapplethief","ericclapton","halfjapanese","jolieholland","angádíaz","kaiclark","kayleebell","obyonyioha","coryhanson","patentochsner","thomasmapfumo","thehangingstars","klergyandmindyjones"]
 categories: ["Gatherings"]
 ---
 > We heard Nigerian disco-funk, Afro-Cuban jazz, American art-punk, Paul Simon's dream inspired meditations on "The Lord" and much more.

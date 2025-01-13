@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 323 tracks in total
+### 326 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>John Patitucci</td><td><a href="https://www.youtube.com/watch?v=q_zMpQnDOSU">Ivory Coast, Pt. 1</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=XjfH9mtasgQ">Is She Really Going out with Him (Live)</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=jON_GQBinhA">Heartbreak Hotel</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Nina Simone</td><td>Mood Indigo</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>John Patitucci</td><td>Ivory Coast, Pt. 2</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Brian Eno & Jah Wobble</td><td>Like Organza</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>

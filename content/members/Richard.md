@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 329 tracks in total
+### 332 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>They Might Be Giants</td><td><a href="https://www.youtube.com/watch?v=mHliXVifhEM">Doctor Worm</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Skunkhour</td><td><a href="https://www.youtube.com/watch?v=M2CsoNCDvjE">Up To Our Necks In It</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=Ijlk0GTQbB4">The Outdoor Type</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Joe Cocker</td><td>Just Like A Woman</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Kacey Musgraves</td><td>Cardinal</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Kacey Musgraves</td><td>Heaven Is</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>

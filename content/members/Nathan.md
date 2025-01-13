@@ -2,18 +2,20 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 324 tracks in total
+### 326 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Nick Cave (6 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Jolie Holland</td><td><a href="https://www.youtube.com/watch?v=FaupwrOwU9Q">Feet on the Ground</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Alabaster DePlume</td><td><a href="https://www.youtube.com/watch?v=QyKrC2mWx0c">Broken Again</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Adrianne Lenker</td><td>Sadness As a Gift</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Mercury Rev</td><td>Born Horses</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Nick Cave</td><td>Joy</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>

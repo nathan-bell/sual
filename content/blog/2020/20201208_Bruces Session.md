@@ -6,7 +6,7 @@ image: "/images/post/20201208_image-asset.jpeg"
 date: 2020-12-08T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","davidbowie","thebeatles","vanmorrison","kurtvile","nadiareid","jonathanrichman","arcadefire","courtneybarnett","flowerkid","aawilliams","roybuchanan","ajj","momus","kidrock","aphrodelics","cocomontoya","johnfogerty","75dollarbill","keithjarrett","franksinatra","terenceboylan","phoebebridgers","juliahülsmannquartet","rollingblackoutscoastalfever"]
+tags: ["brucessession","davidbowie","thebeatles","vanmorrison","kurtvile","nadiareid","jonathanrichman","arcadefire","aawilliams","courtneybarnett","flowerkid","roybuchanan","ajj","momus","kidrock","aphrodelics","cocomontoya","johnfogerty","75dollarbill","keithjarrett","franksinatra","terenceboylan","phoebebridgers","juliahülsmannquartet","rollingblackoutscoastalfever"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Discoveries of the Year 2020, Looking forward to 2021_

@@ -2,18 +2,20 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2024-12-13
+date: 2025-01-13
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 310 tracks in total
+### 312 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), The Cure (5 plays) and Grateful Dead (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>A.A.Williams</td><td><a href="https://www.youtube.com/watch?v=zF8Vq-jaK40">Murmurs</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=qLx39oI9djU">Love Has Made A Fool Of Me</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Sarah Jarosz</td><td>The Way It Is Now</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Mark Knopfler</td><td>Smart Money</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Father John Misty</td><td>She Cleans Up</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
