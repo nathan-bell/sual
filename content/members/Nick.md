@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,13 +14,13 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Cassandra Wilson</td><td>Resurrection Blues</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Nitin Sawhney</td><td>Nadia</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Cowboy Junkies</td><td>Marathon</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>David Bowie</td><td>Song for Bob Dylan</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Gotta Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Like A Rolling Stone</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Blind Willie McTell</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=av3IDhEOQpI">Resurrection Blues</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Nitin Sawhney</td><td><a href="https://www.youtube.com/watch?v=ZBjxLv9Dfhk">Nadia</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fz6sQ-UNx2Q">Marathon</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=v23YSyH3Fe8">Song for Bob Dylan</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=wC10VWDTzmU">Gotta Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=IwOfCgkyEj0">Like A Rolling Stone</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=_AIRdU6CPf0">Blind Willie McTell</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Phil Broadhurst</td><td>Soliloquy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Pat Metheny & Charlie Haden</td><td>Spiritual</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Keith Jarrett Trio</td><td>Blame It On My Youth</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

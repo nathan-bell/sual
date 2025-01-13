@@ -6,7 +6,7 @@ image: "/images/post/ac9dbc2f4e9b72b1b4cefeebb8f988f6.jpg"
 date: 2024-11-26T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nickssession","davidbowie","thebeatles","bobdylan","jonimitchell","ettajames","sarahjarosz","jasonandthescorchers","emmylouharris","sandydenny","antonyandthejohnsons","popsstaples","thedeadweather","thepersuasions"]
+tags: ["nickssession","davidbowie","thebeatles","bobdylan","jonimitchell","ettajames","sarahjarosz","jasonandthescorchers","emmylouharris","sandydenny","antonyandthejohnsons","popsstaples","thedeadweather","thepersuasions","youtube"]
 categories: ["Gatherings"]
 ---
 > We explored all things Dylan, and it was made abundantly clear to us that be it the Devil or the Lord, you've gotta serve somebody.

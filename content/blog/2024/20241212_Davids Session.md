@@ -6,7 +6,7 @@ image: "/images/post/th.jpg"
 date: 2024-12-12T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["davidssession","nickcave","ween","cowboyjunkies","sarahjarosz","mercuryrev","delaneydavidson","cassandrawilson","ninasimone","markknopfler","barrysaunders","kaceymusgraves","joecocker","evacassidy","nilüferyanya","nitinsawhney","johnpatitucci","adriannelenker","fatherjohnmisty","brianenoandjahwobble"]
+tags: ["davidssession","nickcave","ween","cowboyjunkies","sarahjarosz","mercuryrev","delaneydavidson","cassandrawilson","ninasimone","markknopfler","barrysaunders","kaceymusgraves","joecocker","evacassidy","nilüferyanya","nitinsawhney","johnpatitucci","adriannelenker","fatherjohnmisty","brianenoandjahwobble","youtube"]
 categories: ["Gatherings"]
 ---
 > We reflected on our listening for 2024, and enjoyed hearing our favourite musical moments through David's new system.

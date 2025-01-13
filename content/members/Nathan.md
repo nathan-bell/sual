@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -16,12 +16,12 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Jolie Holland</td><td><a href="https://www.youtube.com/watch?v=FaupwrOwU9Q">Feet on the Ground</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Alabaster DePlume</td><td><a href="https://www.youtube.com/watch?v=QyKrC2mWx0c">Broken Again</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
-<tr><td>Adrianne Lenker</td><td>Sadness As a Gift</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Mercury Rev</td><td>Born Horses</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Nick Cave</td><td>Joy</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Joni Mitchell</td><td>Talk to Me</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Folsom Prison Blues</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Hard Times</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Adrianne Lenker</td><td><a href="https://www.youtube.com/watch?v=GmycsQ30obg">Sadness As a Gift</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Mercury Rev</td><td><a href="https://www.youtube.com/watch?v=ZEOH2Jv1ZA8">Born Horses</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=0yvX_SAzkmQ">Joy</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=br5yhr-4oPs">Talk to Me</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=fFUH3wWz3Iw">Folsom Prison Blues</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=OYRBtBiKfro">Hard Times</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Johnny Cash</td><td>The Man Who Couldn't Cry</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Buddy Miller, Julie Miller</td><td>Memphis Jane</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Dolly Parton, Linda Ronstadt, and Emmylou Harris</td><td>After the Gold Rush</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

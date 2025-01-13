@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -17,12 +17,12 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>They Might Be Giants</td><td><a href="https://www.youtube.com/watch?v=mHliXVifhEM">Doctor Worm</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Skunkhour</td><td><a href="https://www.youtube.com/watch?v=M2CsoNCDvjE">Up To Our Necks In It</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=Ijlk0GTQbB4">The Outdoor Type</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
-<tr><td>Joe Cocker</td><td>Just Like A Woman</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Kacey Musgraves</td><td>Cardinal</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Kacey Musgraves</td><td>Heaven Is</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Jason & The Scorchers</td><td>Absolutely Sweet Marie</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>The Beatles</td><td>You've Got to Hide Your Love Away</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Jokerman</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Joe Cocker</td><td><a href="https://www.youtube.com/watch?v=B_bvAe13vBQ">Just Like A Woman</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=dHI7wnv58ws">Cardinal</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=6smfEoeo6ak">Heaven Is</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Jason & The Scorchers</td><td><a href="https://www.youtube.com/watch?v=p-cF40OWeak">Absolutely Sweet Marie</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=oRrz3yYC2Yg">You've Got to Hide Your Love Away</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=1XSvsFgvWr0">Jokerman</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Wildwood Guitars</td><td><a href="https://www.youtube.com/watch?v=hbuJwcs1MV0">Gibson Firebird Sales Pitch</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Allman Brothers Band</td><td>Little Martha</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Rory Gallagher</td><td>Should've Learnt My Lesson</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

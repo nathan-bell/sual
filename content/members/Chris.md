@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]

@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -16,12 +16,12 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>A.A.Williams</td><td><a href="https://www.youtube.com/watch?v=zF8Vq-jaK40">Murmurs</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=qLx39oI9djU">Love Has Made A Fool Of Me</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
-<tr><td>Sarah Jarosz</td><td>The Way It Is Now</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Mark Knopfler</td><td>Smart Money</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Father John Misty</td><td>She Cleans Up</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Sandy Denny</td><td>Tomorrow Is A Long Time</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bob Dylan</td><td>Shelter from the Storm</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Sarah Jarosz</td><td>Simple Twist of Fate</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=WktjweXxugw">The Way It Is Now</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Mark Knopfler</td><td><a href="https://www.youtube.com/watch?v=mEGBTAaijp8">Smart Money</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Father John Misty</td><td><a href="https://www.youtube.com/watch?v=pVzu0M0LWTM">She Cleans Up</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=XI_8ArJgDgc">Tomorrow Is A Long Time</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=-gsDBuHwqbM">Shelter from the Storm</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=ECie2mESd9Y">Simple Twist of Fate</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bert Jansch</td><td>Angie</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Andy Irvine & Donal Lunny</td><td><a href="https://www.youtube.com/watch?v=vRFD0TzJfbk">The Blacksmith</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>John Butler Trio</td><td>Pickapart</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>

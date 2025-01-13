@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-01-13
+date: 2025-01-14
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -17,12 +17,12 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>John Patitucci</td><td><a href="https://www.youtube.com/watch?v=q_zMpQnDOSU">Ivory Coast, Pt. 1</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=XjfH9mtasgQ">Is She Really Going out with Him (Live)</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=jON_GQBinhA">Heartbreak Hotel</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
-<tr><td>Nina Simone</td><td>Mood Indigo</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>John Patitucci</td><td>Ivory Coast, Pt. 2</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>Brian Eno & Jah Wobble</td><td>Like Organza</td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
-<tr><td>The Persuasions</td><td>Three Angels</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Pops Staples</td><td>You Got to Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Etta James</td><td>Gotta Serve Somebody</td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Nina Simone</td><td><a href="https://www.youtube.com/watch?v=1V3O5kgwH2w">Mood Indigo</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>John Patitucci</td><td><a href="https://www.youtube.com/watch?v=7Y4Y-EajDsg">Ivory Coast, Pt. 2</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>Brian Eno & Jah Wobble</td><td><a href="https://www.youtube.com/watch?v=wpqPE9zZh08">Like Organza</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
+<tr><td>The Persuasions</td><td><a href="https://www.youtube.com/watch?v=vR3vd7nq8-s">Three Angels</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=NEiW5YMiNvI">You Got to Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=WPYzvvaLhjw">Gotta Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Camille</td><td>Ta douleur</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=Rg3IcbvozBs">Hoop & Pole</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Paladins</td><td>Five Minute Love Affair</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
