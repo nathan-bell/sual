@@ -23,7 +23,7 @@ categories: ["Gatherings"]
 - **Divinyls** - _"Back To the Wall"_ (Wendy - Guest) [youtube](https://www.youtube.com/watch?v=MIRSM11PLq4)
 - **Jolie Holland** - _"Feet on the Ground"_ (Nathan) [youtube](https://www.youtube.com/watch?v=FaupwrOwU9Q)
 - **A.A.Williams** - _"Murmurs"_ (Bruce) [youtube](https://www.youtube.com/watch?v=zF8Vq-jaK40)
-- **Past Self** - _"녹슨 칼"_ (Casey - Guest) [youtube](https://www.youtube.com/watch?v=wcU0uP5hlQQ)  [youtube](https://www.youtube.com/watch?v=wcU0uP5hlQQ)
+- **Past Self** - _"녹슨 칼"_ (Casey - Guest) [youtube](https://www.youtube.com/watch?v=wcU0uP5hlQQ)
 - **Skunkhour** - _"Up To Our Necks In It"_ (Richard) [youtube](https://www.youtube.com/watch?v=M2CsoNCDvjE)
 - **Dire Straits** - _"Local Hero / Wild Theme (Live Version)"_ (Ben - Guest) [youtube](https://www.youtube.com/watch?v=Vh2GFoDae8Y)
 - **Ramin Djawadi** - _"Goodbye Brother"_ (Natalie - Guest) [youtube](https://www.youtube.com/watch?v=spQljapBR7s)

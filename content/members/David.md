@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -22,20 +22,20 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>The Dead Weather</td><td><a href="https://www.youtube.com/watch?v=9WAHR9okaQQ">New Pony</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Emmylou Harris</td><td><a href="https://www.youtube.com/watch?v=q5fkoVAiudU">Every Grain of Sand</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Antony and the Johnsons</td><td><a href="https://www.youtube.com/watch?v=IrSLc1QYCcE">Knockin' On Heaven's Door</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Buffy Sainte-Marie</td><td>Cod'ine</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Ween</td><td>Reggaejunkiejew</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Depeche Mode</td><td>Where's the Revolution</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>King Hannah</td><td>Lily Pad</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>The Alan Parsons Project</td><td>I Robot</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Death and the Maiden</td><td>Hourglass</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Dios Malos</td><td>You Make Me Feel Uncomfortable</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Robin Trower</td><td>Bridge of Sighs</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Beth Gibbons</td><td>Rewind</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Kim Gordon</td><td>BYE BYE</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>New Orleans Klezmer Allstars</td><td>Moroccan Roller</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Buffy Sainte-Marie</td><td><a href="https://www.youtube.com/watch?v=d3bfqlTCHZk">Cod'ine</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=Mjmp_T3Kh8g">Reggaejunkiejew</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Depeche Mode</td><td><a href="https://www.youtube.com/watch?v=jsCR05oKROA">Where's the Revolution</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=p05GCFpnPF4">Lily Pad</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>The Alan Parsons Project</td><td><a href="https://www.youtube.com/watch?v=8ng6N5oXZ9M">I Robot</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Death and the Maiden</td><td><a href="https://www.youtube.com/watch?v=oPzdCUjFxHU">Hourglass</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Dios Malos</td><td><a href="https://www.youtube.com/watch?v=ZGtnXA6lGqg">You Make Me Feel Uncomfortable</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Robin Trower</td><td><a href="https://www.youtube.com/watch?v=0tLsFsGxLmE">Bridge of Sighs</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Beth Gibbons</td><td><a href="https://www.youtube.com/watch?v=Wq-tnd8dyjM">Rewind</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Kim Gordon</td><td><a href="https://www.youtube.com/watch?v=IZ3i80B0qKg">BYE BYE</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>New Orleans Klezmer Allstars</td><td><a href="https://www.youtube.com/watch?v=UxW5DEK9ecY">Moroccan Roller</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Gavin Harrison</td><td><a href="https://www.youtube.com/watch?v=HHoHT3UEJyE">Pick up the Pieces</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Mofro</td><td>Dirtfloorcracker</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Caro Emerald</td><td>Back It Up</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Mofro</td><td><a href="https://www.youtube.com/watch?v=-MdOv826QiU">Dirtfloorcracker</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Caro Emerald</td><td><a href="https://www.youtube.com/watch?v=jo1cyl0QbWo">Back It Up</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>City and Colour</td><td>The Grand Optimist</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>!!!</td><td>Even When the Water's Cold</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Mary Schneider</td><td>Fiddle Faddle Yodel</td><td>Tea-break/Yodelling interlude</td><td> Nick's Session - May 2024</td></tr>

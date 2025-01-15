@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -24,17 +24,17 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=oRrz3yYC2Yg">You've Got to Hide Your Love Away</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=1XSvsFgvWr0">Jokerman</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Wildwood Guitars</td><td><a href="https://www.youtube.com/watch?v=hbuJwcs1MV0">Gibson Firebird Sales Pitch</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Little Martha</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Rory Gallagher</td><td>Should've Learnt My Lesson</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Bee Gees</td><td>Every Christian Lion Hearted Man Will Show You</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>BENEE</td><td>Plain (feat. Lily Allen & Flo Milli)</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>London Music Works</td><td>Theme (From The Jetsons")"</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>The Sundays</td><td>Here's Where the Story Ends</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>The Sundays</td><td>I Kicked a Boy</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>The Superjesus</td><td>Gravity</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Tex Ritter</td><td>Bury Me Not On The Lone Prairie</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Bob Wills</td><td>Pan Handle Rag</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Parallel Park</td><td>We Don't Call It Love</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=typ2c8JPkLE">Little Martha</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Rory Gallagher</td><td><a href="https://www.youtube.com/watch?v=Cz1xsuJC2JE">Should've Learnt My Lesson</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Bee Gees</td><td><a href="https://www.youtube.com/watch?v=E1YbYXXKWbs">Every Christian Lion Hearted Man Will Show You</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=Ep8ujjLnW7M">Plain (feat. Lily Allen & Flo Milli)</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>London Music Works</td><td><a href="https://www.youtube.com/watch?v=D1ilrZTIGlE">Theme (From The Jetsons")"</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=2HV5KfE4xMA">Here's Where the Story Ends</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=gXr92XTbqZU">I Kicked a Boy</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>The Superjesus</td><td><a href="https://www.youtube.com/watch?v=pC-gAD-0-OY">Gravity</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Tex Ritter</td><td><a href="https://www.youtube.com/watch?v=fdlRN_jCfKo">Bury Me Not On The Lone Prairie</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bob Wills</td><td><a href="https://www.youtube.com/watch?v=NB5E9xVPxv0">Pan Handle Rag</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Parallel Park</td><td><a href="https://www.youtube.com/watch?v=NooZ2awg5IA">We Don't Call It Love</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Johnny Horton</td><td>North To Alaska</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>Tony Joe White & Johnny Cash</td><td>Polk Salad Annie</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>James Taylor</td><td>Captain Jim's Drunken Dream</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>

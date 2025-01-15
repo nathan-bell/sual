@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -22,21 +22,21 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=br5yhr-4oPs">Talk to Me</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=fFUH3wWz3Iw">Folsom Prison Blues</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=OYRBtBiKfro">Hard Times</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Johnny Cash</td><td>The Man Who Couldn't Cry</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Buddy Miller, Julie Miller</td><td>Memphis Jane</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Dolly Parton, Linda Ronstadt, and Emmylou Harris</td><td>After the Gold Rush</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Joanna Newsom</td><td>'81</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Butthole Surfers</td><td>I Saw an X-Ray of a Girl Passing Gas</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Battles</td><td>DDimaondd</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Tunng</td><td>Woodcat</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Dimmer</td><td>Searching Time</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Eleni Mandell</td><td>Perfect Stranger</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>The Monks</td><td>Love Came Tumblin' Down</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Iron & Wine</td><td>Sunset Soon Forgotten</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>The Mars Volta</td><td>Inertiatic ESP</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Bill Callahan</td><td>Jim Cain</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Jandek</td><td>Mostly All From You</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Laddio Bollocko</td><td>The Man Who Never Was</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Johnny Cash</td><td><a href="https://www.youtube.com/watch?v=_kvvNXuDRYI">The Man Who Couldn't Cry</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Buddy Miller, Julie Miller</td><td><a href="https://www.youtube.com/watch?v=vYQ1Q5zVexc">Memphis Jane</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Dolly Parton, Linda Ronstadt, and Emmylou Harris</td><td><a href="https://www.youtube.com/watch?v=ykMzS6ugnPI">After the Gold Rush</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Joanna Newsom</td><td><a href="https://www.youtube.com/watch?v=1nz0t7K1prY">'81</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Butthole Surfers</td><td><a href="https://www.youtube.com/watch?v=ScVbbybrbsc">I Saw an X-Ray of a Girl Passing Gas</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Battles</td><td><a href="https://www.youtube.com/watch?v=lz5FUm4Gbeo">DDimaondd</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Tunng</td><td><a href="https://www.youtube.com/watch?v=DtMxdKmvR94">Woodcat</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Dimmer</td><td><a href="https://www.youtube.com/watch?v=r05h496tWKo">Searching Time</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Eleni Mandell</td><td><a href="https://www.youtube.com/watch?v=cBKFgQGB_vk">Perfect Stranger</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>The Monks</td><td><a href="https://www.youtube.com/watch?v=Mmn4z6T8ZtI">Love Came Tumblin' Down</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Iron & Wine</td><td><a href="https://www.youtube.com/watch?v=IWySRJKOx-Y">Sunset Soon Forgotten</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The Mars Volta</td><td><a href="https://www.youtube.com/watch?v=neSQgkEy_xQ">Inertiatic ESP</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=iIbzH65zSdg">Jim Cain</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Jandek</td><td><a href="https://www.youtube.com/watch?v=gSUMa-5BBw8">Mostly All From You</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Laddio Bollocko</td><td><a href="https://www.youtube.com/watch?v=d3geqHgAuFo">The Man Who Never Was</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Neil Young</td><td>Powderfinger (alternate version from 'Dume')</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Della Reese</td><td>Gotta' Tracel On</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Afric Simone</td><td>Hafanana</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>

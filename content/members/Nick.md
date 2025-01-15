@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -21,15 +21,15 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=wC10VWDTzmU">Gotta Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=IwOfCgkyEj0">Like A Rolling Stone</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=_AIRdU6CPf0">Blind Willie McTell</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Phil Broadhurst</td><td>Soliloquy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Pat Metheny & Charlie Haden</td><td>Spiritual</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Keith Jarrett Trio</td><td>Blame It On My Youth</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Paul Simon</td><td>Darling Lorraine</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Paul Simon</td><td>Another Galaxy</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Charles Lloyd</td><td>You Are So Beautiful</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Neil Young</td><td>When You Dance I Can Really Love</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Bruce Springsteen</td><td>Tunnel of Love</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Neil Young</td><td>Mother Earth (Natural Anthem)</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Phil Broadhurst</td><td><a href="https://www.youtube.com/watch?v=nHpWj4L1C0I">Soliloquy</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Pat Metheny & Charlie Haden</td><td><a href="https://www.youtube.com/watch?v=1k_DF_RohcM">Spiritual</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Keith Jarrett Trio</td><td><a href="https://www.youtube.com/watch?v=E7d_qMFFgUw">Blame It On My Youth</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=WORePczUkaI">Darling Lorraine</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=11OzgdqycLM">Another Galaxy</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Charles Lloyd</td><td><a href="https://www.youtube.com/watch?v=9V-8tu1DVYM">You Are So Beautiful</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=hiuJ2vpeZxA">When You Dance I Can Really Love</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=M4K7XZGeHTE">Tunnel of Love</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=GEAMKBfBSj0">Mother Earth (Natural Anthem)</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Linkin Park</td><td>One Step Closer</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>David Bowie</td><td>Moonage Daydream</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Mory Kante</td><td>Mama</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>

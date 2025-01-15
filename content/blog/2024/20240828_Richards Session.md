@@ -6,7 +6,7 @@ image: "/images/post/CSR00041.jpg"
 date: 2024-08-28T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["richardssession","paulsimon","jimihendrix","cowboyjunkies","wilco","thechills","thesundays","walterbecker","dimmer","camille","palewaves","thesuperjesus","tunng","diosmalos","reubenstone","robintrower","charleslloyd","elenimandell","goodcharlotte","theillphonics","grantleebuffalo","parsonsandhayward","deathandthemaiden"]
+tags: ["richardssession","paulsimon","jimihendrix","cowboyjunkies","wilco","thechills","thesundays","walterbecker","dimmer","camille","palewaves","thesuperjesus","tunng","diosmalos","reubenstone","robintrower","charleslloyd","elenimandell","goodcharlotte","theillphonics","grantleebuffalo","parsonsandhayward","deathandthemaiden","youtube"]
 categories: ["Gatherings"]
 ---
 > We raised our glasses to Martin's mum, said goodbye to The Sundays' Reading, Writing and Arithmetic, and limited ourselves to tracks 2 and 8.

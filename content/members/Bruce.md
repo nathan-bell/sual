@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -22,18 +22,18 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=XI_8ArJgDgc">Tomorrow Is A Long Time</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=-gsDBuHwqbM">Shelter from the Storm</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=ECie2mESd9Y">Simple Twist of Fate</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Bert Jansch</td><td>Angie</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Bert Jansch</td><td><a href="https://www.youtube.com/watch?v=RqjUWJtH88c">Angie</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Andy Irvine & Donal Lunny</td><td><a href="https://www.youtube.com/watch?v=vRFD0TzJfbk">The Blacksmith</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>John Butler Trio</td><td>Pickapart</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Jethro Tull</td><td>The Whistler</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>London Grammar</td><td>Into Gold</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Gary Numan</td><td>My Name Is Ruin</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Cowboy Junkies</td><td>Misguided Angel</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Grant Lee Buffalo</td><td>Drag</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>The Chills</td><td>I Love My Leather Jacket</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Jay Clarkson</td><td>Wheeling</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=VoVLYvuUH-s">Pickapart</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=2mBaE-K4RxI">The Whistler</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=A7wweDJGgiw">Into Gold</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Gary Numan</td><td><a href="https://www.youtube.com/watch?v=lHomCiPFknY">My Name Is Ruin</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=T2odlGAxuwQ">Misguided Angel</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Grant Lee Buffalo</td><td><a href="https://www.youtube.com/watch?v=TOrmH4coIxk">Drag</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=YLyXvG_HTMA">I Love My Leather Jacket</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Jay Clarkson</td><td><a href="https://www.youtube.com/watch?v=SSqATISb66w">Wheeling</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Nick Feretti</td><td>Never Leave Your lover Alone</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>The The</td><td>Sweet Bird of Truth</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=azysyU_Rr1g">Sweet Bird of Truth</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Hüsker Dü</td><td>Crystal</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>The Phoenix Foundation</td><td>Pot</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Canzoniere Grecanico Salentino</td><td>Tienime tata</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>

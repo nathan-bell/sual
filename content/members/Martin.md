@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -23,22 +23,22 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>The Persuasions</td><td><a href="https://www.youtube.com/watch?v=vR3vd7nq8-s">Three Angels</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=NEiW5YMiNvI">You Got to Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
 <tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=WPYzvvaLhjw">Gotta Serve Somebody</a></td><td>Bob Dylan! Himself and anyone who's ever played with him and any tangential extenuating association! Go for it!</td><td> Nick's Session - Nov 2024</td></tr>
-<tr><td>Camille</td><td>Ta douleur</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=OPGNWFQy_gg">Ta douleur</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=Rg3IcbvozBs">Hoop & Pole</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>The Paladins</td><td>Five Minute Love Affair</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The Paladins</td><td><a href="https://www.youtube.com/watch?v=jbC1RM3tBxw">Five Minute Love Affair</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Brad Mehldau</td><td><a href="https://www.youtube.com/watch?v=YPuZ671t5t4">I Am The Walrus</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Return to Forever</td><td>Beyond The Seventh Galaxy</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Parsons & Hayward</td><td>Daddy Fox</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Walter Becker</td><td>Do You Remember the Name</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Camille</td><td>Ta douleur</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Robert Gordon with Link Wray</td><td>Red Hot</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Return to Forever</td><td><a href="https://www.youtube.com/watch?v=f4gh1Zzg28k">Beyond The Seventh Galaxy</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Parsons & Hayward</td><td><a href="https://www.youtube.com/watch?v=RfNTwVomSUc">Daddy Fox</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=KvBrvOp9GHA">Do You Remember the Name</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=OPGNWFQy_gg">Ta douleur</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Robert Gordon with Link Wray</td><td><a href="https://www.youtube.com/watch?v=6GHdEOYNpFI">Red Hot</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Lisa Ekdahl</td><td><a href="https://www.youtube.com/watch?v=AANeqglm2cg">Now or Never</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Frankfurt Radio Symphony</td><td><a href="https://www.youtube.com/watch?v=HP5xhyPn58U">Gustav Holst: The Planets op. 32 -  Mars, the Bringer of War</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Emily Remler & Monty Alexander</td><td><a href="https://www.youtube.com/watch?v=Am6P78jDTUw">Joy Spring</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Emily Remler</td><td><a href="https://www.youtube.com/watch?v=wJYqqA1U0mc">Tenor Madness</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Stanley Dee</td><td><a href="https://www.youtube.com/watch?v=oy5HTlkg7Lc">Kid Charlemagne</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Jocelyn Gould</td><td>It's All Right with Me</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Astor Piazzolla</td><td>Tanguedia III</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Jocelyn Gould</td><td><a href="https://www.youtube.com/watch?v=C-WN-FEupbw">It's All Right with Me</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Astor Piazzolla</td><td><a href="https://www.youtube.com/watch?v=Tmc_UaXuzOo">Tanguedia III</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Tom Waits</td><td>16 Shells From a Thirty-Ought-Six</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>John Scofield</td><td>I Don't Need No Doctor (feat. John Mayer)</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Pat Metheny Group</td><td>Barcarole</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>

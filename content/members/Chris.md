@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-01-14
+date: 2025-01-15
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -16,22 +16,22 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=L5Hu9nzQc6U">I Just Go</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Katy</td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>The White Stripes</td><td>Jolene (Live)</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>The White Stripes</td><td>I Just Don't Know What to Do With Myself</td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>John Hiatt</td><td>Take It Down</td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Marcel Pérès & Ensemble Organum</td><td>Gradual of Eleanor of Brittany - Kyrie: Orbis Factor</td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Delaney Davidson</td><td>Care of You</td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Jason Morran</td><td>Time Into Space Into Time</td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Wilco</td><td>Cruel Country</td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Jimi Hendrix</td><td>Bleeding Heart</td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>The Illphonics</td><td>One of Those Days</td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
-<tr><td>Jimmie Dale Gilmore</td><td>I'm Movin' On</td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Bill Lake and the Right Mistake</td><td>Grown out of the Blues</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>The Psychedelic Furs</td><td>India</td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Screaming Trees</td><td>All I Know</td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Slackwax</td><td>On the Road Again</td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Will Johnson</td><td>Of Passengers and Plight</td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=fj99jRWVrnk">Katy</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The White Stripes</td><td><a href="https://www.youtube.com/watch?v=yXlULkwhgrc">Jolene (Live)</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>The White Stripes</td><td><a href="https://www.youtube.com/watch?v=wzDG0jA3XVY">I Just Don't Know What to Do With Myself</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=yOBxDfgDZjI">Take It Down</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
+<tr><td>Marcel Pérès & Ensemble Organum</td><td><a href="https://www.youtube.com/watch?v=r4vFnFHf8Us">Gradual of Eleanor of Brittany - Kyrie: Orbis Factor</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Delaney Davidson</td><td><a href="https://www.youtube.com/watch?v=F149p6U0mXw">Care of You</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Jason Morran</td><td><a href="https://www.youtube.com/watch?v=0YNn0uVUYw8">Time Into Space Into Time</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=STLCrfx3N_0">Cruel Country</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=COsVgbAJ8B8">Bleeding Heart</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>The Illphonics</td><td><a href="https://www.youtube.com/watch?v=IFeutRnvzMc">One of Those Days</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
+<tr><td>Jimmie Dale Gilmore</td><td><a href="https://www.youtube.com/watch?v=XeXs88SIZsA">I'm Movin' On</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Bill Lake and the Right Mistake</td><td><a href="https://www.youtube.com/watch?v=gV-Mno3nIXU">Grown out of the Blues</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>The Psychedelic Furs</td><td><a href="https://www.youtube.com/watch?v=szZZBQFhAn0">India</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Screaming Trees</td><td><a href="https://www.youtube.com/watch?v=rwvlUEm_fmA">All I Know</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Slackwax</td><td><a href="https://www.youtube.com/watch?v=wyDuEr4cQXA">On the Road Again</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
+<tr><td>Will Johnson</td><td><a href="https://www.youtube.com/watch?v=PJGmO1m4ckU">Of Passengers and Plight</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Son Volt</td><td>Static</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Bill Frisell</td><td>Have a Little Faith In Me</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>Vieux Farka Touré & Khruangbin</td><td>Diarabi</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
