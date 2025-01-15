@@ -5,7 +5,7 @@ image: "/images/post/WhatsApp Image 2024-04-24 at 19.14.50_3bf4a2b9.jpg"
 date: 2024-05-16T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nickssession","davidbowie","neilyoung","tomwaits","thephoenixfoundation","billfrisell","sonvolt","canzonieregrecanicosalentino","patmetheny","johnscofield","huskerdu","linkinpark","!!!","morykante","dellareese","africsimone","imanicoppola","cityandcolour","maryschneider","vieuxfarkatouréandkhruangbin"]
+tags: ["nickssession","davidbowie","neilyoung","tomwaits","thephoenixfoundation","billfrisell","sonvolt","canzonieregrecanicosalentino","patmetheny","johnscofield","huskerdu","linkinpark","!!!","morykante","dellareese","africsimone","imanicoppola","cityandcolour","maryschneider","vieuxfarkatouréandkhruangbin","youtube"]
 categories: ["Gatherings"]
 ---
 > We enjoyed an evening of noise, submission to a higher thing, and appreciated the energy and joy of it all.

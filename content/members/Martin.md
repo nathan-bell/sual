@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -39,18 +39,18 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Stanley Dee</td><td><a href="https://www.youtube.com/watch?v=oy5HTlkg7Lc">Kid Charlemagne</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Jocelyn Gould</td><td><a href="https://www.youtube.com/watch?v=C-WN-FEupbw">It's All Right with Me</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Astor Piazzolla</td><td><a href="https://www.youtube.com/watch?v=Tmc_UaXuzOo">Tanguedia III</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Tom Waits</td><td>16 Shells From a Thirty-Ought-Six</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>John Scofield</td><td>I Don't Need No Doctor (feat. John Mayer)</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Pat Metheny Group</td><td>Barcarole</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>The Quebe Sisters</td><td>Summer of the Roses</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=jPOaicwzq4A">16 Shells From a Thirty-Ought-Six</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>John Scofield</td><td><a href="https://www.youtube.com/watch?v=KlCWsh3Unl8">I Don't Need No Doctor (feat. John Mayer)</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Pat Metheny Group</td><td><a href="https://www.youtube.com/watch?v=iZF17VwrOYQ">Barcarole</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>The Quebe Sisters</td><td><a href="https://www.youtube.com/watch?v=gdVcNNh1sKg">Summer of the Roses</a></td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=aGartzpXuyo">My Window Faces the South</a></td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=OrHU-rlIPaY">Shore Leave</a></td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
 <tr><td>Ralph Stanley</td><td><a href="https://www.youtube.com/watch?v=KYkczZbeFMs">Willing to Try</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Heavenly Light Quartet</td><td>Meet You Over Yonder</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Ry Cooder</td><td>Nobody</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Scary Goldings</td><td>Louis Cole Sucks (feat. Louis Cole, John Scofield & MonoNeon)</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Gentle Giant</td><td>Free Hand</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Toyah and Robert Fripp</td><td>Heroes (Live at Isle of Wight Festival)</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>The Heavenly Light Quartet</td><td><a href="https://www.youtube.com/watch?v=bwDcKgX7cKE">Meet You Over Yonder</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=Yp3_CidSd1U">Nobody</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Scary Goldings</td><td><a href="https://www.youtube.com/watch?v=-6xMwJL9QEk">Louis Cole Sucks (feat. Louis Cole, John Scofield & MonoNeon)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Gentle Giant</td><td><a href="https://www.youtube.com/watch?v=vMrYSTzqFI8">Free Hand</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Toyah and Robert Fripp</td><td><a href="https://www.youtube.com/watch?v=NE6AgfQfflE">Heroes (Live at Isle of Wight Festival)</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Scary Pockets & Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=8jm1Zl2Fjd4">Big Yellow Taxi</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Little Simz</td><td><a href="https://www.youtube.com/watch?v=K7xzmkpwNoA">Gorilla</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Pat Metheny Group</td><td>Last Train Home</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>

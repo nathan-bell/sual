@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -36,20 +36,20 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Gavin Harrison</td><td><a href="https://www.youtube.com/watch?v=HHoHT3UEJyE">Pick up the Pieces</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Mofro</td><td><a href="https://www.youtube.com/watch?v=-MdOv826QiU">Dirtfloorcracker</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Caro Emerald</td><td><a href="https://www.youtube.com/watch?v=jo1cyl0QbWo">Back It Up</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>City and Colour</td><td>The Grand Optimist</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>!!!</td><td>Even When the Water's Cold</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Mary Schneider</td><td>Fiddle Faddle Yodel</td><td>Tea-break/Yodelling interlude</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Imani Coppola</td><td>I'm a Tree</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Teenage Fanclub</td><td>Don't Look Back</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Who</td><td>Behind Blue Eyes</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Roches</td><td>Hammond Song</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Oby Onyioha</td><td>Enjoy Your Life</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Patent Ochsner</td><td>Ochsetuur</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>The Pineapple Thief</td><td>It Leads to This</td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Everything But the Girl</td><td>Nothing to Lose (Four Tet Remix)</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Mitski</td><td>Bug like an Angel</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Suckers</td><td>Roman Candle</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Donald Fagen</td><td>New Frontier</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>City and Colour</td><td><a href="https://www.youtube.com/watch?v=WZo31zMAySQ">The Grand Optimist</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>!!!</td><td><a href="https://www.youtube.com/watch?v=7pelcON_mfw">Even When the Water's Cold</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Mary Schneider</td><td><a href="https://www.youtube.com/watch?v=fVq1hwB42L0">Fiddle Faddle Yodel</a></td><td>Tea-break/Yodelling interlude</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Imani Coppola</td><td><a href="https://www.youtube.com/watch?v=uUHrywJmDvk">I'm a Tree</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Teenage Fanclub</td><td><a href="https://www.youtube.com/watch?v=6bUCuuC05BI">Don't Look Back</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>The Who</td><td><a href="https://www.youtube.com/watch?v=KmbCOMM8peo">Behind Blue Eyes</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>The Roches</td><td><a href="https://www.youtube.com/watch?v=EA-U5H4VoX8">Hammond Song</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Oby Onyioha</td><td><a href="https://www.youtube.com/watch?v=0FE_BEpxRzo">Enjoy Your Life</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Patent Ochsner</td><td><a href="https://www.youtube.com/watch?v=q_Z2o3BYfoA">Ochsetuur</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>The Pineapple Thief</td><td><a href="https://www.youtube.com/watch?v=lbTx2GzAKkc">It Leads to This</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Everything But the Girl</td><td><a href="https://www.youtube.com/watch?v=0SmSleIN830">Nothing to Lose (Four Tet Remix)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Mitski</td><td><a href="https://www.youtube.com/watch?v=ckesPkjHnuo">Bug like an Angel</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Suckers</td><td><a href="https://www.youtube.com/watch?v=xnzMwMdjXd4">Roman Candle</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=FtovFI8etOg">New Frontier</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Sola Rosa</td><td>The C'Mon</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Sola Rosa</td><td>What If? (feat. Nathan Haines)</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>The Roots</td><td>Right On (feat. Joanna Newsom)</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>

@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -38,20 +38,20 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Jandek</td><td><a href="https://www.youtube.com/watch?v=gSUMa-5BBw8">Mostly All From You</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Laddio Bollocko</td><td><a href="https://www.youtube.com/watch?v=d3geqHgAuFo">The Man Who Never Was</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Neil Young</td><td>Powderfinger (alternate version from 'Dume')</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Della Reese</td><td>Gotta' Tracel On</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Afric Simone</td><td>Hafanana</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>LCD Soundsystem</td><td>North American Scum</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Patti Smith</td><td>Beneath the Southern Cross</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Owen Pallett</td><td>The Great Elsewhere</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Elliot Smith</td><td>I Didn't Understand</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Alison Krauss</td><td>Down to the River to Pray</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Fleet Foxes</td><td>White Water Hymnal</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Cory Hanson</td><td>Housefly</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Half Japanese</td><td>The Face</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Jolie Holland</td><td>Feet on the Ground</td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Purple Mountains</td><td>All My Happiness is Gone</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Kurt Vile</td><td>Flyin (like a fast train)</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>John Tavener</td><td>The Whale</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Della Reese</td><td><a href="https://www.youtube.com/watch?v=iK7oopuRBN0">Gotta' Tracel On</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Afric Simone</td><td><a href="https://www.youtube.com/watch?v=IeX_eRBSgxI">Hafanana</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>LCD Soundsystem</td><td><a href="https://www.youtube.com/watch?v=gJ2np7R-Uwg">North American Scum</a></td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=mVjcscIOSGo">Beneath the Southern Cross</a></td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Owen Pallett</td><td><a href="https://www.youtube.com/watch?v=ZslepJpWZkw">The Great Elsewhere</a></td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Elliot Smith</td><td><a href="https://www.youtube.com/watch?v=lFIkik2I_Pc">I Didn't Understand</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=4SZv7JJqcNY">Down to the River to Pray</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Fleet Foxes</td><td><a href="https://www.youtube.com/watch?v=DrQRS40OKNE">White Water Hymnal</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Cory Hanson</td><td><a href="https://www.youtube.com/watch?v=2f-RvKbGMcI">Housefly</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Half Japanese</td><td><a href="https://www.youtube.com/watch?v=z1E2hQVzj6Q">The Face</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Jolie Holland</td><td><a href="https://www.youtube.com/watch?v=FaupwrOwU9Q">Feet on the Ground</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Purple Mountains</td><td><a href="https://www.youtube.com/watch?v=XvUBbROsXBw">All My Happiness is Gone</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=wxNGZOS4SuI">Flyin (like a fast train)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>John Tavener</td><td><a href="https://www.youtube.com/watch?v=3nxxmQuu1xs">The Whale</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Average White Band</td><td>Pick up the Pieces</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>The Roots</td><td>Section</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Rick Wakeman</td><td>Catherine of Aragon</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>

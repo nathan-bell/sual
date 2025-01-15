@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -32,17 +32,17 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Screaming Trees</td><td><a href="https://www.youtube.com/watch?v=rwvlUEm_fmA">All I Know</a></td><td>A top-of-their-game musician who flys under the radar.</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Slackwax</td><td><a href="https://www.youtube.com/watch?v=wyDuEr4cQXA">On the Road Again</a></td><td>WTF! Never heard of them?</td><td> David's Session - Jun 2024</td></tr>
 <tr><td>Will Johnson</td><td><a href="https://www.youtube.com/watch?v=PJGmO1m4ckU">Of Passengers and Plight</a></td><td>Best discovery of the year so far.</td><td> David's Session - Jun 2024</td></tr>
-<tr><td>Son Volt</td><td>Static</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Bill Frisell</td><td>Have a Little Faith In Me</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Vieux Farka Touré & Khruangbin</td><td>Diarabi</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>The Warratahs</td><td>Mount Victoria Rain</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>The Eastern</td><td>State Houses by the River</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Delaney Davidson</td><td>Heaven Is Falling (feat. Reb Fountain)</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>The Notting Hillbillies</td><td>Blues Stay Away From Me</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>B.B. King</td><td>Ain't Nobody Home</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>John Prine</td><td>Diamonds in the Rough</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Cowboy Junkies</td><td>Mike Tyson (Here It Comes)</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Will Johnson</td><td>Along the Runner (No Ordinary Crown)</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Son Volt</td><td><a href="https://www.youtube.com/watch?v=gNG2HzgRtOI">Static</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Bill Frisell</td><td><a href="https://www.youtube.com/watch?v=hNJX8okuncA">Have a Little Faith In Me</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Vieux Farka Touré & Khruangbin</td><td><a href="https://www.youtube.com/watch?v=NnE73tTRPmg">Diarabi</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>The Warratahs</td><td><a href="https://www.youtube.com/watch?v=sj_ClvaQTAs">Mount Victoria Rain</a></td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>The Eastern</td><td><a href="https://www.youtube.com/watch?v=cuVEoFGsGzQ">State Houses by the River</a></td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Delaney Davidson</td><td><a href="https://www.youtube.com/watch?v=aCYCBYZtyf8">Heaven Is Falling (feat. Reb Fountain)</a></td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>The Notting Hillbillies</td><td><a href="https://www.youtube.com/watch?v=WlQsXfIZoi8">Blues Stay Away From Me</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>B.B. King</td><td><a href="https://www.youtube.com/watch?v=sA9vOYAB2xU">Ain't Nobody Home</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>John Prine</td><td><a href="https://www.youtube.com/watch?v=-aiTBJ2Vlws">Diamonds in the Rough</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=V0ZYcEeTDZE">Mike Tyson (Here It Comes)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Will Johnson</td><td><a href="https://www.youtube.com/watch?v=UwByxoDfsks">Along the Runner (No Ordinary Crown)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=gxto8-aJE9I">Villagers</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Sly and the Family Stone</td><td>Underdog</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>The Kingites</td><td>Whistling in the Dark</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>

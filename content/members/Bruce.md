@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -34,21 +34,21 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Jay Clarkson</td><td><a href="https://www.youtube.com/watch?v=SSqATISb66w">Wheeling</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Nick Feretti</td><td>Never Leave Your lover Alone</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=azysyU_Rr1g">Sweet Bird of Truth</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Hüsker Dü</td><td>Crystal</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>The Phoenix Foundation</td><td>Pot</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Canzoniere Grecanico Salentino</td><td>Tienime tata</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Mike Oldfield</td><td>Platinum, Pt. 3 & 4 (Charleston/North Star/Platinun Finale)</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Crosby, Stills & Nash</td><td>Southern Cross</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Gay and Terry Woods</td><td>Thinking of You</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Better Oblivion Community Center</td><td>Didn't Know What I Was In For</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Civil Wars</td><td>Barton Hollow</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Kate & Anna McGarrigle</td><td>Heartbeats Accelerating</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Hanging Stars</td><td>You Got That Right</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Kai Clark</td><td>Your Fire Burning</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Eric Clapton</td><td>Rita Mae</td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>alt-J</td><td>U&ME</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>The Chills</td><td>Rain</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Peter Gabriel</td><td>Panopticom (Bright Side Mix)</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Hüsker Dü</td><td><a href="https://www.youtube.com/watch?v=P0cAWxZzF4E">Crystal</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>The Phoenix Foundation</td><td><a href="https://www.youtube.com/watch?v=XRPesN6bS4A">Pot</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Canzoniere Grecanico Salentino</td><td><a href="https://www.youtube.com/watch?v=tVn3GT43I8c">Tienime tata</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Mike Oldfield</td><td><a href="https://www.youtube.com/watch?v=sDCXdgPHH54">Platinum, Pt. 3 & 4 (Charleston/North Star/Platinun Finale)</a></td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Crosby, Stills & Nash</td><td><a href="https://www.youtube.com/watch?v=IHL-6cUtZj0">Southern Cross</a></td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Gay and Terry Woods</td><td><a href="https://www.youtube.com/watch?v=tX2RsLVQvk0">Thinking of You</a></td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Better Oblivion Community Center</td><td><a href="https://www.youtube.com/watch?v=lNqBuxjLDlE">Didn't Know What I Was In For</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>The Civil Wars</td><td><a href="https://www.youtube.com/watch?v=ooTyuRd9zSg">Barton Hollow</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Kate & Anna McGarrigle</td><td><a href="https://www.youtube.com/watch?v=HkcJd1Ja8X4">Heartbeats Accelerating</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>The Hanging Stars</td><td><a href="https://www.youtube.com/watch?v=n6mavjQFEMw">You Got That Right</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Kai Clark</td><td><a href="https://www.youtube.com/watch?v=ow08lpvvNOQ">Your Fire Burning</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Eric Clapton</td><td><a href="https://www.youtube.com/watch?v=SQsZZYTVJuY">Rita Mae</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>alt-J</td><td><a href="https://www.youtube.com/watch?v=gFKhxi8b9SQ">U&ME</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=16oLOltCam4">Rain</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Peter Gabriel</td><td><a href="https://www.youtube.com/watch?v=jfW1GDu7gxw">Panopticom (Bright Side Mix)</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>The Poets of Rhythm</td><td>More Mess on My Thing</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>2Pac</td><td>California love</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Porcupine Tree</td><td><a href="https://www.youtube.com/watch?v=8pavnAi7lNk&pp=ygUkSGFycmlkYW4gKENsT1NVUkUvQ09OVElOVUFUSU9OLkxJVkUp">Harridan (ClOSURE/CONTINUATION.LIVE)</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>

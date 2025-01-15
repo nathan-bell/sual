@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -35,19 +35,19 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Tex Ritter</td><td><a href="https://www.youtube.com/watch?v=fdlRN_jCfKo">Bury Me Not On The Lone Prairie</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Bob Wills</td><td><a href="https://www.youtube.com/watch?v=NB5E9xVPxv0">Pan Handle Rag</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Parallel Park</td><td><a href="https://www.youtube.com/watch?v=NooZ2awg5IA">We Don't Call It Love</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Johnny Horton</td><td>North To Alaska</td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>Tony Joe White & Johnny Cash</td><td>Polk Salad Annie</td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>James Taylor</td><td>Captain Jim's Drunken Dream</td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
-<tr><td>James Taylor</td><td>Her Town Too</td><td>Bonus Track introducing the theme</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Lynyrd Skynyrd</td><td>You Got That Right</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>America</td><td>Muskrat Love</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>The Beatles</td><td>If I Fell</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Kaylee Bell</td><td>Small Town Friday Nights</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Klergy & Mindy Jones</td><td>Hide and Seek</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Pretenders</td><td>Just Let It Go</td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>The Beatles</td><td>This Boy</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Lainey Wilson</td><td>Grease</td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Victoria Monet</td><td>On My Mama</td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Johnny Horton</td><td><a href="https://www.youtube.com/watch?v=BLONWy46gIE">North To Alaska</a></td><td>North.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>Tony Joe White & Johnny Cash</td><td><a href="https://www.youtube.com/watch?v=cUS2gL4RvJw">Polk Salad Annie</a></td><td>South.</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=hnkJxyszbAQ">Captain Jim's Drunken Dream</a></td><td>Elsewhere/anywhere</td><td> Chris's Session - Apr 2024</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=cIIfn8C2y8g">Her Town Too</a></td><td>Bonus Track introducing the theme</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Lynyrd Skynyrd</td><td><a href="https://www.youtube.com/watch?v=fj_HnZEsqWw">You Got That Right</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>America</td><td><a href="https://www.youtube.com/watch?v=j4WB6TJW0lU">Muskrat Love</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=F_80s6S_7Vw">If I Fell</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Kaylee Bell</td><td><a href="https://www.youtube.com/watch?v=jkNpqczu8eI">Small Town Friday Nights</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Klergy & Mindy Jones</td><td><a href="https://www.youtube.com/watch?v=c03J4wXMuGM">Hide and Seek</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Pretenders</td><td><a href="https://www.youtube.com/watch?v=zJcLnmxzmPM">Just Let It Go</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=VhuU8KDLdO4">This Boy</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Lainey Wilson</td><td><a href="https://www.youtube.com/watch?v=fwzgh7UUpjE">Grease</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
+<tr><td>Victoria Monet</td><td><a href="https://www.youtube.com/watch?v=KdJ-Qwu3y4Y">On My Mama</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Bruce Springsteen</td><td>All That Heaven Will Allow</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
 <tr><td>Lalo Schifrin</td><td>Mannix</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
 <tr><td>Kacey Musgraves</td><td>Love Is A Wild Thing</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>

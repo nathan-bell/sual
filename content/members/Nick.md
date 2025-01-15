@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-01-15
+date: 2025-01-16
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -30,14 +30,14 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=hiuJ2vpeZxA">When You Dance I Can Really Love</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=M4K7XZGeHTE">Tunnel of Love</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=GEAMKBfBSj0">Mother Earth (Natural Anthem)</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Linkin Park</td><td>One Step Closer</td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>David Bowie</td><td>Moonage Daydream</td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Mory Kante</td><td>Mama</td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
-<tr><td>Robert Plant & Alison Krauss</td><td>Polly Come Home</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Tony Bennet & K.D. Lang</td><td>La Vie En Rose</td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
-<tr><td>Angá Díaz</td><td>A Love Supreme</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Thomas Mapfumo</td><td>Magariro</td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Paul Simon</td><td>Seven Psalms: The Lord</td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Linkin Park</td><td><a href="https://www.youtube.com/watch?v=4qlCC1GOwFw">One Step Closer</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=RPUAldgS7Sg">Moonage Daydream</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Mory Kante</td><td><a href="https://www.youtube.com/watch?v=kYrVfb4Szvk">Mama</a></td><td>It doesn't matter what religion you are, it doesn't matter if you don't understand the language. You just have to listen to the energy and the joy of it. _Soweto Gospel Choir_</td><td> Nick's Session - May 2024</td></tr>
+<tr><td>Robert Plant & Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=JAL1fSBmpRA">Polly Come Home</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Tony Bennet & K.D. Lang</td><td><a href="https://www.youtube.com/watch?v=CDySSEWQP1k">La Vie En Rose</a></td><td>Three tracks with clearly audible vocal harmonies</td><td> Richard's Session - Feb 2024</td></tr>
+<tr><td>Angá Díaz</td><td><a href="https://www.youtube.com/watch?v=DmCgEG-Z66k">A Love Supreme</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Thomas Mapfumo</td><td><a href="https://www.youtube.com/watch?v=w3vXNC03B1I">Magariro</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
+<tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=ANtntuDslnk">Seven Psalms: The Lord</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
 <tr><td>Ishan Cooper</td><td>Ears For Your Funkhole</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Avantdale Bowling Club</td><td>Years Gone By</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Pink Floyd</td><td>Atom Heart Mother</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
