@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -50,22 +50,22 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Mitski</td><td><a href="https://www.youtube.com/watch?v=ckesPkjHnuo">Bug like an Angel</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Suckers</td><td><a href="https://www.youtube.com/watch?v=xnzMwMdjXd4">Roman Candle</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=FtovFI8etOg">New Frontier</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Sola Rosa</td><td>The C'Mon</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Sola Rosa</td><td>What If? (feat. Nathan Haines)</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>The Roots</td><td>Right On (feat. Joanna Newsom)</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Steven Wilson</td><td>Actual Brutal Facts</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Sola Rosa</td><td><a href="https://www.youtube.com/watch?v=vbtjugG_DFo">The C'Mon</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Sola Rosa</td><td><a href="https://www.youtube.com/watch?v=Pu_PXyIyJtE">What If? (feat. Nathan Haines)</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>The Roots</td><td><a href="https://www.youtube.com/watch?v=I5fuhDhKkRI">Right On (feat. Joanna Newsom)</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=4kovhU-utOg">Actual Brutal Facts</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Guthrie Govan</td><td>2 Tracks</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Kaleo</td><td>Broken Bones</td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Ryuichi Sakamoto</td><td>Merry Christmas, Mr Lawrence</td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>America</td><td>Ventura Highway</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Jim Noir</td><td>Eanie Meany</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Pepe Deluxé</td><td>Black Cadillac</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>The Beatles</td><td>Because</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Lainey Wilson</td><td>Watermelon Moonshine</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Serge Gainsbourg</td><td>L'Hôtel particulier</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>múm</td><td>Green Grass of Tunnel</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>The Chats</td><td>Smoko</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Blur</td><td>Parklife</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Kaleo</td><td><a href="https://www.youtube.com/watch?v=NOletMMI0B4">Broken Bones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=LGs_vGt0MY8">Merry Christmas, Mr Lawrence</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>America</td><td><a href="https://www.youtube.com/watch?v=dAUUy7NMnaY">Ventura Highway</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Jim Noir</td><td><a href="https://www.youtube.com/watch?v=Hn7cUVhVQjY">Eanie Meany</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Pepe Deluxé</td><td><a href="https://www.youtube.com/watch?v=zOt0eZEEPJk">Black Cadillac</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=hL0tnrl2L_U">Because</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Lainey Wilson</td><td><a href="https://www.youtube.com/watch?v=_3jv0_wGK1M">Watermelon Moonshine</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Serge Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=l86CKCllUiU">L'Hôtel particulier</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>múm</td><td><a href="https://www.youtube.com/watch?v=l5hBkQT3-C8">Green Grass of Tunnel</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>The Chats</td><td><a href="https://www.youtube.com/watch?v=j58V2vC9EPc">Smoko</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Blur</td><td><a href="https://www.youtube.com/watch?v=YSuHrTfcikU">Parklife</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Lana Del Rey</td><td>Let the Light In (featuring Father John Misty)</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Lana Del Rey</td><td>A&W</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>The Hot Rats</td><td>The Lovecats</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>

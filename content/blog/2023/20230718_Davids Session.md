@@ -6,7 +6,7 @@ image: "/images/post/fillyourboots.png"
 date: 2023-07-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","davidbowie","thebeatles","steelydan","brucespringsteen","pinkfloyd","jonimitchell","marlonwilliams","sergegainsbourg","otisredding","iggypop","katebush","londongrammar","kaceymusgraves","fantomas","laineywilson","tricot","johnlunn","mileycyrus","thememusic","mickjagger","yanntiersen","laloschifrin","nickshoulders","thedeadmilkmen"]
+tags: ["davidssession","davidbowie","thebeatles","steelydan","brucespringsteen","pinkfloyd","jonimitchell","marlonwilliams","sergegainsbourg","otisredding","iggypop","katebush","londongrammar","kaceymusgraves","fantomas","laineywilson","tricot","johnlunn","mileycyrus","thememusic","mickjagger","yanntiersen","laloschifrin","nickshoulders","thedeadmilkmen","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Play one of your "Music Oracle" cards. , Music used in Film, Television, or streaming video services., Fill your boots._

@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -48,12 +48,12 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=VhuU8KDLdO4">This Boy</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Lainey Wilson</td><td><a href="https://www.youtube.com/watch?v=fwzgh7UUpjE">Grease</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Victoria Monet</td><td><a href="https://www.youtube.com/watch?v=KdJ-Qwu3y4Y">On My Mama</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Bruce Springsteen</td><td>All That Heaven Will Allow</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Lalo Schifrin</td><td>Mannix</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Kacey Musgraves</td><td>Love Is A Wild Thing</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>The Kinks</td><td>Waterloo Sunset</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Les Baxter</td><td>The Clown On The Eiffel Tower</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>The Velvet Underground</td><td>Run Run Run</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=XlMDSTeb4_w">All That Heaven Will Allow</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Lalo Schifrin</td><td><a href="https://www.youtube.com/watch?v=f65VcQkJnTw">Mannix</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=iwrxzuD2zsc">Love Is A Wild Thing</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>The Kinks</td><td><a href="https://www.youtube.com/watch?v=N_MqfF0WBsU">Waterloo Sunset</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Les Baxter</td><td><a href="https://www.youtube.com/watch?v=JCPh7rAwRNM">The Clown On The Eiffel Tower</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>The Velvet Underground</td><td><a href="https://www.youtube.com/watch?v=m9ufOljsFZQ">Run Run Run</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Jason & The Scorchers</td><td>White Lies</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Jason & The Scorchers</td><td>I Really Don't Want To Know</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Carpenters</td><td>Ticket To Ride</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>

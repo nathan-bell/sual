@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -52,24 +52,24 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Purple Mountains</td><td><a href="https://www.youtube.com/watch?v=XvUBbROsXBw">All My Happiness is Gone</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=wxNGZOS4SuI">Flyin (like a fast train)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>John Tavener</td><td><a href="https://www.youtube.com/watch?v=3nxxmQuu1xs">The Whale</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Average White Band</td><td>Pick up the Pieces</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>The Roots</td><td>Section</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Rick Wakeman</td><td>Catherine of Aragon</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Cocorosie</td><td>Good Friday</td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Nick Drake</td><td>Saturday Sun</td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Califone</td><td>Sunday Noises</td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Connan and the Mockasins</td><td>Naughty Holidays (again)</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Wynton Marsalis</td><td>Sister Cheryl</td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Bach</td><td>Cantata BWV 55</td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Iron and Wine & Ben Bridwell</td><td>This Must Be the Place</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Laura Veirs</td><td>Rapture</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>The Smiths</td><td>There's a Light That Never Goes Out</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Nick Shoulders</td><td>Whooped If You Will</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Fantômas</td><td>Twin Peaks: Fire Walk With Me</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>The Dead Milkmen</td><td>How Do You Even Manage to Exist</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>The Velvet Underground</td><td>I'm Waiting for The Man</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>The Verlaines</td><td>Death & The Maiden</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Ween</td><td>Japanese Cowboy</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Average White Band</td><td><a href="https://www.youtube.com/watch?v=kj4K87jvvyI">Pick up the Pieces</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>The Roots</td><td><a href="https://www.youtube.com/watch?v=nfpFBQ_SI1Q">Section</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Rick Wakeman</td><td><a href="https://www.youtube.com/watch?v=d_1FOGuUmfs">Catherine of Aragon</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Cocorosie</td><td><a href="https://www.youtube.com/watch?v=uPhT-LF24b0">Good Friday</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=QwaqO3i_eQA">Saturday Sun</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=wKxFdH18WhE">Sunday Noises</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Connan and the Mockasins</td><td><a href="https://www.youtube.com/watch?v=ExjmWJ6qa94">Naughty Holidays (again)</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Wynton Marsalis</td><td><a href="https://www.youtube.com/watch?v=98fTxrwGJTk">Sister Cheryl</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Bach</td><td><a href="https://www.youtube.com/watch?v=YvDcBsn78sw">Cantata BWV 55</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Iron and Wine & Ben Bridwell</td><td><a href="https://www.youtube.com/watch?v=jXBHPBEPblU">This Must Be the Place</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Laura Veirs</td><td><a href="https://www.youtube.com/watch?v=XNk0X73RqnQ">Rapture</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>The Smiths</td><td><a href="https://www.youtube.com/watch?v=3r-qDvD3F3c">There's a Light That Never Goes Out</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Nick Shoulders</td><td><a href="https://www.youtube.com/watch?v=KS11SK-LZYE">Whooped If You Will</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Fantômas</td><td><a href="https://www.youtube.com/watch?v=JgWGys_b3xM">Twin Peaks: Fire Walk With Me</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>The Dead Milkmen</td><td><a href="https://www.youtube.com/watch?v=sRYOmVLqSC0">How Do You Even Manage to Exist</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>The Velvet Underground</td><td><a href="https://www.youtube.com/watch?v=99og_g7rXnA">I'm Waiting for The Man</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>The Verlaines</td><td><a href="https://www.youtube.com/watch?v=P96cFKd4irY">Death & The Maiden</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=2xq9bp2ZBls">Japanese Cowboy</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Kurt Vile</td><td>Fo Sho</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Kurt Vile</td><td>Mount Airy Hill (Way Gone)</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Mary Halvorson</td><td>With a Little Help From My Friends</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>

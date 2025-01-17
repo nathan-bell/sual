@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -44,20 +44,20 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=V0ZYcEeTDZE">Mike Tyson (Here It Comes)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Will Johnson</td><td><a href="https://www.youtube.com/watch?v=UwByxoDfsks">Along the Runner (No Ordinary Crown)</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=gxto8-aJE9I">Villagers</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>Sly and the Family Stone</td><td>Underdog</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>The Kingites</td><td>Whistling in the Dark</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Sly and the Family Stone</td><td><a href="https://www.youtube.com/watch?v=HMQQcniF2Bg">Underdog</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>The Kingites</td><td><a href="https://www.youtube.com/watch?v=FEi1rBCN3pQ">Whistling in the Dark</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Lahza</td><td><a href="https://www.youtube.com/watch?v=QjRq8HMW-bY">Bozkır</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Joe Henry</td><td>The Man I Keep Hid</td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Steve Earle & The Dukes (& Duchesses)</td><td>Remember Me</td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>e.s.t.</td><td>Premonition: II. Contorted</td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>The New Basement Tapes</td><td>Diamond Ring</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Jerry Lee Lewis</td><td>Born to Lose</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Eilen Jewell</td><td>Another Night to Cry</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Joe Henry</td><td><a href="https://www.youtube.com/watch?v=gQATmHhHrlM">The Man I Keep Hid</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Steve Earle & The Dukes (& Duchesses)</td><td><a href="https://www.youtube.com/watch?v=QRQZnhgVgC8">Remember Me</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>e.s.t.</td><td><a href="https://www.youtube.com/watch?v=dGYlFSgntAY">Premonition: II. Contorted</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>The New Basement Tapes</td><td><a href="https://www.youtube.com/watch?v=4-QPs7SwT0M">Diamond Ring</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Jerry Lee Lewis</td><td><a href="https://www.youtube.com/watch?v=ZrtKqU8oR-Y">Born to Lose</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=ib2-9wYLghs">Another Night to Cry</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>David Bowie</td><td>Video</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Mick Jagger</td><td>Strange Game</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Otis Redding</td><td>My Lover's Prayer</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Buddy Guy & Junior Wells</td><td>10 Years Ago</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Talking Heads</td><td>Cities</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Mick Jagger</td><td><a href="https://www.youtube.com/watch?v=tegw25qqbAs">Strange Game</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=Jo-klvlKdjM">My Lover's Prayer</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Buddy Guy & Junior Wells</td><td><a href="https://www.youtube.com/watch?v=-H8uAfX3wgQ">10 Years Ago</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=K5H1nEP2wXA">Cities</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Steel Pulse</td><td>Handsworth Revolution</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Gregg Allman</td><td>Blind Man</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Gregg Allman</td><td>Floating Bridge</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>

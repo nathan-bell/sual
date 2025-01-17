@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -53,25 +53,25 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Toyah and Robert Fripp</td><td><a href="https://www.youtube.com/watch?v=NE6AgfQfflE">Heroes (Live at Isle of Wight Festival)</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Scary Pockets & Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=8jm1Zl2Fjd4">Big Yellow Taxi</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Little Simz</td><td><a href="https://www.youtube.com/watch?v=K7xzmkpwNoA">Gorilla</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Pat Metheny Group</td><td>Last Train Home</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Daryl Hall & John Oates</td><td>I Can't Go for That (No Can Do) (first few minutes)</td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Pat Metheny Group</td><td><a href="https://www.youtube.com/watch?v=iOnbeapXujo">Last Train Home</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Daryl Hall & John Oates</td><td><a href="https://www.youtube.com/watch?v=ccenFp_3kq8">I Can't Go for That (No Can Do) (first few minutes)</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Daryl Hall & Mayer Hawthorne & Booker T. Jones</td><td><a href="https://www.youtube.com/watch?v=8t2s9HSrkl8">I Can't Go for That (No Can Do)</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Anthony Wilson</td><td>Chitlins Con Carne</td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>The Andrew London Trio</td><td>Country's Buggered</td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Anthony Wilson</td><td><a href="https://www.youtube.com/watch?v=GGw4ks_pfhU">Chitlins Con Carne</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>The Andrew London Trio</td><td><a href="https://www.youtube.com/watch?v=auA8jy8km8o">Country's Buggered</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Scary Pockets & Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=8jm1Zl2Fjd4">Big Yellow Taxi</a></td><td>Bonus Track</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Marcin</td><td>2 Tracks</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Joni Mitchell</td><td>Song for Sharon</td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Documentry</td><td>Ballade No.1 in G minor</td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Jacques Loussier</td><td>Prelude No.1 in C Major</td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Gil Scott‐Heron</td><td>The Bottle</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Joe Jackson</td><td>Man in the Street</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Here Today</td><td>My Walking Shoes</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Iggy Pop</td><td>James Bond</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Theme Music</td><td>2001  a Space Oddysey</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Steely Dan</td><td>The Second Arrangement</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Michael Brecker</td><td>Slings and Arrows</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>MC5</td><td>Ramblin' Rose</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Leonid & Friends feat. "Rox Bros" - Alex and Nikita Pozdnyakov</td><td>My Old School</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Marcin</td><td><a href="https://www.youtube.com/watch?v=f_VDbZEeYBM">2 Tracks</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=ON3SPq2w1pA">Song for Sharon</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Documentry</td><td><a href="https://www.youtube.com/watch?v=6GTU9uM9s70">Ballade No.1 in G minor</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Jacques Loussier</td><td><a href="https://www.youtube.com/watch?v=VSIeHZ4FIl4">Prelude No.1 in C Major</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Gil Scott‐Heron</td><td><a href="https://www.youtube.com/watch?v=EdhoX1Xu6ZI">The Bottle</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=ildBZMufZ0M">Man in the Street</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Here Today</td><td><a href="https://www.youtube.com/watch?v=9dBleqTunz0">My Walking Shoes</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Iggy Pop</td><td><a href="https://www.youtube.com/watch?v=mw6NKf95VWA">James Bond</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Theme Music</td><td><a href="https://www.youtube.com/watch?v=QwxYiVXYyVs">2001  a Space Oddysey</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=dz9oolWz6b0">The Second Arrangement</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Michael Brecker</td><td><a href="https://www.youtube.com/watch?v=ahjiVzaxzN4">Slings and Arrows</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>MC5</td><td><a href="https://www.youtube.com/watch?v=TMRtqnzA_oU">Ramblin' Rose</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Leonid & Friends feat. "Rox Bros" - Alex and Nikita Pozdnyakov</td><td><a href="https://www.youtube.com/watch?v=P_8aZZ9d_EA">My Old School</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Blake Mills and Pino Palladino</td><td>Ekuté</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Blake Mills and Pino Palladino</td><td>Man From Molise</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Ronny Jordan</td><td>So What</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>

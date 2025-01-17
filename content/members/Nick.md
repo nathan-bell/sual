@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -38,25 +38,25 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Angá Díaz</td><td><a href="https://www.youtube.com/watch?v=DmCgEG-Z66k">A Love Supreme</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
 <tr><td>Thomas Mapfumo</td><td><a href="https://www.youtube.com/watch?v=w3vXNC03B1I">Magariro</a></td><td>Two tracks featuring, in some way, ‘artists’ that you have discovered for the very first time in the last 12 months. You had no awareness of these people before that.</td><td> Bruce's Session - Feb 2024</td></tr>
 <tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=ANtntuDslnk">Seven Psalms: The Lord</a></td><td>A new release (last 12 months) from an artist/musicians known to you that gives you pleasure.</td><td> Bruce's Session - Feb 2024</td></tr>
-<tr><td>Ishan Cooper</td><td>Ears For Your Funkhole</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Avantdale Bowling Club</td><td>Years Gone By</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Pink Floyd</td><td>Atom Heart Mother</td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Richard & Linda Thompson</td><td>I Want to See the Bright lights Tonight</td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Shihad</td><td>Pig Bop</td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Milton Nascimento</td><td>Rio Vermelho</td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Coup Deville</td><td>Tallahassee</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Kurt Vile</td><td>Loading Zones</td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Ishan Cooper</td><td><a href="https://www.youtube.com/watch?v=-TRKIEFCYXg">Ears For Your Funkhole</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Avantdale Bowling Club</td><td><a href="https://www.youtube.com/watch?v=gSYv7_8ZJ7k">Years Gone By</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=uUHb3cBvWMY">Atom Heart Mother</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>Richard & Linda Thompson</td><td><a href="https://www.youtube.com/watch?v=57PENuNVapc">I Want to See the Bright lights Tonight</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Shihad</td><td><a href="https://www.youtube.com/watch?v=f5mepjO3Yok">Pig Bop</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Milton Nascimento</td><td><a href="https://www.youtube.com/watch?v=-Ja7xQYdV48">Rio Vermelho</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Coup Deville</td><td><a href="https://www.youtube.com/watch?v=t_3gPH2YtAE">Tallahassee</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=7mbh43HgT4U">Loading Zones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
 <tr><td>2CELLOS</td><td><a href="https://www.youtube.com/watch?v=uT3SBzmDxGk">Thunderstruck</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Made In America</td><td>Extract from Film</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Bebo/Chucho</td><td>Father & Son</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Don McGlashan</td><td>Passenger 26</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Joni Mitchell</td><td>Off Night Backstreet</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Kate Bush</td><td>King of the Mountain</td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Pink Floyd</td><td>Stay</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Marlon Williams</td><td>My Boy</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>King Creosote & Jon Hopkins</td><td>John Taylor's Month Away</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Rachid Taha</td><td>Barra Barra</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>The Stone Roses</td><td>Begging You</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Made In America</td><td><a href="https://www.youtube.com/watch?v=dPPN93A3RRs">Extract from Film</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Bebo/Chucho</td><td><a href="https://www.youtube.com/watch?v=T6dG3kQ4Seg">Father & Son</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=vnddoj7obvA">Passenger 26</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=Ewo2nXlGtiQ">Off Night Backstreet</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Kate Bush</td><td><a href="https://www.youtube.com/watch?v=F8xk_AkeP5c">King of the Mountain</a></td><td>Play one of your "Music Oracle" cards.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=Exz1nAgP2RU">Stay</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=KYg-rF03Cfw">My Boy</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>King Creosote & Jon Hopkins</td><td><a href="https://www.youtube.com/watch?v=UgglKPfVmms">John Taylor's Month Away</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Rachid Taha</td><td><a href="https://www.youtube.com/watch?v=VmEV6qjY9Nc">Barra Barra</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>The Stone Roses</td><td><a href="https://www.youtube.com/watch?v=S1Ke19kxGp8">Begging You</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Rickie Lee Jones</td><td>His Jeweled Floor</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Rickie Lee Jones</td><td>The Blue Ghazel</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Herbie Hancock</td><td>Prelude In C# Minor</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>

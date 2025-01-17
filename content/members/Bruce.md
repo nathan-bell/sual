@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-01-16
+date: 2025-01-17
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -49,23 +49,23 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>alt-J</td><td><a href="https://www.youtube.com/watch?v=gFKhxi8b9SQ">U&ME</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=16oLOltCam4">Rain</a></td><td>TWO tracks highlighting your favourite musical moments of 2023. Anything goes.</td><td> David's Session - Jan 2024</td></tr>
 <tr><td>Peter Gabriel</td><td><a href="https://www.youtube.com/watch?v=jfW1GDu7gxw">Panopticom (Bright Side Mix)</a></td><td>ONE track that has jump-started the new year for you.  Something you've been listening to recently that gives you hope.</td><td> David's Session - Jan 2024</td></tr>
-<tr><td>The Poets of Rhythm</td><td>More Mess on My Thing</td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>2Pac</td><td>California love</td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>The Poets of Rhythm</td><td><a href="https://www.youtube.com/watch?v=GlbIUEMEWPk">More Mess on My Thing</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
+<tr><td>2Pac</td><td><a href="https://www.youtube.com/watch?v=J7_bMdYfSws">California love</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Porcupine Tree</td><td><a href="https://www.youtube.com/watch?v=8pavnAi7lNk&pp=ygUkSGFycmlkYW4gKENsT1NVUkUvQ09OVElOVUFUSU9OLkxJVkUp">Harridan (ClOSURE/CONTINUATION.LIVE)</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Julian Temple Band</td><td>Tunnels</td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Julian Temple Band</td><td><a href="https://www.youtube.com/watch?v=cFz4qBiHNU8">Tunnels</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=e0g4TtI_XTM&t=358s">Californian Soil</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Gotan Project</td><td>Queremos Paz</td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
+<tr><td>Gotan Project</td><td><a href="https://www.youtube.com/watch?v=d3UpZydTFb0">Queremos Paz</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Christone 'Kingfish' Ingram</td><td>Video</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>King Hannah</td><td>A Well‐Made Woman</td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Andrés Segovia</td><td>Petite valse</td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>The Blue Nile</td><td>A Walk Across the Rooftops</td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>John Renbourn</td><td>The Pelican</td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>Jeff Beck</td><td>Where Were You</td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
-<tr><td>John Lunn</td><td>Shetland Titles - Extended</td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>London Grammar</td><td>Rooting for You</td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
-<tr><td>Mark Seymour</td><td>Westgate</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Marc Cohn</td><td>Walking in Memphis</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>The Clash</td><td>The Guns of Brixton</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=s9NvnTDMS3I">A Well‐Made Woman</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Andrés Segovia</td><td><a href="https://www.youtube.com/watch?v=Q0ccBwtzOQ4">Petite valse</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>The Blue Nile</td><td><a href="https://www.youtube.com/watch?v=qxK7AZEdVbU">A Walk Across the Rooftops</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>John Renbourn</td><td><a href="https://www.youtube.com/watch?v=ywYYbg7VNPE">The Pelican</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=howz7gVecjE">Where Were You</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
+<tr><td>John Lunn</td><td><a href="https://www.youtube.com/watch?v=-4y97uyVPDc">Shetland Titles - Extended</a></td><td>Music used in Film, Television, or streaming video services.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=jqhgXAGP4Ho">Rooting for You</a></td><td>Fill your boots.</td><td> David's Session - Jul 2023</td></tr>
+<tr><td>Mark Seymour</td><td><a href="https://www.youtube.com/watch?v=wkX9vg0jh58">Westgate</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>Marc Cohn</td><td><a href="https://www.youtube.com/watch?v=PgRafRp-P-o">Walking in Memphis</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
+<tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=JcW8VNwYvL0">The Guns of Brixton</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Black Belt Eagle Scout</td><td>My Blood Runs Through This Land</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Black Belt Eagle Scout</td><td>Sedna</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
 <tr><td>Patti Smith</td><td>Gloria</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
