@@ -9,7 +9,7 @@ author: "Nathan"
 tags: ["martinssession","therollingstones","tomwaits","deeppurple","bryanferry","boris","halfjapanese","michaelbrecker","thewalkerbrothers","fishmans","lylemays","phoebebridgers","yokoono","athenaiv","mrchildren","kyusakamoto"," patmetheny","dannyokeefe","kennyburrell","larc〜en〜ciel","raintreecrow"," daveholland","takuroyoshida"," jackdejohnette"," joeycalderazzo","fareastfamilyband","grahamparkerandtherumour","massofthefermentingdregs","youtube"]
 categories: ["Gatherings"]
 ---
-> We explored Japanese music (or at least must vaguely inspired by or related to Japan), with a brief diversion to celtic music, and admired Martin's lutherie skills.
+> We explored Japanese music (or at least music vaguely inspired by or related to Japan), with a brief diversion to celtic music, and admired Martin's lutherie skills.
 
 ### Theme: "Japanese Music" (and the usual tenuous connections).
 - **Kenny Burrell** - _"Blues For Wes"_ (Martin) [youtube](https://www.youtube.com/watch?v=ueSA6rkchuk)
