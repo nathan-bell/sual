@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 332 tracks in total
+### 335 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>L'Arc〜en〜Ciel</td><td>hole</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Mr.Children</td><td>Worlds End</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>The Rolling Stones</td><td>Rain Fall Down</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>They Might Be Giants</td><td><a href="https://www.youtube.com/watch?v=mHliXVifhEM">Doctor Worm</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Skunkhour</td><td><a href="https://www.youtube.com/watch?v=M2CsoNCDvjE">Up To Our Necks In It</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=Ijlk0GTQbB4">The Outdoor Type</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -26,9 +29,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Wildwood Guitars</td><td><a href="https://www.youtube.com/watch?v=hbuJwcs1MV0">Gibson Firebird Sales Pitch</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=typ2c8JPkLE">Little Martha</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Rory Gallagher</td><td><a href="https://www.youtube.com/watch?v=Cz1xsuJC2JE">Should've Learnt My Lesson</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Bee Gees</td><td><a href="https://www.youtube.com/watch?v=E1YbYXXKWbs">Every Christian Lion Hearted Man Will Show You</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=Ep8ujjLnW7M">Plain (feat. Lily Allen & Flo Milli)</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>London Music Works</td><td><a href="https://www.youtube.com/watch?v=D1ilrZTIGlE">Theme (From The Jetsons")"</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Bee Gees</td><td><a href="https://www.youtube.com/watch?v=E1YbYXXKWbs">Every Christian Lion Hearted Man Will Show You</a></td><td>Medieval</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=Ep8ujjLnW7M">Plain (feat. Lily Allen & Flo Milli)</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>London Music Works</td><td><a href="https://www.youtube.com/watch?v=D1ilrZTIGlE">Theme (From The Jetsons")"</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=2HV5KfE4xMA">Here's Where the Story Ends</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=gXr92XTbqZU">I Kicked a Boy</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Superjesus</td><td><a href="https://www.youtube.com/watch?v=pC-gAD-0-OY">Gravity</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -54,15 +57,15 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>The Kinks</td><td><a href="https://www.youtube.com/watch?v=N_MqfF0WBsU">Waterloo Sunset</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Les Baxter</td><td><a href="https://www.youtube.com/watch?v=JCPh7rAwRNM">The Clown On The Eiffel Tower</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>The Velvet Underground</td><td><a href="https://www.youtube.com/watch?v=m9ufOljsFZQ">Run Run Run</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Jason & The Scorchers</td><td>White Lies</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Jason & The Scorchers</td><td>I Really Don't Want To Know</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Carpenters</td><td>Ticket To Ride</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>James Gang</td><td>Standing in the Rain</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Blackberry Smoke</td><td>Up in Smoke</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>The Monkees</td><td>Listen to the Band</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Ramones</td><td>Rock 'N' Roll High School</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Bruce Springsteen</td><td>The Sun Ain't Gonna Shine Anymore</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Public Image Ltd</td><td>Hawaii</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Jason & The Scorchers</td><td><a href="https://www.youtube.com/watch?v=51y8BtH1-6E">White Lies</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Jason & The Scorchers</td><td><a href="https://www.youtube.com/watch?v=MTieRhIV1bs">I Really Don't Want To Know</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Carpenters</td><td><a href="https://www.youtube.com/watch?v=fsgj4xcxXyA">Ticket To Ride</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>James Gang</td><td><a href="https://www.youtube.com/watch?v=uoQKmi70R7U">Standing in the Rain</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=1NI1WzFAlTo">Up in Smoke</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>The Monkees</td><td><a href="https://www.youtube.com/watch?v=1HyGSLLjNlg">Listen to the Band</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Ramones</td><td><a href="https://www.youtube.com/watch?v=oz7KYUkdlvE">Rock 'N' Roll High School</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=B3ugToQv0c4">The Sun Ain't Gonna Shine Anymore</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Public Image Ltd</td><td><a href="https://www.youtube.com/watch?v=HURFlF8CyV8">Hawaii</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Jeff Beck</td><td>Dedication [DVD]</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Corridor</td><td>Domino</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Jacqueline Taïeb</td><td>7 heures du matin</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
@@ -74,9 +77,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Eagles</td><td>One of These Nights</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>The Tenants</td><td>You Shit Me to Tears</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>The Beths</td><td>2am</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Lynyrd Skynyrd</td><td>Call Me the Breeze</td><td>R.I.P.</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Kasey Chambers</td><td>A Little Bit Lonesome</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Ladyhawke</td><td>My Delirium</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>Lynyrd Skynyrd</td><td>Call Me the Breeze</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Kasey Chambers</td><td>A Little Bit Lonesome</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Ladyhawke</td><td>My Delirium</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Billie Holiday</td><td>Your Mother's Son-In-Law</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Jungle</td><td>GOOD TIMES</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Little Simz</td><td>The Rapper That Came to Tea (interlude)</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -137,9 +140,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Frank Zappa</td><td>Purple Haze</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Bruce Springsteen</td><td>Candy's Room</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>The Sundays</td><td>Joy</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Kings of Leon</td><td>Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Val Doonican</td><td>Leaving on a Jet Plane</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>The Rolling Stones</td><td>Gimme Shelter</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Kings of Leon</td><td>Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Val Doonican</td><td>Leaving on a Jet Plane</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Rolling Stones</td><td>Gimme Shelter</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>The Hollies</td><td>I Can't Let Go</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Searchers</td><td>Take Me for What I'm Worth</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Bobby Fuller Four</td><td>I Fought the Law</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -158,8 +161,8 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>The Who</td><td>Won't Get Fooled Again</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Huey Lewis and the News</td><td>Bad Is Bad</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Steely Dan</td><td>Third World Man</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Led Zeppelin</td><td>Hats Off To (Roy) Harper</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>Bruce Springsteen</td><td>Adam Raised a Cain</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Led Zeppelin</td><td>Hats Off To (Roy) Harper</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Bruce Springsteen</td><td>Adam Raised a Cain</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>James Gang</td><td>Alexis</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Tommy Bolin</td><td>Savannah Woman</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Tommy Bolin</td><td>Post Toastee</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
@@ -183,8 +186,8 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Sash!</td><td>Encore une fois</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Frank Zappa</td><td>In France</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Blackberry Smoke</td><td>Rock and Roll Again</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Frank Zappa</td><td>I'm a Band Leader</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>The Allman Brothers Band</td><td>In Memory of Elizabeth Reed</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Frank Zappa</td><td>I'm a Band Leader</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>The Allman Brothers Band</td><td>In Memory of Elizabeth Reed</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Beatles</td><td>A Hard Day's Night</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Led Zeppelin</td><td>Immigrant Song</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>James Taylor</td><td>Going Around One More Time</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -216,9 +219,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Foo Fighters</td><td>Best of You</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Jackson Browne</td><td>Black and White</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Lynyrd Skynyrd</td><td>Crossroads</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>David Crosby</td><td>I'd Swear There Was Somebody Here</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Glen Campbell</td><td>The Billstown Crossroads</td><td>Instrumental</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Dweezil Zappa</td><td>Live</td><td>Electric</td><td> Bruce's Session - Sep 2017</td></tr>
+<tr><td>David Crosby</td><td>I'd Swear There Was Somebody Here</td><td>Acoustic</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Glen Campbell</td><td>The Billstown Crossroads</td><td>Instrumental</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Dweezil Zappa</td><td>Live</td><td>Electric</td><td> Bruce's Session - Sept 2017</td></tr>
 <tr><td>The Jacksons</td><td>I Want You Back</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Pretenders</td><td>Thumbelina</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>English Rugby League Commentary</td><td>English Rugby League Commentary</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
@@ -273,9 +276,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Glen Campbell</td><td>These Days</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>The Lemon Pipers</td><td>Green Tambourine</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>Shihad</td><td>Pacifier</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Hairspray</td><td>The Nicest Kids In Town</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>The Yardbirds</td><td>Stroll On</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Future Islands</td><td>On Letterman</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
+<tr><td>Hairspray</td><td>The Nicest Kids In Town</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>The Yardbirds</td><td>Stroll On</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Future Islands</td><td>On Letterman</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
 <tr><td>Elvis Presley</td><td>Ready Teddy</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>The Cure</td><td>Pictures Of You</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Ben Chambers</td><td>Santa Fe</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
@@ -322,9 +325,9 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>The Beach Boys</td><td>Help Me Ronda</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Tommy Bolin</td><td>Heavy Load</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>More Under Mutter Mutterrances</td><td>Fire Sign</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Mrs Carey's Concert</td><td>Excerp from Documentary (video)</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Ruth Underwood</td><td>Rollo Interior</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Zappa Does Zappa</td><td>- please update (video)</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Mrs Carey's Concert</td><td>Excerp from Documentary (video)</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Ruth Underwood</td><td>Rollo Interior</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Zappa Does Zappa</td><td>- please update (video)</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>James Taylor</td><td>Summer's Here</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>David McCallum</td><td>Batman Theme</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Frank Zappa</td><td>Directly From My Heart to You</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

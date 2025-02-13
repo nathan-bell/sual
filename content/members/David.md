@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 352 tracks in total
+### 355 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Takuro Yoshida</td><td>蒼い夏(Blue Summer)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Fishmans</td><td>Long Season .1</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Rain Tree Crow</td><td>Every Colour You Are</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Nilüfer Yanya</td><td><a href="https://www.youtube.com/watch?v=2YJfRrd8EqU">Method Actor</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>The Pineapple Thief</td><td><a href="https://www.youtube.com/watch?v=d8qMOc4dN6c">Now It's Yours</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Nilüfer Yanya</td><td><a href="https://www.youtube.com/watch?v=nNwNZ6CMeFI">Binding</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -25,8 +28,8 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Buffy Sainte-Marie</td><td><a href="https://www.youtube.com/watch?v=d3bfqlTCHZk">Cod'ine</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=Mjmp_T3Kh8g">Reggaejunkiejew</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Depeche Mode</td><td><a href="https://www.youtube.com/watch?v=jsCR05oKROA">Where's the Revolution</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=p05GCFpnPF4">Lily Pad</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>The Alan Parsons Project</td><td><a href="https://www.youtube.com/watch?v=8ng6N5oXZ9M">I Robot</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=p05GCFpnPF4">Lily Pad</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>The Alan Parsons Project</td><td><a href="https://www.youtube.com/watch?v=8ng6N5oXZ9M">I Robot</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>Death and the Maiden</td><td><a href="https://www.youtube.com/watch?v=oPzdCUjFxHU">Hourglass</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Dios Malos</td><td><a href="https://www.youtube.com/watch?v=ZGtnXA6lGqg">You Make Me Feel Uncomfortable</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Robin Trower</td><td><a href="https://www.youtube.com/watch?v=0tLsFsGxLmE">Bridge of Sighs</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -54,9 +57,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Sola Rosa</td><td><a href="https://www.youtube.com/watch?v=Pu_PXyIyJtE">What If? (feat. Nathan Haines)</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>The Roots</td><td><a href="https://www.youtube.com/watch?v=I5fuhDhKkRI">Right On (feat. Joanna Newsom)</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=4kovhU-utOg">Actual Brutal Facts</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Guthrie Govan</td><td>2 Tracks</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Kaleo</td><td><a href="https://www.youtube.com/watch?v=NOletMMI0B4">Broken Bones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=LGs_vGt0MY8">Merry Christmas, Mr Lawrence</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Guthrie Govan</td><td>2 Tracks</td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Kaleo</td><td><a href="https://www.youtube.com/watch?v=NOletMMI0B4">Broken Bones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=LGs_vGt0MY8">Merry Christmas, Mr Lawrence</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>America</td><td><a href="https://www.youtube.com/watch?v=dAUUy7NMnaY">Ventura Highway</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Jim Noir</td><td><a href="https://www.youtube.com/watch?v=Hn7cUVhVQjY">Eanie Meany</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Pepe Deluxé</td><td><a href="https://www.youtube.com/watch?v=zOt0eZEEPJk">Black Cadillac</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -66,18 +69,18 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>múm</td><td><a href="https://www.youtube.com/watch?v=l5hBkQT3-C8">Green Grass of Tunnel</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>The Chats</td><td><a href="https://www.youtube.com/watch?v=j58V2vC9EPc">Smoko</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Blur</td><td><a href="https://www.youtube.com/watch?v=YSuHrTfcikU">Parklife</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Lana Del Rey</td><td>Let the Light In (featuring Father John Misty)</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Lana Del Rey</td><td>A&W</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>The Hot Rats</td><td>The Lovecats</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Chrysta Bell</td><td>Swing With Me</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Massive Attack</td><td>Unfinished Symphony</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Cracker</td><td>Low</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Santana</td><td>Europa (Earth's Cry Heaven's Smile)</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Goldfrapp</td><td>Lovely Head</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>The Triumphs</td><td>Burnt Biscuits</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>The Week That Was</td><td>Learn to Learn</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Dry Cleaning</td><td>Magic of Meghan</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Laura Jean</td><td>Amateurs</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Lana Del Rey</td><td><a href="https://www.youtube.com/watch?v=WJlQ4jt5Fz4">Let the Light In (featuring Father John Misty)</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Lana Del Rey</td><td><a href="https://www.youtube.com/watch?v=pYqky795R1s">A&W</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>The Hot Rats</td><td><a href="https://www.youtube.com/watch?v=b93-fSkptTg">The Lovecats</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Chrysta Bell</td><td><a href="https://www.youtube.com/watch?v=6mli57EYBzA">Swing With Me</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Massive Attack</td><td><a href="https://www.youtube.com/watch?v=ZWmrfgj0MZI">Unfinished Symphony</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Cracker</td><td><a href="https://www.youtube.com/watch?v=gYdlqjiQPAc">Low</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Santana</td><td><a href="https://www.youtube.com/watch?v=SgciQ2FF-RM">Europa (Earth's Cry Heaven's Smile)</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Goldfrapp</td><td><a href="https://www.youtube.com/watch?v=KHM4PrHqNCo">Lovely Head</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>The Triumphs</td><td><a href="https://www.youtube.com/watch?v=x_OqRuShMno">Burnt Biscuits</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>The Week That Was</td><td><a href="https://www.youtube.com/watch?v=b8GAGyDisJ8">Learn to Learn</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Dry Cleaning</td><td><a href="https://www.youtube.com/watch?v=FRbpWEXkBic">Magic of Meghan</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Laura Jean</td><td><a href="https://www.youtube.com/watch?v=EuFXyt50smY">Amateurs</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Tones on Tail</td><td>Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>alt-J</td><td>Nara</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Sweet</td><td>Love Is Like Oxygen</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -90,9 +93,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Wishbone Ash</td><td>Lady Jay</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>The Shins</td><td>40 Mark Strasse</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Osees</td><td>Sticky Hulks</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Depeche Mode</td><td>World in My Eyes</td><td>R.I.P.</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Beck</td><td>Go It Alone</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Marlon Williams</td><td>Don't Go Back</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>Depeche Mode</td><td>World in My Eyes</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Beck</td><td>Go It Alone</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Marlon Williams</td><td>Don't Go Back</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>The Guess Who</td><td>Undun</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Israel Nash</td><td>Rain Plans</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>The The</td><td>Sweet Bird of Truth</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -151,9 +154,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>10cc</td><td>I'm Mandy Fly Me</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Jake Thackray</td><td>Old Molly Metcalfe</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Dream Warriors</td><td>My Definition of a Bombastic Jazz Style</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>The Bevis Frond</td><td>You're on Your Own</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Vels Trio</td><td>Yellow Ochre Pt.1</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Purple Mountains</td><td>Snow Is Falling in Manhattan</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>The Bevis Frond</td><td>You're on Your Own</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Vels Trio</td><td>Yellow Ochre Pt.1</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Purple Mountains</td><td>Snow Is Falling in Manhattan</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>The Monks</td><td>I Hate You</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Velvet Underground</td><td>I'm Waiting for the Man</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Rolling Stones</td><td>I Am Waiting</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -170,8 +173,8 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Suicide</td><td>Rocket USA</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Nathan Haines</td><td>Twelve</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Khruangbin</td><td>Little Desk Concert</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>David Bowie</td><td>Aladdin Sane</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>Echo & the Bunnymen</td><td>Turquoise Days</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>David Bowie</td><td>Aladdin Sane</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Echo & the Bunnymen</td><td>Turquoise Days</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>Robert Wyatt</td><td>Shipbuilding</td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
 <tr><td>Blam Blam Blam</td><td>Don’t Fight It Marsha, It’s Bigger Than Both Of Us</td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
 <tr><td>The Cult</td><td>She Sells Sanctuary</td><td>One track that you discover after the session at David’s last week.</td><td> Bruces's Session - Jun 2019</td></tr>
@@ -192,8 +195,8 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Strawpeople</td><td>Trick With a Knife</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Alice Phoebe Lou</td><td>Grey</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Kikagaku Moyo</td><td>Kikagaku Moyo</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Brad Paisley</td><td>Dang Me</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Steven Wilson</td><td>Remainder the Black Dog</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Brad Paisley</td><td>Dang Me</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Steven Wilson</td><td>Remainder the Black Dog</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Who</td><td>Young Man Blues</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>David Bowie</td><td>Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Tobin Sprout</td><td>Angels Hang Their Socks on the Moon</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -222,8 +225,8 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Fucked Up</td><td>Queen of Hearts</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>The Cure</td><td>Faith</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Rag'n'Bone Man</td><td>Human</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>The Young Gods</td><td>Gasoline Man</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Steve Hillage</td><td>Octave Doctors</td><td>Instrumental</td><td> Bruce's Session - Sep 2017</td></tr>
+<tr><td>The Young Gods</td><td>Gasoline Man</td><td>Acoustic</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Steve Hillage</td><td>Octave Doctors</td><td>Instrumental</td><td> Bruce's Session - Sept 2017</td></tr>
 <tr><td>Funkadelic</td><td>Super Stupid</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Mazzy Star</td><td>Flowers in December</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Bryan Ferry</td><td>Don't Stop the Dance</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
@@ -284,9 +287,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>David Bowie</td><td>Where Are We Now?</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>John Grant</td><td>Global Warming</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>Supergroove</td><td>Can’t Get Enough</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Hedwig And The Angry Inch</td><td>Tear Me Down</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Ryuichi Sakamoto</td><td>Merry Christmas Mr Lawrence</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Add N To (X)</td><td>Take To Me Your Leader</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
+<tr><td>Hedwig And The Angry Inch</td><td>Tear Me Down</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Ryuichi Sakamoto</td><td>Merry Christmas Mr Lawrence</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Add N To (X)</td><td>Take To Me Your Leader</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
 <tr><td>The Dave Brubeck Quartet</td><td>Take Five</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>XTC</td><td>The Man Who Danced Around His Soul</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Tame Impala</td><td>Let It Happen</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
@@ -341,9 +344,9 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Jethro Tull</td><td>Crosseyed Mary</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Jeff Beck</td><td>The Final Peace</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Talk Talk</td><td>Ascension Day</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Japan</td><td>My New Career</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Roy Buchanan</td><td>The Messiah Will Come Again</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Dr. Feelgood</td><td>She Does It Right</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Japan</td><td>My New Career</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Roy Buchanan</td><td>The Messiah Will Come Again</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Dr. Feelgood</td><td>She Does It Right</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Fleet Foxes</td><td>White Winter Hymnal</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>23 Skidoo</td><td>Vegas El Bandito</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>The Duckworth Lewis Method</td><td>Jiggery Pokery</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

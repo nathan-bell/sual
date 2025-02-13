@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 326 tracks in total
+### 329 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Nick Cave (6 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Boris</td><td>LOVE</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Half Japanese</td><td>Why'd They Do It</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Danny O'Keefe</td><td>鯨を救おう。(Save the Whales)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Jolie Holland</td><td><a href="https://www.youtube.com/watch?v=FaupwrOwU9Q">Feet on the Ground</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Alabaster DePlume</td><td><a href="https://www.youtube.com/watch?v=QyKrC2mWx0c">Broken Again</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Adrianne Lenker</td><td><a href="https://www.youtube.com/watch?v=GmycsQ30obg">Sadness As a Gift</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -25,9 +28,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Johnny Cash</td><td><a href="https://www.youtube.com/watch?v=_kvvNXuDRYI">The Man Who Couldn't Cry</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Buddy Miller, Julie Miller</td><td><a href="https://www.youtube.com/watch?v=vYQ1Q5zVexc">Memphis Jane</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Dolly Parton, Linda Ronstadt, and Emmylou Harris</td><td><a href="https://www.youtube.com/watch?v=ykMzS6ugnPI">After the Gold Rush</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Joanna Newsom</td><td><a href="https://www.youtube.com/watch?v=1nz0t7K1prY">'81</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Butthole Surfers</td><td><a href="https://www.youtube.com/watch?v=ScVbbybrbsc">I Saw an X-Ray of a Girl Passing Gas</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Battles</td><td><a href="https://www.youtube.com/watch?v=lz5FUm4Gbeo">DDimaondd</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Joanna Newsom</td><td><a href="https://www.youtube.com/watch?v=1nz0t7K1prY">'81</a></td><td>Medieval</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Butthole Surfers</td><td><a href="https://www.youtube.com/watch?v=ScVbbybrbsc">I Saw an X-Ray of a Girl Passing Gas</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Battles</td><td><a href="https://www.youtube.com/watch?v=lz5FUm4Gbeo">DDimaondd</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>Tunng</td><td><a href="https://www.youtube.com/watch?v=DtMxdKmvR94">Woodcat</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Dimmer</td><td><a href="https://www.youtube.com/watch?v=r05h496tWKo">Searching Time</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Eleni Mandell</td><td><a href="https://www.youtube.com/watch?v=cBKFgQGB_vk">Perfect Stranger</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -58,9 +61,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Cocorosie</td><td><a href="https://www.youtube.com/watch?v=uPhT-LF24b0">Good Friday</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=QwaqO3i_eQA">Saturday Sun</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=wKxFdH18WhE">Sunday Noises</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Connan and the Mockasins</td><td><a href="https://www.youtube.com/watch?v=ExjmWJ6qa94">Naughty Holidays (again)</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Wynton Marsalis</td><td><a href="https://www.youtube.com/watch?v=98fTxrwGJTk">Sister Cheryl</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Bach</td><td><a href="https://www.youtube.com/watch?v=YvDcBsn78sw">Cantata BWV 55</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Connan and the Mockasins</td><td><a href="https://www.youtube.com/watch?v=ExjmWJ6qa94">Naughty Holidays (again)</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Wynton Marsalis</td><td><a href="https://www.youtube.com/watch?v=98fTxrwGJTk">Sister Cheryl</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Bach</td><td><a href="https://www.youtube.com/watch?v=YvDcBsn78sw">Cantata BWV 55</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Iron and Wine & Ben Bridwell</td><td><a href="https://www.youtube.com/watch?v=jXBHPBEPblU">This Must Be the Place</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Laura Veirs</td><td><a href="https://www.youtube.com/watch?v=XNk0X73RqnQ">Rapture</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>The Smiths</td><td><a href="https://www.youtube.com/watch?v=3r-qDvD3F3c">There's a Light That Never Goes Out</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -70,19 +73,19 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>The Velvet Underground</td><td><a href="https://www.youtube.com/watch?v=99og_g7rXnA">I'm Waiting for The Man</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>The Verlaines</td><td><a href="https://www.youtube.com/watch?v=P96cFKd4irY">Death & The Maiden</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=2xq9bp2ZBls">Japanese Cowboy</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Kurt Vile</td><td>Fo Sho</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Kurt Vile</td><td>Mount Airy Hill (Way Gone)</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Mary Halvorson</td><td>With a Little Help From My Friends</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Barry Adamson</td><td>The Big Bamboozle</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Barry Adamson</td><td>Set the Controls for the Heart of the Pelvis</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Beach House</td><td>Used to Be</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Regina Spektor</td><td>Lady</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Smog</td><td>I Feel Like the Mother of the World</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>The Magnetic Fields</td><td>Love Is Like a Bottle of Gin</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>The Cramps</td><td>Burn She‐Devil, Burn</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>School of Seven Bells</td><td>Half Asleep</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Hobo Johnson</td><td>Romeo & Juliet</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Melvins</td><td>Going Blind</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=Xi6tuX5w-aM">Fo Sho</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=pMyGCw6li2c">Mount Airy Hill (Way Gone)</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Mary Halvorson</td><td><a href="https://www.youtube.com/watch?v=qitfbaOX6KA">With a Little Help From My Friends</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Barry Adamson</td><td><a href="https://www.youtube.com/watch?v=f9qvkhBD8Cw">The Big Bamboozle</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Barry Adamson</td><td><a href="https://www.youtube.com/watch?v=gSBBMy75_VE">Set the Controls for the Heart of the Pelvis</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Beach House</td><td><a href="https://www.youtube.com/watch?v=AEVjxKlP3nA">Used to Be</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Regina Spektor</td><td><a href="https://www.youtube.com/watch?v=NcQWRcVyAXA">Lady</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Smog</td><td><a href="https://www.youtube.com/watch?v=Rae76PA_xkU">I Feel Like the Mother of the World</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=Qnf_Ui0nMaw">Love Is Like a Bottle of Gin</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>The Cramps</td><td><a href="https://www.youtube.com/watch?v=Htu3dj7xcQg">Burn She‐Devil, Burn</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>School of Seven Bells</td><td><a href="https://www.youtube.com/watch?v=1An2pjS4mKE">Half Asleep</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Hobo Johnson</td><td><a href="https://www.youtube.com/watch?v=JaOabnTaYdA">Romeo & Juliet</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Melvins</td><td><a href="https://www.youtube.com/watch?v=crqpmb_-ke8">Going Blind</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Jonny Fritz</td><td>Happy in Hindsight</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Half Man Half Biscuit</td><td>Joy Division Oven Gloves</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Camera Obscura</td><td>Happy New Year</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -95,9 +98,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Ryan Adams</td><td>Hotel Chelsea Nights</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Drive‐By Truckers</td><td>The Fourth Night of My Drinking</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>ANOHNI and the Johnsons</td><td>Fletta</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>PJ Harvey</td><td>Shame</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>The Unthanks</td><td>Queen of Hearts</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>BARB</td><td>Please Don't Interrupt</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>PJ Harvey</td><td>Shame</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>The Unthanks</td><td>Queen of Hearts</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>BARB</td><td>Please Don't Interrupt</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Tony Bennett</td><td>Cold, Cold Heart</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Scott Lavene</td><td>The First Time</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Lou Reed</td><td>Magician (Internally)</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -145,9 +148,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Micah P. Hinson</td><td>I Still Remember</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Tex Williams</td><td>Life Gits Tee‐Jus Don't It</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Beirut</td><td>Nantes</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Sandra Bell</td><td>Trains</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Tony Bennett</td><td>Cold, Cold Heart</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Ryoji Ikeda</td><td>Headphonics 1/0</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Sandra Bell</td><td>Trains</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Tony Bennett</td><td>Cold, Cold Heart</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Ryoji Ikeda</td><td>Headphonics 1/0</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>The Bonzo Dog Band</td><td>Alley Oop</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Phil Ochs</td><td>Cops of the World</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Captain Beefheart</td><td>Diddy Wah Diddy</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -160,8 +163,8 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Sonic Youth</td><td>Kool Thing</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Vashti Bunyan</td><td>Diamond Day</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Animal Collective</td><td>Fireworks</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Ween</td><td>Freedom of '76</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>The Magnetic Fields</td><td>Papa Was a Rodeo</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Ween</td><td>Freedom of '76</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>The Magnetic Fields</td><td>Papa Was a Rodeo</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>New Telepathics</td><td>My First Shotgun</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Laura Veirs</td><td>Rapture</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Phosphorescent</td><td>The Mermaid Parade</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
@@ -183,8 +186,8 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>The Books</td><td>Smells Like Content</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Gogol Bordello</td><td>Harem in Tuscany (Taranta)</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Fugazi</td><td>Long Distance Runner</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Minutemen</td><td>The Politics of Time</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Panda Bear</td><td>Good Girl / Carrots</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Minutemen</td><td>The Politics of Time</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Panda Bear</td><td>Good Girl / Carrots</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Nirvana</td><td>Territorial Pissing</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Ween</td><td>Spinal Meningitis (Got Me Down)</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Dead Kennedys</td><td>Kinky Sex Makes the World Go 'Round</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -272,9 +275,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>The Apples In Stereo</td><td>Same Old Drag</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>Tom Waits</td><td>All The World Is Green</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>The 3Ds</td><td>Hairs</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Tom Waits</td><td>Alice</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Dead Kennedys</td><td>Viva Las Vegas</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Sonic Youth</td><td>Tom Violence</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
+<tr><td>Tom Waits</td><td>Alice</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Dead Kennedys</td><td>Viva Las Vegas</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Sonic Youth</td><td>Tom Violence</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
 <tr><td>Leonard Cohen</td><td>The Gypsy's Wife</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Sharon Jones And The Dap Kings</td><td>Now I See</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Nick Cave</td><td>No More Shall We Part</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
@@ -315,9 +318,9 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Flight of the Conchords</td><td>Carol Brown</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Connan Mockasin</td><td>I Nude You</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Antony and the Johnsons</td><td>What Can I Do?</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Earl Scruggs</td><td>Foggy Mountain Breakdown</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Chet Atkins</td><td>Excerpt from the Johnn Cash Show</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Inca Roads</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Earl Scruggs</td><td>Foggy Mountain Breakdown</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Chet Atkins</td><td>Excerpt from the Johnn Cash Show</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Frank Zappa</td><td>Inca Roads</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Jane's Addiction</td><td>Summertime Rolls</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Nick Cave</td><td>Up Jumped the Devil</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Aaron Freeman</td><td>Doesn't Anybody Know My Name</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

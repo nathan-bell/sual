@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 312 tracks in total
+### 315 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), The Cure (5 plays) and Grateful Dead (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Far East Family Band</td><td>River Of Soul</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Phoebe Bridgers</td><td>Kyoto</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Bryan Ferry</td><td>Hiroshima Mon Amour</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>A.A.Williams</td><td><a href="https://www.youtube.com/watch?v=zF8Vq-jaK40">Murmurs</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=qLx39oI9djU">Love Has Made A Fool Of Me</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=WktjweXxugw">The Way It Is Now</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -25,9 +28,9 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Bert Jansch</td><td><a href="https://www.youtube.com/watch?v=RqjUWJtH88c">Angie</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Andy Irvine & Donal Lunny</td><td><a href="https://www.youtube.com/watch?v=vRFD0TzJfbk">The Blacksmith</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=VoVLYvuUH-s">Pickapart</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=2mBaE-K4RxI">The Whistler</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=A7wweDJGgiw">Into Gold</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Gary Numan</td><td><a href="https://www.youtube.com/watch?v=lHomCiPFknY">My Name Is Ruin</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=2mBaE-K4RxI">The Whistler</a></td><td>Medieval</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=A7wweDJGgiw">Into Gold</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Gary Numan</td><td><a href="https://www.youtube.com/watch?v=lHomCiPFknY">My Name Is Ruin</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=T2odlGAxuwQ">Misguided Angel</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Grant Lee Buffalo</td><td><a href="https://www.youtube.com/watch?v=TOrmH4coIxk">Drag</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=YLyXvG_HTMA">I Love My Leather Jacket</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -55,9 +58,9 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Julian Temple Band</td><td><a href="https://www.youtube.com/watch?v=cFz4qBiHNU8">Tunnels</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=e0g4TtI_XTM&t=358s">Californian Soil</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Gotan Project</td><td><a href="https://www.youtube.com/watch?v=d3UpZydTFb0">Queremos Paz</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Christone 'Kingfish' Ingram</td><td>Video</td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=s9NvnTDMS3I">A Well‐Made Woman</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Andrés Segovia</td><td><a href="https://www.youtube.com/watch?v=Q0ccBwtzOQ4">Petite valse</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Christone 'Kingfish' Ingram</td><td>Video</td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=s9NvnTDMS3I">A Well‐Made Woman</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Andrés Segovia</td><td><a href="https://www.youtube.com/watch?v=Q0ccBwtzOQ4">Petite valse</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>The Blue Nile</td><td><a href="https://www.youtube.com/watch?v=qxK7AZEdVbU">A Walk Across the Rooftops</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>John Renbourn</td><td><a href="https://www.youtube.com/watch?v=ywYYbg7VNPE">The Pelican</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=howz7gVecjE">Where Were You</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -66,17 +69,17 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Mark Seymour</td><td><a href="https://www.youtube.com/watch?v=wkX9vg0jh58">Westgate</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Marc Cohn</td><td><a href="https://www.youtube.com/watch?v=PgRafRp-P-o">Walking in Memphis</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=JcW8VNwYvL0">The Guns of Brixton</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Black Belt Eagle Scout</td><td>My Blood Runs Through This Land</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Black Belt Eagle Scout</td><td>Sedna</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Patti Smith</td><td>Gloria</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Troy Kingi</td><td>Sleep (Slumber)</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Jackson Browne</td><td>Under the Falling Sky</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Cowboy Junkies</td><td>Ladle</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Tom Verlaine</td><td>The Earth Is in the Sky</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Joan Armatrading</td><td>Love And Affection</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Peter Gabriel</td><td>The Rhythm of the Heat</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Troy Kingi</td><td>Call My Name (School)</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Teddy Thompson</td><td>Think Again</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Black Belt Eagle Scout</td><td><a href="https://www.youtube.com/watch?v=ntg4az1AsdM">My Blood Runs Through This Land</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Black Belt Eagle Scout</td><td><a href="https://www.youtube.com/watch?v=pdxS_7F5cQ8">Sedna</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=bPO0bTaWcFQ">Gloria</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Troy Kingi</td><td><a href="https://www.youtube.com/watch?v=Zxtz1KiUTNs">Sleep (Slumber)</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Jackson Browne</td><td><a href="https://www.youtube.com/watch?v=LEJ1YkksamY">Under the Falling Sky</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=E8ULCekNEdE">Ladle</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Tom Verlaine</td><td><a href="https://www.youtube.com/watch?v=_p_9hHpUhKo">The Earth Is in the Sky</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Joan Armatrading</td><td><a href="https://www.youtube.com/watch?v=pWFKKtvAvak">Love And Affection</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Peter Gabriel</td><td><a href="https://www.youtube.com/watch?v=rzwMe-3XVn4">The Rhythm of the Heat</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Troy Kingi</td><td><a href="https://www.youtube.com/watch?v=kQ8Hu7HIXj8">Call My Name (School)</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Teddy Thompson</td><td><a href="https://www.youtube.com/watch?v=qCO0rXJUot0">Think Again</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Russell Smith</td><td>Someday We Will</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Josh Pyke</td><td>To Find Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>David Gideon</td><td>Nice to Meet You</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
@@ -90,7 +93,7 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>John Butler Trio</td><td>Funky Tonight</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Eric Bogle</td><td>No Man's Land</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Big Thief</td><td>Change</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>The Chills</td><td>I Love My Leather Jacket</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>The Chills</td><td>I Love My Leather Jacket</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Walter Trout</td><td>Ride</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Sharon Van Etten</td><td>Darkness Fades</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Ofege</td><td>Gbe Mi Lo</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -142,9 +145,9 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Jimi Hendrix</td><td>Straight Ahead</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Mazzy Star</td><td>Fade into You</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Cat Stevens</td><td>Can't Keep It In</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Steve Goodman</td><td>City of New Orleans</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Astor Piazzolla</td><td>Adios Nonino</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>John Zorn</td><td>Nove Cantici per Francesco d'Assisi</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Steve Goodman</td><td>City of New Orleans</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Astor Piazzolla</td><td>Adios Nonino</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>John Zorn</td><td>Nove Cantici per Francesco d'Assisi</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>Dave Dee, Dozy, Beaky, Mick & Tich</td><td>Bend It</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The La De Da's</td><td>How Is the Air up There</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>John Mayall & the Bluesbreakers</td><td>Hideaway</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -161,8 +164,8 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Afro Celt Sound System</td><td>Release</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Gene Clark</td><td>No Other</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Midge Marsden</td><td>Burning Rain</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Richard & Linda Thompson</td><td>The Poor Boy Is Taken Away</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>The Cure</td><td>Three Imaginary Boys</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Richard & Linda Thompson</td><td>The Poor Boy Is Taken Away</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>The Cure</td><td>Three Imaginary Boys</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>The Rails</td><td>The Inheritance</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Lana Del Rey</td><td>Fuck it I love you</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>The East Pointers</td><td>82 Fires</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
@@ -182,8 +185,8 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>John Grant</td><td>Metamorphosis</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Hanggai</td><td>Hanggai</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Mazzy Star</td><td>Be My Angel</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Cat Stevens</td><td>Ruby Love</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Tash Sultana</td><td>Blackbird</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Cat Stevens</td><td>Ruby Love</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Tash Sultana</td><td>Blackbird</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Doors</td><td>Waiting for the Sun</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Richard & Linda Thompson</td><td>Dimming of the Day</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Joe Satriani</td><td>Circles</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -213,9 +216,9 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Paul Kelly</td><td>Leaving Her for the Last Time</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Radiohead</td><td>Bishops Robes</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>The Rails</td><td>Late Surrender</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Dave Swarbrick</td><td>Sir Charles Coote / Smiths</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Richard Thompson</td><td>Andalus / Radio Marrakesh</td><td>Instrumental</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>The Cure</td><td>Just Like Heaven</td><td>Electric</td><td> Bruce's Session - Sep 2017</td></tr>
+<tr><td>Dave Swarbrick</td><td>Sir Charles Coote / Smiths</td><td>Acoustic</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Richard Thompson</td><td>Andalus / Radio Marrakesh</td><td>Instrumental</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>The Cure</td><td>Just Like Heaven</td><td>Electric</td><td> Bruce's Session - Sept 2017</td></tr>
 <tr><td>The Neville Brothers</td><td>Voodoo</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Sarah Jarosz</td><td>Run Away</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Aoife O'Donovan</td><td>Amoeba Green Room Session</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
@@ -314,9 +317,9 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Janis Ian</td><td>His Hands</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Tony Joe White</td><td>Closer to the Truth</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Russell Smith</td><td>Anger and Tears</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>John Martyn</td><td>Big Muff</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Richard Thompson</td><td>Shoot Out the Lights</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>John Butler Trio</td><td>Don't Wanna See Your Face</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>John Martyn</td><td>Big Muff</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Richard Thompson</td><td>Shoot Out the Lights</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Butler Trio</td><td>Don't Wanna See Your Face</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Tori Amos</td><td>Winter</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Bruce Springsteen</td><td>Born to Run</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Harry Manx & Kevin Breit</td><td>Steal 6</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

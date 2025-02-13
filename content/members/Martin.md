@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 326 tracks in total
+### 329 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Kenny Burrell</td><td>Blues For Wes</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>The Walker Brothers</td><td>Make It Easy On Yourself (Live In Japan)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Mass of the Fermenting Dregs</td><td>She is Inside, He is Outside</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>John Patitucci</td><td><a href="https://www.youtube.com/watch?v=q_zMpQnDOSU">Ivory Coast, Pt. 1</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=XjfH9mtasgQ">Is She Really Going out with Him (Live)</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=jON_GQBinhA">Heartbreak Hotel</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -26,8 +29,8 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=OPGNWFQy_gg">Ta douleur</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=Rg3IcbvozBs">Hoop & Pole</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The Paladins</td><td><a href="https://www.youtube.com/watch?v=jbC1RM3tBxw">Five Minute Love Affair</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Brad Mehldau</td><td><a href="https://www.youtube.com/watch?v=YPuZ671t5t4">I Am The Walrus</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Return to Forever</td><td><a href="https://www.youtube.com/watch?v=f4gh1Zzg28k">Beyond The Seventh Galaxy</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Brad Mehldau</td><td><a href="https://www.youtube.com/watch?v=YPuZ671t5t4">I Am The Walrus</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Return to Forever</td><td><a href="https://www.youtube.com/watch?v=f4gh1Zzg28k">Beyond The Seventh Galaxy</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>Parsons & Hayward</td><td><a href="https://www.youtube.com/watch?v=RfNTwVomSUc">Daddy Fox</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=KvBrvOp9GHA">Do You Remember the Name</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=OPGNWFQy_gg">Ta douleur</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -59,10 +62,10 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Anthony Wilson</td><td><a href="https://www.youtube.com/watch?v=GGw4ks_pfhU">Chitlins Con Carne</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>The Andrew London Trio</td><td><a href="https://www.youtube.com/watch?v=auA8jy8km8o">Country's Buggered</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Scary Pockets & Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=8jm1Zl2Fjd4">Big Yellow Taxi</a></td><td>Bonus Track</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Marcin</td><td><a href="https://www.youtube.com/watch?v=f_VDbZEeYBM">2 Tracks</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=ON3SPq2w1pA">Song for Sharon</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Documentry</td><td><a href="https://www.youtube.com/watch?v=6GTU9uM9s70">Ballade No.1 in G minor</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Jacques Loussier</td><td><a href="https://www.youtube.com/watch?v=VSIeHZ4FIl4">Prelude No.1 in C Major</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Marcin</td><td><a href="https://www.youtube.com/watch?v=f_VDbZEeYBM">2 Tracks</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=ON3SPq2w1pA">Song for Sharon</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Documentry</td><td><a href="https://www.youtube.com/watch?v=6GTU9uM9s70">Ballade No.1 in G minor</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Jacques Loussier</td><td><a href="https://www.youtube.com/watch?v=VSIeHZ4FIl4">Prelude No.1 in C Major</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Gil Scott‐Heron</td><td><a href="https://www.youtube.com/watch?v=EdhoX1Xu6ZI">The Bottle</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=ildBZMufZ0M">Man in the Street</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Here Today</td><td><a href="https://www.youtube.com/watch?v=9dBleqTunz0">My Walking Shoes</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -72,18 +75,18 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Michael Brecker</td><td><a href="https://www.youtube.com/watch?v=ahjiVzaxzN4">Slings and Arrows</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>MC5</td><td><a href="https://www.youtube.com/watch?v=TMRtqnzA_oU">Ramblin' Rose</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Leonid & Friends feat. "Rox Bros" - Alex and Nikita Pozdnyakov</td><td><a href="https://www.youtube.com/watch?v=P_8aZZ9d_EA">My Old School</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Blake Mills and Pino Palladino</td><td>Ekuté</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Blake Mills and Pino Palladino</td><td>Man From Molise</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Ronny Jordan</td><td>So What</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Steve Martin</td><td>Saga of the Old West</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Adrian Belew</td><td>[untitled]</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Louis Cole</td><td>Let it Happen</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Nathan Haines</td><td>Heaven and Earth</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Etta James</td><td>Love and Happiness</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Hubert Laws</td><td>Fire and Rain</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>The Beths</td><td>Expert In A Dying Field</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Ken Nordine</td><td>Infinite O'Clock</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The Mason Rack Band</td><td>Black Betty</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Blake Mills and Pino Palladino</td><td><a href="https://www.youtube.com/watch?v=1fd9U-MT1z4">Ekuté</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Blake Mills and Pino Palladino</td><td><a href="https://www.youtube.com/watch?v=nq4hSD1LvAo">Man From Molise</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Ronny Jordan</td><td><a href="https://www.youtube.com/watch?v=lANilh2bLo4">So What</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Steve Martin</td><td><a href="https://www.youtube.com/watch?v=FDZNW_PJj4Y">Saga of the Old West</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Adrian Belew</td><td><a href="https://www.youtube.com/watch?v=6Cr_cB8-NVU">[untitled]</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Louis Cole</td><td><a href="https://www.youtube.com/watch?v=fkQgAN9xRO4">Let it Happen</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Nathan Haines</td><td><a href="https://www.youtube.com/watch?v=zMlYVF4OlVA">Heaven and Earth</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=ipN_OYn0AWI">Love and Happiness</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Hubert Laws</td><td><a href="https://www.youtube.com/watch?v=WLf6kcvHlQM">Fire and Rain</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>The Beths</td><td><a href="https://www.youtube.com/watch?v=-KACt6YhOyY">Expert In A Dying Field</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Ken Nordine</td><td><a href="https://www.youtube.com/watch?v=IXLWKz4J-DI">Infinite O'Clock</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>The Mason Rack Band</td><td><a href="https://www.youtube.com/watch?v=JJvd3vzJNDc">Black Betty</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>The Time Jumpers</td><td>On The Outskirts of Town</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Joanna Connor Band</td><td>Walkin' Blues</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Jeff Beck Group</td><td>Plynth</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -93,9 +96,9 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Avantdale Bowling Club</td><td>Friday Night @ the Liquor Store</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>Pink Floyd</td><td>Astronomy Domine</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>Leonid & Friends</td><td>If You Leave Me Now feat. Arkady Shilkloper</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Procol Harum</td><td>I Told on You</td><td>R.I.P.</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Spandau Ballet</td><td>To Cut a Long Story Short</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>The Caitlin Smith Group</td><td>I Am Joe's Heart</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>Procol Harum</td><td>I Told on You</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Spandau Ballet</td><td>To Cut a Long Story Short</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>The Caitlin Smith Group</td><td>I Am Joe's Heart</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Etta James</td><td>Hound Dog</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Anderson .Paak & The Free Nationals</td><td>Come Down</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Scary Pockets feat. Mario Jose</td><td>I Will Survive</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -152,10 +155,10 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Jimi Hendrix</td><td>Fire</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Esther Phillips</td><td>Alone Again (Naturally)</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Esther Phillips</td><td>Honeysuckle Rose</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Joe Horn</td><td>San Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Viagra Boys</td><td>Sports</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Helen Shapiro</td><td>Look Who It Is</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>TOOL</td><td>Pneuma</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Joe Horn</td><td>San Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Viagra Boys</td><td>Sports</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Helen Shapiro</td><td>Look Who It Is</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>TOOL</td><td>Pneuma</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>Ry Cooder</td><td>The Prodigal Son</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Paul Simon</td><td>God Bless the Absentee</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Astrud Gilberto & Stan Getz</td><td>The Girl From Ipanema</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
@@ -168,8 +171,8 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>The Beatles</td><td>Getting Better</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Top Topham</td><td>Sawbuk</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Jimi Hendrix</td><td>Fire</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Glenn Miller</td><td>Serenade in Blue</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>Steely Dan</td><td>Sign In Stranger</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Glenn Miller</td><td>Serenade in Blue</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Steely Dan</td><td>Sign In Stranger</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>Durand Jones & The Indications</td><td>Is It Any Wonder?</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Joni Mitchell</td><td>Woodstock</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Scott Walker</td><td>Rosary</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
@@ -195,8 +198,8 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Karlheinz Stockhausen</td><td>Studie II</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Robert Gordon</td><td>Summertime Blues</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Spirit</td><td>I Got a Line on You</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Camille</td><td>Janine II</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Candy Dulfer</td><td>Pick Up The Pieces</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Camille</td><td>Janine II</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Candy Dulfer</td><td>Pick Up The Pieces</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Siegel‐Schwall Band</td><td>Slow Blues In A</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Steely Dan</td><td>Don't Take Me Alive</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Kelsey Lu</td><td>Time</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -325,9 +328,9 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Leon Redbone</td><td>Marie</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Barney Kessel</td><td>Satin Doll</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Kurt Elling</td><td>Going To Chicago</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Art Tatum</td><td>Willow Weep for Me</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Andrew London Trio</td><td>Two Words</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Time Jumpers</td><td>Gonna Write Myself a Letter</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Art Tatum</td><td>Willow Weep for Me</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Andrew London Trio</td><td>Two Words</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Time Jumpers</td><td>Gonna Write Myself a Letter</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Donald Fagen</td><td>Snowbound</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Steely Dan</td><td>Sign In Stranger</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Smokin' Joe Kubek & B'nois King</td><td>Ru4 Real</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

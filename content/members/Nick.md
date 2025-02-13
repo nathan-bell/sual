@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 324 tracks in total
+### 327 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Yoko Ono</td><td>Your Hands</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Lyle Mays</td><td>Highland Aire</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Lyle Mays</td><td>Teiko</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=av3IDhEOQpI">Resurrection Blues</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Nitin Sawhney</td><td><a href="https://www.youtube.com/watch?v=ZBjxLv9Dfhk">Nadia</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fz6sQ-UNx2Q">Marathon</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -44,9 +47,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Richard & Linda Thompson</td><td><a href="https://www.youtube.com/watch?v=57PENuNVapc">I Want to See the Bright lights Tonight</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Shihad</td><td><a href="https://www.youtube.com/watch?v=f5mepjO3Yok">Pig Bop</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Milton Nascimento</td><td><a href="https://www.youtube.com/watch?v=-Ja7xQYdV48">Rio Vermelho</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Coup Deville</td><td><a href="https://www.youtube.com/watch?v=t_3gPH2YtAE">Tallahassee</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=7mbh43HgT4U">Loading Zones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sep 2023</td></tr>
-<tr><td>2CELLOS</td><td><a href="https://www.youtube.com/watch?v=uT3SBzmDxGk">Thunderstruck</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sep 2023</td></tr>
+<tr><td>Coup Deville</td><td><a href="https://www.youtube.com/watch?v=t_3gPH2YtAE">Tallahassee</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=7mbh43HgT4U">Loading Zones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>2CELLOS</td><td><a href="https://www.youtube.com/watch?v=uT3SBzmDxGk">Thunderstruck</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Made In America</td><td><a href="https://www.youtube.com/watch?v=dPPN93A3RRs">Extract from Film</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Bebo/Chucho</td><td><a href="https://www.youtube.com/watch?v=T6dG3kQ4Seg">Father & Son</a></td><td>One man’s trash…</td><td> Nathan's Session - Aug 2023</td></tr>
 <tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=vnddoj7obvA">Passenger 26</a></td><td>Can't get cheaper then free</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -57,18 +60,18 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>King Creosote & Jon Hopkins</td><td><a href="https://www.youtube.com/watch?v=UgglKPfVmms">John Taylor's Month Away</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Rachid Taha</td><td><a href="https://www.youtube.com/watch?v=VmEV6qjY9Nc">Barra Barra</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>The Stone Roses</td><td><a href="https://www.youtube.com/watch?v=S1Ke19kxGp8">Begging You</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Rickie Lee Jones</td><td>His Jeweled Floor</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Rickie Lee Jones</td><td>The Blue Ghazel</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Herbie Hancock</td><td>Prelude In C# Minor</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Barry White</td><td>Staying Power</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>The Band</td><td>Up on Cripple Creek</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>James Brown</td><td>Living in America</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Kate Bush</td><td>Hello Earth</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Small Faces</td><td>Afterglow of Your Love</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Lou Reed</td><td>White Light/White Heat</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Paul Simon</td><td>Kodachrome</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Christine McVie</td><td>Friend</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Ron Sexsmith</td><td>Everyday I Write the Book (live W/Ec)</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Rickie Lee Jones</td><td><a href="https://www.youtube.com/watch?v=sXsAYzQiR4s">His Jeweled Floor</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Rickie Lee Jones</td><td><a href="https://www.youtube.com/watch?v=Kc9t09DQl6o">The Blue Ghazel</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Herbie Hancock</td><td><a href="https://www.youtube.com/watch?v=5jNqGX3wrd0">Prelude In C# Minor</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Barry White</td><td><a href="https://www.youtube.com/watch?v=ZdggNAKBmPI">Staying Power</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=kBGSf9kViEY">Up on Cripple Creek</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>James Brown</td><td><a href="https://www.youtube.com/watch?v=c5BL4RNFr58">Living in America</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Kate Bush</td><td><a href="https://www.youtube.com/watch?v=U7QCtPZ3pTg">Hello Earth</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Small Faces</td><td><a href="https://www.youtube.com/watch?v=pQ4KOqY6HEY">Afterglow of Your Love</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=wY1TdzTO_8A">White Light/White Heat</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=8rlDTK6QI-w">Kodachrome</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Christine McVie</td><td><a href="https://www.youtube.com/watch?v=hC3_J6zHV_k">Friend</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Ron Sexsmith</td><td><a href="https://www.youtube.com/watch?v=QGAcjbHQEW8">Everyday I Write the Book (live W/Ec)</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Johnny Marr</td><td>Playland</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Dusty Springfield</td><td>Anyone Who Had a Heart</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>David Grisman</td><td>Steppin' With Stephane</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
@@ -80,9 +83,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Marlon Williams</td><td>Portrait of a Man (Live at Auckland Town Hall)</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Gillian Welch</td><td>The Way It Will Be</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Arthur Russell</td><td>This Is How We Walk on the Moon</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Low</td><td>Monkey</td><td>R.I.P.</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Diana Krall</td><td>The Night We Called It a Day</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Ka Hao</td><td>Haramai Roimata</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>Low</td><td>Monkey</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Diana Krall</td><td>The Night We Called It a Day</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Ka Hao</td><td>Haramai Roimata</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Bob Dylan</td><td>False Prophet</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Tiny Ruins</td><td>Holograms</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Lucinda Williams</td><td>Factory</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -133,9 +136,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Jim Hall</td><td>My One and Only Love</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Wilco</td><td>I Am Trying to Break Your Heart</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>The Phoenix Foundation</td><td>Eventually</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Lucinda Williams</td><td>Big Black Train</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Public Enemy</td><td>Man Plans God Laughs</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Rage Against the Machine</td><td>The Ghost of Tom Joad</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Lucinda Williams</td><td>Big Black Train</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Public Enemy</td><td>Man Plans God Laughs</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Rage Against the Machine</td><td>The Ghost of Tom Joad</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>The Beatles</td><td>Tomorrow Never Knows</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Simon & Garfunkel</td><td>The Big Bright Green Pleasure Machine</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Chicks</td><td>Ticket To Ride</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -153,8 +156,8 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Miles Davis</td><td>Blue In Green</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Straitjacket Fits</td><td>She Speeds</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
 <tr><td>Linda Ronstadt</td><td>Winter Light</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Bob Dylan</td><td>Pledging My Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>Grateful Dead</td><td>Candyman</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Bob Dylan</td><td>Pledging My Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Grateful Dead</td><td>Candyman</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>Louis Armstrong & Ella Fitzgerald</td><td>Tenderly</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Sean Kelly & Friends</td><td>Sweet Carnlough Bay</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>The Who</td><td>I'm Free</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
@@ -176,8 +179,8 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Chris Wood</td><td>Turtle Soup</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Alex the Kidd</td><td>Technology</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Jefferson Airplane</td><td>3/5 of a Mile in 10 Seconds</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Sweet Honey in the Rock</td><td>Gratitude</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Gillian Welch</td><td>I Dream a Highway</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Sweet Honey in the Rock</td><td>Gratitude</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Gillian Welch</td><td>I Dream a Highway</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Neil Young</td><td>Words</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Bob Dylan</td><td>Pledging My Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Milton Nascimento</td><td>Mais Bonito Não Há</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -207,9 +210,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>John Hiatt</td><td>Trudy And Dave</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Lyle Lovett</td><td>Church</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>The Milk Carton Kids</td><td>Promised Land</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Stephen Stills & Graham Nash</td><td>Crossroads</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Oscar Peterson</td><td>Someone to Watch Over Me</td><td>Instrumental</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Wild Nothing</td><td>Love Underneath My Thumb</td><td>Electric</td><td> Bruce's Session - Sep 2017</td></tr>
+<tr><td>Stephen Stills & Graham Nash</td><td>Crossroads</td><td>Acoustic</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Oscar Peterson</td><td>Someone to Watch Over Me</td><td>Instrumental</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Wild Nothing</td><td>Love Underneath My Thumb</td><td>Electric</td><td> Bruce's Session - Sept 2017</td></tr>
 <tr><td>John Coltrane</td><td>Joy</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Ella Fitzgerald</td><td>It Ain't Necessarily So</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Zen Mantra</td><td>Maybe I'll See You In My Dreams</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
@@ -314,9 +317,9 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Crosby, Stills & Nash</td><td>Suite: Judy Blue Eyes</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Kate & Anna McGarrigle</td><td>Leave Me Be</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>John Lennon</td><td>Mother</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Dave Grusin</td><td>Mood Indigo</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Egberto Gismonti</td><td>Raga</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>John Hiatt</td><td>Lipstick Sunset</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Dave Grusin</td><td>Mood Indigo</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Egberto Gismonti</td><td>Raga</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Hiatt</td><td>Lipstick Sunset</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Arcade Fire</td><td>Month of May</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>PJ Harvey</td><td>The Words That Maketh Murder</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Beth Orton</td><td>Last Leaves of Autumn</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

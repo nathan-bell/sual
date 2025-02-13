@@ -2,27 +2,29 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-01-17
+date: 2025-02-14
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 336 tracks in total
+### 338 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Son Volt (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Tom Waits</td><td>Big In Japan</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Michael Brecker, Pat Metheny, Dave Holland, Jack DeJohnette, Joey Calderazzo</td><td><a href="https://www.youtube.com/watch?v=sONRZXDkOI8">Song For Bilbao</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=L5Hu9nzQc6U">I Just Go</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=fj99jRWVrnk">Katy</a></td><td>Solo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The White Stripes</td><td><a href="https://www.youtube.com/watch?v=yXlULkwhgrc">Jolene (Live)</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>The White Stripes</td><td><a href="https://www.youtube.com/watch?v=wzDG0jA3XVY">I Just Don't Know What to Do With Myself</a></td><td>Duo</td><td> Chris's Session - Oct 2024</td></tr>
 <tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=yOBxDfgDZjI">Take It Down</a></td><td>Trio</td><td> Chris's Session - Oct 2024</td></tr>
-<tr><td>Marcel Pérès & Ensemble Organum</td><td><a href="https://www.youtube.com/watch?v=r4vFnFHf8Us">Gradual of Eleanor of Brittany - Kyrie: Orbis Factor</a></td><td>Medieval</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Delaney Davidson</td><td><a href="https://www.youtube.com/watch?v=F149p6U0mXw">Care of You</a></td><td>Contemporary</td><td> Bruce's Session - Sep 2024</td></tr>
-<tr><td>Jason Morran</td><td><a href="https://www.youtube.com/watch?v=0YNn0uVUYw8">Time Into Space Into Time</a></td><td>Futuristic</td><td> Bruce's Session - Sep 2024</td></tr>
+<tr><td>Marcel Pérès & Ensemble Organum</td><td><a href="https://www.youtube.com/watch?v=r4vFnFHf8Us">Gradual of Eleanor of Brittany - Kyrie: Orbis Factor</a></td><td>Medieval</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Delaney Davidson</td><td><a href="https://www.youtube.com/watch?v=F149p6U0mXw">Care of You</a></td><td>Contemporary</td><td> Bruce's Session - Sept 2024</td></tr>
+<tr><td>Jason Morran</td><td><a href="https://www.youtube.com/watch?v=0YNn0uVUYw8">Time Into Space Into Time</a></td><td>Futuristic</td><td> Bruce's Session - Sept 2024</td></tr>
 <tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=STLCrfx3N_0">Cruel Country</a></td><td>Track 2</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=COsVgbAJ8B8">Bleeding Heart</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Illphonics</td><td><a href="https://www.youtube.com/watch?v=IFeutRnvzMc">One of Those Days</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
@@ -59,18 +61,18 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Buddy Guy & Junior Wells</td><td><a href="https://www.youtube.com/watch?v=-H8uAfX3wgQ">10 Years Ago</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=K5H1nEP2wXA">Cities</a></td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
 <tr><td>Steel Pulse</td><td>Handsworth Revolution</td><td>Sounds Of The City</td><td> Martin's Session - Jun 2023</td></tr>
-<tr><td>Gregg Allman</td><td>Blind Man</td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Gregg Allman</td><td>Floating Bridge</td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Laurie Anderson & Kronos Quartet</td><td>The Electricity Goes out and We Move to a Hotel</td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
-<tr><td>Herbie Hancock</td><td>Sweet Bird</td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Fleetwood Mac</td><td>Underway</td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Coast</td><td>Leaving</td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
-<tr><td>Chris Whitley</td><td>Dirt Floor</td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Country Joe and the Fish</td><td>Love</td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Marc Ribot y Los cubanos postizos</td><td>Fiesta en el solar</td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
-<tr><td>Amy Winehouse</td><td>Teach Me Tonight</td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Jimmie Dale Gilmore</td><td>Don't Worry 'bout Me</td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Elvis Costello And The Roots</td><td>Stick Out Your TONGUE</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Gregg Allman</td><td><a href="https://www.youtube.com/watch?v=7eud3daqvxw">Blind Man</a></td><td>Any track appearing on a bona fide Studio album. No live recordings, compilations, best of’s etc etc.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Gregg Allman</td><td><a href="https://www.youtube.com/watch?v=X8e6TRC9DUE">Floating Bridge</a></td><td>Another track pulled from the VERY SAME album that has provided track 1.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Laurie Anderson & Kronos Quartet</td><td><a href="https://www.youtube.com/watch?v=gh1xXThhbAM">The Electricity Goes out and We Move to a Hotel</a></td><td>A cover song.</td><td> Richard's Session - May 2023</td></tr>
+<tr><td>Herbie Hancock</td><td><a href="https://www.youtube.com/watch?v=s9EiWg4S8V0">Sweet Bird</a></td><td>The letter S</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Fleetwood Mac</td><td><a href="https://www.youtube.com/watch?v=wKCculQUxOM">Underway</a></td><td>The letter U</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Coast</td><td><a href="https://www.youtube.com/watch?v=S-iCiZ3nFoI">Leaving</a></td><td>The letter L</td><td> Chris's Session - Apr 2023</td></tr>
+<tr><td>Chris Whitley</td><td><a href="https://www.youtube.com/watch?v=Y85fXmbNm7Q">Dirt Floor</a></td><td>Song of the 🌎 Earth</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=efAFJGQTvK0">Love</a></td><td>The Love 😍 generation.</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Marc Ribot y Los cubanos postizos</td><td><a href="https://www.youtube.com/watch?v=_6Wfp2bPs_M">Fiesta en el solar</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
+<tr><td>Amy Winehouse</td><td><a href="https://www.youtube.com/watch?v=uUMNRvopAdM">Teach Me Tonight</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Jimmie Dale Gilmore</td><td><a href="https://www.youtube.com/watch?v=XwooPoh-InQ">Don't Worry 'bout Me</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Elvis Costello And The Roots</td><td><a href="https://www.youtube.com/watch?v=yUMRmu4OZw4">Stick Out Your TONGUE</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>The Band</td><td>Life Is a Carnival</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Tedeschi Trucks Band</td><td>Midnight in Harlem</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Quicksilver Messenger Service</td><td>It's Been Too Long</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
@@ -83,9 +85,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Joni Mitchell</td><td>Off Night Backstreet</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Bob Weir</td><td>Cassidy</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Portishead</td><td>Strangers</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Mark Lanegan</td><td>Come to Me</td><td>R.I.P.</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Bonnie Raitt</td><td>Blame It on Me</td><td>Break Up</td><td> Chris's Session - Sep 2022</td></tr>
-<tr><td>Whirimako Black</td><td>Sophisticated Lady</td><td>Kiwi</td><td> Chris's Session - Sep 2022</td></tr>
+<tr><td>Mark Lanegan</td><td>Come to Me</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Bonnie Raitt</td><td>Blame It on Me</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Whirimako Black</td><td>Sophisticated Lady</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Jimi Hendrix</td><td>Hey Baby (New Rising Sun)</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>The War on Drugs</td><td>Living Proof</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>John Lennon</td><td>Borrowed Time</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
@@ -137,10 +139,10 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Jimi Hendrix</td><td>Drifting</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Tracy Nelson</td><td>Sad Situation</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
 <tr><td>Dr. John</td><td>Let the Good Times Roll</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Various</td><td>The Whistle Is Blowing</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Archie Shepp, Raw Poetic & Damu the Fudgemunk</td><td>Learning To Breathe</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Throwing Muses</td><td>Not Too Soon</td><td>Hey this isn't my usual genre? (Bonus Track)</td><td> David's Session - Sep 2020</td></tr>
-<tr><td>Street Musicians</td><td>A Little Girl Gives A Coin To A Street Musician And Gets The Best Surprise In Return</td><td>WTF - Who was that?</td><td> David's Session - Sep 2020</td></tr>
+<tr><td>Various</td><td>The Whistle Is Blowing</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Archie Shepp, Raw Poetic & Damu the Fudgemunk</td><td>Learning To Breathe</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Throwing Muses</td><td>Not Too Soon</td><td>Hey this isn't my usual genre? (Bonus Track)</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Street Musicians</td><td>A Little Girl Gives A Coin To A Street Musician And Gets The Best Surprise In Return</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>Buffalo Springfield</td><td>For What It's Worth</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Byrds</td><td>5D (Fifth Dimension)</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Country Joe and the Fish</td><td>Section 43</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
@@ -155,8 +157,8 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Grateful Dead</td><td>Brown‐Eyed Women</td><td>Jumpin' Jack flashes a gas gas gas!!!</td><td> Nick's Session - Dec 2019</td></tr>
 <tr><td>Dwight Yoakam</td><td>Send a Message to My Heart</td><td>Lean on me!</td><td> Nick's Session - Dec 2019</td></tr>
 <tr><td>The War On Drugs</td><td>Video</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Echo & the Bunnymen</td><td>All That Jazz</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sep 2019</td></tr>
-<tr><td>Latin Playboys</td><td>Viva la raza</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sep 2019</td></tr>
+<tr><td>Echo & the Bunnymen</td><td>All That Jazz</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Latin Playboys</td><td>Viva la raza</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
 <tr><td>Spirit Fingers</td><td>Release</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Music from the film</td><td>Gigi</td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
 <tr><td>Beck</td><td>Devil's Haircut</td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
@@ -175,8 +177,8 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Miroslav Vitouš</td><td>Scarlet Woman Variations</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Baaba Maal</td><td>Daande Lenol</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Edgar Winter's White Trash</td><td>Give It Everything You Got</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Crosby, Stills, Nash & Young</td><td>Find the Cost of Freedom</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sep 2018</td></tr>
-<tr><td>Delvon Lamarr Organ Trio</td><td>Warm-Up Set (Live on KEXP)</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sep 2018</td></tr>
+<tr><td>Crosby, Stills, Nash & Young</td><td>Find the Cost of Freedom</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Delvon Lamarr Organ Trio</td><td>Warm-Up Set (Live on KEXP)</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>John Mayall & the Bluesbreakers</td><td>All Your Love</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Echo & the Bunnymen</td><td>Villiers Terrace</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Calexico</td><td>Under the Wheels</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
@@ -206,9 +208,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Joni Mitchell</td><td>The Last Time I Saw Richard</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Jimi Hendrix</td><td>Castles Made of Sand</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
 <tr><td>Lucinda Williams</td><td>Blessed</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Billy Bragg & Joe Henry</td><td>Rock Island Line</td><td>Acoustic</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Kenny Garrett</td><td>2 Down & 1 Across</td><td>Instrumental</td><td> Bruce's Session - Sep 2017</td></tr>
-<tr><td>Fat Freddy's Drop</td><td>Ernie</td><td>Electric</td><td> Bruce's Session - Sep 2017</td></tr>
+<tr><td>Billy Bragg & Joe Henry</td><td>Rock Island Line</td><td>Acoustic</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Kenny Garrett</td><td>2 Down & 1 Across</td><td>Instrumental</td><td> Bruce's Session - Sept 2017</td></tr>
+<tr><td>Fat Freddy's Drop</td><td>Ernie</td><td>Electric</td><td> Bruce's Session - Sept 2017</td></tr>
 <tr><td>Gary Clark Jr.</td><td>Things Are Changin'</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Angel Olsen</td><td>Dance Slow Decades</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
 <tr><td>Rufus Thomas</td><td>Walking the Dog</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
@@ -269,9 +271,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Snarky Puppy</td><td>Outlier</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>Mr. Green</td><td>Clap</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
 <tr><td>Don McGlashan</td><td>When The Trumpets Sound</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Nina Simone</td><td>Ain't Got No, I Got Life</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Michael J. Fox</td><td>Back To The Future</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
-<tr><td>Beck</td><td>Morning</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sep 2015</td></tr>
+<tr><td>Nina Simone</td><td>Ain't Got No, I Got Life</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Michael J. Fox</td><td>Back To The Future</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Beck</td><td>Morning</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
 <tr><td>Muddy Waters</td><td>Hoochie Coochie Man</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>Metallica</td><td>Enter Sandman</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
 <tr><td>David Crosby</td><td>Time I Have</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
@@ -325,9 +327,9 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Califone</td><td>Alice Marble Gray</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Gene Clark</td><td>Silver Raven</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Teddy Thompson</td><td>The Worst Is Yet to Come</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Fleetwood Mac</td><td>Underway</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Marc Ribot</td><td>Pennies From Hell</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sep 2013</td></tr>
-<tr><td>Wayne Shorter Quartet</td><td>Myrrh</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sep 2013</td></tr>
+<tr><td>Fleetwood Mac</td><td>Underway</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Marc Ribot</td><td>Pennies From Hell</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Wayne Shorter Quartet</td><td>Myrrh</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Cassandra Wilson</td><td>I Can't Stand the Rain</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Tom Waits</td><td>Bad as Me</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>John Hiatt</td><td>I Just Don't Know What to Say</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>

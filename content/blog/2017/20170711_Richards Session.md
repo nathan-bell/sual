@@ -6,7 +6,7 @@ image: "/images/post/20170722_image-asset.jpeg"
 date: 2017-07-11T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","neilyoung","thewho","pinkfloyd","low","radiohead","johnbutlertrio","paramore","marklanegan","patmetheny","bigcountry","deeppurple","johnscofield","bandofhorses","rorygallagher","juliemiller","thecranberries","michaelbrecker","themagicnumbers","chvrches","bélabartók","thebrunettes","violentfemmes","kurtrosenwinkel","buddymillersmajesticsilverstrings"]
+tags: ["richardssession","neilyoung","thewho","pinkfloyd","low","radiohead","johnbutlertrio","paramore","deeppurple","marklanegan","patmetheny","bigcountry","johnscofield","bandofhorses","rorygallagher","michaelbrecker","juliemiller","thecranberries","themagicnumbers","chvrches","bélabartók","thebrunettes","violentfemmes","kurtrosenwinkel","buddymillersmajesticsilverstrings"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Three Piece, Four Piece, Five Piece_
