@@ -2,21 +2,25 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 355 tracks in total
+### 359 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Takuro Yoshida</td><td>蒼い夏(Blue Summer)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Fishmans</td><td>Long Season .1</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Rain Tree Crow</td><td>Every Colour You Are</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Lemon Jelly</td><td>Ramblin' Man</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Jamie xx</td><td>Dafodil (feat. Kelsey Lu, John Glacier & Panda Bear)</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Peter Paul and Mary</td><td>Early in the Morning</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Jandek</td><td>Naked in the Afternoon</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Takuro Yoshida</td><td><a href="https://www.youtube.com/watch?v=L_kBfhuFacU">蒼い夏(Blue Summer)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Fishmans</td><td><a href="https://www.youtube.com/watch?v=GwWv-T4rM0k">Long Season .1</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Rain Tree Crow</td><td><a href="https://www.youtube.com/watch?v=ubuIFBECgOg">Every Colour You Are</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Nilüfer Yanya</td><td><a href="https://www.youtube.com/watch?v=2YJfRrd8EqU">Method Actor</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>The Pineapple Thief</td><td><a href="https://www.youtube.com/watch?v=d8qMOc4dN6c">Now It's Yours</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Nilüfer Yanya</td><td><a href="https://www.youtube.com/watch?v=nNwNZ6CMeFI">Binding</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -81,18 +85,18 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>The Week That Was</td><td><a href="https://www.youtube.com/watch?v=b8GAGyDisJ8">Learn to Learn</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Dry Cleaning</td><td><a href="https://www.youtube.com/watch?v=FRbpWEXkBic">Magic of Meghan</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Laura Jean</td><td><a href="https://www.youtube.com/watch?v=EuFXyt50smY">Amateurs</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Tones on Tail</td><td>Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>alt-J</td><td>Nara</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Sweet</td><td>Love Is Like Oxygen</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Serge Gainsbourg</td><td>Nazi Rock</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Air feat. Beth Hirsch</td><td>All I Need</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Stereolab</td><td>Wow and Flutter</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>The Limiñanas feat. Nuria</td><td>Calentita</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Islandic Documentry</td><td>Intro to "Screaming Masterpiece"</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Duckworth Lewis Method</td><td>Jiggery Pokery</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Wishbone Ash</td><td>Lady Jay</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Shins</td><td>40 Mark Strasse</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Osees</td><td>Sticky Hulks</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Tones on Tail</td><td><a href="https://www.youtube.com/watch?v=e5tEs49PZRE">Happiness</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>alt-J</td><td><a href="https://www.youtube.com/watch?v=MtmrYisoxXA">Nara</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Sweet</td><td><a href="https://www.youtube.com/watch?v=zRgWvvkSvfk">Love Is Like Oxygen</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Serge Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=KLDIJGrv31k">Nazi Rock</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Air feat. Beth Hirsch</td><td><a href="https://www.youtube.com/watch?v=xpahYJ7UpP4">All I Need</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Stereolab</td><td><a href="https://www.youtube.com/watch?v=ru5zYr8aB0k">Wow and Flutter</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>The Limiñanas feat. Nuria</td><td><a href="https://www.youtube.com/watch?v=pPdOo2E5zOc">Calentita</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Islandic Documentry</td><td><a href="https://www.youtube.com/watch?v=T2Vb909jp-w">Intro to "Screaming Masterpiece"</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Duckworth Lewis Method</td><td><a href="https://www.youtube.com/watch?v=muc25lM_Y3I">Jiggery Pokery</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Wishbone Ash</td><td><a href="https://www.youtube.com/watch?v=wAtf7YUW1RM">Lady Jay</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Shins</td><td><a href="https://www.youtube.com/watch?v=grY7mPoje2A">40 Mark Strasse</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Osees</td><td><a href="https://www.youtube.com/watch?v=R7jXfx2fCko">Sticky Hulks</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Depeche Mode</td><td>World in My Eyes</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Beck</td><td>Go It Alone</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Marlon Williams</td><td>Don't Go Back</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

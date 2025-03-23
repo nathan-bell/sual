@@ -5,7 +5,7 @@ image: "/images/post/dominos-falling.gif"
 date: 2024-06-18T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["davidssession","willjohnson","billcallahan","andersonpaak","freenationals","gavinharrison","astorpiazzolla","mofro","jandek","slackwax","busdriver","stanleydee","emilyremler","caroemerald","$uicideboy$","jocelyngould","screamingtrees","laddiobollocko","emilyremlerandmontyalexander","youtube"]
+tags: ["davidssession","willjohnson","billcallahan","andersonpaak","freenationals","jandek","gavinharrison","astorpiazzolla","mofro","slackwax","busdriver","stanleydee","emilyremler","caroemerald","$uicideboy$","jocelyngould","screamingtrees","laddiobollocko","emilyremlerandmontyalexander","youtube"]
 categories: ["Gatherings"]
 ---
 > A smaller turn-out meant more time for extra tracks, from funky ear-worms right through to whatever the opposite of what an ear-worm is

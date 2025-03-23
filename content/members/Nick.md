@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Yoko Ono</td><td>Your Hands</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Lyle Mays</td><td>Highland Aire</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Lyle Mays</td><td>Teiko</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Yoko Ono</td><td><a href="https://www.youtube.com/watch?v=_Zlq6KPlS5E">Your Hands</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=wJhuiRFUskU">Highland Aire</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=FM0q-Ckcn-A">Teiko</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=av3IDhEOQpI">Resurrection Blues</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Nitin Sawhney</td><td><a href="https://www.youtube.com/watch?v=ZBjxLv9Dfhk">Nadia</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fz6sQ-UNx2Q">Marathon</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -72,17 +72,17 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=8rlDTK6QI-w">Kodachrome</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Christine McVie</td><td><a href="https://www.youtube.com/watch?v=hC3_J6zHV_k">Friend</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Ron Sexsmith</td><td><a href="https://www.youtube.com/watch?v=QGAcjbHQEW8">Everyday I Write the Book (live W/Ec)</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Johnny Marr</td><td>Playland</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Dusty Springfield</td><td>Anyone Who Had a Heart</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>David Grisman</td><td>Steppin' With Stephane</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Madeleine Peyroux</td><td>J'ai Deux Amours</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Françoise Hardy</td><td>So Many Things</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Steely Dan</td><td>Do It Again</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Talk Talk</td><td>I Believe in You</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Incredible String Band</td><td>Dreams of No Return</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Marlon Williams</td><td>Portrait of a Man (Live at Auckland Town Hall)</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Gillian Welch</td><td>The Way It Will Be</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Arthur Russell</td><td>This Is How We Walk on the Moon</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Johnny Marr</td><td><a href="https://www.youtube.com/watch?v=sXDFQJkn5LQ">Playland</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Dusty Springfield</td><td><a href="https://www.youtube.com/watch?v=O6NOByozZVo">Anyone Who Had a Heart</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>David Grisman</td><td><a href="https://www.youtube.com/watch?v=U0EcBMMPD3M">Steppin' With Stephane</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Madeleine Peyroux</td><td><a href="https://www.youtube.com/watch?v=vix5ldhA-vA">J'ai Deux Amours</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Françoise Hardy</td><td><a href="https://www.youtube.com/watch?v=ljbrcZAITbQ">So Many Things</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=aQnW-MxAU6U">Do It Again</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Talk Talk</td><td><a href="https://www.youtube.com/watch?v=fKtp3SOQE6I">I Believe in You</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Incredible String Band</td><td><a href="https://www.youtube.com/watch?v=njCPE4t5T5I">Dreams of No Return</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=ZETKGHmrW4I">Portrait of a Man (Live at Auckland Town Hall)</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=Xp5KbUZo708">The Way It Will Be</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Arthur Russell</td><td><a href="https://www.youtube.com/watch?v=eq5gjfN5lns">This Is How We Walk on the Moon</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Low</td><td>Monkey</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Diana Krall</td><td>The Night We Called It a Day</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Ka Hao</td><td>Haramai Roimata</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

@@ -2,21 +2,25 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 315 tracks in total
+### 319 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), The Cure (5 plays) and Grateful Dead (5 plays).
+Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Far East Family Band</td><td>River Of Soul</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Phoebe Bridgers</td><td>Kyoto</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Bryan Ferry</td><td>Hiroshima Mon Amour</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Mazzy Star</td><td>Halah</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Alejandro Escovedo</td><td>With These Hands</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Edie Brickell</td><td>Came a Long Way</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Frijid Pink</td><td>Crying Shame</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Far East Family Band</td><td><a href="https://www.youtube.com/watch?v=AwqILeLVBGo">River Of Soul</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Phoebe Bridgers</td><td><a href="https://www.youtube.com/watch?v=Tw0zYd0eIlk">Kyoto</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Bryan Ferry</td><td><a href="https://www.youtube.com/watch?v=KueYailJicM">Hiroshima Mon Amour</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>A.A.Williams</td><td><a href="https://www.youtube.com/watch?v=zF8Vq-jaK40">Murmurs</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=qLx39oI9djU">Love Has Made A Fool Of Me</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=WktjweXxugw">The Way It Is Now</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -81,18 +85,18 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Troy Kingi</td><td><a href="https://www.youtube.com/watch?v=kQ8Hu7HIXj8">Call My Name (School)</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Teddy Thompson</td><td><a href="https://www.youtube.com/watch?v=qCO0rXJUot0">Think Again</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Russell Smith</td><td>Someday We Will</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Josh Pyke</td><td>To Find Happiness</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>David Gideon</td><td>Nice to Meet You</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Rammstein</td><td>Zeit</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Gwendal</td><td>Sacra Matao</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Josh Pyke</td><td><a href="https://www.youtube.com/watch?v=3QnD0hHU1KA">To Find Happiness</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>David Gideon</td><td><a href="https://www.youtube.com/watch?v=0Ey7k-fUH-M">Nice to Meet You</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Rammstein</td><td><a href="https://www.youtube.com/watch?v=EbHGS_bVkXY">Zeit</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Gwendal</td><td><a href="https://www.youtube.com/watch?v=Jj_uEivSuQk">Sacra Matao</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Kate & Anna McGarrigle</td><td>La Vache qui pleure</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>The Cure</td><td>A Forest</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Toy Love</td><td>Cold Meat</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Phoenix Foundation</td><td>My Kitchen Rules</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Clean</td><td>Anything Could Happen</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>John Butler Trio</td><td>Funky Tonight</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Eric Bogle</td><td>No Man's Land</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Big Thief</td><td>Change</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>The Cure</td><td><a href="https://www.youtube.com/watch?v=xik-y0xlpZ0">A Forest</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Toy Love</td><td><a href="https://www.youtube.com/watch?v=vp8I7phzW6c">Cold Meat</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Phoenix Foundation</td><td><a href="https://www.youtube.com/watch?v=TqbAIZhmaUo">My Kitchen Rules</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Clean</td><td><a href="https://www.youtube.com/watch?v=7tf1wzg4rdE">Anything Could Happen</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=r9Zimpr_8zs">Funky Tonight</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Eric Bogle</td><td><a href="https://www.youtube.com/watch?v=M-38PB_5ozc">No Man's Land</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Big Thief</td><td><a href="https://www.youtube.com/watch?v=MTIzsTv1ENY">Change</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>The Chills</td><td>I Love My Leather Jacket</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Walter Trout</td><td>Ride</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
 <tr><td>Sharon Van Etten</td><td>Darkness Fades</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>

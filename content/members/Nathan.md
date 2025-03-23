@@ -2,21 +2,25 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 329 tracks in total
+### 333 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Nick Cave (6 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Boris</td><td>LOVE</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Half Japanese</td><td>Why'd They Do It</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Danny O'Keefe</td><td>鯨を救おう。(Save the Whales)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Rose City Band</td><td>Wildflowers</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Fela Kuti and Ginger Baker</td><td>Let's Start</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Tall Dwarfs</td><td>Bodies</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Einstürzende Neubauten</td><td>Prolog</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Boris</td><td><a href="https://www.youtube.com/watch?v=mmK_EQWoorM">LOVE</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Half Japanese</td><td><a href="https://www.youtube.com/watch?v=hGnbHwwg6Wg">Why'd They Do It</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Danny O'Keefe</td><td><a href="https://www.youtube.com/watch?v=1La_eopJLes">鯨を救おう。(Save the Whales)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Jolie Holland</td><td><a href="https://www.youtube.com/watch?v=FaupwrOwU9Q">Feet on the Ground</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Alabaster DePlume</td><td><a href="https://www.youtube.com/watch?v=QyKrC2mWx0c">Broken Again</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Adrianne Lenker</td><td><a href="https://www.youtube.com/watch?v=GmycsQ30obg">Sadness As a Gift</a></td><td>Share 3 of your favourite musical moments of 2024.</td><td> David's Session - Dec 2024</td></tr>
@@ -86,18 +90,18 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>School of Seven Bells</td><td><a href="https://www.youtube.com/watch?v=1An2pjS4mKE">Half Asleep</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Hobo Johnson</td><td><a href="https://www.youtube.com/watch?v=JaOabnTaYdA">Romeo & Juliet</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Melvins</td><td><a href="https://www.youtube.com/watch?v=crqpmb_-ke8">Going Blind</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Jonny Fritz</td><td>Happy in Hindsight</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Half Man Half Biscuit</td><td>Joy Division Oven Gloves</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Camera Obscura</td><td>Happy New Year</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Sonic Youth</td><td>French Tickler</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Beirut</td><td>Cliquot</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Rufus Wainwright</td><td>Leaving for Paris No. 2</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Gogol Bordello</td><td>Harem in Tuscany (Taranta)</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>The Postal Service</td><td>The District Sleeps Alone Tonight</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Jenny Lewis</td><td>The Big Guns</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Ryan Adams</td><td>Hotel Chelsea Nights</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Drive‐By Truckers</td><td>The Fourth Night of My Drinking</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>ANOHNI and the Johnsons</td><td>Fletta</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Jonny Fritz</td><td><a href="https://www.youtube.com/watch?v=l1f_WLWHFjA">Happy in Hindsight</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Half Man Half Biscuit</td><td><a href="https://www.youtube.com/watch?v=bYoa6ilcxSo">Joy Division Oven Gloves</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Camera Obscura</td><td><a href="https://www.youtube.com/watch?v=gVD0pGEcc9Q">Happy New Year</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=u8X298CBdR4">French Tickler</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Beirut</td><td><a href="https://www.youtube.com/watch?v=dsHvwvgp3w4">Cliquot</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Rufus Wainwright</td><td><a href="https://www.youtube.com/watch?v=6jz05ApexSA">Leaving for Paris No. 2</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Gogol Bordello</td><td><a href="https://www.youtube.com/watch?v=iBuongeFUVo">Harem in Tuscany (Taranta)</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Postal Service</td><td><a href="https://www.youtube.com/watch?v=EmwmtC7U8Ws">The District Sleeps Alone Tonight</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Jenny Lewis</td><td><a href="https://www.youtube.com/watch?v=VV6BYh0V38E">The Big Guns</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Ryan Adams</td><td><a href="https://www.youtube.com/watch?v=dBCdNomax-4">Hotel Chelsea Nights</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Drive‐By Truckers</td><td><a href="https://www.youtube.com/watch?v=YkBghd8YrUU">The Fourth Night of My Drinking</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>ANOHNI and the Johnsons</td><td><a href="https://www.youtube.com/watch?v=Z2Bf1dJ7ufk">Fletta</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>PJ Harvey</td><td>Shame</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>The Unthanks</td><td>Queen of Hearts</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>BARB</td><td>Please Don't Interrupt</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

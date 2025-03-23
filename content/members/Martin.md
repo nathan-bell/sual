@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Kenny Burrell</td><td>Blues For Wes</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>The Walker Brothers</td><td>Make It Easy On Yourself (Live In Japan)</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Mass of the Fermenting Dregs</td><td>She is Inside, He is Outside</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Kenny Burrell</td><td><a href="https://www.youtube.com/watch?v=ueSA6rkchuk">Blues For Wes</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>The Walker Brothers</td><td><a href="https://www.youtube.com/watch?v=HX8LPZeOwqE">Make It Easy On Yourself (Live In Japan)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Mass of the Fermenting Dregs</td><td><a href="https://www.youtube.com/watch?v=J8xUO2KsJDk">She is Inside, He is Outside</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>John Patitucci</td><td><a href="https://www.youtube.com/watch?v=q_zMpQnDOSU">Ivory Coast, Pt. 1</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Joe Jackson</td><td><a href="https://www.youtube.com/watch?v=XjfH9mtasgQ">Is She Really Going out with Him (Live)</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=jON_GQBinhA">Heartbreak Hotel</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -87,15 +87,15 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>The Beths</td><td><a href="https://www.youtube.com/watch?v=-KACt6YhOyY">Expert In A Dying Field</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Ken Nordine</td><td><a href="https://www.youtube.com/watch?v=IXLWKz4J-DI">Infinite O'Clock</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>The Mason Rack Band</td><td><a href="https://www.youtube.com/watch?v=JJvd3vzJNDc">Black Betty</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The Time Jumpers</td><td>On The Outskirts of Town</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Joanna Connor Band</td><td>Walkin' Blues</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Jeff Beck Group</td><td>Plynth</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Philippe Gonnand</td><td>Réglons nos comptes</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Wes Montgomery</td><td>Four On Six</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Jim Kweskin</td><td>Mobile Line</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Avantdale Bowling Club</td><td>Friday Night @ the Liquor Store</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Pink Floyd</td><td>Astronomy Domine</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Leonid & Friends</td><td>If You Leave Me Now feat. Arkady Shilkloper</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=H0lnpL1xAfI">On The Outskirts of Town</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Joanna Connor Band</td><td><a href="https://www.youtube.com/watch?v=iSwoM7WIy5M">Walkin' Blues</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Jeff Beck Group</td><td><a href="https://www.youtube.com/watch?v=eOkFMbrvgMw">Plynth</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Philippe Gonnand</td><td><a href="https://www.youtube.com/watch?v=90KYyYpG_5s">Réglons nos comptes</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Wes Montgomery</td><td><a href="https://www.youtube.com/watch?v=MBM7R9IgoTg">Four On Six</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Jim Kweskin</td><td><a href="https://www.youtube.com/watch?v=3WFJRMxY74g">Mobile Line</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Avantdale Bowling Club</td><td><a href="https://www.youtube.com/watch?v=Mv9G5wdBHV4">Friday Night @ the Liquor Store</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=8UbNbor3OqQ">Astronomy Domine</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Leonid & Friends</td><td><a href="https://www.youtube.com/watch?v=HQ_j4Ytecgg">If You Leave Me Now feat. Arkady Shilkloper</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>Procol Harum</td><td>I Told on You</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Spandau Ballet</td><td>To Cut a Long Story Short</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>The Caitlin Smith Group</td><td>I Am Joe's Heart</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

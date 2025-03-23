@@ -2,21 +2,25 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 335 tracks in total
+### 339 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>L'Arc〜en〜Ciel</td><td>hole</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>Mr.Children</td><td>Worlds End</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
-<tr><td>The Rolling Stones</td><td>Rain Fall Down</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Billy Paul</td><td>Me and Mrs. Jones</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>The Foundations</td><td>Build Me Up Buttercup</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Paul Weller</td><td>Come On / Let's Go</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Nana Mouskouri</td><td>Turn on the Sun</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>L'Arc〜en〜Ciel</td><td><a href="https://www.youtube.com/watch?v=lcE0D8zjwN0">hole</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Mr.Children</td><td><a href="https://www.youtube.com/watch?v=2utQaIXCB4g">Worlds End</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=_t9zFL1Anao">Rain Fall Down</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>They Might Be Giants</td><td><a href="https://www.youtube.com/watch?v=mHliXVifhEM">Doctor Worm</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Skunkhour</td><td><a href="https://www.youtube.com/watch?v=M2CsoNCDvjE">Up To Our Necks In It</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=Ijlk0GTQbB4">The Outdoor Type</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -67,16 +71,16 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=B3ugToQv0c4">The Sun Ain't Gonna Shine Anymore</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Public Image Ltd</td><td><a href="https://www.youtube.com/watch?v=HURFlF8CyV8">Hawaii</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Jeff Beck</td><td>Dedication [DVD]</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Corridor</td><td>Domino</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Jacqueline Taïeb</td><td>7 heures du matin</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Palatine</td><td>Ecchymose</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Grand Blanc</td><td>L'Amour fou</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Connie Francis</td><td>Anema E Core</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Jimmy Page</td><td>Jimmy Page talks about Stairway To Heaven</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Fazerdaze</td><td>Little Uneasy</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Eagles</td><td>One of These Nights</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>The Tenants</td><td>You Shit Me to Tears</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>The Beths</td><td>2am</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Corridor</td><td><a href="https://www.youtube.com/watch?v=wsF_NCadi9c">Domino</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Jacqueline Taïeb</td><td><a href="https://www.youtube.com/watch?v=g2D-F2KSBec">7 heures du matin</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Palatine</td><td><a href="https://www.youtube.com/watch?v=EDgXj5I60hI">Ecchymose</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Grand Blanc</td><td><a href="https://www.youtube.com/watch?v=t0vYfXplAZ4">L'Amour fou</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Connie Francis</td><td><a href="https://www.youtube.com/watch?v=hWGEdUWD3Sc">Anema E Core</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Jimmy Page</td><td><a href="https://www.youtube.com/watch?v=DDo4CA13LbY">Jimmy Page talks about Stairway To Heaven</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Fazerdaze</td><td><a href="https://www.youtube.com/watch?v=szvFmW_oxeY">Little Uneasy</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=ESc2Tq2HzhQ">One of These Nights</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>The Tenants</td><td><a href="https://www.youtube.com/watch?v=blO3EtP_D10">You Shit Me to Tears</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>The Beths</td><td><a href="https://www.youtube.com/watch?v=rWlEumkCIf4">2am</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Lynyrd Skynyrd</td><td>Call Me the Breeze</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Kasey Chambers</td><td>A Little Bit Lonesome</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Ladyhawke</td><td>My Delirium</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

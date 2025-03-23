@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-02-14
+date: 2025-03-23
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -14,7 +14,7 @@ categories: ["members"]
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Son Volt (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Tom Waits</td><td>Big In Japan</td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=NM60iVDu79Y">Big In Japan</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Michael Brecker, Pat Metheny, Dave Holland, Jack DeJohnette, Joey Calderazzo</td><td><a href="https://www.youtube.com/watch?v=sONRZXDkOI8">Song For Bilbao</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=L5Hu9nzQc6U">I Just Go</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -73,18 +73,18 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Amy Winehouse</td><td><a href="https://www.youtube.com/watch?v=uUMNRvopAdM">Teach Me Tonight</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Jimmie Dale Gilmore</td><td><a href="https://www.youtube.com/watch?v=XwooPoh-InQ">Don't Worry 'bout Me</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Elvis Costello And The Roots</td><td><a href="https://www.youtube.com/watch?v=yUMRmu4OZw4">Stick Out Your TONGUE</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>The Band</td><td>Life Is a Carnival</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Tedeschi Trucks Band</td><td>Midnight in Harlem</td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Quicksilver Messenger Service</td><td>It's Been Too Long</td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
-<tr><td>Ry Cooder</td><td>France Chance</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Alvin Youngblood Hart</td><td>France Blues</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Mahavishnu Orchestra</td><td>Lila's Dance</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Culture</td><td>Two Sevens Clash</td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Suzanne Vega</td><td>Calypso</td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Elvis Costello</td><td>Indoor Fireworks</td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Joni Mitchell</td><td>Off Night Backstreet</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Bob Weir</td><td>Cassidy</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Portishead</td><td>Strangers</td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=nRwqnphzvXs">Life Is a Carnival</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Tedeschi Trucks Band</td><td><a href="https://www.youtube.com/watch?v=6GkdCiqsFUI">Midnight in Harlem</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Quicksilver Messenger Service</td><td><a href="https://www.youtube.com/watch?v=BEw__5FUOvk">It's Been Too Long</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=If8lIMCL8GU">France Chance</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Alvin Youngblood Hart</td><td><a href="https://www.youtube.com/watch?v=c5UV0pwabzk">France Blues</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Mahavishnu Orchestra</td><td><a href="https://www.youtube.com/watch?v=T4fnJvhkXns">Lila's Dance</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Culture</td><td><a href="https://www.youtube.com/watch?v=A3PjURr7lb4">Two Sevens Clash</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Suzanne Vega</td><td><a href="https://www.youtube.com/watch?v=I8ExnrHJRUA">Calypso</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Elvis Costello</td><td><a href="https://www.youtube.com/watch?v=vbkVjiYJ0pA">Indoor Fireworks</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=Ewo2nXlGtiQ">Off Night Backstreet</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Bob Weir</td><td><a href="https://www.youtube.com/watch?v=04S32986gVU">Cassidy</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
+<tr><td>Portishead</td><td><a href="https://www.youtube.com/watch?v=wCAURNnKqFo">Strangers</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Mark Lanegan</td><td>Come to Me</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Bonnie Raitt</td><td>Blame It on Me</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
 <tr><td>Whirimako Black</td><td>Sophisticated Lady</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>

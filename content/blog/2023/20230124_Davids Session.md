@@ -6,7 +6,7 @@ image: "/images/post/20230124_IMG_1133.JPG"
 date: 2023-01-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","jeffbeck","theband","thetimejumpers","nirvana","altj","rammstein","jonnyfritz","johnnymarr","tonesontail","davidgideon","quicksilvermessengerservice","sweet","knower","joshpyke","fkatwigs","cameraobscura","joannaconnorband","dustyspringfield","tedeschitrucksband","halfmanhalfbiscuit"]
+tags: ["davidssession","jeffbeck","theband","thetimejumpers","nirvana","altj","rammstein","jonnyfritz","johnnymarr","tonesontail","davidgideon","quicksilvermessengerservice","sweet","knower","joshpyke","fkatwigs","cameraobscura","joannaconnorband","dustyspringfield","tedeschitrucksband","halfmanhalfbiscuit","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”., New: Bring something newly discovered, preferably from this century., Year: An age, an era, a measure of time._

@@ -6,7 +6,7 @@ image: "/images/post/20180423_Big.Music.jpg"
 date: 2018-03-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","nickcave","lanadelrey","japan","sarahjarosz","america","canzonieregrecanicosalentino","sza","primus","rammstein","ebandsparrow","aoifeodonovan","renaudgarcia‐fons","einsturzendeneubauten","cubafiesta","codeorange","blackuhuru","thundercat","richardbona","sarawatkins","holliesmith","paulbosauder","lesdoublesix","charliehaden"]
+tags: ["davidssession","nickcave","lanadelrey","japan","sarahjarosz","america","canzonieregrecanicosalentino","einsturzendeneubauten","sza","primus","rammstein","ebandsparrow","aoifeodonovan","renaudgarcia‐fons","cubafiesta","codeorange","blackuhuru","thundercat","richardbona","sarawatkins","holliesmith","paulbosauder","lesdoublesix","charliehaden"]
 categories: ["Gatherings"]
 ---
 > The themes were: _No hablo Ingles - A track that is not in English., Dubnobasswithmyheadman - Let's celebrate great bass players. , Non retro - A recent discovery that celebrates modern, contemporary music._
