@@ -2,22 +2,25 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 359 tracks in total
+### 362 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Lemon Jelly</td><td>Ramblin' Man</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Jamie xx</td><td>Dafodil (feat. Kelsey Lu, John Glacier & Panda Bear)</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Peter Paul and Mary</td><td>Early in the Morning</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Jandek</td><td>Naked in the Afternoon</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Lael Neale</td><td><a href="https://www.youtube.com/watch?v=ZCTJEofv0xM">Every Star Shivers in the Dark</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Can</td><td><a href="https://www.youtube.com/watch?v=-V0gcjFbm74">Mushroom</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Jessica Pratt</td><td><a href="https://www.youtube.com/watch?v=iEJYKJijn90">Better Hate</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Lemon Jelly</td><td><a href="https://www.youtube.com/watch?v=KXDtQcuA5Bo">Ramblin' Man</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Jamie xx</td><td><a href="https://www.youtube.com/watch?v=chKy6KLeokA">Dafodil (feat. Kelsey Lu, John Glacier & Panda Bear)</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Peter Paul and Mary</td><td><a href="https://www.youtube.com/watch?v=ZmY4bfweM3U">Early in the Morning</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Jandek</td><td><a href="https://www.youtube.com/watch?v=B_45W5AQUr0">Naked in the Afternoon</a></td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Takuro Yoshida</td><td><a href="https://www.youtube.com/watch?v=L_kBfhuFacU">蒼い夏(Blue Summer)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Fishmans</td><td><a href="https://www.youtube.com/watch?v=GwWv-T4rM0k">Long Season .1</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Rain Tree Crow</td><td><a href="https://www.youtube.com/watch?v=ubuIFBECgOg">Every Colour You Are</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -97,33 +100,33 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Wishbone Ash</td><td><a href="https://www.youtube.com/watch?v=wAtf7YUW1RM">Lady Jay</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>The Shins</td><td><a href="https://www.youtube.com/watch?v=grY7mPoje2A">40 Mark Strasse</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Osees</td><td><a href="https://www.youtube.com/watch?v=R7jXfx2fCko">Sticky Hulks</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Depeche Mode</td><td>World in My Eyes</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Beck</td><td>Go It Alone</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Marlon Williams</td><td>Don't Go Back</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>The Guess Who</td><td>Undun</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Israel Nash</td><td>Rain Plans</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>The The</td><td>Sweet Bird of Truth</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Caravan</td><td>Hello Hello</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Jethro Tull</td><td>Teacher</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>The Stooges</td><td>Down on the Street</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Vanessa Fernandez</td><td>Immigrant Song</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Anita Lane</td><td>Bella ciao</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Kae Tempest</td><td>Nothing to Prove</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Dope Lemon</td><td>Hey You</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Betty Davis</td><td>If I'm In Luck I Might Get Picked Up</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>The HU</td><td>Yuve Yuve Yu</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Shakira</td><td>Can't Remember to Forget You (feat. Rihanna)</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Khruangbin & Leon Bridges</td><td>Texas Sun</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Darkeys & The Keys</td><td>Puli Puli</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Jackie Mittoo</td><td>Black Organ</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>The Stooges</td><td>1969</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Stooges</td><td>I Wanna Be Your Dog</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Santana</td><td>Evil Ways</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Serge Gainsbourg</td><td>69 année érotique</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Fourmyula</td><td>Nature</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Nirvana</td><td>Where Did You Sleep Last Night?</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>The Limiñanas</td><td>Maria's Theme</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>The Limiñanas</td><td>Down Underground</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Depeche Mode</td><td><a href="https://www.youtube.com/watch?v=KzqWe7uYo_A">World in My Eyes</a></td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=W2FVLAoy0XU">Go It Alone</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=oD-EpJDPwgM">Don't Go Back</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>The Guess Who</td><td><a href="https://www.youtube.com/watch?v=AL0xci_rGXs">Undun</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Israel Nash</td><td><a href="https://www.youtube.com/watch?v=Lur7cI1Sq4Y">Rain Plans</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=azysyU_Rr1g">Sweet Bird of Truth</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Caravan</td><td><a href="https://www.youtube.com/watch?v=Ab3Acmb08DA">Hello Hello</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=xkzeeEU27Mw">Teacher</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>The Stooges</td><td><a href="https://www.youtube.com/watch?v=fkC2lauXCKU">Down on the Street</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Vanessa Fernandez</td><td><a href="https://www.youtube.com/watch?v=BF9WBJZDB80">Immigrant Song</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Anita Lane</td><td><a href="https://www.youtube.com/watch?v=Sy1-yaXZDXM">Bella ciao</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Kae Tempest</td><td><a href="https://www.youtube.com/watch?v=68FMGZ9DKOU">Nothing to Prove</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Dope Lemon</td><td><a href="https://www.youtube.com/watch?v=RKMI_bQLYO8">Hey You</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Betty Davis</td><td><a href="https://www.youtube.com/watch?v=nGFCHdixGTY">If I'm In Luck I Might Get Picked Up</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>The HU</td><td><a href="https://www.youtube.com/watch?v=v4xZUr0BEfE">Yuve Yuve Yu</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Shakira</td><td><a href="https://www.youtube.com/watch?v=o3mP3mJDL2k">Can't Remember to Forget You (feat. Rihanna)</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Khruangbin & Leon Bridges</td><td><a href="https://www.youtube.com/watch?v=Whe7MURlKLw">Texas Sun</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Darkeys & The Keys</td><td><a href="https://www.youtube.com/watch?v=adzzQcPGNwQ">Puli Puli</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Jackie Mittoo</td><td><a href="https://www.youtube.com/watch?v=543rO974D88">Black Organ</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>The Stooges</td><td><a href="https://www.youtube.com/watch?v=mS_BsLxMqn4">1969</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Stooges</td><td><a href="https://www.youtube.com/watch?v=3gsWt7ey6bo">I Wanna Be Your Dog</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Santana</td><td><a href="https://www.youtube.com/watch?v=gVPUAntzOl4">Evil Ways</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Serge Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=r5PbcBfpwk0">69 année érotique</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Fourmyula</td><td><a href="https://www.youtube.com/watch?v=zlhBkM0zNV4">Nature</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Nirvana</td><td><a href="https://www.youtube.com/watch?v=hEMm7gxBYSc">Where Did You Sleep Last Night?</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>The Limiñanas</td><td><a href="https://www.youtube.com/watch?v=yHoY9NqZ29k">Maria's Theme</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>The Limiñanas</td><td><a href="https://www.youtube.com/watch?v=oV_CszdsY7w">Down Underground</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Al Stewart</td><td>Year of the Cat</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Vulfpeck</td><td>Dean Town</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Jane Weaver</td><td>Did You See Butterflies?</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>

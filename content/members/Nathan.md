@@ -2,22 +2,25 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 333 tracks in total
+### 336 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
-Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 plays), Tom Waits (7 plays), Nick Cave (6 plays) and Neil Young (6 plays).
+Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Rose City Band</td><td>Wildflowers</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Fela Kuti and Ginger Baker</td><td>Let's Start</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Tall Dwarfs</td><td>Bodies</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Einstürzende Neubauten</td><td>Prolog</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=AiIEhK0P-Rw">The Curse of Millhaven (2011 - Remaster)</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>N.W.A.</td><td><a href="https://www.youtube.com/watch?v=fF3aPT7C51Y">Fuck Tha Police</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Richard Dawson</td><td><a href="https://www.youtube.com/watch?v=d-EaqWX7O74">More Than Real</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Rose City Band</td><td><a href="https://www.youtube.com/watch?v=SzOGXtfpHIY">Wildflowers</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Fela Kuti and Ginger Baker</td><td><a href="https://www.youtube.com/watch?v=0zWRjgathjA">Let's Start</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Tall Dwarfs</td><td><a href="https://www.youtube.com/watch?v=xqtrCVvdRbk">Bodies</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Einstürzende Neubauten</td><td><a href="https://www.youtube.com/watch?v=n1gYS4nqqOU">Prolog</a></td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Boris</td><td><a href="https://www.youtube.com/watch?v=mmK_EQWoorM">LOVE</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Half Japanese</td><td><a href="https://www.youtube.com/watch?v=hGnbHwwg6Wg">Why'd They Do It</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Danny O'Keefe</td><td><a href="https://www.youtube.com/watch?v=1La_eopJLes">鯨を救おう。(Save the Whales)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -102,27 +105,27 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Ween (7 p
 <tr><td>Ryan Adams</td><td><a href="https://www.youtube.com/watch?v=dBCdNomax-4">Hotel Chelsea Nights</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Drive‐By Truckers</td><td><a href="https://www.youtube.com/watch?v=YkBghd8YrUU">The Fourth Night of My Drinking</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>ANOHNI and the Johnsons</td><td><a href="https://www.youtube.com/watch?v=Z2Bf1dJ7ufk">Fletta</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>PJ Harvey</td><td>Shame</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>The Unthanks</td><td>Queen of Hearts</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>BARB</td><td>Please Don't Interrupt</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Tony Bennett</td><td>Cold, Cold Heart</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Scott Lavene</td><td>The First Time</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Lou Reed</td><td>Magician (Internally)</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Wevie Stonder</td><td>Und</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>North Americans</td><td>Rivers That You Cannot See</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Alabaster dePlume</td><td>Mrs Calamari</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Einsturzende Neubauten</td><td>Total Eclipse Of The Sun</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>High Dependency Unit</td><td>Grace</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Mukimukimanmansu</td><td>Andromeda</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Alexander Ebert</td><td>No Jokes Left</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Richard Dawson</td><td>Two Halves</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Jonny Fritz</td><td>I Love Leaving</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>The Shaggs</td><td>Philosophy of the World</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Porter Wagoner & Dolly Parton</td><td>Always, Always</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Bert Jansch</td><td>A Woman Like You</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Magnetic Fields</td><td>You Must Be Out of Your Mind</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Cul De Sac</td><td>Sakhalim</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Theo Ray</td><td>Stars</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>PJ Harvey</td><td><a href="https://www.youtube.com/watch?v=AFLOG2wxg3Q">Shame</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>The Unthanks</td><td><a href="https://www.youtube.com/watch?v=ol1XqstJpRI">Queen of Hearts</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>BARB</td><td><a href="https://www.youtube.com/watch?v=F3M33oSzbBI">Please Don't Interrupt</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Tony Bennett</td><td><a href="https://www.youtube.com/watch?v=Vbg7-kVtPKs">Cold, Cold Heart</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Scott Lavene</td><td><a href="https://www.youtube.com/watch?v=skSFHko5cjE">The First Time</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=I5kuO6ItSfo">Magician (Internally)</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Wevie Stonder</td><td><a href="https://www.youtube.com/watch?v=vtnk26iyXYo">Und</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>North Americans</td><td><a href="https://www.youtube.com/watch?v=naIqUtdltBE">Rivers That You Cannot See</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Alabaster dePlume</td><td><a href="https://www.youtube.com/watch?v=G3ZWTeOoNaE">Mrs Calamari</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Einsturzende Neubauten</td><td><a href="https://www.youtube.com/watch?v=hynu6z86d-I">Total Eclipse Of The Sun</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>High Dependency Unit</td><td><a href="https://www.youtube.com/watch?v=KQaNytQFZjs">Grace</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Mukimukimanmansu</td><td><a href="https://www.youtube.com/watch?v=TMtb6kDvFT8">Andromeda</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Alexander Ebert</td><td><a href="https://www.youtube.com/watch?v=6q6r6WqOiZg">No Jokes Left</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Richard Dawson</td><td><a href="https://www.youtube.com/watch?v=NkSvn23fbAg">Two Halves</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Jonny Fritz</td><td><a href="https://www.youtube.com/watch?v=X5Pmtr0_Iwc">I Love Leaving</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>The Shaggs</td><td><a href="https://www.youtube.com/watch?v=jQqK1CjE9bA">Philosophy of the World</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Porter Wagoner & Dolly Parton</td><td><a href="https://www.youtube.com/watch?v=nttKdCfEpkk">Always, Always</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Bert Jansch</td><td><a href="https://www.youtube.com/watch?v=Rc-I9NRDQ1I">A Woman Like You</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=8FOh2hNjBsE">You Must Be Out of Your Mind</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Cul De Sac</td><td><a href="https://www.youtube.com/watch?v=cQKYA6YC0rE">Sakhalim</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Theo Ray</td><td><a href="https://www.youtube.com/watch?v=kilPGOrmI2s">Stars</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Oysterhead</td><td>Mr. Oysterhead</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Fruit Bats</td><td>Rips Me Up</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Cass McCombs</td><td>Bum Bum Bum</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>

@@ -6,7 +6,7 @@ image: "/images/post/20210928_robosml.jpg"
 date: 2021-09-28T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssessionatpetes","therollingstones","brucespringsteen","brianeno","joejackson","gillianwelch","calexico","billfrisell","johnrenbourn","htrk","willjohnson","dudleybenson","flowerkid","billwurtz","pentatonix","ruperthine","nicolasjaar","renaudgarcia‐fons","wakaatea","jerryreed","danreeder","madrugada","terryriley","annesalmond","thomasmorgan","marvinpontiac","danielnorgren","glenbrownandkingtubby"]
+tags: ["martinssessionatpetes","brucespringsteen","therollingstones","brianeno","joejackson","gillianwelch","calexico","billfrisell","johnrenbourn","htrk","willjohnson","dudleybenson","flowerkid","billwurtz","pentatonix","ruperthine","nicolasjaar","renaudgarcia‐fons","wakaatea","jerryreed","danreeder","madrugada","terryriley","annesalmond","thomasmorgan","marvinpontiac","danielnorgren","glenbrownandkingtubby"]
 categories: ["Gatherings"]
 ---
 > The theme: Less Is More - three tracks celebrating minimalism (with the usual expectation of creative interpretation, misinterpretation or contradiction, of course)

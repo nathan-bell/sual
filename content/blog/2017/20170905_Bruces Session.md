@@ -6,7 +6,7 @@ image: "/images/post/20170917_IMG_6992.jpg"
 date: 2017-09-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","thecure","richardthompson","joehenry","davidcrosby","glencampbell","theyounggods","stevehillage","fatfreddysdrop","billybragg","stephenstills","oscarpeterson","grahamnash","wildnothing","kennygarrett","dweezilzappa","daveswarbrick"]
+tags: ["brucessession","thecure","richardthompson","joehenry","davidcrosby","glencampbell","fatfreddysdrop","theyounggods","stevehillage","billybragg","stephenstills","oscarpeterson","grahamnash","wildnothing","kennygarrett","dweezilzappa","daveswarbrick"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Acoustic, Instrumental, Electric_

@@ -2,22 +2,25 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 319 tracks in total
+### 322 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Mazzy Star</td><td>Halah</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Alejandro Escovedo</td><td>With These Hands</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Edie Brickell</td><td>Came a Long Way</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Frijid Pink</td><td>Crying Shame</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=5IsSpAOD6K8">Once In a Lifetime</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=EfK-WX2pa8c">London Calling</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Alison Krauss & Union Station</td><td><a href="https://www.youtube.com/watch?v=UgxpNRiSZDU">Richmond On The James</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Mazzy Star</td><td><a href="https://www.youtube.com/watch?v=vHGHcvJDpaA">Halah</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Alejandro Escovedo</td><td><a href="https://www.youtube.com/watch?v=DN-n3kp1uHM">With These Hands</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Edie Brickell</td><td><a href="https://www.youtube.com/watch?v=1PGucCbUNQE">Came a Long Way</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Frijid Pink</td><td><a href="https://www.youtube.com/watch?v=v-XmPr5oNlw">Crying Shame</a></td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Far East Family Band</td><td><a href="https://www.youtube.com/watch?v=AwqILeLVBGo">River Of Soul</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Phoebe Bridgers</td><td><a href="https://www.youtube.com/watch?v=Tw0zYd0eIlk">Kyoto</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Bryan Ferry</td><td><a href="https://www.youtube.com/watch?v=KueYailJicM">Hiroshima Mon Amour</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -97,28 +100,28 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=r9Zimpr_8zs">Funky Tonight</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Eric Bogle</td><td><a href="https://www.youtube.com/watch?v=M-38PB_5ozc">No Man's Land</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Big Thief</td><td><a href="https://www.youtube.com/watch?v=MTIzsTv1ENY">Change</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>The Chills</td><td>I Love My Leather Jacket</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Walter Trout</td><td>Ride</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Sharon Van Etten</td><td>Darkness Fades</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Ofege</td><td>Gbe Mi Lo</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Emerson, Lake & Palmer</td><td>Lucky Man</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Grateful Dead</td><td>Ripple</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Free</td><td>All Right Now</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Nirvana</td><td>Lithium</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>David Gideon</td><td>Southwestern Skies</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Rick Bryant</td><td>Angel</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Björk</td><td>Hyper-ballad</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Pavlov's Dog</td><td>Song Dance</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Ali Farka Touré & Toumani Diabaté</td><td>Debe Live At Bozar</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Norah Jones</td><td>Sunrise</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Ray LaMontagne</td><td>Beg Steal or Borrow</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Karen Souza</td><td>Sway</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Submotion Orchestra</td><td>Hymn for Him</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Jethro Tull</td><td>Reasons for Waiting</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Pentangle</td><td>Light Flight</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>KT Tunstall</td><td>One Day</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Fiona Pears</td><td>Midnight in Malaga</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Henry Parker</td><td>Lammas Fair</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=YLyXvG_HTMA">I Love My Leather Jacket</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Walter Trout</td><td><a href="https://www.youtube.com/watch?v=CLzmOugNc2I">Ride</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Sharon Van Etten</td><td><a href="https://www.youtube.com/watch?v=nT1vAjVJPQE">Darkness Fades</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Ofege</td><td><a href="https://www.youtube.com/watch?v=1SZ_2JQJvtI">Gbe Mi Lo</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Emerson, Lake & Palmer</td><td><a href="https://www.youtube.com/watch?v=yRvljAT4O6Q">Lucky Man</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=QmMjY6tXaEo">Ripple</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Free</td><td><a href="https://www.youtube.com/watch?v=vqdCZ0yHNa4">All Right Now</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Nirvana</td><td><a href="https://www.youtube.com/watch?v=pkcJEvMcnEg">Lithium</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>David Gideon</td><td><a href="https://www.youtube.com/watch?v=Rm7Y7z-Fljo">Southwestern Skies</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Rick Bryant</td><td><a href="https://www.youtube.com/watch?v=cPxEh8kKoOE">Angel</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Björk</td><td><a href="https://www.youtube.com/watch?v=6CSiU0j_lFA">Hyper-ballad</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Pavlov's Dog</td><td><a href="https://www.youtube.com/watch?v=BNHt80VH-x0">Song Dance</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Ali Farka Touré & Toumani Diabaté</td><td><a href="https://www.youtube.com/watch?v=pJUE03aeaQ4">Debe Live At Bozar</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Norah Jones</td><td><a href="https://www.youtube.com/watch?v=fd02pGJx0s0">Sunrise</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Ray LaMontagne</td><td><a href="https://www.youtube.com/watch?v=O8_fGCCitEc">Beg Steal or Borrow</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Karen Souza</td><td><a href="https://www.youtube.com/watch?v=_otpz44WkeA">Sway</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Submotion Orchestra</td><td><a href="https://www.youtube.com/watch?v=kOlTNVBWKus">Hymn for Him</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=iybAyDFrhhI">Reasons for Waiting</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Pentangle</td><td><a href="https://www.youtube.com/watch?v=2tyVezuUtCA">Light Flight</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>KT Tunstall</td><td><a href="https://www.youtube.com/watch?v=xWKj96zhCpw">One Day</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Fiona Pears</td><td><a href="https://www.youtube.com/watch?v=s456O9oaC1U">Midnight in Malaga</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Henry Parker</td><td><a href="https://www.youtube.com/watch?v=43e5Ty0BwO8">Lammas Fair</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Squirrel Flower</td><td>Red Shoulder</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Prefab Sprout</td><td>Faron Young</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Deborah Conway</td><td>Will You Miss Me When You're Sober?</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>

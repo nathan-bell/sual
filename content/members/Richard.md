@@ -2,22 +2,25 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 339 tracks in total
+### 342 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12 plays), Bruce Springsteen (11 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
+Richard's Top 5 most played artists are: Bruce Springsteen (12 plays), The Beatles (12 plays), Frank Zappa (12 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Billy Paul</td><td>Me and Mrs. Jones</td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>The Foundations</td><td>Build Me Up Buttercup</td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Paul Weller</td><td>Come On / Let's Go</td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
-<tr><td>Nana Mouskouri</td><td>Turn on the Sun</td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=6vQpW9XRiyM">Glory Days</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=IMChBJZUDK8">Surfin' Safari</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=NC7cmWkBoz4">Slow Burn</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Billy Paul</td><td><a href="https://www.youtube.com/watch?v=NYOQDnWFXYI">Me and Mrs. Jones</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>The Foundations</td><td><a href="https://www.youtube.com/watch?v=hSofzQURQDk">Build Me Up Buttercup</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Paul Weller</td><td><a href="https://www.youtube.com/watch?v=X74W_CsP2Os">Come On / Let's Go</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>
+<tr><td>Nana Mouskouri</td><td><a href="https://www.youtube.com/watch?v=Lm0L5HmBbvI">Turn on the Sun</a></td><td>Theme: A song for when you've had enough and want people to leave</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>L'Arc〜en〜Ciel</td><td><a href="https://www.youtube.com/watch?v=lcE0D8zjwN0">hole</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Mr.Children</td><td><a href="https://www.youtube.com/watch?v=2utQaIXCB4g">Worlds End</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=_t9zFL1Anao">Rain Fall Down</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -81,32 +84,32 @@ Richard's Top 5 most played artists are: The Beatles (12 plays), Frank Zappa (12
 <tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=ESc2Tq2HzhQ">One of These Nights</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>The Tenants</td><td><a href="https://www.youtube.com/watch?v=blO3EtP_D10">You Shit Me to Tears</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>The Beths</td><td><a href="https://www.youtube.com/watch?v=rWlEumkCIf4">2am</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Lynyrd Skynyrd</td><td>Call Me the Breeze</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Kasey Chambers</td><td>A Little Bit Lonesome</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Ladyhawke</td><td>My Delirium</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Billie Holiday</td><td>Your Mother's Son-In-Law</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Jungle</td><td>GOOD TIMES</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Little Simz</td><td>The Rapper That Came to Tea (interlude)</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Troy Kingi</td><td>Sea of Death (Death)</td><td>Bonus Track</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Heintje</td><td>I'm Your Little Boy</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>David Curtis</td><td>Wheel of Fortune</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Maria Dallas</td><td>Pinocchio</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Bee Gees</td><td>If Only I Had My Mind on Something Else</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Shocking Blue</td><td>Venus</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Christie</td><td>Yellow River</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Frank Zappa</td><td>Sam With the Showing Scalp Flat Top</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Chase Atlantic</td><td>Angeline</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Grace Jones</td><td>Private Life</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Charles Trenet</td><td>Fleur Bleue</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Hank Snow</td><td>When Mexican Joe Met Jole Blon</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Divinyls</td><td>Bless My Soul (It's Rock-N-Roll)</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Hot 'Lanta</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>BENEE</td><td>Happen To Me</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Mondo Rock</td><td>Cool World</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Thunderclap Newman</td><td>Something in the Air</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Little Martha</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Jeff Beck</td><td>Nadia</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Jeff Beck</td><td>Jeff Beck Interview</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Lynyrd Skynyrd</td><td><a href="https://www.youtube.com/watch?v=DDrS9uNG83w">Call Me the Breeze</a></td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Kasey Chambers</td><td><a href="https://www.youtube.com/watch?v=2E9egqppnKw">A Little Bit Lonesome</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Ladyhawke</td><td><a href="https://www.youtube.com/watch?v=X_bFO1SNRZg">My Delirium</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Billie Holiday</td><td><a href="https://www.youtube.com/watch?v=GXI65jyxDlg">Your Mother's Son-In-Law</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Jungle</td><td><a href="https://www.youtube.com/watch?v=gpwYTeRSgc8">GOOD TIMES</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Little Simz</td><td><a href="https://www.youtube.com/watch?v=sr04ph-OwV4">The Rapper That Came to Tea (interlude)</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Troy Kingi</td><td><a href="https://www.youtube.com/watch?v=YFfus2SbgpQ">Sea of Death (Death)</a></td><td>Bonus Track</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Heintje</td><td><a href="https://www.youtube.com/watch?v=B3u_pdGi6l4">I'm Your Little Boy</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>David Curtis</td><td><a href="https://www.youtube.com/watch?v=17HlNAwSHlU">Wheel of Fortune</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Maria Dallas</td><td><a href="https://www.youtube.com/watch?v=BwE3F9XLfww">Pinocchio</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Bee Gees</td><td><a href="https://www.youtube.com/watch?v=i5dmj_sdhnU">If Only I Had My Mind on Something Else</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Shocking Blue</td><td><a href="https://www.youtube.com/watch?v=8LhkyyCvUHk">Venus</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Christie</td><td><a href="https://www.youtube.com/watch?v=qJ5-FoiBuVc">Yellow River</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=36dsHYkOjEg">Sam With the Showing Scalp Flat Top</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Chase Atlantic</td><td><a href="https://www.youtube.com/watch?v=XOHWlcKr5CA">Angeline</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Grace Jones</td><td><a href="https://www.youtube.com/watch?v=yvLn_qC7QAs">Private Life</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Charles Trenet</td><td><a href="https://www.youtube.com/watch?v=hx4OlC89OOA">Fleur Bleue</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Hank Snow</td><td><a href="https://www.youtube.com/watch?v=DlyFE0lytQY">When Mexican Joe Met Jole Blon</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Divinyls</td><td><a href="https://www.youtube.com/watch?v=5qtvtwxYNV8">Bless My Soul (It's Rock-N-Roll)</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=FWSoo3bLhIc">Hot 'Lanta</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=1LizZ2bWi-g">Happen To Me</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Mondo Rock</td><td><a href="https://www.youtube.com/watch?v=5jfvx9DZCQQ">Cool World</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Thunderclap Newman</td><td><a href="https://www.youtube.com/watch?v=RTZoJ01FpD8">Something in the Air</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=typ2c8JPkLE">Little Martha</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=2t0BLzHCAb4">Nadia</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=ENLFg2Zvkd4">Jeff Beck Interview</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Grinspoon</td><td>DC x 3</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Frank Zappa</td><td>Soft Sell Conclusions</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Lord Huron</td><td>Long Lost</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>

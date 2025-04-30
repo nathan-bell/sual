@@ -6,7 +6,7 @@ image: "/images/post/nana-mouskouri-schallplatten.jpg"
 date: 2025-03-21T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nathanssession","mazzystar","talldwarfs","einsturzendeneubauten","jandek","jamiexx","paulweller","rosecityband","billypaul","lemonjelly","frijidpink","ediebrickell","nanamouskouri","thefoundations","peterpaulandmary","alejandroescovedo","felakutiandgingerbaker"]
+tags: ["nathanssession","mazzystar","talldwarfs","einsturzendeneubauten","jandek","jamiexx","paulweller","rosecityband","billypaul","lemonjelly","frijidpink","ediebrickell","nanamouskouri","thefoundations","peterpaulandmary","alejandroescovedo","felakutiandgingerbaker","youtube"]
 categories: ["Gatherings"]
 ---
 > Imagine you are hosting a party, and are selecting some music for the playlist.  You need to pick: 

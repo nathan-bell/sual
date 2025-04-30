@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 338 tracks in total
+### 341 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Son Volt (4 plays).
+Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Steve Earle (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=nqSglGyGjqQ">Ben McCulloch</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Peter Tosh</td><td><a href="https://www.youtube.com/watch?v=mnq1whAJ05Q">Get Up Stand Up</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Fat Freddy's Drop</td><td><a href="https://www.youtube.com/watch?v=pGYUSBat5SM">Oldemos</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=NM60iVDu79Y">Big In Japan</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Michael Brecker, Pat Metheny, Dave Holland, Jack DeJohnette, Joey Calderazzo</td><td><a href="https://www.youtube.com/watch?v=sONRZXDkOI8">Song For Bilbao</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>
@@ -85,27 +88,27 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=Ewo2nXlGtiQ">Off Night Backstreet</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Bob Weir</td><td><a href="https://www.youtube.com/watch?v=04S32986gVU">Cassidy</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Portishead</td><td><a href="https://www.youtube.com/watch?v=wCAURNnKqFo">Strangers</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Mark Lanegan</td><td>Come to Me</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Bonnie Raitt</td><td>Blame It on Me</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Whirimako Black</td><td>Sophisticated Lady</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Jimi Hendrix</td><td>Hey Baby (New Rising Sun)</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>The War on Drugs</td><td>Living Proof</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>John Lennon</td><td>Borrowed Time</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Steve Earle</td><td>Conspiracy Theory</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Mad River</td><td>Academy Cemetery</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>David Bromberg Band</td><td>900 Miles</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Paul Kelly</td><td>Nothing On My Mind</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Son Volt</td><td>Lucky Ones</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Anouar Brahem Quartet</td><td>The Astounding Eyes Of Rita</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Hot Tuna</td><td>Been So Long</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Los Lobos</td><td>Just a Man</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Ry Cooder</td><td>Kool-Aid</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Toots & The Maytals</td><td>54-46 (Was My Number)</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>John McLaughlin</td><td>Arjen's Bag</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Boz Scaggs</td><td>I'm Easy</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>John Hiatt</td><td>Long Black Electric Cadillac</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Marc Ribot</td><td>Natalia in E-flat major</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Cedric Burnside</td><td>We Made It</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Mark Lanegan</td><td><a href="https://www.youtube.com/watch?v=C1x5Q-9oN4I">Come to Me</a></td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Bonnie Raitt</td><td><a href="https://www.youtube.com/watch?v=adTcKy_0rvg">Blame It on Me</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Whirimako Black</td><td><a href="https://www.youtube.com/watch?v=sh59FUKixLM">Sophisticated Lady</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=-ofvMjfotjA">Hey Baby (New Rising Sun)</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>The War on Drugs</td><td><a href="https://www.youtube.com/watch?v=B3OEofsCur8">Living Proof</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=WggUweuTFxg">Borrowed Time</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=u3ybpTgrjrI">Conspiracy Theory</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Mad River</td><td><a href="https://www.youtube.com/watch?v=sCUCiYH4SrA">Academy Cemetery</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>David Bromberg Band</td><td><a href="https://www.youtube.com/watch?v=IEzlmzbFUZA">900 Miles</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=DIzVTSJFa9I">Nothing On My Mind</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Son Volt</td><td><a href="https://www.youtube.com/watch?v=GGycyViG8n8">Lucky Ones</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Anouar Brahem Quartet</td><td><a href="https://www.youtube.com/watch?v=9LWLwH8MKWM">The Astounding Eyes Of Rita</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Hot Tuna</td><td><a href="https://www.youtube.com/watch?v=d2bdv0JGmi4">Been So Long</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Los Lobos</td><td><a href="https://www.youtube.com/watch?v=i-V1B77VEhs">Just a Man</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=9TIpwZ1Ch_c">Kool-Aid</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Toots & The Maytals</td><td><a href="https://www.youtube.com/watch?v=wNxNwvjzGM0">54-46 (Was My Number)</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>John McLaughlin</td><td><a href="https://www.youtube.com/watch?v=A_nbAw_p9UE">Arjen's Bag</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=f5s3UreDK8A">I'm Easy</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=0s48vihzk_E">Long Black Electric Cadillac</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=_mE7FjnJgNQ">Natalia in E-flat major</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Cedric Burnside</td><td><a href="https://www.youtube.com/watch?v=9OxDgqahdtQ">We Made It</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Beck</td><td>Diamond Bollocks</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>The Black Keys</td><td>Mellow Peaches</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Levon Helm</td><td>Poor Old Dirt Farmer</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>

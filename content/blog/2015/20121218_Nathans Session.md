@@ -6,7 +6,7 @@ image: "/images/post/1 zoVXdHX0owb7j2oYiZBqpw.png"
 date: 2012-12-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nathanssession","neilyoung","bobdylan","nickcave","frankzappa","brucespringsteen","jeffbeck","donaldfagen","sparklehorse","warrenzevon","sebadoh","jimwhite","garageland","redhousepainters","theczars","littlevillage","thepaulbutterfieldbluesband","manman","washboardsam","theraconteurs","weirdalyankovic","plantsandanimals"]
+tags: ["nathanssession","neilyoung","bobdylan","nickcave","brucespringsteen","frankzappa","jeffbeck","donaldfagen","sparklehorse","warrenzevon","sebadoh","jimwhite","garageland","redhousepainters","theczars","littlevillage","thepaulbutterfieldbluesband","manman","washboardsam","theraconteurs","weirdalyankovic","plantsandanimals"]
 categories: ["Gatherings"]
 ---
 > The theme for the evening was "House Renovation" (lateral thinking was encouraged)

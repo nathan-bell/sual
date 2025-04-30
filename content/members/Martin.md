@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 329 tracks in total
+### 332 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=F8ag31LpbCk">Why Am I Treated So Bad</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Tom Jones</td><td><a href="https://www.youtube.com/watch?v=MIIU9xkGAMs">Delilah</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=Hp8H086FlB8">Rere Mai Ngā Rau</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Kenny Burrell</td><td><a href="https://www.youtube.com/watch?v=ueSA6rkchuk">Blues For Wes</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>The Walker Brothers</td><td><a href="https://www.youtube.com/watch?v=HX8LPZeOwqE">Make It Easy On Yourself (Live In Japan)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Mass of the Fermenting Dregs</td><td><a href="https://www.youtube.com/watch?v=J8xUO2KsJDk">She is Inside, He is Outside</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -96,29 +99,29 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Avantdale Bowling Club</td><td><a href="https://www.youtube.com/watch?v=Mv9G5wdBHV4">Friday Night @ the Liquor Store</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=8UbNbor3OqQ">Astronomy Domine</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>Leonid & Friends</td><td><a href="https://www.youtube.com/watch?v=HQ_j4Ytecgg">If You Leave Me Now feat. Arkady Shilkloper</a></td><td>a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track.</td><td> Martin's Session - Nov 2022</td></tr>
-<tr><td>Procol Harum</td><td>I Told on You</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Spandau Ballet</td><td>To Cut a Long Story Short</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>The Caitlin Smith Group</td><td>I Am Joe's Heart</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Etta James</td><td>Hound Dog</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Anderson .Paak & The Free Nationals</td><td>Come Down</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Scary Pockets feat. Mario Jose</td><td>I Will Survive</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Cat Stevens</td><td>Wild World</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Tony Joe White</td><td>They Caught the Devil and Put Him in Jail in Eudora, Arkansas</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Steely Dan</td><td>Brain Tap Shuffle</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Eugene Ionesco</td><td>Rap</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>The Quebe Sisters</td><td>Cold, Cold Heart</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Mohini Dey</td><td>Bass Guitar Solo</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Avantdale Bowling Club</td><td>Home</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Monkey House</td><td>It's Already Dark In New York</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Dirty Loops</td><td>Rock You</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Steely Dan</td><td>Bodhisattva</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>N?nocÿbbOrg VbërrHolökäävsT</td><td>The Lost Falkland and Antarctic Archives</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Scott Walker</td><td>It's Raining Today</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Meters</td><td>Cissy Strut</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>The Bonzo Dog Band</td><td>Shirt</td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>Procol Harum</td><td><a href="https://www.youtube.com/watch?v=HE8pbZFFCTk">I Told on You</a></td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Spandau Ballet</td><td><a href="https://www.youtube.com/watch?v=JE2sCISQmpE">To Cut a Long Story Short</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>The Caitlin Smith Group</td><td><a href="https://www.youtube.com/watch?v=U4kMGyI51Wk">I Am Joe's Heart</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=AajWIr-BQ8s">Hound Dog</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Anderson .Paak & The Free Nationals</td><td><a href="https://www.youtube.com/watch?v=-OqrcUvrbRY">Come Down</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Scary Pockets feat. Mario Jose</td><td><a href="https://www.youtube.com/watch?v=XYeuvbhKy4I">I Will Survive</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Cat Stevens</td><td><a href="https://www.youtube.com/watch?v=RtX5xDzaMro">Wild World</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=T7SUe1v-JAM">They Caught the Devil and Put Him in Jail in Eudora, Arkansas</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=m4C-yr7hveI">Brain Tap Shuffle</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Eugene Ionesco</td><td><a href="https://www.youtube.com/watch?v=crCvKHzstgU">Rap</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>The Quebe Sisters</td><td><a href="https://www.youtube.com/watch?v=Zg-sqo3awkg">Cold, Cold Heart</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Mohini Dey</td><td><a href="https://www.youtube.com/watch?v=_yx37ShuTuU">Bass Guitar Solo</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Avantdale Bowling Club</td><td><a href="https://www.youtube.com/watch?v=GgpxVJXGNhg">Home</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Monkey House</td><td><a href="https://www.youtube.com/watch?v=x4PMH2gp0ks">It's Already Dark In New York</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Dirty Loops</td><td><a href="https://www.youtube.com/watch?v=gYc5zrXC52k">Rock You</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=LGdyVnW86SY">Bodhisattva</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>N?nocÿbbOrg VbërrHolökäävsT</td><td><a href="https://www.youtube.com/watch?v=GGKtEz5Hc2w">The Lost Falkland and Antarctic Archives</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Scott Walker</td><td><a href="https://www.youtube.com/watch?v=fSzOcvAJmi0">It's Raining Today</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Meters</td><td><a href="https://www.youtube.com/watch?v=MXI5Nuz6OHg">Cissy Strut</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
+<tr><td>The Bonzo Dog Band</td><td><a href="https://www.youtube.com/watch?v=CWrU3kROXww">Shirt</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
 <tr><td>Kelly Joe Phelps</td><td>Slingshot Professionals</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Jay McShann</td><td>Blue Devil Jump</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Bruno Mars</td><td>Smokin Out The Window</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Jay McShann</td><td><a href="https://www.youtube.com/watch?v=xLs4kngzHps">Blue Devil Jump</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=GG7fLOmlhYg">Smokin Out The Window</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jimi Hendrix</td><td>Third Stone From the Sun</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>Simon & Garfunkel</td><td>America</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
 <tr><td>Aretha Franklin</td><td>Think</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>

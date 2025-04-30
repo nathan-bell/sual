@@ -6,7 +6,7 @@ image: "/images/post/20170430_image-asset.jpeg"
 date: 2017-04-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","thebeatles","frankzappa","themagneticfields","theband","nirvana","velvetunderground","can","johnlennon","jimkweskin","talkingheads","cream","thezombies","theclash","linkwray","buffalospringfield","thenottinghillbillies","theanimals","thebothyband","wilsonpickett","tinytimwithbravecombo"]
+tags: ["nickssession","thebeatles","frankzappa","themagneticfields","theband","can","nirvana","talkingheads","velvetunderground","johnlennon","jimkweskin","cream","theclash","thezombies","linkwray","buffalospringfield","thenottinghillbillies","theanimals","thebothyband","wilsonpickett","tinytimwithbravecombo"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Pioneers, Traditionalists, Pop History_

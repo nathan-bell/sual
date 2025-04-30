@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-03-23
+date: 2025-04-30
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 327 tracks in total
+### 330 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (6 plays) and Paul Simon (5 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (7 plays) and The Beatles (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Robert Earl Keen</td><td><a href="https://www.youtube.com/watch?v=7lTjsU-iJyM">The Road Goes On Forever</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=45cYwDMibGo">Come Together</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=VIN5F5UNw5E">Wild God</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Yoko Ono</td><td><a href="https://www.youtube.com/watch?v=_Zlq6KPlS5E">Your Hands</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=wJhuiRFUskU">Highland Aire</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=FM0q-Ckcn-A">Teiko</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
@@ -83,27 +86,27 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=ZETKGHmrW4I">Portrait of a Man (Live at Auckland Town Hall)</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=Xp5KbUZo708">The Way It Will Be</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
 <tr><td>Arthur Russell</td><td><a href="https://www.youtube.com/watch?v=eq5gjfN5lns">This Is How We Walk on the Moon</a></td><td>Night Life/Recommended/Amazing Lyrics</td><td> Chris's Session - Oct 2022</td></tr>
-<tr><td>Low</td><td>Monkey</td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Diana Krall</td><td>The Night We Called It a Day</td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Ka Hao</td><td>Haramai Roimata</td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
-<tr><td>Bob Dylan</td><td>False Prophet</td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Tiny Ruins</td><td>Holograms</td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Lucinda Williams</td><td>Factory</td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
-<tr><td>Crosby, Stills, Nash & Young</td><td>Woodstock</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Van Morrison</td><td>Moondance</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Bob Dylan</td><td>Knockin' On Heaven's Door</td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
-<tr><td>Courtney Barnett</td><td>Elevator Operator</td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Nick Cave</td><td>Mack the Knife</td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Lucinda Williams</td><td>Pray the Devil Back to Hell</td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
-<tr><td>Junun ft. Shye Ben Tzur, Jonny Greenwood, & The Rajasthan Express</td><td>Junun</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Superbrew</td><td>Aroha</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>Paul Simon & Miriam Makeba</td><td>Under African Skies - Paul Simon & Miriam Makeba</td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
-<tr><td>The Mutton Birds</td><td>The Heater</td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Frank Zappa</td><td>Live In Prague</td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Robert Plant & Alison Krauss</td><td>Somebody Was Watching Over Me</td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
-<tr><td>Townes Van Zandt</td><td>No Lonesome Tune</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Miles Davis</td><td>Black Satin</td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Paul Weller</td><td>Wild Blue Wonder</td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Low</td><td><a href="https://www.youtube.com/watch?v=qH_B_4vXX_w">Monkey</a></td><td>R.I.P.</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Diana Krall</td><td><a href="https://www.youtube.com/watch?v=mIZatd4HMUs">The Night We Called It a Day</a></td><td>Break Up</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Ka Hao</td><td><a href="https://www.youtube.com/watch?v=xYSsLLrAcXU">Haramai Roimata</a></td><td>Kiwi</td><td> Chris's Session - Sept 2022</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=aIF0gkqvaQ0">False Prophet</a></td><td>Old</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Tiny Ruins</td><td><a href="https://www.youtube.com/watch?v=QVmZu1360K8">Holograms</a></td><td>New</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Lucinda Williams</td><td><a href="https://www.youtube.com/watch?v=b_EQYjzWAjs">Factory</a></td><td>Borrowed</td><td> Bruce's Session - Aug 2022</td></tr>
+<tr><td>Crosby, Stills, Nash & Young</td><td><a href="https://www.youtube.com/watch?v=HKdsRWhyH30">Woodstock</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=6lFxGBB4UGU">Moondance</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=rm9coqlk8fY">Knockin' On Heaven's Door</a></td><td>15 minutes of music either recorded in, or released in the year 1970</td><td> Richard's Session - Jul 2022</td></tr>
+<tr><td>Courtney Barnett</td><td><a href="https://www.youtube.com/watch?v=H-wm0EdoeN8">Elevator Operator</a></td><td>The theatre of the absurd</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=-LnZkFBd-cM">Mack the Knife</a></td><td>An artist that has NEVER been played at a SUAL session</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Lucinda Williams</td><td><a href="https://www.youtube.com/watch?v=vyalbiIGM2M">Pray the Devil Back to Hell</a></td><td>Anything goes</td><td> David's Session - Jun 2022</td></tr>
+<tr><td>Junun ft. Shye Ben Tzur, Jonny Greenwood, & The Rajasthan Express</td><td><a href="https://www.youtube.com/watch?v=NWbj_XYLwPo">Junun</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Superbrew</td><td><a href="https://www.youtube.com/watch?v=IGbAU4yNpL4">Aroha</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>Paul Simon & Miriam Makeba</td><td><a href="https://www.youtube.com/watch?v=85rr5SqrCZI">Under African Skies - Paul Simon & Miriam Makeba</a></td><td>Continental Drift</td><td> Martin's Session - Feb 2022</td></tr>
+<tr><td>The Mutton Birds</td><td><a href="https://www.youtube.com/watch?v=lceOrRb2zn8">The Heater</a></td><td>Hot – whatever interpretation you wish</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=UFtHqDrJ-fA">Live In Prague</a></td><td>Video round – everyone gets to share some good visual stuff</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Robert Plant & Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=2O4cjqPJZ3s">Somebody Was Watching Over Me</a></td><td>Cool – whatever interpretation you wish on this one too</td><td> Bruce's Session - Jan 2022</td></tr>
+<tr><td>Townes Van Zandt</td><td><a href="https://www.youtube.com/watch?v=ssbo6yGq6c4">No Lonesome Tune</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Miles Davis</td><td><a href="https://www.youtube.com/watch?v=0RF4CQhcr3E">Black Satin</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Paul Weller</td><td><a href="https://www.youtube.com/watch?v=FYR0WNpTzgc">Wild Blue Wonder</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Donald Fagen</td><td>Morph the Cat</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>The Waterboys</td><td>The Return of Pan</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
 <tr><td>The Mutton Birds</td><td>Anchor Me</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
