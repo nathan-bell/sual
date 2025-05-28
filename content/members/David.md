@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -14,9 +14,9 @@ categories: ["members"]
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Lael Neale</td><td><a href="https://www.youtube.com/watch?v=ZCTJEofv0xM">Every Star Shivers in the Dark</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Can</td><td><a href="https://www.youtube.com/watch?v=-V0gcjFbm74">Mushroom</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Jessica Pratt</td><td><a href="https://www.youtube.com/watch?v=iEJYKJijn90">Better Hate</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Lael Neale</td><td><a href="https://www.youtube.com/watch?v=ZCTJEofv0xM">Every Star Shivers in the Dark</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Can</td><td><a href="https://www.youtube.com/watch?v=-V0gcjFbm74">Mushroom</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Jessica Pratt</td><td><a href="https://www.youtube.com/watch?v=iEJYKJijn90">Better Hate</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Lemon Jelly</td><td><a href="https://www.youtube.com/watch?v=KXDtQcuA5Bo">Ramblin' Man</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Jamie xx</td><td><a href="https://www.youtube.com/watch?v=chKy6KLeokA">Dafodil (feat. Kelsey Lu, John Glacier & Panda Bear)</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Peter Paul and Mary</td><td><a href="https://www.youtube.com/watch?v=ZmY4bfweM3U">Early in the Morning</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>

@@ -6,7 +6,7 @@ image: "/images/post/feijora_cak.png"
 date: 2025-04-29T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["brucessession","thebeatles","nickcave","brucespringsteen","marlonwilliams","alisonkrauss","steveearle","can","talkingheads","theclash","kaceymusgraves","fatfreddysdrop","popsstaples","thebeachboys","tomjones","richarddawson","nwa","laelneale","petertosh","jessicapratt","robertearlkeen","youtube"]
+tags: ["brucessession","thebeatles","nickcave","brucespringsteen","marlonwilliams","alisonkrauss","steveearle","talkingheads","can","theclash","kaceymusgraves","fatfreddysdrop","popsstaples","thebeachboys","tomjones","richarddawson","nwa","laelneale","petertosh","jessicapratt","robertearlkeen","youtube"]
 categories: ["Gatherings"]
 ---
 > We celebrated a birthday, heard stories, protest songs, and great music.  We shared CDs, records, and cake with cream.

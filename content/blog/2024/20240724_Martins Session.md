@@ -6,7 +6,7 @@ image: "/images/post/91Eynt8DQ6L.jpg"
 date: 2024-07-24T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["martinssession","neilyoung","brucespringsteen","ironandwine","themarsvolta","thethe","monks","kimgordon","jimmiedalegilmore","thepsychedelicfurs","illaj","bobwills","texritter","lisaekdahl","bethgibbons","jayclarkson","nickferetti","riseagainst","jessestewart","parallelpark","frankfurtradiosymphony","robertgordonwithlinkwray","neworleansklezmerallstars","billlakeandtherightmistake","youtube"]
+tags: ["martinssession","neilyoung","brucespringsteen","ironandwine","themarsvolta","monks","thethe","kimgordon","jimmiedalegilmore","thepsychedelicfurs","illaj","bobwills","texritter","lisaekdahl","bethgibbons","jayclarkson","nickferetti","riseagainst","jessestewart","parallelpark","frankfurtradiosymphony","robertgordonwithlinkwray","neworleansklezmerallstars","billlakeandtherightmistake","youtube"]
 categories: ["Gatherings"]
 ---
 > A full-house (plus a new guest) went back to basics, kept it simple, and then gave it heaps.

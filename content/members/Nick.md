@@ -2,21 +2,24 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 330 tracks in total
+### 333 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (7 plays) and The Beatles (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Robert Earl Keen</td><td><a href="https://www.youtube.com/watch?v=7lTjsU-iJyM">The Road Goes On Forever</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=45cYwDMibGo">Come Together</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=VIN5F5UNw5E">Wild God</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Gillian Welch & Dave Rawlings</td><td>North Country</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Al Jerreau</td><td>Life Is</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Marlon Williams</td><td>Kāhore He Manu E</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Robert Earl Keen</td><td><a href="https://www.youtube.com/watch?v=7lTjsU-iJyM">The Road Goes On Forever</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=45cYwDMibGo">Come Together</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=uAgsn7la3jg">Wild God</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Yoko Ono</td><td><a href="https://www.youtube.com/watch?v=_Zlq6KPlS5E">Your Hands</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=wJhuiRFUskU">Highland Aire</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Lyle Mays</td><td><a href="https://www.youtube.com/watch?v=FM0q-Ckcn-A">Teiko</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>

@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Richard's Top 5 most played artists are: Bruce Springsteen (12 plays), The Beatles (12 plays), Frank Zappa (12 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=6vQpW9XRiyM">Glory Days</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=IMChBJZUDK8">Surfin' Safari</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=NC7cmWkBoz4">Slow Burn</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=gUyOZS-PyTA">Glory Days</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=IMChBJZUDK8">Surfin' Safari</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=NC7cmWkBoz4">Slow Burn</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Billy Paul</td><td><a href="https://www.youtube.com/watch?v=NYOQDnWFXYI">Me and Mrs. Jones</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>The Foundations</td><td><a href="https://www.youtube.com/watch?v=hSofzQURQDk">Build Me Up Buttercup</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Paul Weller</td><td><a href="https://www.youtube.com/watch?v=X74W_CsP2Os">Come On / Let's Go</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>

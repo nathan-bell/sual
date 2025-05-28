@@ -2,21 +2,24 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 322 tracks in total
+### 325 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=5IsSpAOD6K8">Once In a Lifetime</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=EfK-WX2pa8c">London Calling</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Alison Krauss & Union Station</td><td><a href="https://www.youtube.com/watch?v=UgxpNRiSZDU">Richmond On The James</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>John Hiatt</td><td>You Must Go</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Talking Heads</td><td>Road to Nowhere</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Anna Leone</td><td>Do You Ever</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=5IsSpAOD6K8">Once In a Lifetime</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=EfK-WX2pa8c">London Calling</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Alison Krauss & Union Station</td><td><a href="https://www.youtube.com/watch?v=UgxpNRiSZDU">Richmond On The James</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Mazzy Star</td><td><a href="https://www.youtube.com/watch?v=vHGHcvJDpaA">Halah</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Alejandro Escovedo</td><td><a href="https://www.youtube.com/watch?v=DN-n3kp1uHM">With These Hands</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Edie Brickell</td><td><a href="https://www.youtube.com/watch?v=1PGucCbUNQE">Came a Long Way</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>

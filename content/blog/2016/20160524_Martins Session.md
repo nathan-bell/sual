@@ -6,7 +6,7 @@ image: "/images/post/20160524_image-asset.png"
 date: 2016-05-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","variousartists","davidbowie","bobdylan","jeffersonairplane","eagles","emerson","warrenzevon","lakeandpalmer","cillablack","lemmy","prince","thechaps","deadmoon","guyclark","candyekane","jonenglish","alanloveday","merlehaggard","victoriawood","wendyowilliams","atribecalledquest","danhicksandthehotlicks"]
+tags: ["martinssession","variousartists","davidbowie","bobdylan","eagles","jeffersonairplane","emerson","warrenzevon","lakeandpalmer","cillablack","lemmy","prince","thechaps","deadmoon","guyclark","candyekane","jonenglish","alanloveday","merlehaggard","victoriawood","wendyowilliams","atribecalledquest","danhicksandthehotlicks"]
 categories: ["Gatherings"]
 ---
 > The theme this month is 2016 Music Deaths – plenty to choose from, so pick three and turn up  to the next session

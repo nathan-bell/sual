@@ -2,21 +2,24 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 341 tracks in total
+### 344 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Steve Earle (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=nqSglGyGjqQ">Ben McCulloch</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Peter Tosh</td><td><a href="https://www.youtube.com/watch?v=mnq1whAJ05Q">Get Up Stand Up</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Fat Freddy's Drop</td><td><a href="https://www.youtube.com/watch?v=pGYUSBat5SM">Oldemos</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Katchafire</td><td>Get Away</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Weather Report</td><td>Mysterious Traveller</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Donna Dean</td><td>Dangerous</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=nqSglGyGjqQ">Ben McCulloch</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Peter Tosh</td><td><a href="https://www.youtube.com/watch?v=mnq1whAJ05Q">Get Up Stand Up</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Fat Freddy's Drop</td><td><a href="https://www.youtube.com/watch?v=pGYUSBat5SM">Oldemos</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=NM60iVDu79Y">Big In Japan</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Michael Brecker, Pat Metheny, Dave Holland, Jack DeJohnette, Joey Calderazzo</td><td><a href="https://www.youtube.com/watch?v=sONRZXDkOI8">Song For Bilbao</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Peter Green</td><td><a href="https://www.youtube.com/watch?v=6Bk7tQEWnuQ">Slabo Day</a></td><td>ANYTHING YOU LIKE.  STRICTLY TEN MINUTES of air time per customer.</td><td> Richard's Session - Jan 2025</td></tr>

@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=AiIEhK0P-Rw">The Curse of Millhaven (2011 - Remaster)</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>N.W.A.</td><td><a href="https://www.youtube.com/watch?v=fF3aPT7C51Y">Fuck Tha Police</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Richard Dawson</td><td><a href="https://www.youtube.com/watch?v=d-EaqWX7O74">More Than Real</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=AiIEhK0P-Rw">The Curse of Millhaven (2011 - Remaster)</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>N.W.A.</td><td><a href="https://www.youtube.com/watch?v=qZuxPKUVGiw">Fuck Tha Police</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Richard Dawson</td><td><a href="https://www.youtube.com/watch?v=d-EaqWX7O74">More Than Real</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Rose City Band</td><td><a href="https://www.youtube.com/watch?v=SzOGXtfpHIY">Wildflowers</a></td><td>Theme: A song for early on that is laid back and cruisy</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Fela Kuti and Ginger Baker</td><td><a href="https://www.youtube.com/watch?v=0zWRjgathjA">Let's Start</a></td><td>Theme: A song for later on in the night when you want to crank things up</td><td> Nathan's Session - Mar 2025</td></tr>
 <tr><td>Tall Dwarfs</td><td><a href="https://www.youtube.com/watch?v=xqtrCVvdRbk">Bodies</a></td><td>Theme: Bonus Round</td><td> Nathan's Session - Mar 2025</td></tr>

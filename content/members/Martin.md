@@ -2,21 +2,24 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-04-30
+date: 2025-05-28
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 332 tracks in total
+### 335 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Etta James (5 plays), Scott Walker (5 plays) and Mose Allison (5 plays).
+Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Mose Allison (6 plays), Etta James (5 plays) and Scott Walker (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=F8ag31LpbCk">Why Am I Treated So Bad</a></td><td>Theme: A song that tells a Story</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Tom Jones</td><td><a href="https://www.youtube.com/watch?v=MIIU9xkGAMs">Delilah</a></td><td>Theme: Music that (may have) changed the World.</td><td> Bruce's Session - Apr 2025</td></tr>
-<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=Hp8H086FlB8">Rere Mai Ngā Rau</a></td><td>Theme: "A real goodie"</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Mose Allison</td><td>Your Mind Is on Vacation</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Kelly Joe Phelps</td><td>Not So Far to Go</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>The Monks</td><td>Oh, How To Do Now</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=F8ag31LpbCk">Why Am I Treated So Bad</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Tom Jones</td><td><a href="https://www.youtube.com/watch?v=MIIU9xkGAMs">Delilah</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=Hp8H086FlB8">Rere Mai Ngā Rau</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Kenny Burrell</td><td><a href="https://www.youtube.com/watch?v=ueSA6rkchuk">Blues For Wes</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>The Walker Brothers</td><td><a href="https://www.youtube.com/watch?v=HX8LPZeOwqE">Make It Easy On Yourself (Live In Japan)</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
 <tr><td>Mass of the Fermenting Dregs</td><td><a href="https://www.youtube.com/watch?v=J8xUO2KsJDk">She is Inside, He is Outside</a></td><td>Theme: "Japanese Music" (and the usual tenuous connections).</td><td> Martin's Session - Feb 2025</td></tr>
