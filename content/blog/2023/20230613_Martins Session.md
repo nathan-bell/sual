@@ -31,7 +31,7 @@ categories: ["Gatherings"]
 - **The Stone Roses** - _"Begging You"_ (Nick) [youtube](https://www.youtube.com/watch?v=S1Ke19kxGp8)
 - **Blur** - _"Parklife"_ (David) [youtube](https://www.youtube.com/watch?v=YSuHrTfcikU)
 - **The Clash** - _"The Guns of Brixton"_ (Bruce) [youtube](https://www.youtube.com/watch?v=JcW8VNwYvL0)
-- **Steel Pulse** - _"Handsworth Revolution"_ (Chris)
+- **Steel Pulse** - _"Handsworth Revolution"_ (Chris) [youtube](https://www.youtube.com/watch?v=A3LFvaAD2-Y)
 - **Ween** - _"Japanese Cowboy"_ (Nathan) [youtube](https://www.youtube.com/watch?v=2xq9bp2ZBls)
 - **The Velvet Underground** - _"Run Run Run"_ (Richard) [youtube](https://www.youtube.com/watch?v=m9ufOljsFZQ)
 - **The Mutton Birds** - _"A Thing Well Made"_ (John) [youtube](https://www.youtube.com/watch?v=db-LtAbrYYA)

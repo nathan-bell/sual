@@ -24,7 +24,7 @@ categories: ["Gatherings"]
 - **Lisa Ekdahl** - _"Now or Never"_ (Martin) [youtube](https://www.youtube.com/watch?v=AANeqglm2cg)
 - **Bob Wills** - _"Pan Handle Rag"_ (Richard) [youtube](https://www.youtube.com/watch?v=NB5E9xVPxv0)
 - **Kim Gordon** - _"BYE BYE"_ (David) [youtube](https://www.youtube.com/watch?v=IZ3i80B0qKg)
-- **Nick Feretti** - _"Never Leave Your lover Alone"_ (Bruce)
+- **Nick Feretti** - _"Never Leave Your lover Alone"_ (Bruce) [youtube](https://www.youtube.com/watch?v=T8VsezcjBzc)
 - **Iron & Wine** - _"Sunset Soon Forgotten"_ (Nathan) [youtube](https://www.youtube.com/watch?v=IWySRJKOx-Y)
 - **Bill Lake and the Right Mistake** - _"Grown out of the Blues"_ (Chris) [youtube](https://www.youtube.com/watch?v=gV-Mno3nIXU)
 - **Illa J** - _"All Good"_ (David - Guest) [youtube](https://www.youtube.com/watch?v=SOE286bx8XU)

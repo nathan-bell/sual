@@ -6,7 +6,7 @@ image: "/images/post/20190723_dithy.jpg"
 date: 2019-07-23T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssessioncopy","neilyoung","tomwaits","jonimitchell","vanmorrison","crosby","nancysinatra","johnmayall","katebush","stillsandnash","arethafranklin","antonyandthejohnsons","pentatonix","karendalton","deepseaarcade","florenceandthemachine","gotye","garyhodges","chrisisaak","tonyarnold","lisagerrard","dickgaughan","marcelperes","benjaminclementine","nataschanikeprelevic"]
+tags: ["martinssessioncopy","neilyoung","tomwaits","jonimitchell","vanmorrison","crosby","nancysinatra","johnmayall","katebush","stillsandnash","arethafranklin","antonyandthejohnsons","pentatonix","karendalton","deepseaarcade","benjaminclementine","florenceandthemachine","gotye","garyhodges","chrisisaak","tonyarnold","lisagerrard","dickgaughan","marcelperes","nataschanikeprelevic"]
 categories: ["Gatherings"]
 ---
 > The theme - very simple . . . wait for it . . . The Voice.

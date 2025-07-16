@@ -13,9 +13,9 @@ categories: ["Gatherings"]
 ### Amazing young guitarists.
 - **Coup Deville** - _"Tallahassee"_ (Nick) [youtube](https://www.youtube.com/watch?v=t_3gPH2YtAE)
 - **Marcin** - _"2 Tracks"_ (Martin) [youtube](https://www.youtube.com/watch?v=f_VDbZEeYBM)
-- **Guthrie Govan** - _"2 Tracks"_ (David)
+- **Guthrie Govan** - _"2 Tracks"_ (David) [youtube](https://www.youtube.com/watch?v=-VzKyPruPgA)
 - **Connan and the Mockasins** - _"Naughty Holidays (again)"_ (Nathan) [youtube](https://www.youtube.com/watch?v=ExjmWJ6qa94)
-- **Christone 'Kingfish' Ingram** - _"Video"_ (Bruce)
+- **Christone 'Kingfish' Ingram** - _"Video"_ (Bruce) [youtube](https://www.youtube.com/watch?v=K-nTAgOMK7w)
 ### The new generation  of musicians (last 50 years)
 - **Kurt Vile** - _"Loading Zones"_ (Nick) [youtube](https://www.youtube.com/watch?v=7mbh43HgT4U)
 - **Joni Mitchell** - _"Song for Sharon"_ (Martin) [youtube](https://www.youtube.com/watch?v=ON3SPq2w1pA)

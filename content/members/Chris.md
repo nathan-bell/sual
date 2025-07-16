@@ -2,21 +2,24 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 344 tracks in total
+### 347 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Steve Earle (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Katchafire</td><td>Get Away</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Weather Report</td><td>Mysterious Traveller</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Donna Dean</td><td>Dangerous</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Old & In the Way</td><td>Pig In a Pen (Live)</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Sonny Boy Williamson II</td><td>Help Me</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Vijay Iyer Sextet</td><td>Nope</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Katchafire</td><td><a href="https://www.youtube.com/watch?v=PDsb8sEXQDg">Get Away</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Weather Report</td><td><a href="https://www.youtube.com/watch?v=dVFmQDsRCFQ">Mysterious Traveller</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Donna Dean</td><td><a href="https://www.youtube.com/watch?v=vM3S1hjpJDc">Dangerous</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=nqSglGyGjqQ">Ben McCulloch</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Peter Tosh</td><td><a href="https://www.youtube.com/watch?v=mnq1whAJ05Q">Get Up Stand Up</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Fat Freddy's Drop</td><td><a href="https://www.youtube.com/watch?v=pGYUSBat5SM">Oldemos</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -112,16 +115,16 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=0s48vihzk_E">Long Black Electric Cadillac</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=_mE7FjnJgNQ">Natalia in E-flat major</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Cedric Burnside</td><td><a href="https://www.youtube.com/watch?v=9OxDgqahdtQ">We Made It</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Beck</td><td>Diamond Bollocks</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Black Keys</td><td>Mellow Peaches</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Levon Helm</td><td>Poor Old Dirt Farmer</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Cream</td><td>Badge</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Kinks</td><td>Days</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Byrds</td><td>Goin' Back</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Electric Flag</td><td>Killing Floor</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Don McGlashan</td><td>The Waves Would Roll On</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Straitjacket Fits</td><td>Headwind</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Son Volt</td><td>Windfall</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=Gxv5yQ56xvk">Diamond Bollocks</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Black Keys</td><td><a href="https://www.youtube.com/watch?v=J0Z69IGZCO8">Mellow Peaches</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Levon Helm</td><td><a href="https://www.youtube.com/watch?v=cBuJB218UvU">Poor Old Dirt Farmer</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Cream</td><td><a href="https://www.youtube.com/watch?v=4hjVjYfLMjI">Badge</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Kinks</td><td><a href="https://www.youtube.com/watch?v=sfyzaiT_rRU">Days</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=i849OKrpPms">Goin' Back</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Electric Flag</td><td><a href="https://www.youtube.com/watch?v=Tq3NwCHm-4U">Killing Floor</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=-228c_u3Ba8">The Waves Would Roll On</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Straitjacket Fits</td><td><a href="https://www.youtube.com/watch?v=0aQlzFLrAzE">Headwind</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Son Volt</td><td><a href="https://www.youtube.com/watch?v=uPO-VwB2vFo">Windfall</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Delaney Davidson and Barry Saunders</td><td>Special Rider Blues</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Baby Huey & The Baby Sitters</td><td>Hard Times</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Natalie Merchant</td><td>Saint Judas</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>

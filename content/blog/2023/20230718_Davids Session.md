@@ -18,7 +18,7 @@ categories: ["Gatherings"]
 - **Nick Shoulders** - _"Whooped If You Will"_ (Nathan) [youtube](https://www.youtube.com/watch?v=KS11SK-LZYE)
 - **Iggy Pop** - _"James Bond"_ (Martin) [youtube](https://www.youtube.com/watch?v=mw6NKf95VWA)
 - **Kate Bush** - _"King of the Mountain"_ (Nick) [youtube](https://www.youtube.com/watch?v=F8xk_AkeP5c)
-- **David Bowie** - _"Video"_ (Chris)
+- **David Bowie** - _"Video"_ (Chris) [youtube](https://www.youtube.com/watch?v=iYYRH4apXDo)
 ### Music used in Film, Television, or streaming video services.
 - **Lainey Wilson** - _"Watermelon Moonshine"_ (David) [youtube](https://www.youtube.com/watch?v=_3jv0_wGK1M)
 - **Lalo Schifrin** - _"Mannix"_ (Richard) [youtube](https://www.youtube.com/watch?v=f65VcQkJnTw)

@@ -17,7 +17,7 @@ categories: ["Gatherings"]
 - **KT Tunstall** - _"One Day"_ (Bruce) [youtube](https://www.youtube.com/watch?v=xWKj96zhCpw)
 - **Nirvana** - _"Where Did You Sleep Last Night?"_ (David) [youtube](https://www.youtube.com/watch?v=hEMm7gxBYSc)
 - **The Magnetic Fields** - _"You Must Be Out of Your Mind"_ (Nathan) [youtube](https://www.youtube.com/watch?v=8FOh2hNjBsE)
-- **Kelly Joe Phelps** - _"Slingshot Professionals"_ (Martin)
+- **Kelly Joe Phelps** - _"Slingshot Professionals"_ (Martin) [youtube](https://www.youtube.com/watch?v=3_ZJd8dndjU)
 ### Instrumental.
 - **Marc Ribot** - _"Natalia in E-flat major"_ (Chris) [youtube](https://www.youtube.com/watch?v=_mE7FjnJgNQ)
 - **Miles Davis** - _"Black Satin"_ (Nick) [youtube](https://www.youtube.com/watch?v=0RF4CQhcr3E)

@@ -6,7 +6,7 @@ image: "/images/post/20180724_SUAL.Sess02.jpg"
 date: 2018-07-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","davidbowie","thecure","brucespringsteen","xtc","jamestaylor","calexico","thesmiths","ironandwine","walterbecker","aabondy","garageland","deadkennedys","thedeadweather","miltonnascimento","kyuss","kelseylu","joesatriani","tobinsprout","thedeadsouth","solidgoldhell","kermitruffins","therosssisters"]
+tags: ["chrisssession","davidbowie","thecure","brucespringsteen","xtc","jamestaylor","calexico","thesmiths","ironandwine","walterbecker","aabondy","garageland","deadkennedys","thedeadsouth","thedeadweather","miltonnascimento","kyuss","kelseylu","joesatriani","tobinsprout","solidgoldhell","kermitruffins","therosssisters"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Round/circular, Heaven/hell, Circus, Bonus Track_

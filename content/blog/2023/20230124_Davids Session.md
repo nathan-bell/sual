@@ -6,7 +6,7 @@ image: "/images/post/20230124_IMG_1133.JPG"
 date: 2023-01-24T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","jeffbeck","theband","thetimejumpers","nirvana","altj","rammstein","jonnyfritz","johnnymarr","tonesontail","davidgideon","quicksilvermessengerservice","sweet","knower","joshpyke","fkatwigs","cameraobscura","joannaconnorband","dustyspringfield","tedeschitrucksband","halfmanhalfbiscuit","youtube"]
+tags: ["davidssession","jeffbeck","theband","thetimejumpers","nirvana","altj","fkatwigs","rammstein","jonnyfritz","johnnymarr","tonesontail","davidgideon","quicksilvermessengerservice","sweet","knower","joshpyke","cameraobscura","joannaconnorband","dustyspringfield","tedeschitrucksband","halfmanhalfbiscuit","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”., New: Bring something newly discovered, preferably from this century., Year: An age, an era, a measure of time._
@@ -14,7 +14,7 @@ categories: ["Gatherings"]
 - **The Band** - _"Life Is a Carnival"_ (Chris) [youtube](https://www.youtube.com/watch?v=nRwqnphzvXs)
 - **KNOWER** - _"Overtime (Live Band Session)"_ (Peter) [youtube](https://www.youtube.com/watch?v=GnEmD17kYsE)
 - **Tones on Tail** - _"Happiness"_ (David) [youtube](https://www.youtube.com/watch?v=e5tEs49PZRE)
-- **Jeff Beck** - _"Dedication [DVD]"_ (Richard)
+- **Jeff Beck** - _"Dedication [DVD]"_ (Richard) [youtube](https://www.youtube.com/watch?v=nvO2_noxaXQ)
 - **Josh Pyke** - _"To Find Happiness"_ (Bruce) [youtube](https://www.youtube.com/watch?v=3QnD0hHU1KA)
 - **Jonny Fritz** - _"Happy in Hindsight"_ (Nathan) [youtube](https://www.youtube.com/watch?v=l1f_WLWHFjA)
 - **The Time Jumpers** - _"On The Outskirts of Town"_ (Martin) [youtube](https://www.youtube.com/watch?v=H0lnpL1xAfI)

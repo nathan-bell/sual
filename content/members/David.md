@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 362 tracks in total
+### 365 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Suicide</td><td>Rocket USA</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Morphine</td><td>Buena</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>FKA twigs</td><td>Perfect Stranger</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Lael Neale</td><td><a href="https://www.youtube.com/watch?v=ZCTJEofv0xM">Every Star Shivers in the Dark</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Can</td><td><a href="https://www.youtube.com/watch?v=-V0gcjFbm74">Mushroom</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Jessica Pratt</td><td><a href="https://www.youtube.com/watch?v=iEJYKJijn90">Better Hate</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -127,17 +130,17 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Nirvana</td><td><a href="https://www.youtube.com/watch?v=hEMm7gxBYSc">Where Did You Sleep Last Night?</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>The Limiñanas</td><td><a href="https://www.youtube.com/watch?v=yHoY9NqZ29k">Maria's Theme</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>The Limiñanas</td><td><a href="https://www.youtube.com/watch?v=oV_CszdsY7w">Down Underground</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Al Stewart</td><td>Year of the Cat</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Vulfpeck</td><td>Dean Town</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Jane Weaver</td><td>Did You See Butterflies?</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Lemon Pipers</td><td>Green Tambourine</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Fraternity of Man</td><td>Don't Bogart Me</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Blue Cheer</td><td>Summertime Blues</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Kim Fowley</td><td>Animal Man</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>David Axelrod</td><td>The Mental Traveler</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Tamam Shud</td><td>Sea the Swells</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Giant Sand</td><td>Warm Storm</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Lee Hazlewood</td><td>My Autumn's Done Come</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Al Stewart</td><td><a href="https://www.youtube.com/watch?v=Ak_MTXQALa0">Year of the Cat</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Vulfpeck</td><td><a href="https://www.youtube.com/watch?v=le0BLAEO93g">Dean Town</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Jane Weaver</td><td><a href="https://www.youtube.com/watch?v=zsx4Zqq9Mqc">Did You See Butterflies?</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Lemon Pipers</td><td><a href="https://www.youtube.com/watch?v=Po0CDHbnI4o">Green Tambourine</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Fraternity of Man</td><td><a href="https://www.youtube.com/watch?v=emD48UF-vqE">Don't Bogart Me</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Blue Cheer</td><td><a href="https://www.youtube.com/watch?v=as1NcX31szs">Summertime Blues</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Kim Fowley</td><td><a href="https://www.youtube.com/watch?v=xEWdLG8c37s">Animal Man</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>David Axelrod</td><td><a href="https://www.youtube.com/watch?v=pcDNMqIgrzc">The Mental Traveler</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Tamam Shud</td><td><a href="https://www.youtube.com/watch?v=Z0hhaNVxbXk">Sea the Swells</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Giant Sand</td><td><a href="https://www.youtube.com/watch?v=dxfecjn15Nk">Warm Storm</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Lee Hazlewood</td><td><a href="https://www.youtube.com/watch?v=Qo24xN9mj8Q">My Autumn's Done Come</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Squid</td><td>G.S.K.</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Gustavo Santaolalla</td><td>Lait</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Black Country, New Road</td><td>Athens, France</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>

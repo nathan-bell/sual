@@ -27,7 +27,7 @@ categories: ["Gatherings"]
 - **Christine McVie** - _"Friend"_ (Nick) [youtube](https://www.youtube.com/watch?v=hC3_J6zHV_k)
 - **Bruce Springsteen** - _"The Sun Ain't Gonna Shine Anymore"_ (Richard) [youtube](https://www.youtube.com/watch?v=B3ugToQv0c4)
 ### Don’t Judge a Book  By Its Cover
-- **Russell Smith** - _"Someday We Will"_ (Bruce)
+- **Russell Smith** - _"Someday We Will"_ (Bruce) [youtube](https://www.youtube.com/watch?v=xqJ0MudfiSk)
 - **Elvis Costello And The Roots** - _"Stick Out Your TONGUE"_ (Chris) [youtube](https://www.youtube.com/watch?v=yUMRmu4OZw4)
 - **Melvins** - _"Going Blind"_ (Nathan) [youtube](https://www.youtube.com/watch?v=crqpmb_-ke8)
 - **Laura Jean** - _"Amateurs"_ (David) [youtube](https://www.youtube.com/watch?v=EuFXyt50smY)

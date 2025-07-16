@@ -6,7 +6,7 @@ image: "/images/post/20190402_HappyBanjosSml.jpg"
 date: 2019-02-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","therollingstones","pinkfloyd","loureed","blackberrysmoke","tonyjoewhite","calexico","jasonisbell","jimwhite","sandydenny","theblackangels","mymorningjacket","thebats","grinspoon","pianomagic","oscarpeterson","rosali","herbellis","adamgreen","ahmadjamal","buddyholly","loulevyquartet","frankblackandthecatholics"]
+tags: ["nickssession","therollingstones","pinkfloyd","loureed","blackberrysmoke","tonyjoewhite","calexico","sandydenny","jasonisbell","jimwhite","theblackangels","mymorningjacket","thebats","grinspoon","pianomagic","oscarpeterson","rosali","herbellis","adamgreen","ahmadjamal","buddyholly","loulevyquartet","frankblackandthecatholics"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Black, White, Colour(s)._

@@ -6,7 +6,7 @@ image: "/images/post/1200x1200bf-60.jpg"
 date: 2024-09-24T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["brucessession","jethrotull","garynuman","returntoforever","delaneydavidson","benee","beegees","kinghannah","londongrammar","joannanewsom","buttholesurfers","battles","bradmehldau","jasonmorran","philmanzanera","londonmusicworks","thealanparsonsproject","marcelpérèsandensembleorganum","youtube"]
+tags: ["brucessession","jethrotull","garynuman","returntoforever","delaneydavidson","benee","beegees","kinghannah","londongrammar","bradmehldau","joannanewsom","buttholesurfers","battles","jasonmorran","philmanzanera","londonmusicworks","thealanparsonsproject","marcelpérèsandensembleorganum","youtube"]
 categories: ["Gatherings"]
 ---
 > We got medieval with it, before working our way towards the future.

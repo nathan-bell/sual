@@ -36,5 +36,5 @@ categories: ["Gatherings"]
 - **Madeleine Peyroux** - _"J'ai Deux Amours"_ (Nick) [youtube](https://www.youtube.com/watch?v=vix5ldhA-vA)
 - **Françoise Hardy** - _"So Many Things"_ (Nick) [youtube](https://www.youtube.com/watch?v=ljbrcZAITbQ)
 - **Gwendal** - _"Sacra Matao"_ (Bruce) [youtube](https://www.youtube.com/watch?v=Jj_uEivSuQk)
-- **Kate & Anna McGarrigle** - _"La Vache qui pleure"_ (Bruce)
+- **Kate & Anna McGarrigle** - _"La Vache qui pleure"_ (Bruce) [youtube](https://www.youtube.com/watch?v=M4-K3tyw5sY)
 - **The Cure** - _"A Forest"_ (Bruce) [youtube](https://www.youtube.com/watch?v=xik-y0xlpZ0)

@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (7 plays) and The Beatles (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Gillian Welch & Dave Rawlings</td><td>North Country</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Al Jerreau</td><td>Life Is</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Marlon Williams</td><td>Kāhore He Manu E</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Gillian Welch & Dave Rawlings</td><td><a href="https://www.youtube.com/watch?v=JfKVePzPOCA">North Country</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Al Jerreau</td><td><a href="https://www.youtube.com/watch?v=KBcvy3RCR2I">Life Is</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=zLejIq_SKTY">Kāhore He Manu E</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Robert Earl Keen</td><td><a href="https://www.youtube.com/watch?v=7lTjsU-iJyM">The Road Goes On Forever</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=45cYwDMibGo">Come Together</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=uAgsn7la3jg">Wild God</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -110,17 +110,17 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Townes Van Zandt</td><td><a href="https://www.youtube.com/watch?v=ssbo6yGq6c4">No Lonesome Tune</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Miles Davis</td><td><a href="https://www.youtube.com/watch?v=0RF4CQhcr3E">Black Satin</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Paul Weller</td><td><a href="https://www.youtube.com/watch?v=FYR0WNpTzgc">Wild Blue Wonder</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Donald Fagen</td><td>Morph the Cat</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Waterboys</td><td>The Return of Pan</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Mutton Birds</td><td>Anchor Me</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Cilla Black</td><td>Anyone Who Had a Heart</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Simon & Garfunkel</td><td>Mrs. Robinson</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Chicken Shack</td><td>Baby's Got Me Crying</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Traffic</td><td>(Roamin' Thro' the Gloamin' With) 40,000 Headman</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Beatles</td><td>Revolution 9</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Beach Boys</td><td>Don't Go Near the Water</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Bryan Ferry</td><td>A Hard Rain's A-Gonna Fall</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>The Band</td><td>King Harvest (Has Surely Come)</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=Sv6daGTR45Y">Morph the Cat</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Waterboys</td><td><a href="https://www.youtube.com/watch?v=tbllDY3baHk">The Return of Pan</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Mutton Birds</td><td><a href="https://www.youtube.com/watch?v=kPIhhqM4b4s">Anchor Me</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Cilla Black</td><td><a href="https://www.youtube.com/watch?v=ZUxn6JLwdDY">Anyone Who Had a Heart</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Simon & Garfunkel</td><td><a href="https://www.youtube.com/watch?v=9C1BCAgu2I8">Mrs. Robinson</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Chicken Shack</td><td><a href="https://www.youtube.com/watch?v=0pN_WUnE0hk">Baby's Got Me Crying</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Traffic</td><td><a href="https://www.youtube.com/watch?v=EAoNht69riY">(Roamin' Thro' the Gloamin' With) 40,000 Headman</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=SNdcFPjGsm8">Revolution 9</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=YpJ-pLYmDHU">Don't Go Near the Water</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Bryan Ferry</td><td><a href="https://www.youtube.com/watch?v=alKDz9sz4nY">A Hard Rain's A-Gonna Fall</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Neil Young</td><td>I've Been Waiting for You</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
 <tr><td>Led Zeppelin</td><td>Tangerine</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
 <tr><td>Crosby, Stills, Nash & Young</td><td>Long Time Gone</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>

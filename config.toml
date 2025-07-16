@@ -3,7 +3,7 @@ baseURL = "http://www.shutupandlisten.co.nz/"
 title = "Shut Up & Listen"
 theme = "bookworm"
 # post pagination
-paginate = "5"
+pagination.pagerSize = "5"
 # post excerpt
 summaryLength = "20"
 timeZone = "Pacific/Auckland"

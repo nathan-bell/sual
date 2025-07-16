@@ -6,7 +6,7 @@ image: "/images/post/20211207_IMG_1113.JPEG"
 date: 2021-12-07T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","ledzeppelin","santana","jethrotull","thedoors","bozscaggs","scottwalker","thestooges","sergegainsbourg","bertjansch","bonzodogband","johnmclaughlin","dollyparton","theshaggs","themeters","thepentangle","thefourmyula","porterwagoner","thunderclapnewman","tootsandthemaytals","youtube"]
+tags: ["richardssession","ledzeppelin","santana","jethrotull","scottwalker","thedoors","bozscaggs","thestooges","sergegainsbourg","bertjansch","bonzodogband","johnmclaughlin","dollyparton","theshaggs","themeters","thepentangle","thefourmyula","porterwagoner","thunderclapnewman","tootsandthemaytals","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _15 minutes of music,(recorded or released in) the year 1969._

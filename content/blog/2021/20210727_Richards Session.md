@@ -6,7 +6,7 @@ image: "/images/post/20210727_IMG_1134.JPG"
 date: 2021-07-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","thebeatles","paulsimon","donaldfagen","artgarfunkel","walterbecker","simonandgarfunkel","jeffersonairplane","cream","thebyrds","glencampbell","johnrenbourn","davidaxelrod","traffic","smallfaces","steppenwolf","arethafranklin","theincrediblestringband","thekinks","cillablack","thelemonpipers","bluecheer","kimfowley","loveaffair","theturtles","ohioexpress","softmachine","silverapples","chickenshack","thestoneponeys","theelectricflag","thebeaubrummels","chachoysusrumbas","thefraternityofman","bigbrotherandtheholdingcompany"]
+tags: ["richardssession","thebeatles","paulsimon","donaldfagen","artgarfunkel","walterbecker","simonandgarfunkel","jeffersonairplane","cream","thebyrds","glencampbell","johnrenbourn","davidaxelrod","traffic","smallfaces","steppenwolf","arethafranklin","theincrediblestringband","thekinks","cillablack","thelemonpipers","bluecheer","kimfowley","loveaffair","theturtles","ohioexpress","softmachine","silverapples","chickenshack","thestoneponeys","theelectricflag","thebeaubrummels","chachoysusrumbas","thefraternityofman","bigbrotherandtheholdingcompany","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _15 from 68._

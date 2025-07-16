@@ -2,21 +2,24 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 335 tracks in total
+### 338 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Mose Allison (6 plays), Etta James (5 plays) and Scott Walker (5 plays).
+Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (6 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Mose Allison</td><td>Your Mind Is on Vacation</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Not So Far to Go</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>The Monks</td><td>Oh, How To Do Now</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Scott Walker</td><td>It's Raining Today</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Paul Butterfield's Better Days</td><td>Too Many Drivers</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Brad Mehldau</td><td>Life On Mars?</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=k6LlpU7csRk">Your Mind Is on Vacation</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=0QxxM8XLUoI">Not So Far to Go</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>The Monks</td><td><a href="https://www.youtube.com/watch?v=Bic0lgcEjY4">Oh, How To Do Now</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Pops Staples</td><td><a href="https://www.youtube.com/watch?v=F8ag31LpbCk">Why Am I Treated So Bad</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Tom Jones</td><td><a href="https://www.youtube.com/watch?v=MIIU9xkGAMs">Delilah</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=Hp8H086FlB8">Rere Mai Ngā Rau</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -125,15 +128,15 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Kelly Joe Phelps</td><td>Slingshot Professionals</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jay McShann</td><td><a href="https://www.youtube.com/watch?v=xLs4kngzHps">Blue Devil Jump</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=GG7fLOmlhYg">Smokin Out The Window</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Jimi Hendrix</td><td>Third Stone From the Sun</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Simon & Garfunkel</td><td>America</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Aretha Franklin</td><td>Think</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Beatles</td><td>Savoy Truffle</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Chacho y sus Rumbas</td><td>El pan y los dientes</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Becker & Fagen</td><td>Sun Mountain</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Caitlin Smith</td><td>Fade Into The Sun</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Greg Johnson</td><td>Beautiful Storm</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Larry Coryell, Larry Carlton, J Abercrombie,J Scofield. Tal Farlow</td><td>Autumn Leaves</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=Zts332Y-nyg">Third Stone From the Sun</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Simon & Garfunkel</td><td><a href="https://www.youtube.com/watch?v=Eo2ZsAOlvEM">America</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Aretha Franklin</td><td><a href="https://www.youtube.com/watch?v=P9yIoSpWWNE">Think</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=z9EaBjFvQpc">Savoy Truffle</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Chacho y sus Rumbas</td><td><a href="https://www.youtube.com/watch?v=fRcXM13gaCY">El pan y los dientes</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Becker & Fagen</td><td><a href="https://www.youtube.com/watch?v=2tRCIClofnI">Sun Mountain</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Caitlin Smith</td><td><a href="https://www.youtube.com/watch?v=g_HV-tZStVA">Fade Into The Sun</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Greg Johnson</td><td><a href="https://www.youtube.com/watch?v=mibqWPybeRY">Beautiful Storm</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Larry Coryell, Larry Carlton, J Abercrombie,J Scofield. Tal Farlow</td><td><a href="https://www.youtube.com/watch?v=1rsGjeYwMrE">Autumn Leaves</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Tom Jones</td><td>Tower Of Song</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Scott Walker</td><td>Medley</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Mose Allison</td><td>Modest Proposal</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>

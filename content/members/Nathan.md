@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 336 tracks in total
+### 339 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Sandy Denny</td><td>Quiet Joys Of Brotherhood</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Primus</td><td>Tommy the Cat</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>The Lounge Lizards</td><td>Incident on South Street</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=AiIEhK0P-Rw">The Curse of Millhaven (2011 - Remaster)</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>N.W.A.</td><td><a href="https://www.youtube.com/watch?v=qZuxPKUVGiw">Fuck Tha Police</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Richard Dawson</td><td><a href="https://www.youtube.com/watch?v=d-EaqWX7O74">More Than Real</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -126,16 +129,16 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Nick Cave
 <tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=8FOh2hNjBsE">You Must Be Out of Your Mind</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Cul De Sac</td><td><a href="https://www.youtube.com/watch?v=cQKYA6YC0rE">Sakhalim</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Theo Ray</td><td><a href="https://www.youtube.com/watch?v=kilPGOrmI2s">Stars</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Oysterhead</td><td>Mr. Oysterhead</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Fruit Bats</td><td>Rips Me Up</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Cass McCombs</td><td>Bum Bum Bum</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Silver Apples</td><td>Oscillations</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Beau Brummels</td><td>Turn Around</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Soft Machine</td><td>Hope for Happiness</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>The Incredible String Band</td><td>Air</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Sleaford Mods</td><td>Jobseeker</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>PJ Harvey</td><td>The Wind</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Nick Drake</td><td>The Thoughts of Mary Jane</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Oysterhead</td><td><a href="https://www.youtube.com/watch?v=9uOplBowi6Y">Mr. Oysterhead</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Fruit Bats</td><td><a href="https://www.youtube.com/watch?v=NpSKQhfCBBM">Rips Me Up</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Cass McCombs</td><td><a href="https://www.youtube.com/watch?v=zc557NARsPs">Bum Bum Bum</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Silver Apples</td><td><a href="https://www.youtube.com/watch?v=t1xOZyBc2Ck">Oscillations</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Beau Brummels</td><td><a href="https://www.youtube.com/watch?v=RAA8R-BunyA">Turn Around</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Soft Machine</td><td><a href="https://www.youtube.com/watch?v=7xlhGlaAH4Q">Hope for Happiness</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>The Incredible String Band</td><td><a href="https://www.youtube.com/watch?v=MQYq5KFWsas">Air</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Sleaford Mods</td><td><a href="https://www.youtube.com/watch?v=WhOmCYmEkvU">Jobseeker</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>PJ Harvey</td><td><a href="https://www.youtube.com/watch?v=GmOMuBYEejc">The Wind</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=XpR_OdvyRNI">The Thoughts of Mary Jane</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Rose City Band</td><td>Only Lonely</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Jim Noir</td><td>The Tired Hairy Man With Parts</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>King Gizzard & The Lizard Wizard</td><td>Nuclear Fusion</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>

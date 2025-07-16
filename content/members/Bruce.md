@@ -2,21 +2,24 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 325 tracks in total
+### 328 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>John Hiatt</td><td>You Must Go</td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Talking Heads</td><td>Road to Nowhere</td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
-<tr><td>Anna Leone</td><td>Do You Ever</td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Apocalyptica</td><td>Nothing Else Matters</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Tori Amos</td><td>Winter</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Van Canto</td><td>The Mission</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=25JYUFwRAJQ">You Must Go</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=LQiOA7euaYA">Road to Nowhere</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
+<tr><td>Anna Leone</td><td><a href="https://www.youtube.com/watch?v=YlMsLIlWqWY">Do You Ever</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=5IsSpAOD6K8">Once In a Lifetime</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>The Clash</td><td><a href="https://www.youtube.com/watch?v=EfK-WX2pa8c">London Calling</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Alison Krauss & Union Station</td><td><a href="https://www.youtube.com/watch?v=UgxpNRiSZDU">Richmond On The James</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -125,16 +128,16 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>KT Tunstall</td><td><a href="https://www.youtube.com/watch?v=xWKj96zhCpw">One Day</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Fiona Pears</td><td><a href="https://www.youtube.com/watch?v=s456O9oaC1U">Midnight in Malaga</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Henry Parker</td><td><a href="https://www.youtube.com/watch?v=43e5Ty0BwO8">Lammas Fair</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Squirrel Flower</td><td>Red Shoulder</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Prefab Sprout</td><td>Faron Young</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Deborah Conway</td><td>Will You Miss Me When You're Sober?</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Byrds</td><td>Wasn't Born to Follow</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Big Brother & the Holding Company</td><td>I Need a Man to Love</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Jefferson Airplane</td><td>In Time</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>John Renbourn</td><td>Need A Man To Love</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Cowboy Junkies</td><td>Sun Comes Up, It's Tuesday Morning</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>The Amazing Rhythm Aces</td><td>Out of the Snow</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>The Blue Aeroplanes</td><td>Jack Leaves and Back Spring</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Squirrel Flower</td><td><a href="https://www.youtube.com/watch?v=pge3R8wbvII">Red Shoulder</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Prefab Sprout</td><td><a href="https://www.youtube.com/watch?v=VAVER-QBEyI">Faron Young</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Deborah Conway</td><td><a href="https://www.youtube.com/watch?v=4YVsr6UH8Rs">Will You Miss Me When You're Sober?</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=PrU9iI2VxPE">Wasn't Born to Follow</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Big Brother & the Holding Company</td><td><a href="https://www.youtube.com/watch?v=UOOX6ZpNcMw">I Need a Man to Love</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=OfEzV8ni48A">In Time</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>John Renbourn</td><td><a href="https://www.youtube.com/watch?v=62gtaFF4GyU">Need A Man To Love</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=48pFXE28y8Y">Sun Comes Up, It's Tuesday Morning</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>The Amazing Rhythm Aces</td><td><a href="https://www.youtube.com/watch?v=TaJfo7gncvA">Out of the Snow</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>The Blue Aeroplanes</td><td><a href="https://www.youtube.com/watch?v=QlHv3t4Upus">Jack Leaves and Back Spring</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>The Chills</td><td>Walls Beyond Abandon</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Gary Numan</td><td>Intruder</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Pacific Range</td><td>Santa Monica (Through the Canyon)</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>

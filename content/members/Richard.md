@@ -2,18 +2,19 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-05-28
+date: 2025-07-16
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 342 tracks in total
+### 343 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Bruce Springsteen (12 plays), The Beatles (12 plays), Frank Zappa (12 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
+Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatles (12 plays), Frank Zappa (12 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Bruce Springsteen</td><td>My City of Ruins (Manchester May 14, 2025)</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=gUyOZS-PyTA">Glory Days</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=IMChBJZUDK8">Surfin' Safari</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=NC7cmWkBoz4">Slow Burn</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -110,17 +111,17 @@ Richard's Top 5 most played artists are: Bruce Springsteen (12 plays), The Beatl
 <tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=typ2c8JPkLE">Little Martha</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=2t0BLzHCAb4">Nadia</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=ENLFg2Zvkd4">Jeff Beck Interview</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
-<tr><td>Grinspoon</td><td>DC x 3</td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Frank Zappa</td><td>Soft Sell Conclusions</td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>Lord Huron</td><td>Long Lost</td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
-<tr><td>The Stone Poneys</td><td>Different Drum</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Small Faces</td><td>Lazy Sunday</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Ohio Express</td><td>Yummy, Yummy, Yummy</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Love Affair</td><td>A Day Without Love</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>Glen Campbell</td><td>Wichita Lineman</td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
-<tr><td>James Taylor</td><td>Summer's Here</td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Blackberry Smoke</td><td>Waiting for the Thunder</td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>BENEE</td><td>C U</td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Grinspoon</td><td><a href="https://www.youtube.com/watch?v=6OJv5QNlkBo">DC x 3</a></td><td>Animal</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=-C3vQZy5zp4">Soft Sell Conclusions</a></td><td>Vegetable</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>Lord Huron</td><td><a href="https://www.youtube.com/watch?v=G2JmQ-j0jlc">Long Lost</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
+<tr><td>The Stone Poneys</td><td><a href="https://www.youtube.com/watch?v=w9qsDgA1q8Y">Different Drum</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Small Faces</td><td><a href="https://www.youtube.com/watch?v=BKJXtTLmy_s">Lazy Sunday</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Ohio Express</td><td><a href="https://www.youtube.com/watch?v=tUwLPuc1WSo">Yummy, Yummy, Yummy</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Love Affair</td><td><a href="https://www.youtube.com/watch?v=X88fV84DcKQ">A Day Without Love</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>Glen Campbell</td><td><a href="https://www.youtube.com/watch?v=Q8P_xTBpAcY">Wichita Lineman</a></td><td>15 from 68.</td><td> Richard's Session - Jul 2021</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Shs_fjWx20M">Summer's Here</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=mE_tQDCgeJg">Waiting for the Thunder</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
+<tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=fPpI27KBd8o">C U</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Sex Pistols</td><td>Pretty Vacant</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Rick K. and the Allnighters</td><td>Sharp Dressed Man</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>America</td><td>Muskrat Love</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
