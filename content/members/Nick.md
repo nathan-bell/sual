@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-07-16
+date: 2025-08-13
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 333 tracks in total
+### 336 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (7 plays) and The Beatles (5 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (8 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=gCnpKJwzyUA">The Sacred Harp</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>The Flaming Lips</td><td><a href="https://www.youtube.com/watch?v=kjrUOlK2714">The Yeah Yeah Yeah Song</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=tEtMCSIgLGI">Song of the Lake</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Gillian Welch & Dave Rawlings</td><td><a href="https://www.youtube.com/watch?v=JfKVePzPOCA">North Country</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Al Jerreau</td><td><a href="https://www.youtube.com/watch?v=KBcvy3RCR2I">Life Is</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=zLejIq_SKTY">Kāhore He Manu E</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
@@ -121,21 +124,21 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=YpJ-pLYmDHU">Don't Go Near the Water</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Bryan Ferry</td><td><a href="https://www.youtube.com/watch?v=alKDz9sz4nY">A Hard Rain's A-Gonna Fall</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Neil Young</td><td>I've Been Waiting for You</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Led Zeppelin</td><td>Tangerine</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Crosby, Stills, Nash & Young</td><td>Long Time Gone</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Gram Parsons</td><td>Cry One More Time</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Justin Townes Earle</td><td>Day and Night</td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Captain Beefheart & His Magic Band</td><td>I'm Glad</td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>The Who</td><td>I Can See for Miles</td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Peter Green Splinter Group</td><td>Supernatural</td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Janis Joplin</td><td>Summertime</td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Ray Woolf With the New Zealand School of Music Big Band</td><td>Smoke On The Water</td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Dudley Benson</td><td>Cook Beleaguered</td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Paul Kelly</td><td>Every Fucking City</td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Courtney Barnett and Kurt Vile</td><td>Fear Is Like a Forest</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Nadia Reid</td><td>Preservation</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Keith Jarrett</td><td>Spirits 20</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=i6TYpTSEjYo">I've Been Waiting for You</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=KaFjxLMsOuo">Tangerine</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Crosby, Stills, Nash & Young</td><td><a href="https://www.youtube.com/watch?v=nS3l_TwPNRY">Long Time Gone</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Gram Parsons</td><td><a href="https://www.youtube.com/watch?v=Lt2AsJl_zzc">Cry One More Time</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Justin Townes Earle</td><td><a href="https://www.youtube.com/watch?v=LxwpsD3SyfE">Day and Night</a></td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Captain Beefheart & His Magic Band</td><td><a href="https://www.youtube.com/watch?v=TsjcQoJ8W4U">I'm Glad</a></td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>The Who</td><td><a href="https://www.youtube.com/watch?v=Q0iqg2UanEc">I Can See for Miles</a></td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Peter Green Splinter Group</td><td><a href="https://www.youtube.com/watch?v=cC48etW-Xs4">Supernatural</a></td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Janis Joplin</td><td><a href="https://www.youtube.com/watch?v=9pQMb2niOO8">Summertime</a></td><td>Nick</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Ray Woolf With the New Zealand School of Music Big Band</td><td><a href="https://www.youtube.com/watch?v=wMOjqSoN-NM">Smoke On The Water</a></td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Dudley Benson</td><td><a href="https://www.youtube.com/watch?v=2LrkmzrhFpY">Cook Beleaguered</a></td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=VyuQvbpiAp8">Every Fucking City</a></td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Courtney Barnett and Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=x_vL0cA5vuI">Fear Is Like a Forest</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Nadia Reid</td><td><a href="https://www.youtube.com/watch?v=Yay24OXOW3k">Preservation</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Keith Jarrett</td><td><a href="https://www.youtube.com/watch?v=1Yeh7OX5m4E">Spirits 20</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Eva Cassidy</td><td>Nightbird</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Courtney Barnett and Kurt Vile</td><td>Over Everything</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Richard Nunns</td><td>He poroporoaki</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>

@@ -2,21 +2,24 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-07-16
+date: 2025-08-13
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 365 tracks in total
+### 368 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Suicide</td><td>Rocket USA</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>Morphine</td><td>Buena</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>FKA twigs</td><td>Perfect Stranger</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Billy Raffoul</td><td><a href="https://www.youtube.com/watch?v=ts7D-hvTUqg">Acoustic</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Yello</td><td><a href="https://www.youtube.com/watch?v=fmJ0BQV3y0k">Till Tomorrow (feat. Till Brönner)</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Karate</td><td><a href="https://www.youtube.com/watch?v=pl_4MXxdG3w">With Age</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Suicide</td><td><a href="https://www.youtube.com/watch?v=3GN1VkRX5co">Rocket USA</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Morphine</td><td><a href="https://www.youtube.com/watch?v=Hr11Y1RKYR4">Buena</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>FKA twigs</td><td><a href="https://www.youtube.com/watch?v=iHVxIjpycNc">Perfect Stranger</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Lael Neale</td><td><a href="https://www.youtube.com/watch?v=ZCTJEofv0xM">Every Star Shivers in the Dark</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Can</td><td><a href="https://www.youtube.com/watch?v=-V0gcjFbm74">Mushroom</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Jessica Pratt</td><td><a href="https://www.youtube.com/watch?v=iEJYKJijn90">Better Hate</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -67,7 +70,7 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Sola Rosa</td><td><a href="https://www.youtube.com/watch?v=Pu_PXyIyJtE">What If? (feat. Nathan Haines)</a></td><td>Funk</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>The Roots</td><td><a href="https://www.youtube.com/watch?v=I5fuhDhKkRI">Right On (feat. Joanna Newsom)</a></td><td>Rap</td><td> Martin's Session - Nov 2023</td></tr>
 <tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=4kovhU-utOg">Actual Brutal Facts</a></td><td>Prog</td><td> Martin's Session - Nov 2023</td></tr>
-<tr><td>Guthrie Govan</td><td>2 Tracks</td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Guthrie Govan</td><td><a href="https://www.youtube.com/watch?v=-VzKyPruPgA">2 Tracks</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Kaleo</td><td><a href="https://www.youtube.com/watch?v=NOletMMI0B4">Broken Bones</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=LGs_vGt0MY8">Merry Christmas, Mr Lawrence</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>America</td><td><a href="https://www.youtube.com/watch?v=dAUUy7NMnaY">Ventura Highway</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -141,26 +144,26 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Tamam Shud</td><td><a href="https://www.youtube.com/watch?v=Z0hhaNVxbXk">Sea the Swells</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Giant Sand</td><td><a href="https://www.youtube.com/watch?v=dxfecjn15Nk">Warm Storm</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Lee Hazlewood</td><td><a href="https://www.youtube.com/watch?v=Qo24xN9mj8Q">My Autumn's Done Come</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Squid</td><td>G.S.K.</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Gustavo Santaolalla</td><td>Lait</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Black Country, New Road</td><td>Athens, France</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Yo La Tengo</td><td>Pablo and Andrea</td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Chrome</td><td>Slip It to the Android</td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>David Bowie</td><td>Stay</td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Kraftwerk</td><td>Numbers</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Japan</td><td>Visions of China</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>David Byrne</td><td>The Red House</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Fab 5 Freddy and Vex Ruffin</td><td>The Balance</td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>The Amboy Dukes</td><td>Baby Please Don't Go</td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Love</td><td>A House Is Not a Motel</td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>These Days</td><td>Nico</td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Ray Woolf and The Avengers</td><td>Little Things That Happen</td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Young Marble Giants</td><td>N.I.T.A.</td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Tortoise</td><td>The Suspension Bridge at Iguazu Falls</td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Super Furry Animals</td><td>Juxtaposed With U</td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Aphrodelics</td><td>Rollin'on chrome - Wild motherfucker dub</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Jonathan Richman</td><td>I Was Dancing in the Lesbian Bar</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Arcade Fire</td><td>Ready to Start</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Squid</td><td><a href="https://www.youtube.com/watch?v=Gb0Q5r4ZCa0">G.S.K.</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Gustavo Santaolalla</td><td><a href="https://www.youtube.com/watch?v=da6cA2IYMQg">Lait</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Black Country, New Road</td><td><a href="https://www.youtube.com/watch?v=xDcGl8tZhrs">Athens, France</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Yo La Tengo</td><td><a href="https://www.youtube.com/watch?v=aiw2VacT2rk">Pablo and Andrea</a></td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Chrome</td><td><a href="https://www.youtube.com/watch?v=wyVY8GyZKk8">Slip It to the Android</a></td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=eGuu7NiALvo">Stay</a></td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Kraftwerk</td><td><a href="https://www.youtube.com/watch?v=4YPiCeLwh5o">Numbers</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Japan</td><td><a href="https://www.youtube.com/watch?v=ll37rY-yiQQ">Visions of China</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>David Byrne</td><td><a href="https://www.youtube.com/watch?v=GB6b-0Fpee0">The Red House</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Fab 5 Freddy and Vex Ruffin</td><td><a href="https://www.youtube.com/watch?v=0BzkUDjbXm4">The Balance</a></td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>The Amboy Dukes</td><td><a href="https://www.youtube.com/watch?v=Jlv13cEDfA8">Baby Please Don't Go</a></td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Love</td><td><a href="https://www.youtube.com/watch?v=H3xzHYz6L5w">A House Is Not a Motel</a></td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>These Days</td><td><a href="https://www.youtube.com/watch?v=52ZdwZ7Ig-8">Nico</a></td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Ray Woolf and The Avengers</td><td><a href="https://www.youtube.com/watch?v=t1ZCa-5O__E">Little Things That Happen</a></td><td>David</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Young Marble Giants</td><td><a href="https://www.youtube.com/watch?v=5mCQEhOeJo8">N.I.T.A.</a></td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Tortoise</td><td><a href="https://www.youtube.com/watch?v=C_Cf3zpdSSE">The Suspension Bridge at Iguazu Falls</a></td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Super Furry Animals</td><td><a href="https://www.youtube.com/watch?v=ElrcgeS78fw">Juxtaposed With U</a></td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Aphrodelics</td><td><a href="https://www.youtube.com/watch?v=gtUvKoPm4Ik">Rollin'on chrome - Wild motherfucker dub</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Jonathan Richman</td><td><a href="https://www.youtube.com/watch?v=XjFU98mEem4">I Was Dancing in the Lesbian Bar</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Arcade Fire</td><td><a href="https://www.youtube.com/watch?v=92IKHz5vT6k">Ready to Start</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>10cc</td><td>I'm Mandy Fly Me</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Jake Thackray</td><td>Old Molly Metcalfe</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Dream Warriors</td><td>My Definition of a Bombastic Jazz Style</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>

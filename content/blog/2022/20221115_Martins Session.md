@@ -6,7 +6,7 @@ image: "/images/post/20221115_IMG_1587.jpg"
 date: 2022-11-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","steelydan","pinkfloyd","talktalk","avantdalebowlingclub","thephoenixfoundation","ironandwine","jimmypage","björk","fazerdaze","jennylewis","elviscostello","theincrediblestringband","thehu","toylove","wishboneash","gogolbordello","thepostalservice","leonidandfriends","theduckworthlewismethod","culture","theclean","suzannevega","conniefrancis","islandicdocumentry","youtube"]
+tags: ["martinssession","steelydan","pinkfloyd","talktalk","avantdalebowlingclub","thephoenixfoundation","ironandwine","jimmypage","björk","fazerdaze","jennylewis","elviscostello","theincrediblestringband","thehu","toylove","theclean","wishboneash","gogolbordello","thepostalservice","leonidandfriends","theduckworthlewismethod","culture","suzannevega","conniefrancis","islandicdocumentry","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc), a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc), a track that connects in some way with one or both of the preceding tracks. You can reveal the connection before or after playing the track._

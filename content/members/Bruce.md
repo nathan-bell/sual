@@ -2,21 +2,24 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-07-16
+date: 2025-08-13
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 328 tracks in total
+### 331 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Apocalyptica</td><td>Nothing Else Matters</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>Tori Amos</td><td>Winter</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>Van Canto</td><td>The Mission</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Vlatko Stefanovski & Miroslav Tadić</td><td><a href="https://www.youtube.com/watch?v=W37UVJMwnFw">Izlezi Vido</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=0UkLVTdg7Og">Love Alive</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>The Bevis Frond</td><td><a href="https://www.youtube.com/watch?v=FoxblhqJy7M">We Are the Dead</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Apocalyptica</td><td><a href="https://www.youtube.com/watch?v=mjvGjUovxPU">Nothing Else Matters</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Tori Amos</td><td><a href="https://www.youtube.com/watch?v=_PDlGUdDF8Y">Winter</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Van Canto</td><td><a href="https://www.youtube.com/watch?v=p3TVPegD65o">The Mission</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=25JYUFwRAJQ">You Must Go</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=LQiOA7euaYA">Road to Nowhere</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Anna Leone</td><td><a href="https://www.youtube.com/watch?v=YlMsLIlWqWY">Do You Ever</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
@@ -48,7 +51,7 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Grant Lee Buffalo</td><td><a href="https://www.youtube.com/watch?v=TOrmH4coIxk">Drag</a></td><td>Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=YLyXvG_HTMA">I Love My Leather Jacket</a></td><td>Track 2 or Track 8</td><td> Richard's Session - Aug 2024</td></tr>
 <tr><td>Jay Clarkson</td><td><a href="https://www.youtube.com/watch?v=SSqATISb66w">Wheeling</a></td><td>Back to Basics</td><td> Martin's Session - Jul 2024</td></tr>
-<tr><td>Nick Feretti</td><td>Never Leave Your lover Alone</td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
+<tr><td>Nick Feretti</td><td><a href="https://www.youtube.com/watch?v=T8VsezcjBzc">Never Leave Your lover Alone</a></td><td>Keep it Simple</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=azysyU_Rr1g">Sweet Bird of Truth</a></td><td>Give it Heaps</td><td> Martin's Session - Jul 2024</td></tr>
 <tr><td>Hüsker Dü</td><td><a href="https://www.youtube.com/watch?v=P0cAWxZzF4E">Crystal</a></td><td>I've made a lot of noise. _Iggy Pop_</td><td> Nick's Session - May 2024</td></tr>
 <tr><td>The Phoenix Foundation</td><td><a href="https://www.youtube.com/watch?v=XRPesN6bS4A">Pot</a></td><td>Bands work, on the highest level, when there is submission to a higher thing. _David Crosby_.</td><td> Nick's Session - May 2024</td></tr>
@@ -71,7 +74,7 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Julian Temple Band</td><td><a href="https://www.youtube.com/watch?v=cFz4qBiHNU8">Tunnels</a></td><td>Friday night music.</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>London Grammar</td><td><a href="https://www.youtube.com/watch?v=e0g4TtI_XTM&t=358s">Californian Soil</a></td><td>Saturday afternoon music</td><td> Chris's Session - Oct 2023</td></tr>
 <tr><td>Gotan Project</td><td><a href="https://www.youtube.com/watch?v=d3UpZydTFb0">Queremos Paz</a></td><td>Sunday night music.</td><td> Chris's Session - Oct 2023</td></tr>
-<tr><td>Christone 'Kingfish' Ingram</td><td>Video</td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
+<tr><td>Christone 'Kingfish' Ingram</td><td><a href="https://www.youtube.com/watch?v=K-nTAgOMK7w">Video</a></td><td>Amazing young guitarists.</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>King Hannah</td><td><a href="https://www.youtube.com/watch?v=s9NvnTDMS3I">A Well‐Made Woman</a></td><td>The new generation  of musicians (last 50 years)</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>Andrés Segovia</td><td><a href="https://www.youtube.com/watch?v=Q0ccBwtzOQ4">Petite valse</a></td><td>classical: from that genre or anything that in your devious tangential associative minds you feel relates to that word!</td><td> Nick's Session - Sept 2023</td></tr>
 <tr><td>The Blue Nile</td><td><a href="https://www.youtube.com/watch?v=qxK7AZEdVbU">A Walk Across the Rooftops</a></td><td>It was only $5 at the Warehouse</td><td> Nathan's Session - Aug 2023</td></tr>
@@ -93,12 +96,12 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Peter Gabriel</td><td><a href="https://www.youtube.com/watch?v=rzwMe-3XVn4">The Rhythm of the Heat</a></td><td>The heat is on!</td><td> Nick's Session - Mar 2023</td></tr>
 <tr><td>Troy Kingi</td><td><a href="https://www.youtube.com/watch?v=kQ8Hu7HIXj8">Call My Name (School)</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Teddy Thompson</td><td><a href="https://www.youtube.com/watch?v=qCO0rXJUot0">Think Again</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Russell Smith</td><td>Someday We Will</td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
+<tr><td>Russell Smith</td><td><a href="https://www.youtube.com/watch?v=xqJ0MudfiSk">Someday We Will</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Josh Pyke</td><td><a href="https://www.youtube.com/watch?v=3QnD0hHU1KA">To Find Happiness</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>David Gideon</td><td><a href="https://www.youtube.com/watch?v=0Ey7k-fUH-M">Nice to Meet You</a></td><td>New: Bring something newly discovered, preferably from this century.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Rammstein</td><td><a href="https://www.youtube.com/watch?v=EbHGS_bVkXY">Zeit</a></td><td>Year: An age, an era, a measure of time.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Gwendal</td><td><a href="https://www.youtube.com/watch?v=Jj_uEivSuQk">Sacra Matao</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
-<tr><td>Kate & Anna McGarrigle</td><td>La Vache qui pleure</td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
+<tr><td>Kate & Anna McGarrigle</td><td><a href="https://www.youtube.com/watch?v=M4-K3tyw5sY">La Vache qui pleure</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>The Cure</td><td><a href="https://www.youtube.com/watch?v=xik-y0xlpZ0">A Forest</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Toy Love</td><td><a href="https://www.youtube.com/watch?v=vp8I7phzW6c">Cold Meat</a></td><td>a track that connects with another culture (lifestyle, country, ethnic group, political persuasion, gender identity, etc)</td><td> Martin's Session - Nov 2022</td></tr>
 <tr><td>The Phoenix Foundation</td><td><a href="https://www.youtube.com/watch?v=TqbAIZhmaUo">My Kitchen Rules</a></td><td>a track that connects with a personal interest (stamp record collecting, flint knapping, ships in bottles, etc)</td><td> Martin's Session - Nov 2022</td></tr>
@@ -138,20 +141,20 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=48pFXE28y8Y">Sun Comes Up, It's Tuesday Morning</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>The Amazing Rhythm Aces</td><td><a href="https://www.youtube.com/watch?v=TaJfo7gncvA">Out of the Snow</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>The Blue Aeroplanes</td><td><a href="https://www.youtube.com/watch?v=QlHv3t4Upus">Jack Leaves and Back Spring</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>The Chills</td><td>Walls Beyond Abandon</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Gary Numan</td><td>Intruder</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Pacific Range</td><td>Santa Monica (Through the Canyon)</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Beck</td><td>Uneventful Days</td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Jim Fassett</td><td>Symphony Of Birds</td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Tamikrest</td><td>Toumast anlet</td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>The Incredible String Band</td><td>Gather 'Round</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Grateful Dead</td><td>Mama Tried</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Jefferson Airplane</td><td>3/5 of a Mile in 10 Seconds</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=gfY2eQlfmho">Walls Beyond Abandon</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Gary Numan</td><td><a href="https://www.youtube.com/watch?v=-RxebQuFgJY">Intruder</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Pacific Range</td><td><a href="https://www.youtube.com/watch?v=i296NaLab28">Santa Monica (Through the Canyon)</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=6AF_CJhpTzQ">Uneventful Days</a></td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Jim Fassett</td><td><a href="https://www.youtube.com/watch?v=7rKjOR-4964">Symphony Of Birds</a></td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Tamikrest</td><td><a href="https://www.youtube.com/watch?v=nMge3njCjc4">Toumast anlet</a></td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>The Incredible String Band</td><td><a href="https://www.youtube.com/watch?v=tJIp7ecq5-o">Gather 'Round</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=xd2W_W795iw">Mama Tried</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=sK-K6cIJTII">3/5 of a Mile in 10 Seconds</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
 <tr><td>The Phoenix Foundation</td><td>Guru</td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>A.A. Williams</td><td>Dirt</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Phoebe Bridgers</td><td>Garden Song</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Roy Buchanan</td><td>In the Beginning</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Frank Sinatra</td><td>The Birth of the Blues</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>A.A. Williams</td><td><a href="https://www.youtube.com/watch?v=2xjUmz1iM-E">Dirt</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Phoebe Bridgers</td><td><a href="https://www.youtube.com/watch?v=1u8rIx65QgA">Garden Song</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Roy Buchanan</td><td><a href="https://www.youtube.com/watch?v=Q9wwuY-6SqI">In the Beginning</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Frank Sinatra</td><td><a href="https://www.youtube.com/watch?v=2KirUGHqV28">The Birth of the Blues</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Stevie Ray Vaughan</td><td>The Things (That) I Used to Do</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>T‐Bone Burnett</td><td>The Sixties</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Joni Mitchell</td><td>Both Sides Now</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>

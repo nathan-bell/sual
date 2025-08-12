@@ -2,19 +2,22 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-07-16
+date: 2025-08-13
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 343 tracks in total
+### 346 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatles (12 plays), Frank Zappa (12 plays), James Taylor (9 plays) and Led Zeppelin (9 plays).
+Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatles (12 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Bruce Springsteen</td><td>My City of Ruins (Manchester May 14, 2025)</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=mBk98FT-wPk">Going to California (Mandolin/Guitar Mix)</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Rosanna & Zélia</td><td><a href="https://www.youtube.com/watch?v=SzJjZuHh_Mg">Baiao De 3</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Lady Gaga & Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=kPa7bsKwL-c">Die With A Smile</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=gO3r2T7D9Lw">My City of Ruins (Manchester May 14, 2025)</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=gUyOZS-PyTA">Glory Days</a></td><td>Theme: A song that tells a Story. A song with a narrative. Anything from a personal story to an epic tale.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=IMChBJZUDK8">Surfin' Safari</a></td><td>Theme:  Music that (may have) changed the World. Pick a song that had a cultural or political impact at the time of its release – maybe a protest song, anthem, or track that shaped some kind of movement.</td><td> Bruce's Session - Apr 2025</td></tr>
 <tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=NC7cmWkBoz4">Slow Burn</a></td><td>Theme: "A real goodie" A more recent song that you feel will stand the test of time and sound great years from now.</td><td> Bruce's Session - Apr 2025</td></tr>
@@ -74,7 +77,7 @@ Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatl
 <tr><td>Ramones</td><td><a href="https://www.youtube.com/watch?v=oz7KYUkdlvE">Rock 'N' Roll High School</a></td><td>Back to School</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=B3ugToQv0c4">The Sun Ain't Gonna Shine Anymore</a></td><td>Voice</td><td> Bruce's Session - Feb 2023</td></tr>
 <tr><td>Public Image Ltd</td><td><a href="https://www.youtube.com/watch?v=HURFlF8CyV8">Hawaii</a></td><td>Don’t Judge a Book  By Its Cover</td><td> Bruce's Session - Feb 2023</td></tr>
-<tr><td>Jeff Beck</td><td>Dedication [DVD]</td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=nvO2_noxaXQ">Dedication [DVD]</a></td><td>Happy: Surely we aren’t in for another annus horribilis? Let’s introduce the year to “Happy”.</td><td> David's Session - Jan 2023</td></tr>
 <tr><td>Corridor</td><td><a href="https://www.youtube.com/watch?v=wsF_NCadi9c">Domino</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Jacqueline Taïeb</td><td><a href="https://www.youtube.com/watch?v=g2D-F2KSBec">7 heures du matin</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
 <tr><td>Palatine</td><td><a href="https://www.youtube.com/watch?v=EDgXj5I60hI">Ecchymose</a></td><td>THE FRENCH CONNECTION</td><td> Richard's Session - Dec 2022</td></tr>
@@ -122,26 +125,26 @@ Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatl
 <tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Shs_fjWx20M">Summer's Here</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=mE_tQDCgeJg">Waiting for the Thunder</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>BENEE</td><td><a href="https://www.youtube.com/watch?v=fPpI27KBd8o">C U</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Sex Pistols</td><td>Pretty Vacant</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Rick K. and the Allnighters</td><td>Sharp Dressed Man</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>America</td><td>Muskrat Love</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>The Sundays</td><td>You're Not The Only One I Know</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Burt Bacharach</td><td>Walk on By</td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>The Avener</td><td>Fade Out Lines</td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Foo Fighters</td><td>Best of You</td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Stormy Monday</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Charley Starr</td><td>Duane Allman's SG</td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>The Five Americans</td><td>Western Union</td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>The Tremeloes</td><td>Silence Is Golden</td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Small Faces</td><td>Itchycoo Park</td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Traffic</td><td>Hole in My Shoe</td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>The Cowsills</td><td>The Rain, the Park & Other Things</td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Pink Floyd</td><td>Money</td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Yes</td><td>Cans and Brahms</td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Frank Zappa</td><td>Take Me Out to the Ball Game</td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Rolling Blackouts Coastal Fever</td><td>The Second Of The First</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>flowerkid</td><td>miss andry</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>The Beatles</td><td>All You Need Is Love</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Sex Pistols</td><td><a href="https://www.youtube.com/watch?v=R6GDdKrQ8EI">Pretty Vacant</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Rick K. and the Allnighters</td><td><a href="https://www.youtube.com/watch?v=EHpbGcLZcVk">Sharp Dressed Man</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>America</td><td><a href="https://www.youtube.com/watch?v=j4WB6TJW0lU">Muskrat Love</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=J4oRPL7SRh4">You're Not The Only One I Know</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Burt Bacharach</td><td><a href="https://www.youtube.com/watch?v=_ml07tLzvjY">Walk on By</a></td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>The Avener</td><td><a href="https://www.youtube.com/watch?v=hqwU7nv3hTM">Fade Out Lines</a></td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Foo Fighters</td><td><a href="https://www.youtube.com/watch?v=h_L4Rixya64">Best of You</a></td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=Bqa1s4jhkQ8">Stormy Monday</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Charley Starr</td><td><a href="https://www.youtube.com/watch?v=SekKSNzSRoY">Duane Allman's SG</a></td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>The Five Americans</td><td><a href="https://www.youtube.com/watch?v=8lN_KC_XnW4">Western Union</a></td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>The Tremeloes</td><td><a href="https://www.youtube.com/watch?v=n03g8nsaBro">Silence Is Golden</a></td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Small Faces</td><td><a href="https://www.youtube.com/watch?v=fayL1WTR1Go">Itchycoo Park</a></td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Traffic</td><td><a href="https://www.youtube.com/watch?v=a77yHpjdUtU">Hole in My Shoe</a></td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>The Cowsills</td><td><a href="https://www.youtube.com/watch?v=_B64lE4HBIk">The Rain, the Park & Other Things</a></td><td>Richard</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=-0kcet4aPpQ">Money</a></td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Yes</td><td><a href="https://www.youtube.com/watch?v=2lXCa6_VH3s">Cans and Brahms</a></td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=Q33LtOSRJyQ">Take Me Out to the Ball Game</a></td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Rolling Blackouts Coastal Fever</td><td><a href="https://www.youtube.com/watch?v=6RqDqUaL6K8">The Second Of The First</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>flowerkid</td><td><a href="https://www.youtube.com/watch?v=aNsPjSoN9TE">miss andry</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=_7xMfIp-irg">All You Need Is Love</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Tony Joe White</td><td>Polk Salad Annie</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>The Rolling Stones</td><td>Far Away Eyes</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>A.A. Williams</td><td>Melt</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>

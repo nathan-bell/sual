@@ -2,21 +2,24 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-07-16
+date: 2025-08-13
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 338 tracks in total
+### 341 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (6 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Scott Walker</td><td>It's Raining Today</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>Paul Butterfield's Better Days</td><td>Too Many Drivers</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
-<tr><td>Brad Mehldau</td><td>Life On Mars?</td><td>Everything But The Guitar</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Marcin</td><td><a href="https://www.youtube.com/watch?v=nUtTfjq7CyU">Bach's Toccata on One Guitar</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Kent Nishimura</td><td><a href="https://www.youtube.com/watch?v=0lPIPCGPNWg">Hey Nineteen</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Iris DeMent</td><td><a href="https://www.youtube.com/watch?v=nLjHcbSVmYs">Wasteland of the Free</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Scott Walker</td><td><a href="https://www.youtube.com/watch?v=fSzOcvAJmi0">It's Raining Today</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Paul Butterfield's Better Days</td><td><a href="https://www.youtube.com/watch?v=H1LKRAGnDKc">Too Many Drivers</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
+<tr><td>Brad Mehldau</td><td><a href="https://www.youtube.com/watch?v=GEbp3d5AV0Q">Life On Mars?</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=k6LlpU7csRk">Your Mind Is on Vacation</a></td><td>Holiday/Vacation</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=0QxxM8XLUoI">Not So Far to Go</a></td><td>Travel/Journey</td><td> Chris's Session - May 2025</td></tr>
 <tr><td>The Monks</td><td><a href="https://www.youtube.com/watch?v=Bic0lgcEjY4">Oh, How To Do Now</a></td><td>Whatever rings your front door bell</td><td> Chris's Session - May 2025</td></tr>
@@ -125,7 +128,7 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Scott Walker</td><td><a href="https://www.youtube.com/watch?v=fSzOcvAJmi0">It's Raining Today</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
 <tr><td>The Meters</td><td><a href="https://www.youtube.com/watch?v=MXI5Nuz6OHg">Cissy Strut</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
 <tr><td>The Bonzo Dog Band</td><td><a href="https://www.youtube.com/watch?v=CWrU3kROXww">Shirt</a></td><td>15 minutes of music,(recorded or released in) the year 1969.</td><td> Richard's Session - Dec 2021</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Slingshot Professionals</td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=3_ZJd8dndjU">Slingshot Professionals</a></td><td>(Predominantly) acoustic/unplugged.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jay McShann</td><td><a href="https://www.youtube.com/watch?v=xLs4kngzHps">Blue Devil Jump</a></td><td>Instrumental.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=GG7fLOmlhYg">Smokin Out The Window</a></td><td>Whatever.</td><td> Chris's Session - Nov 2021</td></tr>
 <tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=Zts332Y-nyg">Third Stone From the Sun</a></td><td>Mineral</td><td> David's Session - Oct 2021</td></tr>
@@ -137,27 +140,27 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Caitlin Smith</td><td><a href="https://www.youtube.com/watch?v=g_HV-tZStVA">Fade Into The Sun</a></td><td>Sun, Sea and Surf</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Greg Johnson</td><td><a href="https://www.youtube.com/watch?v=mibqWPybeRY">Beautiful Storm</a></td><td>Storm and Pestilence</td><td> Bruce's Session - Jun 2021</td></tr>
 <tr><td>Larry Coryell, Larry Carlton, J Abercrombie,J Scofield. Tal Farlow</td><td><a href="https://www.youtube.com/watch?v=1rsGjeYwMrE">Autumn Leaves</a></td><td>Harvest, Leaves Falling</td><td> Bruce's Session - Jun 2021</td></tr>
-<tr><td>Tom Jones</td><td>Tower Of Song</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Tom Jones</td><td><a href="https://www.youtube.com/watch?v=3JWiPFT0v2c">Tower Of Song</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
 <tr><td>Scott Walker</td><td>Medley</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Mose Allison</td><td>Modest Proposal</td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
-<tr><td>Stacey Kent</td><td>Les Eaux de mars</td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Carlos Ramos</td><td>Quadras Soltas</td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>Zappa Plays Zappa</td><td>Zomby Woof</td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
-<tr><td>The Searchers</td><td>Love Potion #9</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Jim Kweskin & The Jug Band</td><td>Rag Mama</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>The Kenny Clarke-Francy Boland Big Band</td><td>My Favorite Things</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Steely Dan</td><td>Black Friday</td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>Geoff Muldaur and Jim Kweskin</td><td>Blues in The Bottle</td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
-<tr><td>The Rolling Stones</td><td>Backstreet Girl</td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Jimi Hendrix</td><td>I Don't Live Today</td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>The Beatles</td><td>Lucy in the Sky With Diamonds</td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Vanilla Fudge</td><td>You Keep Me Hanging On</td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
-<tr><td>Zoot</td><td>Eleanor Rigby</td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>The Illustrious Blacks</td><td>Black Like Jesus</td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>The Shot Band</td><td>Songs About Drinkin' & Dyin'</td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
-<tr><td>Terence Boylan</td><td>Hey Papa</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Coco Montoya</td><td>Casting My Spell</td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>John Fogerty with Kid Rock</td><td>Born on the Bayou</td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=_m5c0jcInwc">Modest Proposal</a></td><td>You’ve got 15 minutes to fill using CD, DVD, YouTube, or any combination thereof.</td><td> Chris's Session - May 2021</td></tr>
+<tr><td>Stacey Kent</td><td><a href="https://www.youtube.com/watch?v=VrvjsjNEocU">Les Eaux de mars</a></td><td>Something fine, finessed, fragile or sofisticated</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Carlos Ramos</td><td><a href="https://www.youtube.com/watch?v=LONHRx7t2ok">Quadras Soltas</a></td><td>Something foreign, far-fetched, far out or unfamiliar</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>Zappa Plays Zappa</td><td><a href="https://www.youtube.com/watch?v=HwFkP8hjk8k">Zomby Woof</a></td><td>Something flamboyant, flashy, flaunting or florid</td><td> Martin's Session - Apr 2021</td></tr>
+<tr><td>The Searchers</td><td><a href="https://www.youtube.com/watch?v=7rXhXLsNJL8">Love Potion #9</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Jim Kweskin & The Jug Band</td><td><a href="https://www.youtube.com/watch?v=L3ko2iw2nD8">Rag Mama</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>The Kenny Clarke-Francy Boland Big Band</td><td><a href="https://www.youtube.com/watch?v=4LtjKKbFb_s">My Favorite Things</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=atZ7BlqSPUg">Black Friday</a></td><td>Your watershed year - This is the year which you consider represents the biggest shift in your musical adventures and one that has had the most influence on why you like what you like.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>Geoff Muldaur and Jim Kweskin</td><td><a href="https://www.youtube.com/watch?v=0-NZL9wOqT4">Blues in The Bottle</a></td><td>A recent discovery which you think reflects those earlier influences.</td><td> David's Session - Mar 2021</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=N--7J-pYoi4">Backstreet Girl</a></td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=KcbE9bHvj2g">I Don't Live Today</a></td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=naoknj1ebqI">Lucy in the Sky With Diamonds</a></td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Vanilla Fudge</td><td><a href="https://www.youtube.com/watch?v=3dJO47d26kc">You Keep Me Hanging On</a></td><td>Martin</td><td> Richards's Session - Feb 2021</td></tr>
+<tr><td>Zoot</td><td><a href="https://www.youtube.com/watch?v=iptr7i7sFkM">Eleanor Rigby</a></td><td>Ordinary</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>The Illustrious Blacks</td><td><a href="https://www.youtube.com/watch?v=zUxv9FERN_I">Black Like Jesus</a></td><td>Arty Farty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>The Shot Band</td><td><a href="https://www.youtube.com/watch?v=SB_LwibfJtM">Songs About Drinkin' & Dyin'</a></td><td>Witty</td><td> Chris's Session - Feb 2021</td></tr>
+<tr><td>Terence Boylan</td><td><a href="https://www.youtube.com/watch?v=EB_qNZMj6LA">Hey Papa</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>Coco Montoya</td><td><a href="https://www.youtube.com/watch?v=T64JK19E0_Q">Casting My Spell</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
+<tr><td>John Fogerty with Kid Rock</td><td><a href="https://www.youtube.com/watch?v=4YydjbIj2Bk">Born on the Bayou</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Buddy Guy</td><td>Done Got Old</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Jeff Beck</td><td>Hammerhead</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
 <tr><td>Rodger Fox Big Band</td><td>Stratus</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>

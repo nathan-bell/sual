@@ -6,7 +6,7 @@ image: "/images/post/3b7eb40nqw081.webp"
 date: 2025-07-15T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["martinssession","pinkfloyd","johnhiatt","marlonwilliams","talkingheads","kellyjoephelps","moseallison","eagles","monks","weatherreport","aljerreau","donnadean","annaleone","katchafire","ensemblesangineto","gillianwelchanddaverawlings"]
+tags: ["martinssession","brucespringsteen","scottwalker","suicide","sandydenny","primus","morphine","toriamos","fkatwigs","bradmehldau","thedeadsouth","benjaminclementine","vancanto","apocalyptica","thechieftains","oldandintheway","vijayiyersextet","theloungelizards","sonnyboywilliamsonii","paulbutterfieldsbetterdays","youtube"]
 categories: ["Gatherings"]
 ---
 > We explored a world (mostly) without guitars, and shared the quiet joys of brotherhood.
