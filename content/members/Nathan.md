@@ -2,18 +2,22 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-08-13
+date: 2025-09-25
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 342 tracks in total
+### 346 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
-Nathan's Top 5 most played artists are: The Magnetic Fields (9 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
+Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Drive-By Truckers</td><td>Birthday Boy</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Garageland</td><td>Jesus I'm Freezing</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Daryl Hall & John Oates</td><td>Everytime You Go Away</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>The Magnetic Fields</td><td>You Must Be Out of Your Mind</td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Hayden Pedigo</td><td><a href="https://www.youtube.com/watch?v=nrETplaZ6ZU">I'll Be Waving As You Drive Away</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>caroline</td><td><a href="https://www.youtube.com/watch?v=cwUapT421Xs">Total Euphoria</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Godspeed You! Black Emperor</td><td><a href="https://www.youtube.com/watch?v=tsgb0wgSwzA">Bosses Hang, Pt. I</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>

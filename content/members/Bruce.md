@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-08-13
+date: 2025-09-25
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -14,8 +14,8 @@ categories: ["members"]
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Vlatko Stefanovski & Miroslav Tadić</td><td><a href="https://www.youtube.com/watch?v=W37UVJMwnFw">Izlezi Vido</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
-<tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=0UkLVTdg7Og">Love Alive</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Vlatko Stefanovski & Miroslav Tadić</td><td><a href="https://www.youtube.com/watch?v=mf_cJUvfIbo&t=1126s">Izlezi Vido</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
+<tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=H1_0wrumnkQ">Love Alive</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Bevis Frond</td><td><a href="https://www.youtube.com/watch?v=FoxblhqJy7M">We Are the Dead</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Apocalyptica</td><td><a href="https://www.youtube.com/watch?v=mjvGjUovxPU">Nothing Else Matters</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>
 <tr><td>Tori Amos</td><td><a href="https://www.youtube.com/watch?v=_PDlGUdDF8Y">Winter</a></td><td>3 tracks, each featuring bands or acts with a different non-guitar lead instrument, may include vocals and guitars may be in the mix but not front & centre.</td><td> Martins's Session - Jul 2025</td></tr>

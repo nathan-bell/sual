@@ -2,18 +2,22 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-08-13
+date: 2025-09-25
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 336 tracks in total
+### 340 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (8 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Sharon Robinson</td><td>Party for the Lonely</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Ry Cooder</td><td>Kool-Aid</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Whitney Houston</td><td>I Will Always Love You</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Peter Gabriel</td><td>Blood of Eden</td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=gCnpKJwzyUA">The Sacred Harp</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Flaming Lips</td><td><a href="https://www.youtube.com/watch?v=kjrUOlK2714">The Yeah Yeah Yeah Song</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=tEtMCSIgLGI">Song of the Lake</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>

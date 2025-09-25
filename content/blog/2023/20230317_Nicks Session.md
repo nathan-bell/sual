@@ -6,7 +6,7 @@ image: "/images/post/20230317_Lou.Portrait.jpg"
 date: 2023-03-17T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","santana","loureed","themagneticfields","ettajames","marcribot","countryjoeandthefish","katebush","goldfrapp","thecramps","smallfaces","nathanhaines","chriswhitley","joanarmatrading","petergabriel","smog","hubertlaws","tomverlaine","thetriumphs","loscubanospostizos","youtube"]
+tags: ["nickssession","santana","loureed","themagneticfields","ettajames","marcribot","countryjoeandthefish","katebush","goldfrapp","thecramps","smallfaces","nathanhaines","chriswhitley","petergabriel","joanarmatrading","smog","hubertlaws","tomverlaine","thetriumphs","loscubanospostizos","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _ Song of the 🌎 Earth, The Love 😍 generation. , The heat is on!_

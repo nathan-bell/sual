@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-08-13
+date: 2025-09-25
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 346 tracks in total
+### 349 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Bruce Springsteen (13 plays), The Beatles (12 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
+Richard's Top 5 most played artists are: The Beatles (13 plays), Bruce Springsteen (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Beatles</td><td>Birthday</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Martha Reeves & The Vandellas</td><td>Heat Wave</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Cheap Trick</td><td>The Flame</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=mBk98FT-wPk">Going to California (Mandolin/Guitar Mix)</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Rosanna & Zélia</td><td><a href="https://www.youtube.com/watch?v=SzJjZuHh_Mg">Baiao De 3</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Lady Gaga & Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=kPa7bsKwL-c">Die With A Smile</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
