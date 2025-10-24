@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 331 tracks in total
+### 334 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Byrds</td><td>Turn, Turn, Turn</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Split Enz</td><td>I Hope I Never</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Gary Numan</td><td>When the World Comes Apart</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Vlatko Stefanovski & Miroslav Tadić</td><td><a href="https://www.youtube.com/watch?v=mf_cJUvfIbo&t=1126s">Izlezi Vido</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=H1_0wrumnkQ">Love Alive</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Bevis Frond</td><td><a href="https://www.youtube.com/watch?v=FoxblhqJy7M">We Are the Dead</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -155,19 +158,19 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Phoebe Bridgers</td><td><a href="https://www.youtube.com/watch?v=1u8rIx65QgA">Garden Song</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Roy Buchanan</td><td><a href="https://www.youtube.com/watch?v=Q9wwuY-6SqI">In the Beginning</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Frank Sinatra</td><td><a href="https://www.youtube.com/watch?v=2KirUGHqV28">The Birth of the Blues</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Stevie Ray Vaughan</td><td>The Things (That) I Used to Do</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>T‐Bone Burnett</td><td>The Sixties</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Joni Mitchell</td><td>Both Sides Now</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Jimi Hendrix</td><td>Straight Ahead</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Mazzy Star</td><td>Fade into You</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Cat Stevens</td><td>Can't Keep It In</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Steve Goodman</td><td>City of New Orleans</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Astor Piazzolla</td><td>Adios Nonino</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>John Zorn</td><td>Nove Cantici per Francesco d'Assisi</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Dave Dee, Dozy, Beaky, Mick & Tich</td><td>Bend It</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The La De Da's</td><td>How Is the Air up There</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>John Mayall & the Bluesbreakers</td><td>Hideaway</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Marianne Faithfull</td><td>Sally Free And Easy</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Stevie Ray Vaughan</td><td><a href="https://www.youtube.com/watch?v=Xy38VCMn81I">The Things (That) I Used to Do</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>T‐Bone Burnett</td><td><a href="https://www.youtube.com/watch?v=z802lX8SnzQ">The Sixties</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=7cBf0olE9Yc">Both Sides Now</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=RMn7-7-H704">Straight Ahead</a></td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Mazzy Star</td><td><a href="https://www.youtube.com/watch?v=ImKY6TZEyrI">Fade into You</a></td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Cat Stevens</td><td><a href="https://www.youtube.com/watch?v=0W_SGoBFJxs">Can't Keep It In</a></td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Steve Goodman</td><td><a href="https://www.youtube.com/watch?v=2SfPyg-mGhU">City of New Orleans</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Astor Piazzolla</td><td><a href="https://www.youtube.com/watch?v=VTPec8z5vdY">Adios Nonino</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>John Zorn</td><td><a href="https://www.youtube.com/watch?v=p6QmIsxQneY">Nove Cantici per Francesco d'Assisi</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Dave Dee, Dozy, Beaky, Mick & Tich</td><td><a href="https://www.youtube.com/watch?v=MSlpK0U9dhE">Bend It</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The La De Da's</td><td><a href="https://www.youtube.com/watch?v=grSme0p1BQ8">How Is the Air up There</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>John Mayall & the Bluesbreakers</td><td><a href="https://www.youtube.com/watch?v=_xes9UVj6RY">Hideaway</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Marianne Faithfull</td><td><a href="https://www.youtube.com/watch?v=vpdTvaRkVxM">Sally Free And Easy</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Mazzy Star</td><td>She Hangs Brightly</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Hüsker Dü</td><td>Don't Want to Know If You Are Lonely</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>The Cranberries</td><td>Promises</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

@@ -2,22 +2,25 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 346 tracks in total
+### 349 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Drive-By Truckers</td><td>Birthday Boy</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Garageland</td><td>Jesus I'm Freezing</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Daryl Hall & John Oates</td><td>Everytime You Go Away</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>The Magnetic Fields</td><td>You Must Be Out of Your Mind</td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Leonard Cohen</td><td>The Faith</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Angels of Light</td><td>One For Hope</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Neutral Milk Hotel</td><td>Holland, 1945</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Drive-By Truckers</td><td><a href="https://www.youtube.com/watch?v=Un9jmeLNBqY">Birthday Boy</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Garageland</td><td><a href="https://www.youtube.com/watch?v=GHitIumBvc0">Jesus I'm Freezing</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>The Darkness</td><td><a href="https://www.youtube.com/watch?v=QSGa1dW_KoE">Love Is Only a Feeling</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=8FOh2hNjBsE">You Must Be Out of Your Mind</a></td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Hayden Pedigo</td><td><a href="https://www.youtube.com/watch?v=nrETplaZ6ZU">I'll Be Waving As You Drive Away</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>caroline</td><td><a href="https://www.youtube.com/watch?v=cwUapT421Xs">Total Euphoria</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Godspeed You! Black Emperor</td><td><a href="https://www.youtube.com/watch?v=tsgb0wgSwzA">Bosses Hang, Pt. I</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -162,18 +165,18 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cav
 <tr><td>Momus</td><td><a href="https://www.youtube.com/watch?v=NiKfxVXoP0E">Ten Foot Hut</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>AJJ</td><td><a href="https://www.youtube.com/watch?v=W_BIMtdKYC4">Linda Ronstadt</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=dQaYjHIzqHw">A Better Future</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Micah P. Hinson</td><td>I Still Remember</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Tex Williams</td><td>Life Gits Tee‐Jus Don't It</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Beirut</td><td>Nantes</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Sandra Bell</td><td>Trains</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Tony Bennett</td><td>Cold, Cold Heart</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Ryoji Ikeda</td><td>Headphonics 1/0</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>The Bonzo Dog Band</td><td>Alley Oop</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Phil Ochs</td><td>Cops of the World</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Captain Beefheart</td><td>Diddy Wah Diddy</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Johnny Cash</td><td>Boa Constrictor</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Velvet Underground & Nico</td><td>The Black Angels Death Song</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Jeffrey Lewis & Los Bolts</td><td>The Pigeon</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Micah P. Hinson</td><td><a href="https://www.youtube.com/watch?v=UKCo6N9108w">I Still Remember</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Tex Williams</td><td><a href="https://www.youtube.com/watch?v=74z3avSW5KI">Life Gits Tee‐Jus Don't It</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Beirut</td><td><a href="https://www.youtube.com/watch?v=dPRYEZx01qU">Nantes</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Sandra Bell</td><td><a href="https://www.youtube.com/watch?v=pIZby1lCVSo">Trains</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Tony Bennett</td><td><a href="https://www.youtube.com/watch?v=Vbg7-kVtPKs">Cold, Cold Heart</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Ryoji Ikeda</td><td><a href="https://www.youtube.com/watch?v=Ih-ce77Ni00">Headphonics 1/0</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Bonzo Dog Band</td><td><a href="https://www.youtube.com/watch?v=SG0JgRrxqz0">Alley Oop</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Phil Ochs</td><td><a href="https://www.youtube.com/watch?v=fgrehW44g5s">Cops of the World</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Captain Beefheart</td><td><a href="https://www.youtube.com/watch?v=yXXFj5wzLFA">Diddy Wah Diddy</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Johnny Cash</td><td><a href="https://www.youtube.com/watch?v=wbL7D42ZSzQ">Boa Constrictor</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Velvet Underground & Nico</td><td><a href="https://www.youtube.com/watch?v=csuYzuVIChI">The Black Angels Death Song</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Jeffrey Lewis & Los Bolts</td><td><a href="https://www.youtube.com/watch?v=moLrBJhbLJo">The Pigeon</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Jeffrey Lewis & Los Bolts</td><td>Scowling Crackhead Ian</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Bright Eyes</td><td>At the Bottom of Everything</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Silver Jews</td><td>Trains Across the Sea</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

@@ -2,21 +2,24 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 371 tracks in total
+### 374 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Buckingham Nicks</td><td>Long Distance Winner</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Fiona Apple</td><td>Hot Knife</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>The Darkness</td><td>Love Is Only a Feeling</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Robert Plant</td><td>Everybody's Song</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Seal</td><td>Prayer for the Dying</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Halestorm</td><td>Darkness Always Wins</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Buckingham Nicks</td><td><a href="https://www.youtube.com/watch?v=B97XuHdkP2s">Long Distance Winner</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Fiona Apple</td><td><a href="https://www.youtube.com/watch?v=VG1VVFfOnYQ">Hot Knife</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Mitch & Mickey (Eugene Levy and Catherine O’Hara)</td><td><a href="https://www.youtube.com/watch?v=UKTIziMILYM">A Kiss At The End Of The Rainbow</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Billy Raffoul</td><td><a href="https://www.youtube.com/watch?v=ts7D-hvTUqg">Acoustic</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Yello</td><td><a href="https://www.youtube.com/watch?v=fmJ0BQV3y0k">Till Tomorrow (feat. Till Brönner)</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Karate</td><td><a href="https://www.youtube.com/watch?v=pl_4MXxdG3w">With Age</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -167,16 +170,16 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Aphrodelics</td><td><a href="https://www.youtube.com/watch?v=gtUvKoPm4Ik">Rollin'on chrome - Wild motherfucker dub</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Jonathan Richman</td><td><a href="https://www.youtube.com/watch?v=XjFU98mEem4">I Was Dancing in the Lesbian Bar</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Arcade Fire</td><td><a href="https://www.youtube.com/watch?v=92IKHz5vT6k">Ready to Start</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>10cc</td><td>I'm Mandy Fly Me</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Jake Thackray</td><td>Old Molly Metcalfe</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Dream Warriors</td><td>My Definition of a Bombastic Jazz Style</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>The Bevis Frond</td><td>You're on Your Own</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Vels Trio</td><td>Yellow Ochre Pt.1</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Purple Mountains</td><td>Snow Is Falling in Manhattan</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>The Monks</td><td>I Hate You</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Velvet Underground</td><td>I'm Waiting for the Man</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Rolling Stones</td><td>I Am Waiting</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Remains</td><td>Don't Look Back</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>10cc</td><td><a href="https://www.youtube.com/watch?v=3HzJ5Rg908k">I'm Mandy Fly Me</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Jake Thackray</td><td><a href="https://www.youtube.com/watch?v=TiXINuf5nbI">Old Molly Metcalfe</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Dream Warriors</td><td><a href="https://www.youtube.com/watch?v=LoE5yHMrP0A">My Definition of a Bombastic Jazz Style</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>The Bevis Frond</td><td><a href="https://www.youtube.com/watch?v=b5ksy97WPGQ">You're on Your Own</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Vels Trio</td><td><a href="https://www.youtube.com/watch?v=-tYN_b5mWbI">Yellow Ochre Pt.1</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Purple Mountains</td><td><a href="https://www.youtube.com/watch?v=50227UHWULg">Snow Is Falling in Manhattan</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Monks</td><td><a href="https://www.youtube.com/watch?v=63Agrr2qC78">I Hate You</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Velvet Underground</td><td><a href="https://www.youtube.com/watch?v=_7bsxcNdzKg">I'm Waiting for the Man</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=YJnMgZ1zSIU">I Am Waiting</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Remains</td><td><a href="https://www.youtube.com/watch?v=t-ne_H5HL88">Don't Look Back</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Stereolab</td><td>Miss Modular</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Gregg Allman</td><td>My Only True Friend</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Gang of Four</td><td>Love Like Anthrax</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

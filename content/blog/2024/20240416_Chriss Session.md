@@ -5,7 +5,7 @@ image: "/images/post/OIG3.0xdnWMTPHwxgUfdx.jpeg"
 date: 2024-04-16T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession","tomwaits","jamestaylor","crosby","thetimejumpers","pattismith","delaneydavidson","stillsandnash","theeastern","mikeoldfield","lcdsoundsystem","thequebesisters","owenpallett","thewarratahs","johnnyhorton","gayandterrywoods","tonyjoewhiteandjohnnycash","youtube"]
+tags: ["chrisssession","tomwaits","jamestaylor","crosby","thetimejumpers","pattismith","delaneydavidson","theeastern","stillsandnash","mikeoldfield","lcdsoundsystem","thequebesisters","owenpallett","thewarratahs","johnnyhorton","gayandterrywoods","tonyjoewhiteandjohnnycash","youtube"]
 categories: ["Gatherings"]
 ---
 > Despite depleted numbers, we ventured North, South and Elsewhere.  Liberal imaginative and interpretation was encouraged. 

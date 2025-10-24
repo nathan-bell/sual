@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 350 tracks in total
+### 353 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Steve Earle (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Alvin Youngblood Hart</td><td>Here Am I, Oh Lord, Send Me</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>The Eastern</td><td>Hope and Wire</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Neil Young</td><td>Cortez the Killer</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Leo Kottke</td><td><a href="https://www.youtube.com/watch?v=tXCB_fvEUNM">Morning Is The Long Way Home</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Pavement</td><td><a href="https://www.youtube.com/watch?v=lMrz3-zPVBY">Saganaw</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Clean</td><td><a href="https://www.youtube.com/watch?v=ov-Rjv7pg0w">Tally Ho</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -148,17 +151,17 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Julia Hülsmann Quartet</td><td><a href="https://www.youtube.com/watch?v=-V6zQwPi5IA">This Is Not America</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>75 Dollar Bill</td><td><a href="https://www.youtube.com/watch?v=d41_RKWvqKw">I Was Real</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=mFyHvTzCpUk">Brand New Day</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Jimi Hendrix</td><td>Drifting</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Tracy Nelson</td><td>Sad Situation</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Dr. John</td><td>Let the Good Times Roll</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Various</td><td>The Whistle Is Blowing</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Archie Shepp, Raw Poetic & Damu the Fudgemunk</td><td>Learning To Breathe</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Throwing Muses</td><td>Not Too Soon</td><td>Hey this isn't my usual genre? (Bonus Track)</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Street Musicians</td><td>A Little Girl Gives A Coin To A Street Musician And Gets The Best Surprise In Return</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Buffalo Springfield</td><td>For What It's Worth</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=WRrEP_lpN_U">Drifting</a></td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Tracy Nelson</td><td><a href="https://www.youtube.com/watch?v=9WrGwA0aZgw">Sad Situation</a></td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Dr. John</td><td><a href="https://www.youtube.com/watch?v=kEVulFZ_Eh4">Let the Good Times Roll</a></td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Various</td><td><a href="https://www.youtube.com/watch?v=oBLuVg9VAjg">The Whistle Is Blowing</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Archie Shepp, Raw Poetic & Damu the Fudgemunk</td><td><a href="https://www.youtube.com/watch?v=iVIqsYJ9okw">Learning To Breathe</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=RZI-FTcFtn8">Not Too Soon</a></td><td>Hey this isn't my usual genre? (Bonus Track)</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Street Musicians</td><td><a href="https://www.youtube.com/watch?v=ceX5jJ5fggs">A Little Girl Gives A Coin To A Street Musician And Gets The Best Surprise In Return</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Buffalo Springfield</td><td><a href="https://www.youtube.com/watch?v=gp5JCrSXkJY">For What It's Worth</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Byrds</td><td>5D (Fifth Dimension)</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Country Joe and the Fish</td><td>Section 43</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Paul Butterfield Blues Band</td><td>Mary, Mary</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=cZVrTrWLsek">Section 43</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Paul Butterfield Blues Band</td><td><a href="https://www.youtube.com/watch?v=fxpuE-yMtZc">Mary, Mary</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Jesus and Mary Chain</td><td>Darklands</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Little Feat</td><td>Somebody's Leavin'</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Steve Winwood</td><td>Can't Find My Way Home - Live</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

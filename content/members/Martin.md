@@ -2,21 +2,24 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 344 tracks in total
+### 347 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers (7 plays), Scott Walker (6 plays), Mose Allison (6 plays) and Etta James (5 plays).
+Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Louis Cole</td><td>Real Life (feat. Brad Mehldau)</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Anderson .Paak</td><td>Come Down</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Daryl Hall & John Oates</td><td>When Something Is Wrong With My Baby (Live)</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Patricia Barber</td><td>Scream</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Scott Walker</td><td>The Rope And The Colt</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Paul Simon</td><td>Wristband</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Louis Cole</td><td><a href="https://www.youtube.com/watch?v=SEeCAG4CjaA">Real Life (feat. Brad Mehldau)</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Anderson .Paak</td><td><a href="https://www.youtube.com/watch?v=rptBpOCCMWc">Come Down</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Daryl Hall & John Oates</td><td><a href="https://www.youtube.com/watch?v=NR54rkz1sek">Everytime You Go Away</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Marcin</td><td><a href="https://www.youtube.com/watch?v=nUtTfjq7CyU">Bach's Toccata on One Guitar</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Kent Nishimura</td><td><a href="https://www.youtube.com/watch?v=0lPIPCGPNWg">Hey Nineteen</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Iris DeMent</td><td><a href="https://www.youtube.com/watch?v=nLjHcbSVmYs">Wasteland of the Free</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -164,16 +167,16 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), The Time Jumpers 
 <tr><td>Terence Boylan</td><td><a href="https://www.youtube.com/watch?v=EB_qNZMj6LA">Hey Papa</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Coco Montoya</td><td><a href="https://www.youtube.com/watch?v=T64JK19E0_Q">Casting My Spell</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>John Fogerty with Kid Rock</td><td><a href="https://www.youtube.com/watch?v=4YydjbIj2Bk">Born on the Bayou</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Buddy Guy</td><td>Done Got Old</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Jeff Beck</td><td>Hammerhead</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Rodger Fox Big Band</td><td>Stratus</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Jimi Hendrix</td><td>Fire</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Esther Phillips</td><td>Alone Again (Naturally)</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Esther Phillips</td><td>Honeysuckle Rose</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Joe Horn</td><td>San Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Viagra Boys</td><td>Sports</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Helen Shapiro</td><td>Look Who It Is</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>TOOL</td><td>Pneuma</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Buddy Guy</td><td><a href="https://www.youtube.com/watch?v=itN1Sh1TvAk">Done Got Old</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=wlAXAmmk84I">Hammerhead</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Rodger Fox Big Band</td><td><a href="https://www.youtube.com/watch?v=0T54mhAmWTM">Stratus</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=9-2m07d2Neo">Fire</a></td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Esther Phillips</td><td><a href="https://www.youtube.com/watch?v=xH3DvAuF6vQ">Alone Again (Naturally)</a></td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Esther Phillips</td><td><a href="https://www.youtube.com/watch?v=YB3UyPe-m3o">Honeysuckle Rose</a></td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Joe Horn</td><td><a href="https://www.youtube.com/watch?v=IOP2TuanjMA">San Camaro</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Viagra Boys</td><td><a href="https://www.youtube.com/watch?v=QjL7D33xpS4">Sports</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Helen Shapiro</td><td><a href="https://www.youtube.com/watch?v=Dw0N9oCZCdE">Look Who It Is</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>TOOL</td><td><a href="https://www.youtube.com/watch?v=5ClCaPmAA7s">Pneuma</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
 <tr><td>Ry Cooder</td><td>The Prodigal Son</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Paul Simon</td><td>God Bless the Absentee</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Astrud Gilberto & Stan Getz</td><td>The Girl From Ipanema</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

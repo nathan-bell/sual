@@ -2,21 +2,24 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 349 tracks in total
+### 352 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: The Beatles (13 plays), Bruce Springsteen (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>The Beatles</td><td>Birthday</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Martha Reeves & The Vandellas</td><td>Heat Wave</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Cheap Trick</td><td>The Flame</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>The Seekers</td><td>Turn Turn Turn (To Everything There Is a Season)</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Golden Earring</td><td>Hope</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>The Fatima Mansions</td><td>Blues for Ceaușescu</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=dhdOPhTHeoE">Birthday</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Martha Reeves & The Vandellas</td><td><a href="https://www.youtube.com/watch?v=5k0GDQrK2jo">Heat Wave</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Cheap Trick</td><td><a href="https://www.youtube.com/watch?v=2u6uXuT9pm4">The Flame</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=mBk98FT-wPk">Going to California (Mandolin/Guitar Mix)</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Rosanna & Zélia</td><td><a href="https://www.youtube.com/watch?v=SzJjZuHh_Mg">Baiao De 3</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Lady Gaga & Bruno Mars</td><td><a href="https://www.youtube.com/watch?v=kPa7bsKwL-c">Die With A Smile</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -148,21 +151,21 @@ Richard's Top 5 most played artists are: The Beatles (13 plays), Bruce Springste
 <tr><td>Rolling Blackouts Coastal Fever</td><td><a href="https://www.youtube.com/watch?v=6RqDqUaL6K8">The Second Of The First</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>flowerkid</td><td><a href="https://www.youtube.com/watch?v=aNsPjSoN9TE">miss andry</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=_7xMfIp-irg">All You Need Is Love</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Tony Joe White</td><td>Polk Salad Annie</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>The Rolling Stones</td><td>Far Away Eyes</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>A.A. Williams</td><td>Melt</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Frank Zappa</td><td>Purple Haze</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Bruce Springsteen</td><td>Candy's Room</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>The Sundays</td><td>Joy</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Kings of Leon</td><td>Camaro</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Val Doonican</td><td>Leaving on a Jet Plane</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>The Rolling Stones</td><td>Gimme Shelter</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>The Hollies</td><td>I Can't Let Go</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Searchers</td><td>Take Me for What I'm Worth</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Bobby Fuller Four</td><td>I Fought the Law</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Nancy Sinatra</td><td>These Boots Are Made for Walking</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Simon & Garfunkel</td><td>Homeward Bound</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Beatles</td><td>Paperback Writer</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=JyXHxh3Sye0">Polk Salad Annie</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=VyK1bZZ7E-s">Far Away Eyes</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>A.A. Williams</td><td><a href="https://www.youtube.com/watch?v=PYDWOjegH7c">Melt</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=9APCmR0PzEQ">Purple Haze</a></td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=CyPfb0vOVfo">Candy's Room</a></td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>The Sundays</td><td><a href="https://www.youtube.com/watch?v=jMMalcvzYBY">Joy</a></td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Kings of Leon</td><td><a href="https://www.youtube.com/watch?v=pPwpMdLMifU">Camaro</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Val Doonican</td><td><a href="https://www.youtube.com/watch?v=3MIxcvw6LJg">Leaving on a Jet Plane</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=RbmS3tQJ7Os">Gimme Shelter</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Hollies</td><td><a href="https://www.youtube.com/watch?v=GgeF0poRj4E">I Can't Let Go</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Searchers</td><td><a href="https://www.youtube.com/watch?v=SaL8haHrIx0">Take Me for What I'm Worth</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Bobby Fuller Four</td><td><a href="https://www.youtube.com/watch?v=rZ5v8L08Flg">I Fought the Law</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Nancy Sinatra</td><td><a href="https://www.youtube.com/watch?v=GM1kzbAgo_E">These Boots Are Made for Walking</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Simon & Garfunkel</td><td><a href="https://www.youtube.com/watch?v=JKCVAXhVMkY">Homeward Bound</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=yYvkICbTZIQ">Paperback Writer</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Monkees</td><td>What Am I Doing Hanging Around</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>The Monkees</td><td>Goin' Down</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Eagles</td><td>Already Gone</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>

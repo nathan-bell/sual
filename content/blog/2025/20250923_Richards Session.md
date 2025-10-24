@@ -6,7 +6,7 @@ image: "/images/post/remove all labels fr.png"
 date: 2025-09-23T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["richardssession","thebeatles","themagneticfields","rycooder","garageland","andersonpaak","petergabriel","drivebytruckers","darylhallandjohnoates","louiscole","sharonrobinson","fionaapple","cheaptrick","drabmajesty","thedarkness","ozzyosbourne","whitneyhouston","buckinghamnicks","loosetapestries","marthareevesandthevandellas"]
+tags: ["richardssession","thebeatles","themagneticfields","rycooder","garageland","andersonpaak","petergabriel","drivebytruckers","louiscole","sharonrobinson","darylhallandjohnoates","fionaapple","cheaptrick","drabmajesty","thedarkness","ozzyosbourne","whitneyhouston","buckinghamnicks","loosetapestries","marthareevesandthevandellas","mitchandmickey(eugenelevyandcatherineo’hara","youtube"]
 categories: ["Gatherings"]
 ---
 > To commerate Richard's birthday, we shared some celebratory songs, raised (and lowered) the temperature, and finished the night off with cheese and cake.

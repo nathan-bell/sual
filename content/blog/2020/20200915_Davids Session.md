@@ -6,7 +6,7 @@ image: "/images/post/20201008_Boys.Sml.jpg"
 date: 2020-09-15T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","therollingstones","tool","throwingmuses","lucindawilliams","tonybennett","various","thebevisfrond","purplemountains","kingsofleon","astorpiazzolla","rageagainstthemachine","joehorn","velstrio","johnzorn","sandrabell","viagraboys","ryojiikeda","valdoonican","publicenemy","archieshepp","stevegoodman","helenshapiro","streetmusicians","rawpoeticanddamuthefudgemunk"]
+tags: ["davidssession","therollingstones","tool","throwingmuses","lucindawilliams","tonybennett","various","thebevisfrond","purplemountains","kingsofleon","astorpiazzolla","rageagainstthemachine","joehorn","velstrio","johnzorn","sandrabell","viagraboys","ryojiikeda","valdoonican","publicenemy","archieshepp","stevegoodman","helenshapiro","streetmusicians","rawpoeticanddamuthefudgemunk","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Planes, Trains and Automobiles , Hey this isn't my usual genre?, Hey this isn't my usual genre? (Bonus Track), WTF - Who was that?_

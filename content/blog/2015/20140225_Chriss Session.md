@@ -6,7 +6,7 @@ image: "/images/post/The-Beach-Boys-Pet-Sounds-820x820.jpg"
 date: 2014-02-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","ledzeppelin","brucespringsteen","ettajames","johnbutlertrio","nickdrake","lynyrdskynyrd","thebyrds","jimmypage","marklanegan","jasonisbell","stevemason","jonathanwilson","jacopastorius","thedecemberists","dungen","nigelgavin","brianwilson","jerrygarcia"]
+tags: ["chrisssession","ledzeppelin","brucespringsteen","ettajames","johnbutlertrio","thebyrds","nickdrake","lynyrdskynyrd","jimmypage","marklanegan","jasonisbell","stevemason","jonathanwilson","jacopastorius","thedecemberists","dungen","nigelgavin","brianwilson","jerrygarcia"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Rediscovered, Gone Solo, Best Of 2013_

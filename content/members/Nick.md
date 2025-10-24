@@ -2,22 +2,25 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-09-25
+date: 2025-10-25
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 340 tracks in total
+### 343 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Paul Kelly (9 plays), Nick Cave (8 plays) and Paul Simon (6 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Nick Cave (9 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Sharon Robinson</td><td>Party for the Lonely</td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Ry Cooder</td><td>Kool-Aid</td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Whitney Houston</td><td>I Will Always Love You</td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
-<tr><td>Peter Gabriel</td><td>Blood of Eden</td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Nick Cave</td><td>Spinning Song</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Don McGlashan</td><td>Lights Come On</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Leonard Cohen</td><td>You Want It Darker</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Sharon Robinson</td><td><a href="https://www.youtube.com/watch?v=ILX5SqFLnkU">Party for the Lonely</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=9TIpwZ1Ch_c">Kool-Aid</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Whitney Houston</td><td><a href="https://www.youtube.com/watch?v=3JWTaaS7LdU">I Will Always Love You</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
+<tr><td>Peter Gabriel</td><td><a href="https://www.youtube.com/watch?v=3XhDGkg8SpQ">Blood of Eden</a></td><td>Bonus Round - Cheesiest and Most Streamed Power Ballad</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=gCnpKJwzyUA">The Sacred Harp</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Flaming Lips</td><td><a href="https://www.youtube.com/watch?v=kjrUOlK2714">The Yeah Yeah Yeah Song</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=tEtMCSIgLGI">Song of the Lake</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -143,20 +146,20 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Courtney Barnett and Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=x_vL0cA5vuI">Fear Is Like a Forest</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Nadia Reid</td><td><a href="https://www.youtube.com/watch?v=Yay24OXOW3k">Preservation</a></td><td>Discoveries of the Year 2020</td><td> Bruce's Session - Dec 2020</td></tr>
 <tr><td>Keith Jarrett</td><td><a href="https://www.youtube.com/watch?v=1Yeh7OX5m4E">Spirits 20</a></td><td>Looking forward to 2021</td><td> Bruce's Session - Dec 2020</td></tr>
-<tr><td>Eva Cassidy</td><td>Nightbird</td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Courtney Barnett and Kurt Vile</td><td>Over Everything</td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Richard Nunns</td><td>He poroporoaki</td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
-<tr><td>Jim Hall</td><td>My One and Only Love</td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Wilco</td><td>I Am Trying to Break Your Heart</td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>The Phoenix Foundation</td><td>Eventually</td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
-<tr><td>Lucinda Williams</td><td>Big Black Train</td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Public Enemy</td><td>Man Plans God Laughs</td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>Rage Against the Machine</td><td>The Ghost of Tom Joad</td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
-<tr><td>The Beatles</td><td>Tomorrow Never Knows</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Simon & Garfunkel</td><td>The Big Bright Green Pleasure Machine</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Chicks</td><td>Ticket To Ride</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Troggs</td><td>I Can't Control Myself</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Zombies</td><td>How We Were Before</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Eva Cassidy</td><td><a href="https://www.youtube.com/watch?v=K-X1g-aEeNc">Nightbird</a></td><td>Memory</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Courtney Barnett and Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=3KNsBCf34fQ">Over Everything</a></td><td>Implicitly humorous ( oh...go on then...explicitly counts too!)</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Richard Nunns</td><td><a href="https://www.youtube.com/watch?v=OrvN6XN50n0">He poroporoaki</a></td><td>Grandeur</td><td> Nick's Session - Nov 2020</td></tr>
+<tr><td>Jim Hall</td><td><a href="https://www.youtube.com/watch?v=LaxPFDxSnws">My One and Only Love</a></td><td>Jimi Hendrix original or cover, and now extended to any other virtuoso performer!</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=3RQcPC8KY_g">I Am Trying to Break Your Heart</a></td><td>Sadness</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>The Phoenix Foundation</td><td><a href="https://www.youtube.com/watch?v=11TLGdIZX44">Eventually</a></td><td>Joyous/ joyful</td><td> Martin's Session - Oct 2020</td></tr>
+<tr><td>Lucinda Williams</td><td><a href="https://www.youtube.com/watch?v=MQmhLiVVeaA">Big Black Train</a></td><td>Planes, Trains and Automobiles</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Public Enemy</td><td><a href="https://www.youtube.com/watch?v=_ynXfdwsXMU">Man Plans God Laughs</a></td><td>Hey this isn't my usual genre?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>Rage Against the Machine</td><td><a href="https://www.youtube.com/watch?v=T-8BoWU3XMo">The Ghost of Tom Joad</a></td><td>WTF - Who was that?</td><td> David's Session - Sept 2020</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=m4BuziKGMy4">Tomorrow Never Knows</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>Simon & Garfunkel</td><td><a href="https://www.youtube.com/watch?v=g0WEIuWp3ac">The Big Bright Green Pleasure Machine</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Chicks</td><td><a href="https://www.youtube.com/watch?v=TKqdV61z2qs">Ticket To Ride</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Troggs</td><td><a href="https://www.youtube.com/watch?v=50-ASt9s6TM">I Can't Control Myself</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
+<tr><td>The Zombies</td><td><a href="https://www.youtube.com/watch?v=cqdT668sBAM">How We Were Before</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Tiny Ruins</td><td>Olympic Girls</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Mermaidens</td><td>Give It Up</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
 <tr><td>Little Bushman</td><td>Jimi</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
