@@ -6,7 +6,7 @@ image: "/images/post/1200x630wp.png"
 date: 2025-10-22T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nickssession","nickcave","neilyoung","paulsimon","garynuman","scottwalker","leonardcohen","robertplant","thebyrds","donmcglashan","splitenz","theeastern","neutralmilkhotel","alvinyoungbloodhart","seal","halestorm","theseekers","angelsoflight","goldenearring","patriciabarber","thefatimamansions"]
+tags: ["nickssession","nickcave","neilyoung","paulsimon","garynuman","scottwalker","leonardcohen","robertplant","thebyrds","donmcglashan","splitenz","theeastern","neutralmilkhotel","alvinyoungbloodhart","seal","halestorm","theseekers","angelsoflight","goldenearring","patriciabarber","thefatimamansions","youtube"]
 categories: ["Gatherings"]
 ---
 > We pondered the deep mysteries of Faith and Hope which turned to Carnage, and we explored the connections between Charles Manson, Doris Day, Melanoma, and Terry Melcher.

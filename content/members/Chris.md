@@ -2,21 +2,24 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-10-25
+date: 2025-12-02
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 353 tracks in total
+### 356 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Steve Earle (4 plays).
+Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Cowboy Junkies (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Alvin Youngblood Hart</td><td>Here Am I, Oh Lord, Send Me</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>The Eastern</td><td>Hope and Wire</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>Neil Young</td><td>Cortez the Killer</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Jeffrey Foucault</td><td>Cross of Flowers</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Borodin String Quartet</td><td>Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Cowboy Junkies</td><td>Seven Years</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Alvin Youngblood Hart</td><td><a href="https://www.youtube.com/watch?v=29prv0p5i0A&t=704s">Here Am I, Oh Lord, Send Me</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>The Eastern</td><td><a href="https://www.youtube.com/watch?v=N2Y33O7OroI">Hope and Wire</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=uX9k9aoX6gk">Cortez the Killer</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Leo Kottke</td><td><a href="https://www.youtube.com/watch?v=tXCB_fvEUNM">Morning Is The Long Way Home</a></td><td>Acoustic guitars. A song that leads in or stays the whole distance with some tasty six or twelve string acoustic alchemy.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>Pavement</td><td><a href="https://www.youtube.com/watch?v=lMrz3-zPVBY">Saganaw</a></td><td>Audiophile wankery.  A track that fully extends the sonic palate, challenges convention and epitomises musical snobbery.</td><td> David's Session - Aug 2025</td></tr>
 <tr><td>The Clean</td><td><a href="https://www.youtube.com/watch?v=ov-Rjv7pg0w">Tally Ho</a></td><td>Where have you been all these years. A track from a band or artist you wish you knew about years ago.</td><td> David's Session - Aug 2025</td></tr>
@@ -162,27 +165,27 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>The Byrds</td><td>5D (Fifth Dimension)</td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=cZVrTrWLsek">Section 43</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Paul Butterfield Blues Band</td><td><a href="https://www.youtube.com/watch?v=fxpuE-yMtZc">Mary, Mary</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Jesus and Mary Chain</td><td>Darklands</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Little Feat</td><td>Somebody's Leavin'</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Steve Winwood</td><td>Can't Find My Way Home - Live</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Boz Scaggs</td><td>On the Beach</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
-<tr><td>Jakob Dylan</td><td>I Told You I Couldn't Stop</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
-<tr><td>David Bromberg</td><td>I Like to Sleep Late in the Morning</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
-<tr><td>R.E.M.</td><td>Shiny Happy People</td><td>Worst track on one of yer favourite albums.</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>Grateful Dead</td><td>Brown‐Eyed Women</td><td>Jumpin' Jack flashes a gas gas gas!!!</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>Dwight Yoakam</td><td>Send a Message to My Heart</td><td>Lean on me!</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>The War On Drugs</td><td>Video</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Echo & the Bunnymen</td><td>All That Jazz</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>Latin Playboys</td><td>Viva la raza</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>Spirit Fingers</td><td>Release</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>The Jesus and Mary Chain</td><td><a href="https://www.youtube.com/watch?v=_w9sCTtZ9EA">Darklands</a></td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Little Feat</td><td><a href="https://www.youtube.com/watch?v=4K_BorKu2n8">Somebody's Leavin'</a></td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Steve Winwood</td><td><a href="https://www.youtube.com/watch?v=8L82II1lNjo">Can't Find My Way Home - Live</a></td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=Hmj6khcLM2Y">On the Beach</a></td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
+<tr><td>Jakob Dylan</td><td><a href="https://www.youtube.com/watch?v=n_azzEOMCWc">I Told You I Couldn't Stop</a></td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
+<tr><td>David Bromberg</td><td><a href="https://www.youtube.com/watch?v=V2CwkDm1tE0">I Like to Sleep Late in the Morning</a></td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
+<tr><td>R.E.M.</td><td><a href="https://www.youtube.com/watch?v=YYOKMUTTDdA">Shiny Happy People</a></td><td>Worst track on one of yer favourite albums.</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=M-cR8u0Jm9E">Brown‐Eyed Women</a></td><td>Jumpin' Jack flashes a gas gas gas!!!</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>Dwight Yoakam</td><td><a href="https://www.youtube.com/watch?v=SJLNl5tE1ck">Send a Message to My Heart</a></td><td>Lean on me!</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>The War On Drugs</td><td><a href="https://www.youtube.com/watch?v=MVh6XTwWhMY">Video</a></td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Echo & the Bunnymen</td><td><a href="https://www.youtube.com/watch?v=7qKBjgzyEPk">All That Jazz</a></td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Latin Playboys</td><td><a href="https://www.youtube.com/watch?v=aP0OxwMxPAY">Viva la raza</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Spirit Fingers</td><td><a href="https://www.youtube.com/watch?v=o1grXGzAzPs">Release</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
 <tr><td>Music from the film</td><td>Gigi</td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Beck</td><td>Devil's Haircut</td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Ry Cooder</td><td>Straight Street</td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Latin Playboys</td><td>Crayon Sun</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>John Mayall & The Bluesbreakers</td><td>Parchman Farm</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>Whirimako Black</td><td>Simply Beautiful</td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Cowboy Junkies</td><td>The Possessed</td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Beck</td><td>Paper Tiger</td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=aa3rBVb3v4g">Devil's Haircut</a></td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=x-jtGorNE7Q">Straight Street</a></td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Latin Playboys</td><td><a href="https://www.youtube.com/watch?v=72dMNxHHIyU">Crayon Sun</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>John Mayall & The Bluesbreakers</td><td><a href="https://www.youtube.com/watch?v=I5WZx1U48ZM">Parchman Farm</a></td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>Whirimako Black</td><td><a href="https://www.youtube.com/watch?v=C6b4ENh2g1o">Simply Beautiful</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=wkwkRBCwloM">The Possessed</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=EnkaIEfealU">Paper Tiger</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Calexico</td><td>Black Light</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>Jason Isbell and the 400 Unit</td><td>White Man's World</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>The Rolling Stones</td><td>Blue and Lonesome</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>

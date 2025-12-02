@@ -2,21 +2,24 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-10-25
+date: 2025-12-02
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 352 tracks in total
+### 355 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: The Beatles (13 plays), Bruce Springsteen (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
+Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), The Beatles (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>The Seekers</td><td>Turn Turn Turn (To Everything There Is a Season)</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>Golden Earring</td><td>Hope</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>The Fatima Mansions</td><td>Blues for Ceaușescu</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Bruce Springsteen</td><td>Used Cars</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Kaitlin Butts</td><td>Roadrunner</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Lainey Wilson</td><td>Whiskey Colored Crayon</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>The Seekers</td><td><a href="https://www.youtube.com/watch?v=VRg9NkIdjVs">Turn Turn Turn (To Everything There Is a Season)</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Golden Earring</td><td><a href="https://www.youtube.com/watch?v=YPn8fLUnT10">Hope</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>The Fatima Mansions</td><td><a href="https://www.youtube.com/watch?v=8OR8-B6AxD8">Blues for Ceaușescu</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=dhdOPhTHeoE">Birthday</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Martha Reeves & The Vandellas</td><td><a href="https://www.youtube.com/watch?v=5k0GDQrK2jo">Heat Wave</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Cheap Trick</td><td><a href="https://www.youtube.com/watch?v=2u6uXuT9pm4">The Flame</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
@@ -166,34 +169,34 @@ Richard's Top 5 most played artists are: The Beatles (13 plays), Bruce Springste
 <tr><td>Nancy Sinatra</td><td><a href="https://www.youtube.com/watch?v=GM1kzbAgo_E">These Boots Are Made for Walking</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Simon & Garfunkel</td><td><a href="https://www.youtube.com/watch?v=JKCVAXhVMkY">Homeward Bound</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=yYvkICbTZIQ">Paperback Writer</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>The Monkees</td><td>What Am I Doing Hanging Around</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>The Monkees</td><td>Goin' Down</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Eagles</td><td>Already Gone</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Christine and the Queens</td><td>Girlfriend</td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
-<tr><td>The Church</td><td>The Unguarded Moment</td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
+<tr><td>The Monkees</td><td><a href="https://www.youtube.com/watch?v=tXhw4N7uhBY">What Am I Doing Hanging Around</a></td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>The Monkees</td><td><a href="https://www.youtube.com/watch?v=fWRNUQWKhA8">Goin' Down</a></td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=NkqUMG6uycM">Already Gone</a></td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Christine and the Queens</td><td><a href="https://www.youtube.com/watch?v=S0NMTuz9Duo">Girlfriend</a></td><td>New!</td><td> Bruce's Session - Jan 2020</td></tr>
+<tr><td>The Church</td><td><a href="https://www.youtube.com/watch?v=qQvr2eF5zMM">The Unguarded Moment</a></td><td>A piece of music you played on New Years Eve (or would have wanted to play if you could choose the music being played)</td><td> Bruce's Session - Jan 2020</td></tr>
 <tr><td>Uriah Heep</td><td>Look at Yourself</td><td>A piece of music that reflects one of your resolutions or goals for the new year</td><td> Bruce's Session - Jan 2020</td></tr>
-<tr><td>Santana</td><td>Incident at Neshabur</td><td>Worst track on one of yer favourite albums.</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>The Rolling Stones</td><td>Jumping Jack Flash</td><td>Jumpin' Jack flashes a gas gas gas!!!</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>Lone Justice</td><td>Shelter</td><td>Lean on me!</td><td> Nick's Session - Dec 2019</td></tr>
-<tr><td>The Who</td><td>Won't Get Fooled Again</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Huey Lewis and the News</td><td>Bad Is Bad</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Steely Dan</td><td>Third World Man</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Led Zeppelin</td><td>Hats Off To (Roy) Harper</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>Bruce Springsteen</td><td>Adam Raised a Cain</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>James Gang</td><td>Alexis</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>Tommy Bolin</td><td>Savannah Woman</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>Tommy Bolin</td><td>Post Toastee</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>The Angels</td><td>Marseille</td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
-<tr><td>Mondo Rock</td><td>State Of The Heart</td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
-<tr><td>Aurora</td><td>The River</td><td>One track that you discover after the session at David’s last week.</td><td> Bruces's Session - Jun 2019</td></tr>
-<tr><td>Danny Kaye</td><td>Mommy, Gimme a Drinka Water!</td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Gary Puckett & the Union Gap</td><td>Woman, Woman</td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Bruce Springsteen</td><td>Hello Sunshine</td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Bruce Springsteen</td><td>Racing in the Street</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>The Beatles</td><td>A Hard Day's Night</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>First Aid Kit</td><td>It's a Shame</td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Fozzy Bear</td><td>Fozzy Bear</td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Amy Winehouse</td><td>Video</td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Santana</td><td><a href="https://www.youtube.com/watch?v=338TDhTN7HQ">Incident at Neshabur</a></td><td>Worst track on one of yer favourite albums.</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=KXUJMaYzh6U">Jumping Jack Flash</a></td><td>Jumpin' Jack flashes a gas gas gas!!!</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>Lone Justice</td><td><a href="https://www.youtube.com/watch?v=jvo9MbTkUbE">Shelter</a></td><td>Lean on me!</td><td> Nick's Session - Dec 2019</td></tr>
+<tr><td>The Who</td><td><a href="https://www.youtube.com/watch?v=_NzLs-xSss0">Won't Get Fooled Again</a></td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Huey Lewis and the News</td><td><a href="https://www.youtube.com/watch?v=7CscPTI8fwA">Bad Is Bad</a></td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=XGQtq9PD9iA">Third World Man</a></td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=Ivde5ywLQsk">Hats Off To (Roy) Harper</a></td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=PRRd78fqmIg">Adam Raised a Cain</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>James Gang</td><td><a href="https://www.youtube.com/watch?v=nVuU1X2_MXM">Alexis</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=dCGVaV-kkQg">Savannah Woman</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=A7FOTBdbPN8">Post Toastee</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>The Angels</td><td><a href="https://www.youtube.com/watch?v=6PcHcE1cLr0">Marseille</a></td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
+<tr><td>Mondo Rock</td><td><a href="https://www.youtube.com/watch?v=zOBpER0M44I">State Of The Heart</a></td><td>Two tracks that you know from the past, but have not played for at least 15 years.</td><td> Bruces's Session - Jun 2019</td></tr>
+<tr><td>Aurora</td><td><a href="https://www.youtube.com/watch?v=P7lE-G1oC34">The River</a></td><td>One track that you discover after the session at David’s last week.</td><td> Bruces's Session - Jun 2019</td></tr>
+<tr><td>Danny Kaye</td><td><a href="https://www.youtube.com/watch?v=LcxQDhRWfj4">Mommy, Gimme a Drinka Water!</a></td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Gary Puckett & the Union Gap</td><td><a href="https://www.youtube.com/watch?v=e52B4FElxYA">Woman, Woman</a></td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=icJjlg5e6l8">Hello Sunshine</a></td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=cm9UuM3UXdc">Racing in the Street</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=AMSiHdrHl0g">A Hard Day's Night</a></td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>First Aid Kit</td><td><a href="https://www.youtube.com/watch?v=bDdXe51yphI">It's a Shame</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Fozzy Bear</td><td><a href="https://www.youtube.com/watch?v=qz8jy6B1LlE">Fozzy Bear</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Amy Winehouse</td><td><a href="https://www.youtube.com/watch?v=TJAfLE39ZZ8">Video</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Grinspoon</td><td>Black Friday</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>Lou Reed</td><td>White Light/White Heat</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>Blackberry Smoke</td><td>Crimson Moon</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>

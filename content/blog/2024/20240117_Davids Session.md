@@ -5,7 +5,7 @@ image: "/images/post/OG_Whales.webp"
 date: 2024-01-17T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["davidssession","thebeatles","donaldfagen","cowboyjunkies","kurtvile","thechills","califone","altj","willjohnson","petergabriel","purplemountains","everythingbutthegirl","johntavener","laineywilson","mitski","suckers","gentlegiant","scarygoldings","victoriamonet","toyahandrobertfripp","youtube"]
+tags: ["davidssession","thebeatles","donaldfagen","cowboyjunkies","kurtvile","thechills","califone","altj","willjohnson","laineywilson","petergabriel","purplemountains","everythingbutthegirl","johntavener","mitski","suckers","gentlegiant","scarygoldings","victoriamonet","toyahandrobertfripp","youtube"]
 categories: ["Gatherings"]
 ---
 > We welcomed Richard back into the fold, enjoyed a wide range of excellent music, and learned a few interesting facts about whales.

@@ -6,7 +6,7 @@ image: "/images/post/20191105_Take.Note.Linesman.jpg"
 date: 2019-11-05T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","thebeatles","steelydan","thewho","jimihendrix","sonicyouth","khruangbin","thewarondrugs","suicide","milesdavis","nathanhaines","geneclark","lindaronstadt","straitjacketfits","animalcollective","toptopham","vashtibunyan","midgemarsden","afroceltsoundsystem","hueylewisandthenews"]
+tags: ["davidssession","thebeatles","steelydan","thewho","jimihendrix","sonicyouth","khruangbin","thewarondrugs","suicide","milesdavis","nathanhaines","geneclark","lindaronstadt","straitjacketfits","animalcollective","toptopham","vashtibunyan","midgemarsden","afroceltsoundsystem","hueylewisandthenews","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _An iconic, revered track that challenges the mainstream., A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny., Let the fireworks begin - it's Guy Fawkes after-all._

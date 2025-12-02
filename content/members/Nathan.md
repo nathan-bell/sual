@@ -2,21 +2,24 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-10-25
+date: 2025-12-02
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 349 tracks in total
+### 352 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Leonard Cohen</td><td>The Faith</td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>Angels of Light</td><td>One For Hope</td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
-<tr><td>Neutral Milk Hotel</td><td>Holland, 1945</td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Jonny Fritz</td><td>Polished Turd</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Nick Shoulders</td><td>Dixie Be Damned</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>U.S. Girls</td><td>Like James Said</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=DmihIriFBPM">The Faith</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Angels of Light</td><td><a href="https://www.youtube.com/watch?v=Sf8wiYZbRc0">One For Hope</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
+<tr><td>Neutral Milk Hotel</td><td><a href="https://www.youtube.com/watch?v=x_Et7DoYxUc">Holland, 1945</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Drive-By Truckers</td><td><a href="https://www.youtube.com/watch?v=Un9jmeLNBqY">Birthday Boy</a></td><td>Theme 1: Song title or lyrics must refer to a celebration of any kind, eg anniversary, birthday, victory, achievemen</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>Garageland</td><td><a href="https://www.youtube.com/watch?v=GHitIumBvc0">Jesus I'm Freezing</a></td><td>Theme 2: Temperature expresses the attribute of hotness or coldness and is measured with a thermometer</td><td> Richard's Session - Sept 2025</td></tr>
 <tr><td>The Darkness</td><td><a href="https://www.youtube.com/watch?v=QSGa1dW_KoE">Love Is Only a Feeling</a></td><td>Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese</td><td> Richard's Session - Sept 2025</td></tr>
@@ -177,26 +180,26 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cav
 <tr><td>Johnny Cash</td><td><a href="https://www.youtube.com/watch?v=wbL7D42ZSzQ">Boa Constrictor</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>The Velvet Underground & Nico</td><td><a href="https://www.youtube.com/watch?v=csuYzuVIChI">The Black Angels Death Song</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
 <tr><td>Jeffrey Lewis & Los Bolts</td><td><a href="https://www.youtube.com/watch?v=moLrBJhbLJo">The Pigeon</a></td><td>15 minutes of music recorded or released in 1966.</td><td> Richard's Session - Aug 2020</td></tr>
-<tr><td>Jeffrey Lewis & Los Bolts</td><td>Scowling Crackhead Ian</td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Bright Eyes</td><td>At the Bottom of Everything</td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Silver Jews</td><td>Trains Across the Sea</td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
-<tr><td>Sonic Youth</td><td>Kool Thing</td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Vashti Bunyan</td><td>Diamond Day</td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Animal Collective</td><td>Fireworks</td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
-<tr><td>Ween</td><td>Freedom of '76</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>The Magnetic Fields</td><td>Papa Was a Rodeo</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
-<tr><td>New Telepathics</td><td>My First Shotgun</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>Laura Veirs</td><td>Rapture</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>Phosphorescent</td><td>The Mermaid Parade</td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
-<tr><td>Freddie Mercury</td><td>Barcelona</td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Wilco</td><td>My Darling</td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
-<tr><td>Alexander Ebert</td><td>Awake My Body</td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
-<tr><td>The Magnetic Fields</td><td>I Don't Want to Get Over You</td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>The Magnetic Fields</td><td>Time Enough for Rocking When We're Old</td><td>Extra Track (Quiz Winner)</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>Nirvana</td><td>Drain You</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
-<tr><td>Leonard Cohen</td><td>Famous Blue Raincoat</td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>The Ukelele Orchestra of Greater Britain</td><td>Flowers</td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Bright Eyes</td><td>False Advertising</td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Jeffrey Lewis & Los Bolts</td><td><a href="https://www.youtube.com/watch?v=Krh0eNnSwk0">Scowling Crackhead Ian</a></td><td>Remaining, Or returning - e.g. bands that have never broken up, or have reformed, or members who've left and come back</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=2GHyLhbdzN0">At the Bottom of Everything</a></td><td>Leaving - E.g. bands that have broken up, or band members who've left to forge new careers</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Silver Jews</td><td><a href="https://www.youtube.com/watch?v=Da2OCjxF-3s">Trains Across the Sea</a></td><td>Gone For Good - E.g. someone from the latest crop of rock, etc, deaths</td><td> Martin's Session - Feb 2020</td></tr>
+<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=SDTSUwIZdMk">Kool Thing</a></td><td>An iconic, revered track that challenges the mainstream.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Vashti Bunyan</td><td><a href="https://www.youtube.com/watch?v=Ir5lj_LmBOk">Diamond Day</a></td><td>A stand-alone track or one that is representative of an album not appreciated at "the time" but redeemed by further scrutiny.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Animal Collective</td><td><a href="https://www.youtube.com/watch?v=ztvr09J7KK4">Fireworks</a></td><td>Let the fireworks begin - it's Guy Fawkes after-all.</td><td> David's Session - Nov 2019</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=G9M3GVejHNE">Freedom of '76</a></td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=OekbKN0TeDI">Papa Was a Rodeo</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Sept 2019</td></tr>
+<tr><td>New Telepathics</td><td><a href="https://www.youtube.com/watch?v=268r0UcC3Hg">My First Shotgun</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>Laura Veirs</td><td><a href="https://www.youtube.com/watch?v=XNk0X73RqnQ">Rapture</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>Phosphorescent</td><td><a href="https://www.youtube.com/watch?v=4SfmMrXAMyY">The Mermaid Parade</a></td><td>You have a total of up to 18 minutes (or less)</td><td> Chris's Session - Aug 2019</td></tr>
+<tr><td>Freddie Mercury</td><td><a href="https://www.youtube.com/watch?v=Y1fiOJDXA-E">Barcelona</a></td><td>Influenced: One song representative of the music your parents played.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=3Tp2cxQ-rhQ">My Darling</a></td><td>Influence: One track that you would consider to be one of the most important songs you would want your children to listen to.</td><td> David's Session - May 2019</td></tr>
+<tr><td>Alexander Ebert</td><td><a href="https://www.youtube.com/watch?v=42vVN9IN9kc">Awake My Body</a></td><td>Influenza: Go Sick! Infect us with something new and affecting.</td><td> David's Session - May 2019</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=EdbT1a_Khdo">I Don't Want to Get Over You</a></td><td>The "BANG" record, where it shifted or consolidated again</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=q6ufPcod4oM">Time Enough for Rocking When We're Old</a></td><td>Extra Track (Quiz Winner)</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>Nirvana</td><td><a href="https://www.youtube.com/watch?v=dUb69RIqfO8">Drain You</a></td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Apr 2019</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=DHqqlm9yf7M">Famous Blue Raincoat</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>The Ukelele Orchestra of Greater Britain</td><td><a href="https://www.youtube.com/watch?v=pLgJ7pk0X-s">Flowers</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
+<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=2eKmvhgMNCc">False Advertising</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Frank Black and the Catholics</td><td>Goodbye Lorraine</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>Jim White</td><td>Handcuffed to a Fence in Mississippi</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>Adam Green</td><td>Before My Bedtime</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
