@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Cowboy Junkies (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jeffrey Foucault</td><td>Cross of Flowers</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Borodin String Quartet</td><td>Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Cowboy Junkies</td><td>Seven Years</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Jeffrey Foucault</td><td><a href="https://www.youtube.com/watch?v=b4syyv6BOQQ">Cross of Flowers</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Borodin String Quartet</td><td><a href="https://www.youtube.com/watch?v=-0nKJoZY64A">Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Lkp6dz8wjnY">Seven Years</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Alvin Youngblood Hart</td><td><a href="https://www.youtube.com/watch?v=29prv0p5i0A&t=704s">Here Am I, Oh Lord, Send Me</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>The Eastern</td><td><a href="https://www.youtube.com/watch?v=N2Y33O7OroI">Hope and Wire</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=uX9k9aoX6gk">Cortez the Killer</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -187,16 +187,16 @@ Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=wkwkRBCwloM">The Possessed</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=EnkaIEfealU">Paper Tiger</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Calexico</td><td>Black Light</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Jason Isbell and the 400 Unit</td><td>White Man's World</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Jason Isbell and the 400 Unit</td><td><a href="https://www.youtube.com/watch?v=nu4dupoC7EE">White Man's World</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
 <tr><td>The Rolling Stones</td><td>Blue and Lonesome</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Natalie Merchant</td><td>Build a Levee</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Jakob</td><td>Blind Them With Science</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Aretha Franklin</td><td>Don't Play That Song (You Lied)</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Miroslav Vitouš</td><td>Scarlet Woman Variations</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Baaba Maal</td><td>Daande Lenol</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Edgar Winter's White Trash</td><td>Give It Everything You Got</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Crosby, Stills, Nash & Young</td><td>Find the Cost of Freedom</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Delvon Lamarr Organ Trio</td><td>Warm-Up Set (Live on KEXP)</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Natalie Merchant</td><td><a href="https://www.youtube.com/watch?v=dUdXLYPh4TY">Build a Levee</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Jakob</td><td><a href="https://www.youtube.com/watch?v=t4ovUVNs4VY">Blind Them With Science</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Aretha Franklin</td><td><a href="https://www.youtube.com/watch?v=pCQXc8qkVnI">Don't Play That Song (You Lied)</a></td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Miroslav Vitouš</td><td><a href="https://www.youtube.com/watch?v=9kpefu-qIjU">Scarlet Woman Variations</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Baaba Maal</td><td><a href="https://www.youtube.com/watch?v=Bla6rgfZgaI">Daande Lenol</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Edgar Winter's White Trash</td><td><a href="https://www.youtube.com/watch?v=UsBEEgX81DI">Give It Everything You Got</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Crosby, Stills, Nash & Young</td><td><a href="https://www.youtube.com/watch?v=GMfvYxK9Zoo">Find the Cost of Freedom</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Delvon Lamarr Organ Trio</td><td><a href="https://www.youtube.com/watch?v=jhicDUgXyNg">Warm-Up Set (Live on KEXP)</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>John Mayall & the Bluesbreakers</td><td>All Your Love</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Echo & the Bunnymen</td><td>Villiers Terrace</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Calexico</td><td>Under the Wheels</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

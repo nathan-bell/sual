@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jim Hall</td><td>You'd Be So Nice to Come Home To</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Merle Haggard</td><td>Goin' Away Party</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>George Shearing</td><td>Lullaby Of Birdland</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Jim Hall</td><td><a href="https://www.youtube.com/watch?v=QyKlQPwhYqU">You'd Be So Nice to Come Home To</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Merle Haggard</td><td><a href="https://www.youtube.com/watch?v=M2YaJR-3wDE">Goin' Away Party</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>George Shearing</td><td><a href="https://www.youtube.com/watch?v=7zJnoQiIqDU">Lullaby Of Birdland</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Patricia Barber</td><td><a href="https://www.youtube.com/watch?v=MZbWknYAQJs">Scream</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Scott Walker</td><td><a href="https://www.youtube.com/watch?v=4BaxedJ2mRM">The Rope And The Colt</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Paul Simon</td><td><a href="https://www.youtube.com/watch?v=9lJHVpH5v8Q">Wristband</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -210,17 +210,17 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 p
 <tr><td>Hot Club Sandwich</td><td><a href="https://www.youtube.com/watch?v=0sFzWB_t-rA">Middle Class White Boy Blues</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>The Old Spice Boys</td><td><a href="https://www.youtube.com/watch?v=TKdhECF0-BU">St. Louis Blues</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Tony Bennett</td><td><a href="https://www.youtube.com/watch?v=KJQbYSvG51Y">The Good Life</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Buddy Holly</td><td>Blue Days, Black Nights</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>The Oscar Peterson Trio & Herb Ellis</td><td>Naptown Blues</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Lou Levy Quartet</td><td>The Gray Fox</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Anne Sofie von Otter and Brooklyn Rider</td><td>Pi</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>CHON</td><td>Perfect Pillow</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Tony Joe White</td><td>Saturday Night in Oak Grove, Louisiana</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Karlheinz Stockhausen</td><td>Studie II</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Robert Gordon</td><td>Summertime Blues</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Spirit</td><td>I Got a Line on You</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Camille</td><td>Janine II</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Candy Dulfer</td><td>Pick Up The Pieces</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Buddy Holly</td><td><a href="https://www.youtube.com/watch?v=tnKiM2DQF8U">Blue Days, Black Nights</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>The Oscar Peterson Trio & Herb Ellis</td><td><a href="https://www.youtube.com/watch?v=OfShXIYTcmM">Naptown Blues</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Lou Levy Quartet</td><td><a href="https://www.youtube.com/watch?v=4i5dxZrnukU">The Gray Fox</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Anne Sofie von Otter and Brooklyn Rider</td><td><a href="https://www.youtube.com/watch?v=FJ8y3Q3-BGw">Pi</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>CHON</td><td><a href="https://www.youtube.com/watch?v=3aSX_hYpVXg">Perfect Pillow</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=tNfExcokpis">Saturday Night in Oak Grove, Louisiana</a></td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Karlheinz Stockhausen</td><td><a href="https://www.youtube.com/watch?v=_qi4hgT_d0o">Studie II</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Robert Gordon</td><td><a href="https://www.youtube.com/watch?v=BdAH836Mj6M">Summertime Blues</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Spirit</td><td><a href="https://www.youtube.com/watch?v=faEtYEP2vUs">I Got a Line on You</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=h5uhPnbLVEc">Janine II</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Candy Dulfer</td><td><a href="https://www.youtube.com/watch?v=pgQQ7k30Ti4">Pick Up The Pieces</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Siegel‐Schwall Band</td><td>Slow Blues In A</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Steely Dan</td><td>Don't Take Me Alive</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Kelsey Lu</td><td>Time</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

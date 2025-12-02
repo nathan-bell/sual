@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Nick Cave (9 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Buddy & Julie Miller</td><td>You Make My Heart Beat Too Fast</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Ali Farka TourÃ© & Toumani Diabate</td><td>Ai Ga Bani</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Marlon Williams</td><td>Kuru Pounamu</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Buddy & Julie Miller</td><td><a href="https://www.youtube.com/watch?v=YAsH41AV32s">You Make My Heart Beat Too Fast</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Ali Farka TourÃ© & Toumani Diabate</td><td><a href="https://www.youtube.com/watch?v=pJUE03aeaQ4">Ai Ga Bani</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=suXoJ4ZLUVw">Kuru Pounamu</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=Ha5VGMaG4E4">Spinning Song</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=qVZEyBaAcJE">Lights Come On</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=v0nmHymgM7Y">You Want It Darker</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -192,14 +192,14 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Over the Rhine</td><td><a href="https://www.youtube.com/watch?v=L8kqRT4ivd4">Favorite Time Of Light</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>The Wellington International Ukulele Orchestra</td><td>Weather With You</td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Shirley Bassey</td><td><a href="https://www.youtube.com/watch?v=sPg9pd95zyY">I Love You Now</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Ahmad Jamal</td><td>If I Find You Again</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>The Bats</td><td>On the Bank</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Pink Floyd</td><td>Green Is the Colour</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Chris Wood</td><td>Turtle Soup</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Ahmad Jamal</td><td><a href="https://www.youtube.com/watch?v=LgDLRWmsdQ4">If I Find You Again</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>The Bats</td><td><a href="https://www.youtube.com/watch?v=2Gb7e01EFx4">On the Bank</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=4XeWngFZaa8">Green Is the Colour</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Chris Wood</td><td><a href="https://www.youtube.com/watch?v=OLJYukrMGUA">Turtle Soup</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Alex the Kidd</td><td>Technology</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Jefferson Airplane</td><td>3/5 of a Mile in 10 Seconds</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Sweet Honey in the Rock</td><td>Gratitude</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Gillian Welch</td><td>I Dream a Highway</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=sK-K6cIJTII">3/5 of a Mile in 10 Seconds</a></td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Sweet Honey in the Rock</td><td><a href="https://www.youtube.com/watch?v=NuZT7mmOkYg">Gratitude</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=GLjcUFnZjNk">I Dream a Highway</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Neil Young</td><td>Words</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Bob Dylan</td><td>Pledging My Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Milton Nascimento</td><td>Mais Bonito Não Há</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

@@ -6,7 +6,7 @@ image: "/images/post/Black and white cart.png"
 date: 2025-11-27T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nathanssession","brucespringsteen","cowboyjunkies","marlonwilliams","echoandthebunnymen","bethorton","jonnyfritz","laineywilson","jimhall","annaleone","merlehaggard","nickshoulders","usgirls","kaitlinbutts","badbadnotgood","georgeshearing","jeffreyfoucault","thechameleonsuk","jakexerxesfussell","buddyandjuliemiller","borodinstringquartet","alifarkatourã©andtoumanidiabate"]
+tags: ["nathanssession","brucespringsteen","cowboyjunkies","marlonwilliams","echoandthebunnymen","bethorton","jonnyfritz","laineywilson","jimhall","annaleone","merlehaggard","nickshoulders","usgirls","kaitlinbutts","badbadnotgood","georgeshearing","jeffreyfoucault","thechameleonsuk","jakexerxesfussell","buddyandjuliemiller","borodinstringquartet","alifarkatoureandtoumanidiabate","youtube"]
 categories: ["Gatherings"]
 ---
 > When you read this message, think of the last 3 albums you listened to from start to finish, and pick a track from each album. 
@@ -25,7 +25,7 @@ categories: ["Gatherings"]
 - **Nick Shoulders** - _"Dixie Be Damned"_ (Nathan) [youtube](https://www.youtube.com/watch?v=yKSrkVNwq5U)
 - **The Chameleons UK** - _"Swamp Thing"_ (David) [youtube](https://www.youtube.com/watch?v=snSULNyVHC4)
 - **Merle Haggard** - _"Goin' Away Party"_ (Martin) [youtube](https://www.youtube.com/watch?v=M2YaJR-3wDE)
-- **Ali Farka TourÃ© & Toumani Diabate** - _"Ai Ga Bani"_ (Nick) [youtube](https://www.youtube.com/watch?v=pJUE03aeaQ4)
+- **Ali Farka Touré & Toumani Diabate** - _"Ai Ga Bani"_ (Nick) [youtube](https://www.youtube.com/watch?v=pJUE03aeaQ4)
 - **Kaitlin Butts** - _"Roadrunner"_ (Richard) [youtube](https://www.youtube.com/watch?v=tjYylfkBy7U)
 - **Jake Xerxes Fussell** - _"Jubilee"_ (Bruce) [youtube](https://www.youtube.com/watch?v=J4UyAo4cJdQ)
 - **Borodin String Quartet ** - _"Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo"_ (Chris) [youtube](https://www.youtube.com/watch?v=-0nKJoZY64A)

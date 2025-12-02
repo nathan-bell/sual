@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Anna Leone</td><td>Still I Wait</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Jake Xerxes Fussell</td><td>Jubilee</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Echo & The Bunnymen</td><td>Over the Wall</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Anna Leone</td><td><a href="https://www.youtube.com/watch?v=BBmUpf366Xo">Still I Wait</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Jake Xerxes Fussell</td><td><a href="https://www.youtube.com/watch?v=J4UyAo4cJdQ">Jubilee</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Echo & The Bunnymen</td><td><a href="https://www.youtube.com/watch?v=daUDqtWerUg">Over the Wall</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=xVOJla2vYx8">Turn, Turn, Turn</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Split Enz</td><td><a href="https://www.youtube.com/watch?v=Pu98BS7UkHM">I Hope I Never</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Gary Numan</td><td><a href="https://www.youtube.com/watch?v=P5E6RTDA7oc">When the World Comes Apart</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -201,14 +201,14 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>This Mortal Coil</td><td><a href="https://www.youtube.com/watch?v=HFWKJ2FUiAQ">Song to the Siren</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Jake Shimabukuro</td><td><a href="https://www.youtube.com/watch?v=p0lJfv6TbOk">While My Guitar Gently Weeps</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=idcaRTg4-fM">River Man</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Sandy Denny</td><td>Blackwaterside</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Tony Joe White</td><td>Way Down South</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Rosali</td><td>Dead and Gone</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>John Grant</td><td>Metamorphosis</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Hanggai</td><td>Hanggai</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Mazzy Star</td><td>Be My Angel</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Cat Stevens</td><td>Ruby Love</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Tash Sultana</td><td>Blackbird</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=H8ilEiv22l8">Blackwaterside</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=lIU2Rp00zdU">Way Down South</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Rosali</td><td><a href="https://www.youtube.com/watch?v=zihKlG16xdw">Dead and Gone</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=2KUm8M1vEMw">Metamorphosis</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Hanggai</td><td><a href="https://www.youtube.com/watch?v=xn4YqAEEnEg">Hanggai</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Mazzy Star</td><td><a href="https://www.youtube.com/watch?v=7WgyieNTv6c">Be My Angel</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Cat Stevens</td><td><a href="https://www.youtube.com/watch?v=TQDfIKAlGp0">Ruby Love</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Tash Sultana</td><td><a href="https://www.youtube.com/watch?v=DnGPxmxVTuE">Blackbird</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Doors</td><td>Waiting for the Sun</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Richard & Linda Thompson</td><td>Dimming of the Day</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Joe Satriani</td><td>Circles</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

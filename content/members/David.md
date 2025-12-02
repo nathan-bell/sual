@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -14,9 +14,9 @@ categories: ["members"]
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Beth Orton</td><td>Stars All Seem to Weep</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>The Chameleons UK</td><td>Swamp Thing</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>BADBADNOTGOOD</td><td>First Love</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Beth Orton</td><td><a href="https://www.youtube.com/watch?v=OsD-17YF2GQ">Stars All Seem to Weep</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>The Chameleons UK</td><td><a href="https://www.youtube.com/watch?v=snSULNyVHC4">Swamp Thing</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>BADBADNOTGOOD</td><td><a href="https://www.youtube.com/watch?v=w5gpKSKY3fg">First Love</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Robert Plant</td><td><a href="https://www.youtube.com/watch?v=tfcRe8NyFjE">Everybody's Song</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Seal</td><td><a href="https://www.youtube.com/watch?v=tS4Wh30HGAs">Prayer for the Dying</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Halestorm</td><td><a href="https://www.youtube.com/watch?v=pBnQw6t12u4">Darkness Always Wins</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -208,17 +208,17 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>The Human League</td><td><a href="https://www.youtube.com/watch?v=uPudE8nDog0">Don't You Want Me</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Portishead</td><td><a href="https://www.youtube.com/watch?v=WV73iN2nY74">Deep Water</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Mercury Rev</td><td><a href="https://www.youtube.com/watch?v=HmE0kkqkutE">The Dark Is Rising</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>The Black Angels</td><td>Black Grease</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Piano Magic</td><td>When I'm Done, This Night Will Fear Me</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>My Morning Jacket</td><td>Golden</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Laurie Anderson</td><td>Big Science</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>My Computer</td><td>Lonely</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>The Black Angels</td><td><a href="https://www.youtube.com/watch?v=6G7yLulp4oI">Black Grease</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Piano Magic</td><td><a href="https://www.youtube.com/watch?v=RomjcjSoID4">When I'm Done, This Night Will Fear Me</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>My Morning Jacket</td><td><a href="https://www.youtube.com/watch?v=bgXT-UMV_G8">Golden</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Laurie Anderson</td><td><a href="https://www.youtube.com/watch?v=vTHiN6Qwdgs">Big Science</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>My Computer</td><td><a href="https://www.youtube.com/watch?v=8vHQfgCBT10">Lonely</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Mark E Smith</td><td>Video</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Strawpeople</td><td>Trick With a Knife</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Alice Phoebe Lou</td><td>Grey</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Strawpeople</td><td><a href="https://www.youtube.com/watch?v=MRJmdDVIqvM">Trick With a Knife</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Alice Phoebe Lou</td><td><a href="https://www.youtube.com/watch?v=KMRACkJGW1Y">Grey</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Kikagaku Moyo</td><td>Kikagaku Moyo</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Brad Paisley</td><td>Dang Me</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Steven Wilson</td><td>Remainder the Black Dog</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Brad Paisley</td><td><a href="https://www.youtube.com/watch?v=rmOP1199ZPs">Dang Me</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=zjwPt1eNF9A">Remainder the Black Dog</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Who</td><td>Young Man Blues</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>David Bowie</td><td>Time</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Tobin Sprout</td><td>Angels Hang Their Socks on the Moon</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

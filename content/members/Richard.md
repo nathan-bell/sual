@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), The Beatles (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Bruce Springsteen</td><td>Used Cars</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Kaitlin Butts</td><td>Roadrunner</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Lainey Wilson</td><td>Whiskey Colored Crayon</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=67dYxOXPtfQ">Used Cars</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Kaitlin Butts</td><td><a href="https://www.youtube.com/watch?v=tjYylfkBy7U">Roadrunner</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Lainey Wilson</td><td><a href="https://www.youtube.com/watch?v=BVrGFvnzbaI">Whiskey Colored Crayon</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>The Seekers</td><td><a href="https://www.youtube.com/watch?v=VRg9NkIdjVs">Turn Turn Turn (To Everything There Is a Season)</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Golden Earring</td><td><a href="https://www.youtube.com/watch?v=YPn8fLUnT10">Hope</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>The Fatima Mansions</td><td><a href="https://www.youtube.com/watch?v=8OR8-B6AxD8">Blues for Ceaușescu</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -197,17 +197,17 @@ Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), The Beatl
 <tr><td>First Aid Kit</td><td><a href="https://www.youtube.com/watch?v=bDdXe51yphI">It's a Shame</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Fozzy Bear</td><td><a href="https://www.youtube.com/watch?v=qz8jy6B1LlE">Fozzy Bear</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Amy Winehouse</td><td><a href="https://www.youtube.com/watch?v=TJAfLE39ZZ8">Video</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Grinspoon</td><td>Black Friday</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Lou Reed</td><td>White Light/White Heat</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Blackberry Smoke</td><td>Crimson Moon</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>The Beatles</td><td>Eight Days A Week</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Kurt Vile & Steve Gunn</td><td>60/40</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Fleetwood Mac</td><td>Oh Well (Pt. 1)</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Sash!</td><td>Encore une fois</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Frank Zappa</td><td>In France</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Blackberry Smoke</td><td>Rock and Roll Again</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Frank Zappa</td><td>I'm a Band Leader</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>The Allman Brothers Band</td><td>In Memory of Elizabeth Reed</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Grinspoon</td><td><a href="https://www.youtube.com/watch?v=pSGAjxv7kMI">Black Friday</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=wY1TdzTO_8A">White Light/White Heat</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=3BTqAkJMUGE">Crimson Moon</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=XTfmuDjwQTw">Eight Days A Week</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Kurt Vile & Steve Gunn</td><td><a href="https://www.youtube.com/watch?v=tsLNfKTKW0w">60/40</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Fleetwood Mac</td><td><a href="https://www.youtube.com/watch?v=VQmmByJwKFI">Oh Well (Pt. 1)</a></td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Sash!</td><td><a href="https://www.youtube.com/watch?v=qz2bOXLEvuE">Encore une fois</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=8qW44dgpUZw">In France</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=_OXaiILmvYE">Rock and Roll Again</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=ZZJ56jOz7MQ">I'm a Band Leader</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=8SZlz9WKccE">In Memory of Elizabeth Reed</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>The Beatles</td><td>A Hard Day's Night</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Led Zeppelin</td><td>Immigrant Song</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>James Taylor</td><td>Going Around One More Time</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>

@@ -6,7 +6,7 @@ image: "/images/post/20181023_suitmesir.jpg"
 date: 2018-09-25T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","frankzappa","stevenwilson","theallmanbrothersband","crosby","gillianwelch","stills","catstevens","nashandyoung","camille","minutemen","pandabear","bradpaisley","tashsultana","candydulfer","sweethoneyintherock","delvonlamarrorgantrio"]
+tags: ["davidssession","frankzappa","stevenwilson","theallmanbrothersband","crosby","gillianwelch","stills","catstevens","nashandyoung","camille","minutemen","pandabear","bradpaisley","tashsultana","candydulfer","sweethoneyintherock","delvonlamarrorgantrio","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _ONE SHORT TRACK of any given artist or band of no more than 3 minutes. , ONE LONG TRACK of any given artist or band no longer than 18 minutes _

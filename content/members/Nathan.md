@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-12-02
+date: 2025-12-03
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jonny Fritz</td><td>Polished Turd</td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Nick Shoulders</td><td>Dixie Be Damned</td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>U.S. Girls</td><td>Like James Said</td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Jonny Fritz</td><td><a href="https://www.youtube.com/watch?v=F237XJ4bbeU">Polished Turd</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Nick Shoulders</td><td><a href="https://www.youtube.com/watch?v=yKSrkVNwq5U">Dixie Be Damned</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>U.S. Girls</td><td><a href="https://www.youtube.com/watch?v=hXmjr4WlQXo">Like James Said</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=DmihIriFBPM">The Faith</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Angels of Light</td><td><a href="https://www.youtube.com/watch?v=Sf8wiYZbRc0">One For Hope</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Neutral Milk Hotel</td><td><a href="https://www.youtube.com/watch?v=x_Et7DoYxUc">Holland, 1945</a></td><td>Theme 2: Carnage</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -200,17 +200,17 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cav
 <tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=DHqqlm9yf7M">Famous Blue Raincoat</a></td><td>An oldie but a goodie: A tune chosen by your better half</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>The Ukelele Orchestra of Greater Britain</td><td><a href="https://www.youtube.com/watch?v=pLgJ7pk0X-s">Flowers</a></td><td>A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside).</td><td> Chris's Session - Mar 2019</td></tr>
 <tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=2eKmvhgMNCc">False Advertising</a></td><td>A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today).</td><td> Chris's Session - Mar 2019</td></tr>
-<tr><td>Frank Black and the Catholics</td><td>Goodbye Lorraine</td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Jim White</td><td>Handcuffed to a Fence in Mississippi</td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>Adam Green</td><td>Before My Bedtime</td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
-<tr><td>The Folk Implosion</td><td>Mechanical Man</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>Espers</td><td>Moon Occults the Sun</td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Frank Black and the Catholics</td><td><a href="https://www.youtube.com/watch?v=dB_62jBkcvM">Goodbye Lorraine</a></td><td>Black</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Jim White</td><td><a href="https://www.youtube.com/watch?v=A7DqR1J3tFw">Handcuffed to a Fence in Mississippi</a></td><td>White</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>Adam Green</td><td><a href="https://www.youtube.com/watch?v=nfwJW9YKgzk">Before My Bedtime</a></td><td>Colour(s).</td><td> Nick's Session - Feb 2019</td></tr>
+<tr><td>The Folk Implosion</td><td><a href="https://www.youtube.com/watch?v=drK08AqxPro">Mechanical Man</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
+<tr><td>Espers</td><td><a href="https://www.youtube.com/watch?v=9GXvqYkp8Lc">Moon Occults the Sun</a></td><td>STEM (science, technology, engineering, mathematics)</td><td> Martin's Session - Nov 2018</td></tr>
 <tr><td>Nick Cave</td><td>I Let Love In</td><td>One track to commemorate a 2018 rock death.</td><td> Martin's Session - Nov 2018</td></tr>
-<tr><td>The Books</td><td>Smells Like Content</td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Gogol Bordello</td><td>Harem in Tuscany (Taranta)</td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Fugazi</td><td>Long Distance Runner</td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
-<tr><td>Minutemen</td><td>The Politics of Time</td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Panda Bear</td><td>Good Girl / Carrots</td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>The Books</td><td><a href="https://www.youtube.com/watch?v=-lr9WshYouk">Smells Like Content</a></td><td>Electronic</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Gogol Bordello</td><td><a href="https://www.youtube.com/watch?v=iBuongeFUVo">Harem in Tuscany (Taranta)</a></td><td>International</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Fugazi</td><td><a href="https://www.youtube.com/watch?v=dyu1Fy91qFM">Long Distance Runner</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
+<tr><td>Minutemen</td><td><a href="https://www.youtube.com/watch?v=g4QkQVJTuP8">The Politics of Time</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
+<tr><td>Panda Bear</td><td><a href="https://www.youtube.com/watch?v=iRk1DM04GfA">Good Girl / Carrots</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Nirvana</td><td>Territorial Pissing</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Ween</td><td>Spinal Meningitis (Got Me Down)</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
 <tr><td>Dead Kennedys</td><td>Kinky Sex Makes the World Go 'Round</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
