@@ -15,7 +15,7 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Buddy & Julie Miller</td><td><a href="https://www.youtube.com/watch?v=YAsH41AV32s">You Make My Heart Beat Too Fast</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
-<tr><td>Ali Farka TourÃ© & Toumani Diabate</td><td><a href="https://www.youtube.com/watch?v=pJUE03aeaQ4">Ai Ga Bani</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
+<tr><td>Ali Farka Touré & Toumani Diabate</td><td><a href="https://www.youtube.com/watch?v=pJUE03aeaQ4">Ai Ga Bani</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=suXoJ4ZLUVw">Kuru Pounamu</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=Ha5VGMaG4E4">Spinning Song</a></td><td>Theme 1: Faith</td><td> Nicks's Session - Oct 2025</td></tr>
 <tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=qVZEyBaAcJE">Lights Come On</a></td><td>Theme 2: Hope</td><td> Nicks's Session - Oct 2025</td></tr>
@@ -287,21 +287,36 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Nick Cave</td><td>Where the Wild Roses Grow</td><td>Round One</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Archie Roach</td><td>From Paradise</td><td>Round Two</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Yothu Yindi</td><td>Gany'tjurr</td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
-<tr><td>Archie Roach</td><td>Jamu Dreaming</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Neil Finn and Paul Kelly</td><td>Before Too Long</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Even Though I’m Blue</td><td>I’ll Say Goodbye</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Louis Armstrong and Bing Crosby</td><td>Memphis Blues</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Jackson Browne</td><td>Nothing But Time</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Don McGlashan</td><td>Girl, Make Your Own Mind Up</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Alison Krauss</td><td>How’s The World Treating You</td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
-<tr><td>Aldous Harding</td><td>Stop Your Tears</td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
-<tr><td>Neil Young</td><td>Year Of The Horse</td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
-<tr><td>Paul Kelly</td><td>Give In To My Love</td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>Bonnie Raitt and John Lee Hooker</td><td>I'm In The Mood</td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>Eels</td><td>Grace Kelly Blues</td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>Jackson Browne</td><td>Casino Nation</td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Ohio</td><td>Over The Rhine</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Michelle Shocked</td><td>Track Three ?</td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Archie Roach</td><td>Jamu Dreaming</td><td>Rebirth</td><td> Bruce’s Session - Oct 15
+'s Session - Oct 2015</td></tr>
+<tr><td>Neil Finn and Paul Kelly</td><td>Before Too Long</td><td>Green</td><td> Bruce’s Session - Oct 15
+'s Session - Oct 2015</td></tr>
+<tr><td>Even Though I’m Blue</td><td>I’ll Say Goodbye</td><td>Kiwi</td><td> Bruce’s Session - Oct 15
+'s Session - Oct 2015</td></tr>
+<tr><td>Louis Armstrong and Bing Crosby</td><td>Memphis Blues</td><td>Year of Your Birth</td><td> David’s Session - Aug 15
+'s Session - Aug 2015</td></tr>
+<tr><td>Jackson Browne</td><td>Nothing But Time</td><td>Birth Of First Child</td><td> David’s Session - Aug 15
+'s Session - Aug 2015</td></tr>
+<tr><td>Don McGlashan</td><td>Girl, Make Your Own Mind Up</td><td>Last 12 Months</td><td> David’s Session - Aug 15
+'s Session - Aug 2015</td></tr>
+<tr><td>Alison Krauss</td><td>How’s The World Treating You</td><td>Magical</td><td> Chris’s Session - Jul 15
+'s Session - Jul 2015</td></tr>
+<tr><td>Aldous Harding</td><td>Stop Your Tears</td><td>Mystery</td><td> Chris’s Session - Jul 15
+'s Session - Jul 2015</td></tr>
+<tr><td>Neil Young</td><td>Year Of The Horse</td><td>Tour</td><td> Chris’s Session - Jul 15
+'s Session - Jul 2015</td></tr>
+<tr><td>Paul Kelly</td><td>Give In To My Love</td><td>Women</td><td> Nick’s Session - Jun 15
+'s Session - Jun 2015</td></tr>
+<tr><td>Bonnie Raitt and John Lee Hooker</td><td>I'm In The Mood</td><td>Duos</td><td> Nick’s Session - Jun 15
+'s Session - Jun 2015</td></tr>
+<tr><td>Eels</td><td>Grace Kelly Blues</td><td>Royalty</td><td> Nick’s Session - Jun 15
+'s Session - Jun 2015</td></tr>
+<tr><td>Jackson Browne</td><td>Casino Nation</td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
+'s Session - May 2015</td></tr>
+<tr><td>Ohio</td><td>Over The Rhine</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
+'s Session - May 2015</td></tr>
+<tr><td>Michelle Shocked</td><td>Track Three ?</td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
+'s Session - May 2015</td></tr>
 <tr><td>Rickie Lee Jones</td><td>Balm in Gilead</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Jason Isbell</td><td>Live Oak</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Muddy Waters & The Rolling Stones</td><td>Mannish Boy</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>

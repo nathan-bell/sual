@@ -28,7 +28,7 @@ categories: ["Gatherings"]
 - **Ali Farka Touré & Toumani Diabate** - _"Ai Ga Bani"_ (Nick) [youtube](https://www.youtube.com/watch?v=pJUE03aeaQ4)
 - **Kaitlin Butts** - _"Roadrunner"_ (Richard) [youtube](https://www.youtube.com/watch?v=tjYylfkBy7U)
 - **Jake Xerxes Fussell** - _"Jubilee"_ (Bruce) [youtube](https://www.youtube.com/watch?v=J4UyAo4cJdQ)
-- **Borodin String Quartet ** - _"Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo"_ (Chris) [youtube](https://www.youtube.com/watch?v=-0nKJoZY64A)
+- **Borodin String Quartet** - _"Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo"_ (Chris) [youtube](https://www.youtube.com/watch?v=-0nKJoZY64A)
 ##### Album 3
 - **U.S. Girls** - _"Like James Said"_ (Nathan) [youtube](https://www.youtube.com/watch?v=hXmjr4WlQXo)
 - **BADBADNOTGOOD** - _"First Love"_ (David) [youtube](https://www.youtube.com/watch?v=w5gpKSKY3fg)
