@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 355 tracks in total
+### 358 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
 Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), The Beatles (13 plays), Frank Zappa (12 plays), Led Zeppelin (10 plays) and James Taylor (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>America</td><td>Tin Man</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>The Carpenters</td><td>We've Only Just Begun</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Boz Scaggs</td><td>Lowdown</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=67dYxOXPtfQ">Used Cars</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Kaitlin Butts</td><td><a href="https://www.youtube.com/watch?v=tjYylfkBy7U">Roadrunner</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Lainey Wilson</td><td><a href="https://www.youtube.com/watch?v=BVrGFvnzbaI">Whiskey Colored Crayon</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>

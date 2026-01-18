@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 337 tracks in total
+### 340 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>David Bowie</td><td>Rock 'N' Roll Suicide (Live on 3rd July 1973)</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Gene Clark</td><td>No Other</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>John Mayall & The Bluesbreakers</td><td>Blues For The Lost Days</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Anna Leone</td><td><a href="https://www.youtube.com/watch?v=BBmUpf366Xo">Still I Wait</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Jake Xerxes Fussell</td><td><a href="https://www.youtube.com/watch?v=J4UyAo4cJdQ">Jubilee</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Echo & The Bunnymen</td><td><a href="https://www.youtube.com/watch?v=daUDqtWerUg">Over the Wall</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>

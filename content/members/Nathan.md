@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 352 tracks in total
+### 355 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Yo La Tengo</td><td>Pablo and Andrea</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Hannah Jadagu</td><td>Warning Sign</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Denison Witmer</td><td>River of Music</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Jonny Fritz</td><td><a href="https://www.youtube.com/watch?v=F237XJ4bbeU">Polished Turd</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Nick Shoulders</td><td><a href="https://www.youtube.com/watch?v=yKSrkVNwq5U">Dixie Be Damned</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>U.S. Girls</td><td><a href="https://www.youtube.com/watch?v=hXmjr4WlQXo">Like James Said</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>

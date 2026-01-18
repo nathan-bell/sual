@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 350 tracks in total
+### 353 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Hank Williams</td><td>Long Gone Lonesome Blues</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Television</td><td>Marquee Moon</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Hermine Deurloo & Steve Gadd</td><td>I Know, But Tell Me Again</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Jim Hall</td><td><a href="https://www.youtube.com/watch?v=QyKlQPwhYqU">You'd Be So Nice to Come Home To</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Merle Haggard</td><td><a href="https://www.youtube.com/watch?v=M2YaJR-3wDE">Goin' Away Party</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>George Shearing</td><td><a href="https://www.youtube.com/watch?v=7zJnoQiIqDU">Lullaby Of Birdland</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>

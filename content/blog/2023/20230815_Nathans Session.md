@@ -6,7 +6,7 @@ image: "/images/post/cheapskate.jpg"
 date: 2023-08-15T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nathanssession","jeffbeck","joejackson","america","thesmiths","ironandwine","eilenjewell","donmcglashan","jimnoir","johnrenbourn","lauraveirs","pepedeluxe","bebo","chucho","heretoday","benbridwell","thebluenile","madeinamerica","jerryleelewis","gilscott‐heron","thenewbasementtapes","youtube"]
+tags: ["nathanssession","jeffbeck","america","joejackson","thesmiths","ironandwine","eilenjewell","donmcglashan","jimnoir","johnrenbourn","lauraveirs","pepedeluxe","bebo","chucho","heretoday","benbridwell","thebluenile","madeinamerica","jerryleelewis","gilscott‐heron","thenewbasementtapes","youtube"]
 categories: ["Gatherings"]
 ---
 > Nathan's guest hosted session (thanks Bruce) in which we explored the benefits of being a cheapskate.

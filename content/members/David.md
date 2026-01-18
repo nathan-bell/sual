@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 377 tracks in total
+### 380 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Michael Head</td><td>Something Like You</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>These New Puritans</td><td>Wild Fields</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Rosalía</td><td>Berghain</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Beth Orton</td><td><a href="https://www.youtube.com/watch?v=OsD-17YF2GQ">Stars All Seem to Weep</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>The Chameleons UK</td><td><a href="https://www.youtube.com/watch?v=snSULNyVHC4">Swamp Thing</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>BADBADNOTGOOD</td><td><a href="https://www.youtube.com/watch?v=w5gpKSKY3fg">First Love</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>

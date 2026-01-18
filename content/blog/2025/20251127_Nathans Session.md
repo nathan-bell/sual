@@ -6,7 +6,7 @@ image: "/images/post/Black and white cart.png"
 date: 2025-11-27T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nathanssession","brucespringsteen","cowboyjunkies","marlonwilliams","echoandthebunnymen","bethorton","jonnyfritz","laineywilson","jimhall","annaleone","merlehaggard","nickshoulders","usgirls","kaitlinbutts","badbadnotgood","georgeshearing","jeffreyfoucault","thechameleonsuk","jakexerxesfussell","buddyandjuliemiller","borodinstringquartet","alifarkatoureandtoumanidiabate","youtube"]
+tags: ["nathanssession","brucespringsteen","cowboyjunkies","marlonwilliams","echoandthebunnymen","bethorton","jonnyfritz","laineywilson","jimhall","annaleone","merlehaggard","nickshoulders","usgirls","kaitlinbutts","badbadnotgood","georgeshearing","jeffreyfoucault","thechameleonsuk","jakexerxesfussell","buddyandjuliemiller","borodinstringquartet","alifarkatouréandtoumanidiabate","youtube"]
 categories: ["Gatherings"]
 ---
 > When you read this message, think of the last 3 albums you listened to from start to finish, and pick a track from each album. 

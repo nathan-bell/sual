@@ -6,7 +6,7 @@ image: "/images/post/Japanese-Train-Pusher-Oshiya-Subway-crazy-photo-video-5.jpg
 date: 2024-10-22T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession","ween","johnhiatt","theallmanbrothersband","depechemode","kellyjoephelps","johnbutlertrio","thewhitestripes","camille","bertjansch","cocteautwins","rorygallagher","johnnycash","juliemiller","dollyparton","lindaronstadt","buffysainte-marie","kingkrule","buddymiller","thepaladins","shekeepsbees","philbroadhurst","wildwoodguitars","andemmylouharris","keithjarretttrio","andyirvineanddonallunny","patmethenyandcharliehaden","herminedeurlooandstevegadd","youtube"]
+tags: ["chrisssession","ween","johnhiatt","theallmanbrothersband","depechemode","kellyjoephelps","johnbutlertrio","thewhitestripes","camille","bertjansch","cocteautwins","rorygallagher","johnnycash","juliemiller","dollyparton","lindaronstadt","buffysainte-marie","herminedeurlooandstevegadd","kingkrule","buddymiller","thepaladins","shekeepsbees","philbroadhurst","wildwoodguitars","andemmylouharris","keithjarretttrio","andyirvineanddonallunny","patmethenyandcharliehaden","youtube"]
 categories: ["Gatherings"]
 ---
 > Theme: 1. Solo i.e. one person, can multi instrument/track. 2. Duo i.e. likewise. 3.Trio & likewise. CDs, no vinyl or stretchy things. 

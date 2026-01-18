@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2025-12-03
+date: 2026-01-19
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 356 tracks in total
+### 359 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: John Hiatt (6 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays), Eilen Jewell (5 plays) and Cowboy Junkies (4 plays).
+Chris's Top 5 most played artists are: John Hiatt (6 plays), Joni Mitchell (5 plays), Boz Scaggs (5 plays), Jimi Hendrix (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Joni Mitchell</td><td>Cold Blue Steel and Sweet Fire</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>George Russell</td><td>Nardis</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Carlos Santana & Wayne Shorter</td><td>Goodness & Mercy</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Jeffrey Foucault</td><td><a href="https://www.youtube.com/watch?v=b4syyv6BOQQ">Cross of Flowers</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Borodin String Quartet</td><td><a href="https://www.youtube.com/watch?v=-0nKJoZY64A">Shostakovich String Quartet No.8 in C Minor, Op. 110 - Fourth Movement: Largo</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Lkp6dz8wjnY">Seven Years</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
