@@ -1,7 +1,7 @@
 ---
 title: "Bruce's Session - Dec 2025"
-description: "We celebrated the end of the year by sharing music that pressed our buttons during the year, but that we hadn't played at SU&L suring the year."
-summary:  "We celebrated the end of the year by sharing music that pressed our buttons during the year, but that we hadn't played at SU&L suring the year."
+description: "We celebrated the end of the year by sharing music that pressed our buttons in 2025, but that we hadn't played at SU&L that year."
+summary:  "We celebrated the end of the year by sharing music that pressed our buttons in 2025, but that we hadn't played at SU&L that year."
 image: "/images/post/594uqe.jpg"
 date: 2025-12-11T00:00:00.0000000
 draft: false
