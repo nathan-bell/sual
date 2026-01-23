@@ -6,7 +6,7 @@ image: "/images/post/A Studio Ghibli-styl.png"
 date: 2025-05-22T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession","pinkfloyd","marlonwilliams","johnhiatt","talkingheads","kellyjoephelps","moseallison","eagles","monks","annaleone","weatherreport","aljerreau","donnadean","katchafire","ensemblesangineto","gillianwelchanddaverawlings","youtube"]
+tags: ["chrisssession","pinkfloyd","marlonwilliams","johnhiatt","talkingheads","kellyjoephelps","moseallison","eagles","monks","donnadean","annaleone","weatherreport","aljerreau","katchafire","ensemblesangineto","gillianwelchanddaverawlings","youtube"]
 categories: ["Gatherings"]
 ---
 > Great to be joined by a 'proxy' guest. Tiptop tunes centred on holidays & travel, but that were neither relaxing nor took take us anywhere...

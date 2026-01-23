@@ -6,7 +6,7 @@ image: "/images/post/594uqe.jpg"
 date: 2025-12-11T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["brucessession","davidbowie","jonimitchell","yolatengo","america","bozscaggs","johnmayall","laurieanderson","geneclark","television","herminedeurlooandstevegadd","rosalía","michaelhead","hankwilliams","hannahjadagu","thecarpenters","georgerussell","denisonwitmer","thesenewpuritans","countbasieandjamesrushing","carlossantanaandwayneshorter","antonyandthejohnsonsandanohni"]
+tags: ["brucessession","davidbowie","jonimitchell","yolatengo","bozscaggs","america","johnmayall","laurieanderson","geneclark","television","herminedeurlooandstevegadd","rosalía","michaelhead","hankwilliams","hannahjadagu","thecarpenters","georgerussell","denisonwitmer","thesenewpuritans","countbasieandjamesrushing","carlossantanaandwayneshorter","antonyandthejohnsonsandanohni","youtube"]
 categories: ["Gatherings"]
 ---
 > Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure. 

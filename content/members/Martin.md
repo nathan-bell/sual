@@ -2,21 +2,24 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2026-01-19
+date: 2026-01-23
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 353 tracks in total
+### 356 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Etta James (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Hank Williams</td><td>Long Gone Lonesome Blues</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
-<tr><td>Television</td><td>Marquee Moon</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
-<tr><td>Hermine Deurloo & Steve Gadd</td><td>I Know, But Tell Me Again</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Asleep At The Wheel</td><td><a href="https://www.youtube.com/watch?v=CZIlSjjeTXs">Going Away Party (feat. The Manhattan Transfer & Willie Nelson)</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Graeme Allwright</td><td><a href="https://www.youtube.com/watch?v=D0Wt8JgdNEw">Suzanne</a></td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Lucinda Williams</td><td><a href="https://www.youtube.com/watch?v=jZv1b10bLtA">The Ghosts of Highway 20</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Hank Williams</td><td><a href="https://www.youtube.com/watch?v=UDRzixp1Fvw">Long Gone Lonesome Blues</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Television</td><td><a href="https://www.youtube.com/watch?v=g4myghLPLZc">Marquee Moon</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Hermine Deurloo & Steve Gadd</td><td><a href="https://www.youtube.com/watch?v=4wo_iHOf500">I Know, But Tell Me Again</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Jim Hall</td><td><a href="https://www.youtube.com/watch?v=QyKlQPwhYqU">You'd Be So Nice to Come Home To</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Merle Haggard</td><td><a href="https://www.youtube.com/watch?v=M2YaJR-3wDE">Goin' Away Party</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>George Shearing</td><td><a href="https://www.youtube.com/watch?v=7zJnoQiIqDU">Lullaby Of Birdland</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
@@ -224,44 +227,44 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 p
 <tr><td>Spirit</td><td><a href="https://www.youtube.com/watch?v=faEtYEP2vUs">I Got a Line on You</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Camille</td><td><a href="https://www.youtube.com/watch?v=h5uhPnbLVEc">Janine II</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Candy Dulfer</td><td><a href="https://www.youtube.com/watch?v=pgQQ7k30Ti4">Pick Up The Pieces</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>The Siegel‐Schwall Band</td><td>Slow Blues In A</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
-<tr><td>Steely Dan</td><td>Don't Take Me Alive</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
-<tr><td>Kelsey Lu</td><td>Time</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>David Bowie</td><td>Black Tie White Noise</td><td>Heaven/hell</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>Walter Becker</td><td>Bob Is Not Your Uncle Anymore</td><td>Circus</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>The Ross Sisters</td><td>Solid Potato Salad</td><td>Bonus Track</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>Buffy Sainte-Marie</td><td>You Got To Run (Spirit of the Wind)</td><td>USA</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>Hayward And Parsons</td><td>All Things Are Quiet Silent/To Be A Pilgrim</td><td>UK</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>Nova</td><td>Barbara Dennerlein and Rhoda Scott</td><td>U Choose</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>Johnny Winter</td><td>Sound the Bell</td><td>Raw abrasive knee-buckling hard- swinging boogie!</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>Al Jarreau</td><td>Sticky Wicket</td><td>The hook.</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>Guru</td><td>Loungin'</td><td>Repetitive.</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>The Walker Brothers</td><td>The Sun Ain't Gonna Shine Anymore</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>The Walker Brothers</td><td>Land of a Thousand Dances</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>The Siegel‐Schwall Band</td><td><a href="https://www.youtube.com/watch?v=uxtorD6s6ho">Slow Blues In A</a></td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=9YxK-swFREo">Don't Take Me Alive</a></td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
+<tr><td>Kelsey Lu</td><td><a href="https://www.youtube.com/watch?v=ndPMeMojJSY">Time</a></td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=HuhA6EPpBVo">Black Tie White Noise</a></td><td>Heaven/hell</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=73irfRajAFg">Bob Is Not Your Uncle Anymore</a></td><td>Circus</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>The Ross Sisters</td><td><a href="https://www.youtube.com/watch?v=d1J3NLNWAPU">Solid Potato Salad</a></td><td>Bonus Track</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>Buffy Sainte-Marie</td><td><a href="https://www.youtube.com/watch?v=o5zb0WTSLsY">You Got To Run (Spirit of the Wind)</a></td><td>USA</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>Hayward And Parsons</td><td><a href="https://www.youtube.com/watch?v=gKK02pv30GY">All Things Are Quiet Silent/To Be A Pilgrim</a></td><td>UK</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>Nova</td><td><a href="https://www.youtube.com/watch?v=Ra4kYAYCdeI">Barbara Dennerlein and Rhoda Scott</a></td><td>U Choose</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>Johnny Winter</td><td><a href="https://www.youtube.com/watch?v=7lAmdfgDXBM">Sound the Bell</a></td><td>Raw abrasive knee-buckling hard- swinging boogie!</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=EOsj84OvEEw">Sticky Wicket</a></td><td>The hook.</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>Guru</td><td><a href="https://www.youtube.com/watch?v=j_tBymadvVI">Loungin'</a></td><td>Repetitive.</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>The Walker Brothers</td><td><a href="https://www.youtube.com/watch?v=h8WWShpQqT4">The Sun Ain't Gonna Shine Anymore</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>The Walker Brothers</td><td><a href="https://www.youtube.com/watch?v=95t3cc-7YOQ">Land of a Thousand Dances</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
 <tr><td>Scott Walker</td><td>Tilt</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>Scott Walker</td><td>Epizootics!</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>Code Orange</td><td>Forever</td><td>No hablo Ingles - A track that is not in English.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Renaud Garcia‐Fons</td><td>Bajo de Guía</td><td>Dubnobasswithmyheadman - Let's celebrate great bass players.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Hollie Smith</td><td>Hiding</td><td>Non retro - A recent discovery that celebrates modern, contemporary music.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Mimi Fox and Greta Matassa</td><td>Centrepiece</td><td>One Word Songs. (Bonus points if led by a woman singer)</td><td> Richard's Session - Feb 2018</td></tr>
-<tr><td>Elvis Costello & Burt Bacharach</td><td>Toledo</td><td>One Word Songs. (Bonus points if led by a woman singer)</td><td> Richard's Session - Feb 2018</td></tr>
+<tr><td>Scott Walker</td><td><a href="https://www.youtube.com/watch?v=2Ih7KzKLLWA">Epizootics!</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>Code Orange</td><td><a href="https://www.youtube.com/watch?v=dZ9JVxQVQy4">Forever</a></td><td>No hablo Ingles - A track that is not in English.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Renaud Garcia‐Fons</td><td><a href="https://www.youtube.com/watch?v=gBEBxCf39BM">Bajo de Guía</a></td><td>Dubnobasswithmyheadman - Let's celebrate great bass players.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Hollie Smith</td><td><a href="https://www.youtube.com/watch?v=z2O15fjmGeU">Hiding</a></td><td>Non retro - A recent discovery that celebrates modern, contemporary music.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Mimi Fox and Greta Matassa</td><td><a href="https://www.youtube.com/watch?v=YLCIwBF_j8A">Centrepiece</a></td><td>One Word Songs. (Bonus points if led by a woman singer)</td><td> Richard's Session - Feb 2018</td></tr>
+<tr><td>Elvis Costello & Burt Bacharach</td><td><a href="https://www.youtube.com/watch?v=EOPXvtZvb7g">Toledo</a></td><td>One Word Songs. (Bonus points if led by a woman singer)</td><td> Richard's Session - Feb 2018</td></tr>
 <tr><td>Nina Simone</td><td>Blues</td><td>One Word Songs. (Bonus points if led by a woman singer)</td><td> Richard's Session - Feb 2018</td></tr>
-<tr><td>La Macanita</td><td>Bulería del "Desenamoro" (bulería)</td><td>Rough</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>Tony Joe White</td><td>Rich Woman Blues</td><td>Solo/alone (multi-tracking ok but uno muso)</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>David Sanborn</td><td>Autumn Leaves</td><td>Smooth</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>Mitch Ryerson</td><td>The Uncertainty Of The Poet</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>The Modern Lovers</td><td>Pablo Picasso</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>The Creation</td><td>Painter Man</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>Mark Ronson</td><td>Uptown Funk (feat. Bruno Mars)</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>The Jim Kweskin Jug Band</td><td>Minglewood</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Walter Becker</td><td>Surf And/Or Die</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Maria Muldaur</td><td>Cool River</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Herbie Hancock</td><td>Your Gold Teeth II</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>Caitlin Smith</td><td>Guilty</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>Robert Gordon & Link Wray</td><td>Red Hot</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>John Scofield</td><td>Bolivar Blues</td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Buddy Miller's Majestic Silver Strings</td><td>Why Baby Why</td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Michael Brecker</td><td>Slings and Arrows</td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>La Macanita</td><td><a href="https://www.youtube.com/watch?v=qWmzR4T2CDw">Bulería del "Desenamoro" (bulería)</a></td><td>Rough</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=oJHLd31-4Gc">Rich Woman Blues</a></td><td>Solo/alone (multi-tracking ok but uno muso)</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>David Sanborn</td><td><a href="https://www.youtube.com/watch?v=4gVAUv9wI-g">Autumn Leaves</a></td><td>Smooth</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>Mitch Ryerson</td><td><a href="https://www.youtube.com/watch?v=qBwivYpb3dE">The Uncertainty Of The Poet</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>The Modern Lovers</td><td><a href="https://www.youtube.com/watch?v=Kc2iLAubras">Pablo Picasso</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>The Creation</td><td><a href="https://www.youtube.com/watch?v=rEzxwjZoCGo">Painter Man</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>Mark Ronson</td><td><a href="https://www.youtube.com/watch?v=OPf0YbXqDm0">Uptown Funk (feat. Bruno Mars)</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>The Jim Kweskin Jug Band</td><td><a href="https://www.youtube.com/watch?v=MGrPkUDG9mQ">Minglewood</a></td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=kfGHeVZeE1Y">Surf And/Or Die</a></td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Maria Muldaur</td><td><a href="https://www.youtube.com/watch?v=44BjMqT2rMs">Cool River</a></td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Herbie Hancock</td><td><a href="https://www.youtube.com/watch?v=htxP1rNBkRQ">Your Gold Teeth II</a></td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>Caitlin Smith</td><td><a href="https://www.youtube.com/watch?v=tHwVhA29CiA">Guilty</a></td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>Robert Gordon & Link Wray</td><td><a href="https://www.youtube.com/watch?v=6GHdEOYNpFI">Red Hot</a></td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>John Scofield</td><td><a href="https://www.youtube.com/watch?v=Twsb5vTj98k">Bolivar Blues</a></td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>Buddy Miller's Majestic Silver Strings</td><td><a href="https://www.youtube.com/watch?v=212LMD-ur3E">Why Baby Why</a></td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>Michael Brecker</td><td><a href="https://www.youtube.com/watch?v=ahjiVzaxzN4">Slings and Arrows</a></td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Steely Dan</td><td>Bodhisattva</td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
 <tr><td>Led Zeppelin</td><td>Royal Orleans</td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
 <tr><td>Twelve Foot Ninja</td><td>One Hand Killing</td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>

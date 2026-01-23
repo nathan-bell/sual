@@ -6,7 +6,7 @@ image: "/images/post/20201204_Viola.Smith.jpg"
 date: 2020-11-10T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","therollingstones","jeffbeck","jonimitchell","kurtvile","tonyjoewhite","10cc","buddyguy","aawilliams","courtneybarnett","beirut","evacassidy","texwilliams","stevierayvaughan","micahphinson","jakethackray","richardnunns","t‐boneburnett","dreamwarriors","rodgerfoxbigband","youtube"]
+tags: ["nickssession","therollingstones","jeffbeck","jonimitchell","kurtvile","tonyjoewhite","buddyguy","10cc","aawilliams","courtneybarnett","beirut","evacassidy","texwilliams","stevierayvaughan","micahphinson","jakethackray","richardnunns","t‐boneburnett","dreamwarriors","rodgerfoxbigband","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Memory , Implicitly humorous ( oh...go on then...explicitly counts too!) , Grandeur_

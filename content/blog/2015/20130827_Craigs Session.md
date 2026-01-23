@@ -6,7 +6,7 @@ image: "/images/post/71zjTN8gBnL._AC_SL1500_.jpg"
 date: 2013-08-27T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["craigssession","nickcave","brucespringsteen","steelydan","frankzappa","tomwaits","donaldfagen","johnhiatt","jamestaylor","pjharvey","arcadefire","jamesbrown","davidaxelrod","cassandrawilson","toriamos","bethorton","fleetfoxes","2pac","theduckworthlewismethod"," ween","thebees","23skidoo","harrymanx","bnoisking","kevinbreit","bandofskulls","aaronfreeman","avalanchecity","davidmccallum","janesaddiction","smokinjoekubek","permanentclearlight"]
+tags: ["craigssession","nickcave","brucespringsteen","frankzappa","steelydan","tomwaits","donaldfagen","johnhiatt","jamestaylor","pjharvey","arcadefire","jamesbrown","davidaxelrod","cassandrawilson","toriamos","bethorton","fleetfoxes","2pac","theduckworthlewismethod"," ween","thebees","23skidoo","harrymanx","bnoisking","kevinbreit","bandofskulls","aaronfreeman","avalanchecity","davidmccallum","janesaddiction","smokinjoekubek","permanentclearlight"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Winter, Crime, Anything Goes_

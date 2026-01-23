@@ -6,7 +6,7 @@ image: "/images/post/20220626_Absurd.jpeg"
 date: 2022-06-21T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","nickcave","frankzappa","steveearle","nirvana","lucindawilliams","dopelemon","courtneybarnett","kaetempest","davidgideon","chaseatlantic","davidbromberg","thequebesisters","alabasterdeplume","madriver","anitalane","mohinidey","rickbryant","gracejones","weviestonder","eugeneionesco","northamericans","youtube"]
+tags: ["davidssession","nickcave","frankzappa","steveearle","lucindawilliams","nirvana","dopelemon","courtneybarnett","kaetempest","davidgideon","chaseatlantic","davidbromberg","thequebesisters","alabasterdeplume","madriver","anitalane","mohinidey","rickbryant","gracejones","weviestonder","eugeneionesco","northamericans","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _The theatre of the absurd, An artist that has NEVER been played at a SUAL session, Anything goes_

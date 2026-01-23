@@ -6,7 +6,7 @@ image: "/images/post/20190402_Spectacular.Accordians+sml.jpg"
 date: 2019-03-12T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","cowboyjunkies","beck","leonardcohen","nickdrake","mercuryrev","brighteyes","conoroberst","portishead","tonybennett","thismortalcoil","overtherhine","firstaidkit","amywinehouse","whirimakoblack","fozzybear","shirleybassey","thehumanleague","hotclubsandwich","theoldspiceboys","jakeshimabukuro","theukeleleorchestraofgreaterbritain","thewellingtoninternationalukuleleorchestra","youtube"]
+tags: ["chrisssession","cowboyjunkies","beck","leonardcohen","brighteyes","nickdrake","mercuryrev","conoroberst","portishead","tonybennett","thismortalcoil","overtherhine","firstaidkit","amywinehouse","whirimakoblack","fozzybear","shirleybassey","thehumanleague","hotclubsandwich","theoldspiceboys","jakeshimabukuro","theukeleleorchestraofgreaterbritain","thewellingtoninternationalukuleleorchestra","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _An oldie but a goodie: A tune chosen by your better half  , A tune that prominently features an ukulele (Tiny Tim and Hawaiian music have had their turns, step aside)., A tune that prominently features a string orchestra (Neil Sedaka or Rossini not welcome today)._

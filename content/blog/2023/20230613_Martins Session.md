@@ -6,7 +6,7 @@ image: "/images/post/20230613_IMG_2172.jpg"
 date: 2023-06-13T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","ween","talkingheads","velvetunderground","blur","theclash","buddyguy","michaelbrecker","themuttonbirds","thekinks","lesbaxter","jonhopkins","herbalpert","leonidandfriends","múm","mc5","thechats","marccohn","rachidtaha","steelpulse","markseymour","juniorwells","thechantays","kingcreosote","theverlaines","thestoneroses","youtube"]
+tags: ["martinssession","ween","talkingheads","velvetunderground","blur","buddyguy","theclash","michaelbrecker","themuttonbirds","thekinks","lesbaxter","jonhopkins","herbalpert","leonidandfriends","múm","mc5","thechats","marccohn","rachidtaha","steelpulse","markseymour","juniorwells","thechantays","kingcreosote","theverlaines","thestoneroses","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Sounds Of The City_

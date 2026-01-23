@@ -6,7 +6,7 @@ image: "/images/post/cpemc.jpg"
 date: 2018-05-22T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["nickssession","thebeatles","ledzeppelin","loureed","garynuman","lynyrdskynyrd","jasonandthescorchers","luna","thecramps","aljarreau","bigcountry","mattsweeney","bonnieprincebilly","guru","tompetty","cornershop","rlburnside","johnnywinter","endlessboogie","mammal","samhunt","raycharles","joolsholland","stephenmalkmus"]
+tags: ["nickssession","thebeatles","ledzeppelin","loureed","garynuman","lynyrdskynyrd","jasonandthescorchers","luna","thecramps","aljarreau","bigcountry","mattsweeney","bonnieprincebilly","guru","tompetty","cornershop","rlburnside","johnnywinter","endlessboogie","mammal","samhunt","raycharles","joolsholland","stephenmalkmus","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Raw abrasive knee-buckling hard- swinging boogie!, The hook., Repetitive._

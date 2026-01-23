@@ -2,21 +2,24 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2026-01-19
+date: 2026-01-23
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 355 tracks in total
+### 358 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cave (7 plays), Ween (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Yo La Tengo</td><td>Pablo and Andrea</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
-<tr><td>Hannah Jadagu</td><td>Warning Sign</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
-<tr><td>Denison Witmer</td><td>River of Music</td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Queens of the Stone Age</td><td><a href="https://www.youtube.com/watch?v=A6afG0s0LSU">Song For The Dead</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Hermanos Gutiérrez</td><td>El Bueno Y El Malo</td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Conor Oberst & Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=KxO8CoOvr-I">Lua</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
+<tr><td>Yo La Tengo</td><td><a href="https://www.youtube.com/watch?v=aiw2VacT2rk">Pablo and Andrea</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Hannah Jadagu</td><td><a href="https://www.youtube.com/watch?v=eSYWawoCJjk">Warning Sign</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
+<tr><td>Denison Witmer</td><td><a href="https://www.youtube.com/watch?v=DWhoReQBJuI">River of Music</a></td><td>> Share 3 pieces of music that have pressed all, or at least many, of your buttons in the last year. Could be new stuff, could be old treasure.</td><td> Bruce's Session - Dec 2025</td></tr>
 <tr><td>Jonny Fritz</td><td><a href="https://www.youtube.com/watch?v=F237XJ4bbeU">Polished Turd</a></td><td>Album 1</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>Nick Shoulders</td><td><a href="https://www.youtube.com/watch?v=yKSrkVNwq5U">Dixie Be Damned</a></td><td>Album 2</td><td> Nathan's Session - Nov 2025</td></tr>
 <tr><td>U.S. Girls</td><td><a href="https://www.youtube.com/watch?v=hXmjr4WlQXo">Like James Said</a></td><td>Album 3</td><td> Nathan's Session - Nov 2025</td></tr>
@@ -214,38 +217,38 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (10 plays), Nick Cav
 <tr><td>Fugazi</td><td><a href="https://www.youtube.com/watch?v=dyu1Fy91qFM">Long Distance Runner</a></td><td>Rock</td><td> Bruce's Session - Oct 2018</td></tr>
 <tr><td>Minutemen</td><td><a href="https://www.youtube.com/watch?v=g4QkQVJTuP8">The Politics of Time</a></td><td>ONE SHORT TRACK of any given artist or band of no more than 3 minutes.</td><td> David's Session - Sept 2018</td></tr>
 <tr><td>Panda Bear</td><td><a href="https://www.youtube.com/watch?v=iRk1DM04GfA">Good Girl / Carrots</a></td><td>ONE LONG TRACK of any given artist or band no longer than 18 minutes</td><td> David's Session - Sept 2018</td></tr>
-<tr><td>Nirvana</td><td>Territorial Pissing</td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
-<tr><td>Ween</td><td>Spinal Meningitis (Got Me Down)</td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
-<tr><td>Dead Kennedys</td><td>Kinky Sex Makes the World Go 'Round</td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>Solid Gold Hell</td><td>Heavenly Badness</td><td>Heaven/hell</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>Kyuss</td><td>Jumbo Blimp Jumbo</td><td>Circus</td><td> Chris's Session - Jul 2018</td></tr>
-<tr><td>Soul Coughing</td><td>Is Chicago, Is Not Chicago</td><td>USA</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>Jim Noir</td><td>Good Old Vinyl</td><td>UK</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>Flatt & Scruggs</td><td>Flint Hill Special</td><td>U Choose</td><td> Martin's Session - Jun 2018</td></tr>
-<tr><td>The Cramps</td><td>Dopefiend Boogie</td><td>Raw abrasive knee-buckling hard- swinging boogie!</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>Stephen Malkmus</td><td>The Hook</td><td>The hook.</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td>Blood Embrace</td><td>Repetitive.</td><td> Nick's Session - May 2018</td></tr>
-<tr><td>Tom Waits</td><td>Ol' 55</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>Tom Waits</td><td>16 Shells From a Thirty Ought-Six</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>Tom Waits</td><td>Raised Right Men</td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
-<tr><td>Einstürzende Neubauten</td><td>Ende Neu</td><td>No hablo Ingles - A track that is not in English.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Primus</td><td>Golden Boy</td><td>Dubnobasswithmyheadman - Let's celebrate great bass players.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Thundercat</td><td>Them Changes</td><td>Non retro - A recent discovery that celebrates modern, contemporary music.</td><td> David's Session - Mar 2018</td></tr>
-<tr><td>Lard</td><td>Drug Raid At 4am</td><td>Rough</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>Neil Young</td><td>Deadman</td><td>Solo/alone (multi-tracking ok but uno muso)</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>Jarvis Cocker</td><td>Leftovers</td><td>Smooth</td><td> Chris's Session - Jan 2018</td></tr>
-<tr><td>Willie Nelson</td><td>Mona Lisa</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>Fantomas</td><td>The Godfather</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>Ariel Pink's Haunted Graffiti</td><td>Bright Lit Blue Skies</td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
-<tr><td>Nick Drake</td><td>The Thoughts of Mary Jane</td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td>My Home Is The Sea</td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Death Cab for Cutie</td><td>Death of an Interior Decorator</td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
-<tr><td>Jurassic 5</td><td>The Influence</td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>Rilo Kiley</td><td>Does He Love You?</td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>The Magnetic Fields</td><td>'77 Life Ain't All Bad</td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
-<tr><td>Violent Femmes</td><td>Fat</td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>The Brunettes</td><td>The Moon in June Stuff</td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Band of Horses</td><td>The Funeral</td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>Nirvana</td><td><a href="https://www.youtube.com/watch?v=x6XBlkvTmv8">Territorial Pissing</a></td><td>The "BOOM" record, where it all began</td><td> Richard's Session - Aug 2018</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=rKch2j_iEIQ">Spinal Meningitis (Got Me Down)</a></td><td>The "SHAKE" record, where it shifted or consolidated</td><td> Richard's Session - Aug 2018</td></tr>
+<tr><td>Dead Kennedys</td><td><a href="https://www.youtube.com/watch?v=KMSJSTpT0Ws">Kinky Sex Makes the World Go 'Round</a></td><td>Round/circular</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>Solid Gold Hell</td><td><a href="https://www.youtube.com/watch?v=XI57kpEtL4Y">Heavenly Badness</a></td><td>Heaven/hell</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>Kyuss</td><td><a href="https://www.youtube.com/watch?v=wC5UKU7xh_4">Jumbo Blimp Jumbo</a></td><td>Circus</td><td> Chris's Session - Jul 2018</td></tr>
+<tr><td>Soul Coughing</td><td><a href="https://www.youtube.com/watch?v=KKWhuc4POO0">Is Chicago, Is Not Chicago</a></td><td>USA</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>Jim Noir</td><td><a href="https://www.youtube.com/watch?v=MfDVzBHKEjA">Good Old Vinyl</a></td><td>UK</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>Flatt & Scruggs</td><td><a href="https://www.youtube.com/watch?v=Em2csd5DXrE">Flint Hill Special</a></td><td>U Choose</td><td> Martin's Session - Jun 2018</td></tr>
+<tr><td>The Cramps</td><td><a href="https://www.youtube.com/watch?v=sJ09IdWdAsk">Dopefiend Boogie</a></td><td>Raw abrasive knee-buckling hard- swinging boogie!</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>Stephen Malkmus</td><td><a href="https://www.youtube.com/watch?v=3l1iSAbw7TA">The Hook</a></td><td>The hook.</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td><a href="https://www.youtube.com/watch?v=zDyU6KZt7TQ">Blood Embrace</a></td><td>Repetitive.</td><td> Nick's Session - May 2018</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=0VAbGlwpnqQ">Ol' 55</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=jPOaicwzq4A">16 Shells From a Thirty Ought-Six</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=gch_n-zEXLo">Raised Right Men</a></td><td>Choose a musician, performer or whatever and 3 tracks which feature that special person.</td><td> Bruce's Session - Apr 2018</td></tr>
+<tr><td>Einstürzende Neubauten</td><td><a href="https://www.youtube.com/watch?v=yRAwLxg8i2k">Ende Neu</a></td><td>No hablo Ingles - A track that is not in English.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Primus</td><td><a href="https://www.youtube.com/watch?v=Cxjf-JXScQU">Golden Boy</a></td><td>Dubnobasswithmyheadman - Let's celebrate great bass players.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Thundercat</td><td><a href="https://www.youtube.com/watch?v=BuzJ5NArvgw">Them Changes</a></td><td>Non retro - A recent discovery that celebrates modern, contemporary music.</td><td> David's Session - Mar 2018</td></tr>
+<tr><td>Lard</td><td><a href="https://www.youtube.com/watch?v=011umGoEMfk">Drug Raid At 4am</a></td><td>Rough</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=YkG7P8i64x8">Deadman</a></td><td>Solo/alone (multi-tracking ok but uno muso)</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>Jarvis Cocker</td><td><a href="https://www.youtube.com/watch?v=RmP_scGsBfA">Leftovers</a></td><td>Smooth</td><td> Chris's Session - Jan 2018</td></tr>
+<tr><td>Willie Nelson</td><td><a href="https://www.youtube.com/watch?v=qwK-Fbfn4Ls">Mona Lisa</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>Fantomas</td><td><a href="https://www.youtube.com/watch?v=ir44g2QKsLo">The Godfather</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>Ariel Pink's Haunted Graffiti</td><td><a href="https://www.youtube.com/watch?v=VcS0oJwlz_Q">Bright Lit Blue Skies</a></td><td>Other Forms - three tracks or clips that celebrate, feature or reference forms of art/creativity other than music.</td><td> Martin's Session - Dec 2017</td></tr>
+<tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=XpR_OdvyRNI">The Thoughts of Mary Jane</a></td><td>Name Check</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td><a href="https://www.youtube.com/watch?v=EvsB_uIlw-E">My Home Is The Sea</a></td><td>Chess Board</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Death Cab for Cutie</td><td><a href="https://www.youtube.com/watch?v=iW_WLwlSB0w">Death of an Interior Decorator</a></td><td>Impress Me</td><td> Nick's Session - Nov 2017</td></tr>
+<tr><td>Jurassic 5</td><td><a href="https://www.youtube.com/watch?v=loFGGrdJpfs">The Influence</a></td><td>African American (any musical genre welcome)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>Rilo Kiley</td><td><a href="https://www.youtube.com/watch?v=8u0VW0Wc4ig">Does He Love You?</a></td><td>Lady Singers Only (transgender inclusive)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=4xmRxHhoEV4">'77 Life Ain't All Bad</a></td><td>Make up your own theme (no theme IS a theme!)</td><td> David's Session - Aug 2017</td></tr>
+<tr><td>Violent Femmes</td><td><a href="https://www.youtube.com/watch?v=0SyKBTBnT0I">Fat</a></td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>The Brunettes</td><td><a href="https://www.youtube.com/watch?v=lIPMcxa-ufg">The Moon in June Stuff</a></td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
+<tr><td>Band of Horses</td><td><a href="https://www.youtube.com/watch?v=cMFWFhTFohk">The Funeral</a></td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Eels</td><td>My Timing Is Off</td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
 <tr><td>Devendra Banhart</td><td>Baby</td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
 <tr><td>Outkast</td><td>So Fresh, So Clean</td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>

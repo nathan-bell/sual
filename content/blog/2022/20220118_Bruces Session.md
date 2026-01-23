@@ -6,7 +6,7 @@ image: "/images/post/20220126_KingKNose.jpg"
 date: 2022-01-18T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","steelydan","frankzappa","rycooder","alisonkrauss","theallmanbrothersband","khruangbin","robertplant","loslobos","norahjones","benee","jonnyfritz","themuttonbirds","hottuna","mondorock","leonbridges","jackiemittoo","raylamontagne","richarddawson","alexanderebert","submotionorchestra","karensouza","darkeysandthekeys","n?nocÿbborgvbërrholökäävst","youtube"]
+tags: ["brucessession","frankzappa","steelydan","rycooder","alisonkrauss","theallmanbrothersband","khruangbin","robertplant","loslobos","norahjones","benee","jonnyfritz","themuttonbirds","hottuna","mondorock","leonbridges","jackiemittoo","raylamontagne","richarddawson","alexanderebert","submotionorchestra","karensouza","darkeysandthekeys","n?nocÿbborgvbërrholökäävst","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Hot – whatever interpretation you wish, Video round – everyone gets to share some good visual stuff, Cool – whatever interpretation you wish on this one too_

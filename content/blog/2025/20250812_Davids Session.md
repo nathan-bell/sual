@@ -6,7 +6,7 @@ image: "/images/post/A black and white ne.png"
 date: 2025-08-12T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["davidssession","ledzeppelin","nickcave","paulsimon","pavement","theflaminglips","thebevisfrond","heart","marcin","polyphia","theclean","godspeedyou!blackemperor","yello","igorrr","karate","letigre","caroline","leokottke","irisdement","billyraffoul","haydenpedigo","kentnishimura","rosannaandzélia","ladygagaandbrunomars","vlatkostefanovskiandmiroslavtadić","youtube"]
+tags: ["davidssession","ledzeppelin","nickcave","paulsimon","pavement","theflaminglips","thebevisfrond","heart","marcin","karate","polyphia","theclean","godspeedyou!blackemperor","yello","igorrr","letigre","caroline","leokottke","irisdement","billyraffoul","haydenpedigo","kentnishimura","rosannaandzélia","ladygagaandbrunomars","vlatkostefanovskiandmiroslavtadić","youtube"]
 categories: ["Gatherings"]
 ---
 > We feasted like kings, admired a shiny new kitchen, and enjoyed a great night of music

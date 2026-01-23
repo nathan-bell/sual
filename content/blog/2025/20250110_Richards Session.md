@@ -6,7 +6,7 @@ image: "/images/post/A family sitting around a hifi system and speakers, all lis
 date: 2025-01-10T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["richardssession","paulkelly","blackberrysmoke","tonyjoewhite","bozscaggs","joejackson","petergreen","thepineapplethief","direstraits","divinyls","aawilliams","aurora","skunkhour","palewaves","grandblanc","nilüferyanya","jolieholland","chaseatlantic","johnpatitucci","thelemonheads","alabasterdeplume","pastself","ramindjawadi","theymightbegiants","skrillexandstarrah","youtube"]
+tags: ["richardssession","paulkelly","blackberrysmoke","bozscaggs","tonyjoewhite","joejackson","petergreen","thepineapplethief","direstraits","divinyls","aawilliams","aurora","skunkhour","palewaves","grandblanc","nilüferyanya","jolieholland","chaseatlantic","johnpatitucci","thelemonheads","alabasterdeplume","pastself","ramindjawadi","theymightbegiants","skrillexandstarrah","youtube"]
 categories: ["Gatherings"]
 ---
 > We shared a feast of music and snacks with an unprecedented four guests on an equally unprecedented Friday night.
