@@ -6,7 +6,7 @@ image: "/images/post/20160726_image-asset.png"
 date: 2016-07-26T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["richardssession","porcupinetree","tomwaits","santana","paulkelly","donaldfagen","sonicyouth","jamestaylor","blackberrysmoke","theband","direstraits","ericclapton","johnscofield","johnmclaughlin","connanmockasin","free","dexysmidnightrunners","chicago","delbertmcclinton","theerniefreemancombo"]
+tags: ["richardssession","porcupinetree","tomwaits","santana","paulkelly","donaldfagen","blackberrysmoke","sonicyouth","jamestaylor","theband","direstraits","ericclapton","johnscofield","johnmclaughlin","connanmockasin","free","delbertmcclinton","dexysmidnightrunners","chicago","theerniefreemancombo"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Entree:  Light Hammond B3, Main:  Meaty Brass, Dessert:  Sweet and Tasty Wah Wah, Bonus Track_

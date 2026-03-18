@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-01-23
+date: 2026-03-18
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]

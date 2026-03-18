@@ -6,7 +6,7 @@ image: "/images/post/cabbage.png"
 date: 2026-01-22T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["chrisssession","frankzappa","therollingstones","santana","crosby","bozscaggs","gillianwelch","lucindawilliams","brighteyes","stills","nashandyoung","buddyguy","queensofthestoneage","stevemillerband","karate","donnadean","melparsons","buckethead","kittywells","lewistaylor","mattberninger","graemeallwright","asleepatthewheel","thestaplesingers","hermanosgutiérrez","newtownrocksteady","youtube"]
+tags: ["chrisssession","therollingstones","frankzappa","santana","crosby","bozscaggs","gillianwelch","lucindawilliams","brighteyes","stills","nashandyoung","buddyguy","queensofthestoneage","stevemillerband","karate","donnadean","melparsons","buckethead","kittywells","lewistaylor","mattberninger","graemeallwright","asleepatthewheel","thestaplesingers","hermanosgutiérrez","newtownrocksteady","youtube"]
 categories: ["Gatherings"]
 ---
 > We welcomed in the New Year with a slew of songs and a frozen yoghut treat, and commiserated with Chris on the loss of his cabbage tree and fridge.

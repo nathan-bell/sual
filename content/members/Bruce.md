@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-01-23
+date: 2026-03-18
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
