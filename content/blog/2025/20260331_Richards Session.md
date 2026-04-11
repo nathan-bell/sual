@@ -6,7 +6,7 @@ image: "/images/post/IMG_9439.webp"
 date: 2026-03-31T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["richardssession","nickcave","jimihendrix","ween","themagneticfields","joejackson","blacksabbath","littlefeat","ironandwine","benee","thebeths","sandydenny","milesdavis","cassandrawilson","thefall","thebevisfrond","aurora","smashingpumpkins","michelleshocked","mollylewis","wholepeeled","charleypride","singingcovers"]
+tags: ["richardssession","nickcave","jimihendrix","ween","themagneticfields","joejackson","blacksabbath","littlefeat","ironandwine","benee","thebeths","sandydenny","milesdavis","cassandrawilson","thefall","thebevisfrond","aurora","smashingpumpkins","michelleshocked","mollylewis","wholepeeled","charleypride","linkinpark"]
 categories: ["Gatherings"]
 ---
 > For our late March session, we reminisced about gigs of the past and gigs that never were.
