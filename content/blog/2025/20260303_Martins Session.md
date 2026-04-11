@@ -6,7 +6,7 @@ image: "/images/post/Ceramic angel guitar.png"
 date: 2026-03-03T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["martinssession","therollingstones","loureed","ween","blackberrysmoke","khruangbin","nancysinatra","drycleaning","gregbrown","lambchop","thebeaches","delbertmcclinton","petedrake","thespentpoets","cindycashdollar","gladysknightandthepips","youtube"]
+tags: ["martinssession","therollingstones","ween","loureed","blackberrysmoke","khruangbin","nancysinatra","drycleaning","gregbrown","lambchop","thebeaches","delbertmcclinton","petedrake","thespentpoets","cindycashdollar","gladysknightandthepips","youtube"]
 categories: ["Gatherings"]
 ---
 > The February session we had in March.  We looked at put-downs and zingers, and learnt aout the difference in lap steels, pedal steels and dobros. 

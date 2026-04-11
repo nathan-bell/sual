@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-03-18
+date: 2026-04-11
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 352 tracks in total
+### 355 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays), Nick Cave (9 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays), Bob Dylan (10 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Sandy Denny</td><td>Quiet Joys Of Brotherhood</td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Nick Cave</td><td>Bright Horses</td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Miles Davis</td><td>Bitches Brew</td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>The Rolling Stones & Buddy Guy</td><td><a href="https://www.youtube.com/watch?v=nV-FGDuYlB8">Champagne & Reefer (Live At The Beacon Theatre, New York / 2006)</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>The Staple Singers</td><td><a href="https://www.youtube.com/watch?v=zBKDaU7CKIU">Too Close</a></td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Newtown Rocksteady</td><td><a href="https://www.youtube.com/watch?v=DRUs1XfhLq8">In the Red (Sweeps Ram Time Remix)</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
@@ -244,18 +247,18 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Bob Dylan (10 plays
 <tr><td>Julie Miller</td><td><a href="https://www.youtube.com/watch?v=k0IKaRm7Lws">Don't Let the Devil Ride</a></td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=IYuutwqOBK4">Love and Only Love</a></td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=7c0EDM-Yu9o">See Emily Play</a></td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Sebadoh</td><td>Everybodys Been Burned</td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Dudley Benson</td><td>Pīpī Manu E</td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Bob Dylan</td><td>Extract From Newport</td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Patti Page</td><td>Detour</td><td>Year of Birth</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>DD Smash</td><td>Whaling</td><td>NZ Hits</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>Bob Dylan</td><td>Isis</td><td>Anagram Of Dan</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>John Lennon</td><td>Excerpt from "Lennon" documentary</td><td>Pioneers</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>The Band</td><td>Genetic Method/Chest Fever</td><td>Traditionalists</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>Zombies</td><td>She's not there</td><td>Pop History</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>Steve Hillage</td><td>Palm Trees (Love Guitar)</td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>King Crimson</td><td>Sailor's Tale</td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>Pseudo Echo</td><td>Love an Adventure</td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>Sebadoh</td><td><a href="https://www.youtube.com/watch?v=RF4p3hwOiEs">Everybodys Been Burned</a></td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Dudley Benson</td><td><a href="https://www.youtube.com/watch?v=z50mde2QABc">Pīpī Manu E</a></td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=a6Kv0vF41Bc">Extract From Newport</a></td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Patti Page</td><td><a href="https://www.youtube.com/watch?v=DgvIL5FyFso">Detour</a></td><td>Year of Birth</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>DD Smash</td><td><a href="https://www.youtube.com/watch?v=7ckcwDL3XYI">Whaling</a></td><td>NZ Hits</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=INilAY6aJTc">Isis</a></td><td>Anagram Of Dan</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=QsFsnzbA3Bg">Excerpt from "Lennon" documentary</a></td><td>Pioneers</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=hkMvRLMD14I">Genetic Method/Chest Fever</a></td><td>Traditionalists</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>Zombies</td><td><a href="https://www.youtube.com/watch?v=_2hXBf1DakE">She's not there</a></td><td>Pop History</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>Steve Hillage</td><td><a href="https://www.youtube.com/watch?v=AUgl3prcS2M">Palm Trees (Love Guitar)</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>King Crimson</td><td><a href="https://www.youtube.com/watch?v=tWZPJTNPXQU">Sailor's Tale</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>Pseudo Echo</td><td><a href="https://www.youtube.com/watch?v=7y3jFRfKfAs">Love an Adventure</a></td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>Blur</td><td>For Tomorrow</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Etta James</td><td>Born Under a Bad Sign</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Norah Jones</td><td>Creepin' In</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>

@@ -6,7 +6,7 @@ image: "/images/post/20160329_image-asset.png"
 date: 2016-03-29T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["chrisssession","paulsimon","steveearle","blacksabbath","thetimejumpers","nadiareid","garyclarkjr","boris","thefall","fieldmusic","popsstaples","wayneshorter","kimgordon","adem","space","joewalsh","thelastpoets","frankgibsonjr","thurstonmoore","savinayannatou","primaveraensalonico"]
+tags: ["chrisssession","paulsimon","blacksabbath","steveearle","thetimejumpers","nadiareid","thefall","garyclarkjr","boris","fieldmusic","popsstaples","wayneshorter","kimgordon","adem","space","joewalsh","thelastpoets","frankgibsonjr","thurstonmoore","savinayannatou","primaveraensalonico"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Space/ heavenly bodies , Some (or all) of the tune’s lyrics to be narrated or spoken , Neighbours/ neighbourhood _

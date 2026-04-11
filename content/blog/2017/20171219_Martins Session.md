@@ -10,7 +10,7 @@ image: "/images/post/20180108_the-five-hot-shots-black-and-tan-1929.jpg"
 date: 2017-12-19T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["martinssession","davidbowie","thebeatles","paulkelly","aldousharding","eilenjewell","jeffersonairplane","littlefeat","thewhitestripes","bethorton","themoodyblues","johnmellencamp","fantomas","larrysrebels","alifarkatouré","thebelligerents","jcole","arielpink","ronniewood","markronson","thecreation","mitchryerson","willienelson","dukeellington","themodernlovers","greenskybluegrass","youtube"]
+tags: ["martinssession","davidbowie","thebeatles","paulkelly","littlefeat","aldousharding","eilenjewell","jeffersonairplane","thewhitestripes","bethorton","themoodyblues","johnmellencamp","fantomas","larrysrebels","alifarkatouré","thebelligerents","jcole","arielpink","ronniewood","markronson","thecreation","mitchryerson","willienelson","dukeellington","themodernlovers","greenskybluegrass","youtube"]
 categories: ["Gatherings"]
 ---
 > Theme: 

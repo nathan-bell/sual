@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-03-18
+date: 2026-04-11
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 343 tracks in total
+### 346 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Michelle Shocked</td><td>Anchorage</td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Little Feat</td><td>The Fan</td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>The Bevis Frond</td><td>Horrorful Heights</td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>Crosby, Stills, Nash & Young</td><td><a href="https://www.youtube.com/watch?v=EkaKwXddT_I">Teach Your Children</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Buckethead</td><td><a href="https://www.youtube.com/watch?v=4S9zFTiKM_M">Sunbursts</a></td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Mel Parsons</td><td><a href="https://www.youtube.com/watch?v=alHWxGJN6Fw">True Story</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
@@ -253,18 +256,18 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=x3Ky8zTh6DY">Revolution</a></td><td>Three Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>The Cranberries</td><td><a href="https://www.youtube.com/watch?v=YC4bFpy7Y0I">Pretty</a></td><td>Four Piece</td><td> Richard's Session - Jul 2017</td></tr>
 <tr><td>Mark Lanegan</td><td><a href="https://www.youtube.com/watch?v=tSRby6TtMsM">Floor of the Ocean</a></td><td>Five Piece</td><td> Richard's Session - Jul 2017</td></tr>
-<tr><td>Richard Thompson</td><td>When the Spell Is Broken</td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Aldous Harding</td><td>Party</td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Katie Melua</td><td>Halfway Up the Hindu Kush</td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>
-<tr><td>Elvis Presley</td><td>That's All Right Mama</td><td>Year of Birth</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>John Clarke</td><td>We Don't Know How Lucky We Are</td><td>NZ Hits</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>Dougie MacLean</td><td>The Land</td><td>Anagram Of Dan</td><td> Martin's Session - May 2017</td></tr>
-<tr><td>Talking Heads</td><td>Don't Worry About the Government</td><td>Pioneers</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>The Bothy Band</td><td>The Morning Star</td><td>Traditionalists</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>Cream</td><td>White Room</td><td>Pop History</td><td> Nick's Session - Apr 2017</td></tr>
-<tr><td>Porcupine Tree</td><td>Anesthetize</td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>PFM + Pagani</td><td>River of Life</td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>Toy Love</td><td>Cold Meat</td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>Richard Thompson</td><td><a href="https://www.youtube.com/watch?v=q80M7vwnGEY">When the Spell Is Broken</a></td><td>The very first lyrics of the tune must be exactly the same as the title of the tune.</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Aldous Harding</td><td><a href="https://www.youtube.com/watch?v=j7r4hjAsGXw">Party</a></td><td>The tune must come from an album whose front cover contains no words, no letters, no numerals, no readin' matter</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Katie Melua</td><td><a href="https://www.youtube.com/watch?v=lBrz5rWscpo">Halfway Up the Hindu Kush</a></td><td>Fresh</td><td> Chris's Session - Jun 2017</td></tr>
+<tr><td>Elvis Presley</td><td><a href="https://www.youtube.com/watch?v=DCP_g7X31nI">That's All Right Mama</a></td><td>Year of Birth</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>John Clarke</td><td><a href="https://www.youtube.com/watch?v=AYvMeT2GC14">We Don't Know How Lucky We Are</a></td><td>NZ Hits</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>Dougie MacLean</td><td><a href="https://www.youtube.com/watch?v=xNsVGIpF1YQ">The Land</a></td><td>Anagram Of Dan</td><td> Martin's Session - May 2017</td></tr>
+<tr><td>Talking Heads</td><td><a href="https://www.youtube.com/watch?v=CGnznmhNrdA">Don't Worry About the Government</a></td><td>Pioneers</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>The Bothy Band</td><td><a href="https://www.youtube.com/watch?v=jY6QJmJ_Pl4">The Morning Star</a></td><td>Traditionalists</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>Cream</td><td><a href="https://www.youtube.com/watch?v=xGxhECBbw08">White Room</a></td><td>Pop History</td><td> Nick's Session - Apr 2017</td></tr>
+<tr><td>Porcupine Tree</td><td><a href="https://www.youtube.com/watch?v=aLd7QVOOJ2w">Anesthetize</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>PFM + Pagani</td><td><a href="https://www.youtube.com/watch?v=DcBIFBwjylY">River of Life</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
+<tr><td>Toy Love</td><td><a href="https://www.youtube.com/watch?v=LRQtxj2CRFM">Cold Meat</a></td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>Arcade Fire</td><td>Neighborhood #1 (Tunnels)</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Kelly Joe Phelps</td><td>Roll Away the Stone</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>The Civil Wars</td><td>20 Years</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>

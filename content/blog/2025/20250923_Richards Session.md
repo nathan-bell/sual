@@ -29,7 +29,7 @@ categories: ["Gatherings"]
 - **Garageland** - _"Jesus I'm Freezing"_ (Nathan) [youtube](https://www.youtube.com/watch?v=GHitIumBvc0)
 - **Fiona Apple** - _"Hot Knife"_ (David) [youtube](https://www.youtube.com/watch?v=VG1VVFfOnYQ)
 - **Ry Cooder** - _"Kool-Aid"_ (Nick) [youtube](https://www.youtube.com/watch?v=9TIpwZ1Ch_c)
-- **Drab Majesty** - _"Cold Souls"_ (Casey - Guest) [youtube](https://www.youtube.com/watch?v=3-D4X8F9kEA)
+- **Drab Majesty** - _"Dot in the Sky"_ (Casey - Guest) [youtube](https://www.youtube.com/watch?v=HALKkedJUqM)
 
 ##### Theme 3: A "Power Ballad". Cheese, double cheese, triple cheese
 
