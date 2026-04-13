@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-04-11
+date: 2026-04-13
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -15,8 +15,8 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>Michelle Shocked</td><td>Anchorage</td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
-<tr><td>Little Feat</td><td>The Fan</td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
-<tr><td>The Bevis Frond</td><td>Horrorful Heights</td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Little Feat</td><td><a href="https://www.youtube.com/watch?v=mw9l_ztwT3E">The Fan</a></td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>The Bevis Frond</td><td><a href="https://www.youtube.com/watch?v=hiQ2s52byQY">Horrorful Heights</a></td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>Crosby, Stills, Nash & Young</td><td><a href="https://www.youtube.com/watch?v=EkaKwXddT_I">Teach Your Children</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Buckethead</td><td><a href="https://www.youtube.com/watch?v=4S9zFTiKM_M">Sunbursts</a></td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Mel Parsons</td><td><a href="https://www.youtube.com/watch?v=alHWxGJN6Fw">True Story</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
@@ -268,18 +268,18 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Porcupine Tree</td><td><a href="https://www.youtube.com/watch?v=aLd7QVOOJ2w">Anesthetize</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>PFM + Pagani</td><td><a href="https://www.youtube.com/watch?v=DcBIFBwjylY">River of Life</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>Toy Love</td><td><a href="https://www.youtube.com/watch?v=LRQtxj2CRFM">Cold Meat</a></td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>Arcade Fire</td><td>Neighborhood #1 (Tunnels)</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Roll Away the Stone</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>The Civil Wars</td><td>20 Years</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>New Riders of the Purple Sage</td><td>Panama Red</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Grateful Dead</td><td>Greatest Story Ever Told</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Little Feat</td><td>Fat Man in the Bathtub</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Conor Oberst</td><td>You All Loved Him Once</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
-<tr><td>David Swarbrick</td><td>Medley</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
-<tr><td>Alison Krauss</td><td>Through The Morning Through The Night</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>
-<tr><td>Canzoniere Grecanico Salentino</td><td>Tienime tata</td><td>Artist/band not  from USA nor UK.</td><td> Chris's Session - Nov 2016</td></tr>
-<tr><td>Santana</td><td>Promise of a Fisherman</td><td>Old artist still do-oo-oo-ing it (cannot be younger than our oldest committee member, nor won a Nobel prize).</td><td> Chris's Session - Nov 2016</td></tr>
-<tr><td>The Chills</td><td>The Male Monster From the Id</td><td>Another example/update for a theme that you enjoyed from a previous month/year</td><td> Chris's Session - Nov 2016</td></tr>
+<tr><td>Arcade Fire</td><td><a href="https://www.youtube.com/watch?v=VU_2R1rjbD8">Neighborhood #1 (Tunnels)</a></td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=RK_4Srp9KAQ">Roll Away the Stone</a></td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>The Civil Wars</td><td><a href="https://www.youtube.com/watch?v=mizK9xhTf1E">20 Years</a></td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>New Riders of the Purple Sage</td><td><a href="https://www.youtube.com/watch?v=O9G0emfp87E">Panama Red</a></td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=ptqutsPcXGI">Greatest Story Ever Told</a></td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Little Feat</td><td><a href="https://www.youtube.com/watch?v=80TUlmVOEAQ">Fat Man in the Bathtub</a></td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Conor Oberst</td><td><a href="https://www.youtube.com/watch?v=saKchHCw2Nc">You All Loved Him Once</a></td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>David Swarbrick</td><td><a href="https://www.youtube.com/watch?v=oeLDg-KWWQk">Medley</a></td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=AZjVCsSI0OM">Through The Morning Through The Night</a></td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>Canzoniere Grecanico Salentino</td><td><a href="https://www.youtube.com/watch?v=tVn3GT43I8c">Tienime tata</a></td><td>Artist/band not  from USA nor UK.</td><td> Chris's Session - Nov 2016</td></tr>
+<tr><td>Santana</td><td><a href="https://www.youtube.com/watch?v=xdabmiQJ4rg">Promise of a Fisherman</a></td><td>Old artist still do-oo-oo-ing it (cannot be younger than our oldest committee member, nor won a Nobel prize).</td><td> Chris's Session - Nov 2016</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=0URMCWyu5qw">The Male Monster From the Id</a></td><td>Another example/update for a theme that you enjoyed from a previous month/year</td><td> Chris's Session - Nov 2016</td></tr>
 <tr><td>The Allman Brothers Band</td><td>Ramblin' Man</td><td>A Roadtrip song</td><td> Bruce's Session - Oct 2016</td></tr>
 <tr><td>Luciano Pavarotti</td><td>Nessun Dorma</td><td>A Favourite bath/ shower song</td><td> Bruce's Session - Oct 2016</td></tr>
 <tr><td>The Hulamen</td><td>Barking Up The Wrong Tree</td><td>A Wellington song (we can’t all afford London)</td><td> Bruce's Session - Oct 2016</td></tr>

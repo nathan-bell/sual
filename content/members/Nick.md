@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-04-11
+date: 2026-04-13
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays), Bob Dylan (10 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Sandy Denny</td><td>Quiet Joys Of Brotherhood</td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
-<tr><td>Nick Cave</td><td>Bright Horses</td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
-<tr><td>Miles Davis</td><td>Bitches Brew</td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=NHstyoGkMIU">Quiet Joys Of Brotherhood</a></td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=cfKYImFP_Pw">Bright Horses</a></td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
+<tr><td>Miles Davis</td><td><a href="https://www.youtube.com/watch?v=SbCt-iXIXlQ">Bitches Brew</a></td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>The Rolling Stones & Buddy Guy</td><td><a href="https://www.youtube.com/watch?v=nV-FGDuYlB8">Champagne & Reefer (Live At The Beacon Theatre, New York / 2006)</a></td><td>A guest artist must feature prominently on the track</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>The Staple Singers</td><td><a href="https://www.youtube.com/watch?v=zBKDaU7CKIU">Too Close</a></td><td>Recommended to you by a friend/ family.</td><td> Chris's Session - Jan 2026</td></tr>
 <tr><td>Newtown Rocksteady</td><td><a href="https://www.youtube.com/watch?v=DRUs1XfhLq8">In the Red (Sweeps Ram Time Remix)</a></td><td>A New Year whim, whatever spins your cage</td><td> Chris's Session - Jan 2026</td></tr>
@@ -259,16 +259,16 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays
 <tr><td>Steve Hillage</td><td><a href="https://www.youtube.com/watch?v=AUgl3prcS2M">Palm Trees (Love Guitar)</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>King Crimson</td><td><a href="https://www.youtube.com/watch?v=tWZPJTNPXQU">Sailor's Tale</a></td><td>Two tracks of your choice in the Prog genre</td><td> Bruce's Session - Mar 2017</td></tr>
 <tr><td>Pseudo Echo</td><td><a href="https://www.youtube.com/watch?v=7y3jFRfKfAs">Love an Adventure</a></td><td>A track of high quality from any other genre released in the 1980’s.</td><td> Bruce's Session - Mar 2017</td></tr>
-<tr><td>Blur</td><td>For Tomorrow</td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>Etta James</td><td>Born Under a Bad Sign</td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>Norah Jones</td><td>Creepin' In</td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
-<tr><td>Al Jarreau</td><td>Mas Que Nada</td><td>Bonus Track</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Blur</td><td><a href="https://www.youtube.com/watch?v=Fh8GoIxL7dw">For Tomorrow</a></td><td>Must be Track No 1.</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=70UkfQeXQ_c">Born Under a Bad Sign</a></td><td>Must feature electric slide guitar</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Norah Jones</td><td><a href="https://www.youtube.com/watch?v=HsvIyO_Jk5U">Creepin' In</a></td><td>Must have a playing time of between 2 minutes 57 seconds and 3 minutes 3 seconds</td><td> Richard's Session - Feb 2017</td></tr>
+<tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=kw04siOE0wY">Mas Que Nada</a></td><td>Bonus Track</td><td> Richard's Session - Feb 2017</td></tr>
 <tr><td>Johnny Marr</td><td>Playland</td><td>F@%# Off 2016! - A song or musical moment that exorcises the ghosts from 2016.</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Marty Robbins</td><td>I'm Gonna Miss You When You Go</td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Donald Fagen</td><td>New Frontier</td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
-<tr><td>Norah Jones</td><td>Burn</td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
-<tr><td>Leonard Cohen</td><td>You Want It Darker</td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
-<tr><td>Cassandra Wilson</td><td>Strange Fruit</td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>Marty Robbins</td><td><a href="https://www.youtube.com/watch?v=dHEJY-AGvBA">I'm Gonna Miss You When You Go</a></td><td>Now that's a bit random - Randomly select 3 albums (CD or vinyl only - no video) and bring them along</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=FtovFI8etOg">New Frontier</a></td><td>Who let the cows out - The track you select must contain a cow bell as an instrument.</td><td> David's Session - Jan 2017</td></tr>
+<tr><td>Norah Jones</td><td><a href="https://www.youtube.com/watch?v=loiSVLpKylY">Burn</a></td><td>Births - Something new, fresh, burgeoning, just minted or discovered</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=v0nmHymgM7Y">You Want It Darker</a></td><td>Deaths - To acknowledge the recent batch of high-profile passings, annother pick from the pantheon of 2016 music deaths</td><td> Martin's Session - Dec 2016</td></tr>
+<tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=YyNtFAMMsuA">Strange Fruit</a></td><td>Marriages - A coming together of individual acts/artists to create something new and bigger than the sum of its parts</td><td> Martin's Session - Dec 2016</td></tr>
 <tr><td>Steppenwolf</td><td>Born to Be Wild</td><td>A Roadtrip song</td><td> Bruce's Session - Oct 2016</td></tr>
 <tr><td>Diana Krall</td><td>I Love Being Here With You</td><td>A Favourite bath/ shower song</td><td> Bruce's Session - Oct 2016</td></tr>
 <tr><td>Gillian Whitehead</td><td>Puhake ki te rangi</td><td>A Wellington song (we can’t all afford London)</td><td> Bruce's Session - Oct 2016</td></tr>
