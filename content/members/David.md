@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-04-13
+date: 2026-04-27
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 389 tracks in total
+### 392 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Maya Delilah</td><td><a href="https://www.youtube.com/watch?v=twsitXG9-cw">Begin Again</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
+<tr><td>Vitas</td><td><a href="https://www.youtube.com/watch?v=tVj0ZTS4WF4">7 Элемент</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
+<tr><td>Jack White</td><td><a href="https://www.youtube.com/watch?v=VOyLzSv3mYE">G.O.D. And The Broken Ribs</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>The Smashing Pumpkins</td><td><a href="https://www.youtube.com/watch?v=q-KE9lvU810">Cherub Rock</a></td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>The Fall</td><td><a href="https://www.youtube.com/watch?v=bbRatbef_o4">Theme From Sparta F.C.</a></td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>Molly Lewis</td><td><a href="https://www.youtube.com/watch?v=GQMU_5Xm40s">Crushed Velvet</a></td><td>Theme 3, No theme, free spin, whatever you like.</td><td> Richard's Session - Mar 2026</td></tr>
@@ -291,51 +294,51 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>First Aid Kit</td><td><a href="https://www.youtube.com/watch?v=nPWrX9PJAOs">Emmylou</a></td><td>Artist/band not  from USA nor UK.</td><td> Chris's Session - Nov 2016</td></tr>
 <tr><td>Steve Hackett</td><td><a href="https://www.youtube.com/watch?v=o59ZCDh0ecI">Ghost in the Glass</a></td><td>Old artist still do-oo-oo-ing it (cannot be younger than our oldest committee member, nor won a Nobel prize).</td><td> Chris's Session - Nov 2016</td></tr>
 <tr><td>Gas Mask</td><td><a href="https://www.youtube.com/watch?v=15N5oblKZ_U">If You Just Think of Me</a></td><td>Another example/update for a theme that you enjoyed from a previous month/year</td><td> Chris's Session - Nov 2016</td></tr>
-<tr><td>Random Busker</td><td>Wish You Were Here</td><td>A Roadtrip song</td><td> Bruce's Session - Oct 2016</td></tr>
-<tr><td>Lee Hazlewood</td><td>These Boots Are Made for Walking</td><td>A Favourite bath/ shower song</td><td> Bruce's Session - Oct 2016</td></tr>
-<tr><td>TrinityRoots</td><td>Little Things</td><td>A Wellington song (we can’t all afford London)</td><td> Bruce's Session - Oct 2016</td></tr>
-<tr><td>Brian Eno</td><td>Baby's on Fire</td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
-<tr><td>Peter Green Splinter Group</td><td>I'm a Steady Rollin' Man</td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
-<tr><td>Electrafixion</td><td>Lowdown</td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
-<tr><td>Santana</td><td>Song of the Wind</td><td>Entree:  Light Hammond B3</td><td> Richard's Session - Jul 2016</td></tr>
-<tr><td>Chicago</td><td>25 or 6 to 4</td><td>Main:  Meaty Brass</td><td> Richard's Session - Jul 2016</td></tr>
-<tr><td>Porcupine Tree</td><td>Shesmovedon</td><td>Dessert:  Sweet and Tasty Wah Wah</td><td> Richard's Session - Jul 2016</td></tr>
-<tr><td>The Stooges</td><td>Down on the Street</td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
-<tr><td>The Strokes</td><td>Trying Your Luck</td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
-<tr><td>Björk</td><td>It's Oh So Quiet</td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
-<tr><td>Various Artists</td><td>While My Guitar Gently Weeps</td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
-<tr><td>Emerson, Lake & Palmer</td><td>From the Beginning</td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
-<tr><td>David Bowie</td><td>Breaking Glass</td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
-<tr><td>Al Stewart</td><td>Year of the Cat</td><td>Sorry, I nearly missed my deadline - think days, weeks, months, years or any measurement of time. (But NOT the word “time” by itself)</td><td> David's Session - Apr 2016</td></tr>
-<tr><td>The Isley Brothers</td><td>Summer Breeze</td><td>It just wasn't my cup of tea. A song from yesteryear that you appreciate a lot more these days.</td><td> David's Session - Apr 2016</td></tr>
+<tr><td>Random Busker</td><td><a href="https://www.youtube.com/watch?v=aNLI_S4Vp4c">Wish You Were Here</a></td><td>A Roadtrip song</td><td> Bruce's Session - Oct 2016</td></tr>
+<tr><td>Lee Hazlewood</td><td><a href="https://www.youtube.com/watch?v=PYj3RuhWVVY">These Boots Are Made for Walking</a></td><td>A Favourite bath/ shower song</td><td> Bruce's Session - Oct 2016</td></tr>
+<tr><td>TrinityRoots</td><td><a href="https://www.youtube.com/watch?v=P7Hr6fl7zoI">Little Things</a></td><td>A Wellington song (we can’t all afford London)</td><td> Bruce's Session - Oct 2016</td></tr>
+<tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=fbU1zYzD-Tw">Baby's on Fire</a></td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
+<tr><td>Peter Green Splinter Group</td><td><a href="https://www.youtube.com/watch?v=Y9fKhx8lm6k">I'm a Steady Rollin' Man</a></td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
+<tr><td>Electrafixion</td><td><a href="https://www.youtube.com/watch?v=s0yCv8i_hdc">Lowdown</a></td><td>Fire/Hot/Warm</td><td> Nick's Session - Aug 2016</td></tr>
+<tr><td>Santana</td><td><a href="https://www.youtube.com/watch?v=F7AbmXe9thg">Song of the Wind</a></td><td>Entree:  Light Hammond B3</td><td> Richard's Session - Jul 2016</td></tr>
+<tr><td>Chicago</td><td><a href="https://www.youtube.com/watch?v=8A3HZvGN0qs">25 or 6 to 4</a></td><td>Main:  Meaty Brass</td><td> Richard's Session - Jul 2016</td></tr>
+<tr><td>Porcupine Tree</td><td><a href="https://www.youtube.com/watch?v=N1yM-Dj4U7A">Shesmovedon</a></td><td>Dessert:  Sweet and Tasty Wah Wah</td><td> Richard's Session - Jul 2016</td></tr>
+<tr><td>The Stooges</td><td><a href="https://www.youtube.com/watch?v=fkC2lauXCKU">Down on the Street</a></td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
+<tr><td>The Strokes</td><td><a href="https://www.youtube.com/watch?v=XudCNVIr3Rk">Trying Your Luck</a></td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
+<tr><td>Björk</td><td><a href="https://www.youtube.com/watch?v=htobTBlCvUU">It's Oh So Quiet</a></td><td>Three tracks you’ve “recently” re-discovered (or at least gained a new found appreciation for).</td><td> Nathan's Session - Jun 2016</td></tr>
+<tr><td>Various Artists</td><td><a href="https://www.youtube.com/watch?v=uBjE727azjA">While My Guitar Gently Weeps</a></td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
+<tr><td>Emerson, Lake & Palmer</td><td><a href="https://www.youtube.com/watch?v=Wp8UlgvCVlI">From the Beginning</a></td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=IgdCIAEupNI">Breaking Glass</a></td><td>2016 Music Deaths</td><td> Martin's Session - May 2016</td></tr>
+<tr><td>Al Stewart</td><td><a href="https://www.youtube.com/watch?v=Ak_MTXQALa0">Year of the Cat</a></td><td>Sorry, I nearly missed my deadline - think days, weeks, months, years or any measurement of time. (But NOT the word “time” by itself)</td><td> David's Session - Apr 2016</td></tr>
+<tr><td>The Isley Brothers</td><td><a href="https://www.youtube.com/watch?v=SGCaDB2hwRs">Summer Breeze</a></td><td>It just wasn't my cup of tea. A song from yesteryear that you appreciate a lot more these days.</td><td> David's Session - Apr 2016</td></tr>
 <tr><td>Video</td><td>BABYMETAL</td><td>Let’s stop this reminiscing nonsense! Something from this decade</td><td> David's Session - Apr 2016</td></tr>
-<tr><td>Nadia Reid</td><td>Track of the Time</td><td>Space/ heavenly bodies</td><td> Chris's Session - Mar 2016</td></tr>
-<tr><td>The Fall</td><td>Craigness</td><td>Some (or all) of the tune’s lyrics to be narrated or spoken</td><td> Chris's Session - Mar 2016</td></tr>
-<tr><td>Field Music</td><td>The Noisy Days Are Over</td><td>Neighbours/ neighbourhood</td><td> Chris's Session - Mar 2016</td></tr>
-<tr><td>The Streets</td><td>Let's Push Things Forward</td><td>London</td><td> Bruce's Session - Feb 2016</td></tr>
-<tr><td>David Bowie</td><td>Moonage Daydream</td><td>Bowie</td><td> Bruce's Session - Feb 2016</td></tr>
-<tr><td>The Chills</td><td>Underwater Wasteland</td><td>Food</td><td> Bruce's Session - Feb 2016</td></tr>
-<tr><td>Ed Kuepper</td><td>La Di Doh</td><td>Round One</td><td> Richard's Session - Jan 2016</td></tr>
+<tr><td>Nadia Reid</td><td><a href="https://www.youtube.com/watch?v=vaC3u4b4Q24">Track of the Time</a></td><td>Space/ heavenly bodies</td><td> Chris's Session - Mar 2016</td></tr>
+<tr><td>The Fall</td><td><a href="https://www.youtube.com/watch?v=1jIoYNZaSMo">Craigness</a></td><td>Some (or all) of the tune’s lyrics to be narrated or spoken</td><td> Chris's Session - Mar 2016</td></tr>
+<tr><td>Field Music</td><td><a href="https://www.youtube.com/watch?v=7FGPDau_QwA">The Noisy Days Are Over</a></td><td>Neighbours/ neighbourhood</td><td> Chris's Session - Mar 2016</td></tr>
+<tr><td>The Streets</td><td><a href="https://www.youtube.com/watch?v=QOddpk8jOtU">Let's Push Things Forward</a></td><td>London</td><td> Bruce's Session - Feb 2016</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=RPUAldgS7Sg">Moonage Daydream</a></td><td>Bowie</td><td> Bruce's Session - Feb 2016</td></tr>
+<tr><td>The Chills</td><td><a href="https://www.youtube.com/watch?v=S47_bM5GUIk">Underwater Wasteland</a></td><td>Food</td><td> Bruce's Session - Feb 2016</td></tr>
+<tr><td>Ed Kuepper</td><td><a href="https://www.youtube.com/watch?v=HVY-4uvr-L0">La Di Doh</a></td><td>Round One</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Flowers</td><td>Icehouse</td><td>Round Two</td><td> Richard's Session - Jan 2016</td></tr>
-<tr><td>Tame Impala</td><td>I Don't Really Mind</td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
-<tr><td>David Bowie</td><td>Where Are We Now?</td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>John Grant</td><td>Global Warming</td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Supergroove</td><td>Can’t Get Enough</td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
-<tr><td>Hedwig And The Angry Inch</td><td>Tear Me Down</td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
-<tr><td>Ryuichi Sakamoto</td><td>Merry Christmas Mr Lawrence</td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
-<tr><td>Add N To (X)</td><td>Take To Me Your Leader</td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
-<tr><td>The Dave Brubeck Quartet</td><td>Take Five</td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>XTC</td><td>The Man Who Danced Around His Soul</td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Tame Impala</td><td>Let It Happen</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
-<tr><td>Captain Beefheart And The Magic Band</td><td>Big Eyed Beans From Venus</td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Tame Impala</td><td><a href="https://www.youtube.com/watch?v=crEsha0qOYI">I Don't Really Mind</a></td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=QWtsV50_-p4">Where Are We Now?</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=T_pdcKd3dmY">Global Warming</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Supergroove</td><td><a href="https://www.youtube.com/watch?v=0n7acp5rsu0">Can’t Get Enough</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Hedwig And The Angry Inch</td><td><a href="https://www.youtube.com/watch?v=SIZ5F2CKlZE">Tear Me Down</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=ELJf83TelA0">Merry Christmas Mr Lawrence</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Add N To (X)</td><td><a href="https://www.youtube.com/watch?v=fGGWrJp4JHA">Take To Me Your Leader</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>The Dave Brubeck Quartet</td><td><a href="https://www.youtube.com/watch?v=-DHuW1h1wHw">Take Five</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>XTC</td><td><a href="https://www.youtube.com/watch?v=e2EshWuC6lw">The Man Who Danced Around His Soul</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Tame Impala</td><td><a href="https://www.youtube.com/watch?v=pFptt7Cargc">Let It Happen</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Captain Beefheart And The Magic Band</td><td><a href="https://www.youtube.com/watch?v=XF177Aj59C8">Big Eyed Beans From Venus</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
 <tr><td>Return To Forever</td><td>No Mystery</td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
-<tr><td>Radiohead</td><td>The Tourist</td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
-<tr><td>Grinderman</td><td>Go Tell The Women</td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>The Rolling Stones</td><td>Bitch</td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>Doves</td><td>Kingdom Of Rust</td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
-<tr><td>Giant Sand</td><td>Song So Wrong</td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Red House Painters</td><td>Song For A Blue Guitar</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Super Furry Animals</td><td>Sex, War and Robots</td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Radiohead</td><td><a href="https://www.youtube.com/watch?v=4OzU1jdjSZA">The Tourist</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Grinderman</td><td><a href="https://www.youtube.com/watch?v=Eqqfvv-i68U">Go Tell The Women</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=3N0A2b7nbdM">Bitch</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Doves</td><td><a href="https://www.youtube.com/watch?v=dFM0pUn4dcA">Kingdom Of Rust</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Giant Sand</td><td><a href="https://www.youtube.com/watch?v=vKrXrXTKlls">Song So Wrong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Red House Painters</td><td><a href="https://www.youtube.com/watch?v=6KT_pN6qP58">Song For A Blue Guitar</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Super Furry Animals</td><td><a href="https://www.youtube.com/watch?v=86WG8YcbGK4">Sex, War and Robots</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Sparklehorse</td><td><a href="https://www.youtube.com/watch?v=BugFhjf_RIU">Painbirds</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=pWHszh0JHPE&index=22&list=RDE0G_fcfajDA">Chelsea Hotel</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Spines</td><td>Your Body Stays</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>

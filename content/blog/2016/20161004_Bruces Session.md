@@ -6,7 +6,7 @@ image: "/images/post/20161008_image-asset.png"
 date: 2016-10-04T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["brucessession","neilyoung","therollingstones","jeffbeck","ween","blackfield","theallmanbrothersband","lucindawilliams","leehazlewood","jasonisbell","dianakrall","steppenwolf","thewindycitystrugglers","bobbydarin","thehulamen","theparagons","randombusker","solomonburke","trinityroots","lucianopavarotti","gillianwhitehead","atlantarhythmsection"]
+tags: ["brucessession","neilyoung","therollingstones","jeffbeck","ween","blackfield","theallmanbrothersband","lucindawilliams","leehazlewood","jasonisbell","dianakrall","steppenwolf","thewindycitystrugglers","bobbydarin","thehulamen","theparagons","randombusker","solomonburke","trinityroots","lucianopavarotti","gillianwhitehead","atlantarhythmsection","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _A Roadtrip song, A Favourite bath/ shower song, A Wellington song (we can’t all afford London)_
