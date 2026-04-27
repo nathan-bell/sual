@@ -24,7 +24,7 @@ categories: ["Gatherings"]
 - **Brian Eno** - _"We Let It In"_ (Nick) [youtube](https://www.youtube.com/watch?v=Dehxp3PUTkM)
 - **Zappa Plays Zappa ft Steve Vai** - _"Zomby Woof"_ (Richard) [youtube](https://www.youtube.com/watch?v=HwFkP8hjk8k)
 - **Vitas** - _"7 Элемент"_ (David) [youtube](https://www.youtube.com/watch?v=tVj0ZTS4WF4)
-- **Dan Reeder** - _"Cowboy Song"_ (https://www.youtube.com/watch?v=spnGxAFQpF0)
+- **Dan Reeder** - _"Cowboy Song"_ (Nathan) [youtube](https://www.youtube.com/watch?v=spnGxAFQpF0)
 - **David Bowie** - _"The Man Who Sold the World"_ (Bruce) [youtube](https://www.youtube.com/watch?v=PdlU8e9wBIE)
 - **Angine de Poitrine** - _"Fabienk"_ (Martin) [youtube](https://www.youtube.com/watch?v=pRgHYWOtqqc)
 - **David Byrne & Brian Eno** - _"The Jezebel Spirit (Mixed)"_ (Chris) [youtube](https://www.youtube.com/watch?v=Ifriiv3DIw8)
