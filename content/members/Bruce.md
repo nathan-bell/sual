@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 349 tracks in total
+### 352 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
-Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), Mazzy Star (5 plays) and The Cure (5 plays).
+Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), John Martyn (5 plays) and Mazzy Star (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Roxy Music</td><td>Editions Of You</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>John Martyn</td><td>Some People Are Crazy</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Cars</td><td>All Mixed Up</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Grace Bowers</td><td><a href="https://www.youtube.com/watch?v=o4WR3-y6S-o">Stevie Ray Vaughan Tribute</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=PdlU8e9wBIE">The Man Who Sold the World</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Clannad</td><td><a href="https://www.youtube.com/watch?v=tJ35VZW6Aic">Down by the Sally Gardens</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -323,31 +326,31 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Daniel Lanois</td><td><a href="https://www.youtube.com/watch?v=FJn9TsXgRi8">Frozen</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>David Gray</td><td><a href="https://www.youtube.com/watch?v=F_-LYdkFjeI">Caroline</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>New Riders of the Purple Sage</td><td><a href="https://www.youtube.com/watch?v=KU8kalZM4KE">Last Lonely Eagle</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Sinead O'Connor</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Richard Thompson</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Sinead O'Connor</td><td><a href="https://www.youtube.com/watch?v=0-EF60neguk">- Needs Updating</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Richard Thompson</td><td><a href="https://www.youtube.com/watch?v=D17Rinug5-0">- Needs Updating</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Canzoniere Grecanico Salentino</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Patti Smith</td><td>Gloria</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The The</td><td>This Is the Day</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Wishbone Ash</td><td>Lady Jay</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Grateful Dead</td><td>Run for the Roses</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Hanggai</td><td>Gobbi</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Sam Baker</td><td>Palestine I</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Decemberists</td><td>The Wanting Comes in Waves</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Pink Floyd</td><td>Mother</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Dougie MacLean</td><td>The Land</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Sarah Jarosz</td><td>Rearrange the Art</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Grateful Dead</td><td>It Must Have Been the Roses</td><td>Wisdom</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Loud as Ears</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>John Butler Trio</td><td>Johnny's Gone</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Doors</td><td>Waiting for the Sun</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Tim Buckley</td><td>Song to the Siren</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>This Mortal Coil</td><td>Song to the Siren</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>John Butler Trio</td><td>Better Than</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jerry Garcia</td><td>Grateful. Dawg</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>The Decemberists</td><td>Dear Avery</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Sarah Jarosz</td><td>Build Me Up From Bones</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>R.E.M.</td><td>Pale Blue Eyes</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Vieux Farka Touré</td><td>Ay Bakoy</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=bPO0bTaWcFQ">Gloria</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=Nxazmzy0vAo">This Is the Day</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Wishbone Ash</td><td><a href="https://www.youtube.com/watch?v=wAtf7YUW1RM">Lady Jay</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=FMEtwoSzGW0">Run for the Roses</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Hanggai</td><td><a href="https://www.youtube.com/watch?v=2IajXco7UCs">Gobbi</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Sam Baker</td><td><a href="https://www.youtube.com/watch?v=mDnTGfWhT04">Palestine I</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Decemberists</td><td><a href="https://www.youtube.com/watch?v=5--ZQMmkkV0">The Wanting Comes in Waves</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=n_yRvxy9HVs">Mother</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Dougie MacLean</td><td><a href="https://www.youtube.com/watch?v=xNsVGIpF1YQ">The Land</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=veaaR7Z3alA">Rearrange the Art</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=n0TjCMtUPto">It Must Have Been the Roses</a></td><td>Wisdom</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=Ty-re_VHsxc">Loud as Ears</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=EKi7j7xg13U">Johnny's Gone</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Doors</td><td><a href="https://www.youtube.com/watch?v=VUI-ELCdjxo">Waiting for the Sun</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Tim Buckley</td><td><a href="https://www.youtube.com/watch?v=vMTEtDBHGY4">Song to the Siren</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>This Mortal Coil</td><td><a href="https://www.youtube.com/watch?v=HFWKJ2FUiAQ">Song to the Siren</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=79cG_F1GxfI">Better Than</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jerry Garcia</td><td><a href="https://www.youtube.com/watch?v=H63bfWqLh4U">Grateful. Dawg</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>The Decemberists</td><td><a href="https://www.youtube.com/watch?v=HaMLEaNg6LI">Dear Avery</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=X09s37tJ09s">Build Me Up From Bones</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>R.E.M.</td><td><a href="https://www.youtube.com/watch?v=KEEDxQ-xl40">Pale Blue Eyes</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Vieux Farka Touré</td><td><a href="https://www.youtube.com/watch?v=tUUOaEfTGLo">Ay Bakoy</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Janis Ian</td><td>His Hands</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Tony Joe White</td><td>Closer to the Truth</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Russell Smith</td><td>Anger and Tears</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>

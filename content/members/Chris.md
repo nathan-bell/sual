@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 371 tracks in total
+### 374 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
-Chris's Top 5 most played artists are: Jimi Hendrix (6 plays), Boz Scaggs (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
+Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Jefferson Airplane</td><td>Wooden Ships</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Boz Scaggs</td><td>Runnin' Blue</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Marvin Gaye</td><td>What's Going On</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Tedeschi Trucks Band</td><td><a href="https://www.youtube.com/watch?v=Zy2uY6V4BHQ">I Pity the Fool</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Byrne & Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Ifriiv3DIw8">The Jezebel Spirit (Mixed)</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Sam Cooke</td><td><a href="https://www.youtube.com/watch?v=J6iZmcgpHGU">Sad Mood</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -322,38 +325,38 @@ Chris's Top 5 most played artists are: Jimi Hendrix (6 plays), Boz Scaggs (6 pla
 <tr><td>The Reverend Peyton's Big Damn Band</td><td><a href="https://www.youtube.com/watch?v=rwasbi5Nae0">Front Porch Trained</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Rodney Crowell</td><td><a href="https://www.youtube.com/watch?v=Uyg8LMD4cWc">East Houston Blues</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>George Harrison</td><td><a href="https://www.youtube.com/watch?v=T3D68KWfZOo">Beware of Darkness</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>John Hiatt</td><td>Marlene</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Hot 'Lanta</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Eilen Jewell</td><td>Over Again</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Quicksilver Messenger Service</td><td>Cobra</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Stephen Stills</td><td>Rock & Roll Crazies / Cuban Bluegrass</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The War on Drugs</td><td>Burning</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Sun Kil Moon</td><td>Richard Ramirez Died Today of Natural Causes</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>St. Vincent</td><td>Uncut Jan 2015 Cover Disc</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Ray J</td><td>Right Place, Wrong Time</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>R.L. Burnside</td><td>Shuck Dub</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>John Hiatt</td><td>Long Time Comin'</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Victoria Williams</td><td>Since I've Laid My Burden Down</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Creedence Clearwater Revival</td><td>Run Through the Jungle</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Marc Ribot</td><td>Our Daily Bread</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Steve Miller Band</td><td>Motherless Children</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Sonny Rollins</td><td>God Bless the Child</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Boz Scaggs</td><td>Rainy Night in Georgia</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Neil Finn</td><td>Faster Than Light</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Van Morrison</td><td>Ballerina</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Beat</td><td>Twist and Crawl</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Jesus and Mary Chain</td><td>April Skies</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Dexter Gordon</td><td>I'm a Fool to Want You</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Salmonella Dub</td><td>Wisdom by Default</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Otis Redding</td><td>That's How Strong My Love Is</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Jimi Hendrix</td><td>May This Be Love</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Emmylou Harris</td><td>May This Be Love</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Mark Lanegan</td><td>One Hundred Days</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jason Isbell</td><td>Live Oak</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jonathan Wilson</td><td>Cecil Taylor</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Blue Sky</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Cowboy Junkies</td><td>Sweet Jane</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Wayne Shorter</td><td>Orbits</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=HByJ9rssGJM">Marlene</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=FWSoo3bLhIc">Hot 'Lanta</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=3U8M3A7beo4">Over Again</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Quicksilver Messenger Service</td><td><a href="https://www.youtube.com/watch?v=_3GswVM9Eps">Cobra</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Stephen Stills</td><td><a href="https://www.youtube.com/watch?v=usDz7rK_Xz8">Rock & Roll Crazies / Cuban Bluegrass</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The War on Drugs</td><td><a href="https://www.youtube.com/watch?v=5RWdbicu3xM">Burning</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Sun Kil Moon</td><td><a href="https://www.youtube.com/watch?v=nviTjk9Lm-w">Richard Ramirez Died Today of Natural Causes</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>St. Vincent</td><td><a href="https://www.youtube.com/watch?v=gxDsajnCvuc">Uncut Jan 2015 Cover Disc</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Ray J</td><td><a href="https://www.youtube.com/watch?v=8ub3s_5ZLjw">Right Place, Wrong Time</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>R.L. Burnside</td><td><a href="https://www.youtube.com/watch?v=gh_vdovKg5s">Shuck Dub</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=S2UCiWoMiuc">Long Time Comin'</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Victoria Williams</td><td><a href="https://www.youtube.com/watch?v=5o0Q4bmGkSM">Since I've Laid My Burden Down</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Creedence Clearwater Revival</td><td><a href="https://www.youtube.com/watch?v=_7PUPNxsRQ0">Run Through the Jungle</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=T4ai4kwWw9U">Our Daily Bread</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Steve Miller Band</td><td><a href="https://www.youtube.com/watch?v=pOqD_oohxEU">Motherless Children</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Sonny Rollins</td><td><a href="https://www.youtube.com/watch?v=2qKLBmj1Emc">God Bless the Child</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=8AYjvxFQ4oo">Rainy Night in Georgia</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Neil Finn</td><td><a href="https://www.youtube.com/watch?v=mOUduZFcSY0">Faster Than Light</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=GMCha-mIUAE">Ballerina</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Beat</td><td><a href="https://www.youtube.com/watch?v=KQndwl85qbg">Twist and Crawl</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Jesus and Mary Chain</td><td><a href="https://www.youtube.com/watch?v=OPPP3BXurHk">April Skies</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Dexter Gordon</td><td><a href="https://www.youtube.com/watch?v=oNNM6XXff9A">I'm a Fool to Want You</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Salmonella Dub</td><td><a href="https://www.youtube.com/watch?v=H_KLfaGAnuo">Wisdom by Default</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=ySvRbV3_C6g">That's How Strong My Love Is</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=T4MBwvZWOQE">May This Be Love</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Emmylou Harris</td><td><a href="https://www.youtube.com/watch?v=i3RdttpefBU">May This Be Love</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Mark Lanegan</td><td><a href="https://www.youtube.com/watch?v=b2MIfFVizII">One Hundred Days</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jason Isbell</td><td><a href="https://www.youtube.com/watch?v=b2Q3gcnCIUo">Live Oak</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jonathan Wilson</td><td><a href="https://www.youtube.com/watch?v=UmoBAoEB8jo">Cecil Taylor</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=JSMubgZoL58">Blue Sky</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fa9nN3G2CSg">Sweet Jane</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Wayne Shorter</td><td><a href="https://www.youtube.com/watch?v=pMB_MrgEf4o">Orbits</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Warren Zevon</td><td>Werewolves of London</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Dudley Moore & Peter Cook</td><td>TV segment</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Tom Waits</td><td>After You Die</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -341,40 +341,40 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Super Furry Animals</td><td><a href="https://www.youtube.com/watch?v=86WG8YcbGK4">Sex, War and Robots</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Sparklehorse</td><td><a href="https://www.youtube.com/watch?v=BugFhjf_RIU">Painbirds</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=pWHszh0JHPE&index=22&list=RDE0G_fcfajDA">Chelsea Hotel</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Spines</td><td>Your Body Stays</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Madeleine Peyroux</td><td>Wild Card in the Hole</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Echo & the Bunnymen</td><td>Show of Strength</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>New Order</td><td>World in Motion</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Death Cab for Cutie</td><td>I Will Possess Your Heart</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Patti Smith</td><td>Rock and Roll Nigger</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Stranglers</td><td>Golden Brown</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Throwing Muses</td><td>Freesia</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Julee Cruise</td><td>Falling</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>A Certain Ratio</td><td>Do The D.V.</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>XTC</td><td>Complicated Game</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Damon Albarn</td><td>Hostiles</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Julee Cruise</td><td>I Remember</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Al Di Meola</td><td>And I Love Her</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Beta Band</td><td>Dry the Rain</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Idle Race</td><td>I Like My Toys</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Jacqueline du Pre</td><td>Elgar's Cello Concerto in E Minor (II)</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Gruff Rhys</td><td>Year of the Dog</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>David Sylvian</td><td>The Ink In The Well</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Orange Juice</td><td>What Presence?!</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Smashing Pumpkins</td><td>Geek U.S.A.</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Dog Age</td><td>April, Spring, Summer and Wednesday</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Matt Berry</td><td>Love Is a Fool</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>No-Man</td><td>Pretty Genius</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Ian Dury</td><td>Sweet Gene Vincent</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>The Beatles</td><td>Twist and Shout</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Frank Bennett</td><td>Creep</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Radiohead</td><td>Creep</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Nick Drake</td><td>River Man</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Steve Mason</td><td>A Lot of Love</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Dungen</td><td>Fredag</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Throwing Muses</td><td>Ride Into the Sun</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed , John Cale & Sterling Morrison</td><td>Forever Changed</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Steven Wilson</td><td>Drive Home</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Spines</td><td><a href="https://www.youtube.com/watch?v=ZRnhGJwO_Z4">Your Body Stays</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Madeleine Peyroux</td><td><a href="https://www.youtube.com/watch?v=luxutU007RU">Wild Card in the Hole</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Echo & the Bunnymen</td><td><a href="https://www.youtube.com/watch?v=twPsCjyDBhk">Show of Strength</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>New Order</td><td><a href="https://www.youtube.com/watch?v=Re4aDJL3heA">World in Motion</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Death Cab for Cutie</td><td><a href="https://www.youtube.com/watch?v=pq-yP7mb8UE">I Will Possess Your Heart</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=b1o68h4Usqs">Rock and Roll Nigger</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Stranglers</td><td><a href="https://www.youtube.com/watch?v=7KIHvuMl4Kk">Golden Brown</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=D24CRqsv84M">Freesia</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Julee Cruise</td><td><a href="https://www.youtube.com/watch?v=EIUeZ4OqLXU">Falling</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>A Certain Ratio</td><td><a href="https://www.youtube.com/watch?v=TsJ_54WyZ48">Do The D.V.</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>XTC</td><td><a href="https://www.youtube.com/watch?v=MzPECgrwjKE">Complicated Game</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Damon Albarn</td><td><a href="https://www.youtube.com/watch?v=jezyoMnwLNk">Hostiles</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Julee Cruise</td><td><a href="https://www.youtube.com/watch?v=FK0NYLTMNzI">I Remember</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Al Di Meola</td><td><a href="https://www.youtube.com/watch?v=44Lf9Nryil4">And I Love Her</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Beta Band</td><td><a href="https://www.youtube.com/watch?v=6XKvbROUmNk">Dry the Rain</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Idle Race</td><td><a href="https://www.youtube.com/watch?v=Bv5YHX4OwcA">I Like My Toys</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Jacqueline du Pre</td><td><a href="https://www.youtube.com/watch?v=OPhkZW_jwc0">Elgar's Cello Concerto in E Minor (II)</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Gruff Rhys</td><td><a href="https://www.youtube.com/watch?v=_gKIwGNQD8o">Year of the Dog</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>David Sylvian</td><td><a href="https://www.youtube.com/watch?v=1oYG7cpPok8">The Ink In The Well</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Orange Juice</td><td><a href="https://www.youtube.com/watch?v=5zHoaLl9340">What Presence?!</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Smashing Pumpkins</td><td><a href="https://www.youtube.com/watch?v=K79LRBXJOqM">Geek U.S.A.</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Dog Age</td><td><a href="https://www.youtube.com/watch?v=jc0esH5-6-U">April, Spring, Summer and Wednesday</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Matt Berry</td><td><a href="https://www.youtube.com/watch?v=oWoUrM_vTIM">Love Is a Fool</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>No-Man</td><td><a href="https://www.youtube.com/watch?v=nDFT2CRK2YM">Pretty Genius</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Ian Dury</td><td><a href="https://www.youtube.com/watch?v=JCOym2yutD0">Sweet Gene Vincent</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=2RicaUqd9Hg">Twist and Shout</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Frank Bennett</td><td><a href="https://www.youtube.com/watch?v=6SDr_35aVOI">Creep</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Radiohead</td><td><a href="https://www.youtube.com/watch?v=XFkzRNyygfk">Creep</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=idcaRTg4-fM">River Man</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Steve Mason</td><td><a href="https://www.youtube.com/watch?v=APGAY1wpL4k">A Lot of Love</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Dungen</td><td><a href="https://www.youtube.com/watch?v=-3TI3harFJo">Fredag</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=ZZgoOeksIn0">Ride Into the Sun</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed , John Cale & Sterling Morrison</td><td><a href="https://www.youtube.com/watch?v=eEFyuOYJNiM">Forever Changed</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=ycYewhiaVBk">Drive Home</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Serge Gainsbourg</td><td>Comic Strip</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Primus</td><td>Tommy the Cat</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>The Rutles</td><td>Questionnaire</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

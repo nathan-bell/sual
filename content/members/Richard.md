@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 370 tracks in total
+### 373 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), Frank Zappa (13 plays), The Beatles (13 plays), Led Zeppelin (10 plays) and Blackberry Smoke (9 plays).
+Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springsteen (14 plays), Frank Zappa (13 plays), Led Zeppelin (10 plays) and Blackberry Smoke (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Dean Martin</td><td>Just In Time</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Beatles</td><td>Ask Me Why</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Life In the Fast Lane</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Pretenders</td><td><a href="https://www.youtube.com/watch?v=o6-0ypKuwv8">Precious</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Zappa Plays Zappa ft Steve Vai</td><td><a href="https://www.youtube.com/watch?v=HwFkP8hjk8k">Zomby Woof</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>New Order</td><td><a href="https://www.youtube.com/watch?v=3oOB9ektig4">Waiting For the Sirens' Call</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -329,31 +332,31 @@ Richard's Top 5 most played artists are: Bruce Springsteen (14 plays), Frank Zap
 <tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=JK_DOJa99oo">Stairway to Heaven</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=Sa5NwJQvlvQ&list=RDSa5NwJQvlvQ">Yesterday's Wine</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Hole</td><td><a href="https://www.youtube.com/watch?v=v0CYB5V9e64">Malibu</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Led Zeppelin</td><td>Rock and Roll</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Ed Sheeran</td><td>The A Team</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Van Halen</td><td>A.F.U. (Naturally Wired)</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Archie Roach</td><td>Weeping in the Forest</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Led Zeppelin</td><td>The Crunge</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Spike Jones</td><td>Powerhouse</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Blackberry Smoke</td><td>Sleeping Dogs</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Frank Zappa</td><td>Ronnie Sings?</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Monkees</td><td>You Just May Be the One</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Four Tet</td><td>My Angel Rocks Back and Forth</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Tommy Bolin</td><td>People People</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>The Beatles</td><td>The Long And Winding Road</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Frank Zappa</td><td>The M.O.I. Anti‐Smut Loyalty Oath</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=D2lSwosw9xY">Rock and Roll</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Ed Sheeran</td><td><a href="https://www.youtube.com/watch?v=UAWcs5H-qgQ">The A Team</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Van Halen</td><td><a href="https://www.youtube.com/watch?v=x6oFLpspDGc">A.F.U. (Naturally Wired)</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=P0ceXyYsK34">Weeping in the Forest</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=W711RXvFwmI">The Crunge</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Spike Jones</td><td><a href="https://www.youtube.com/watch?v=9-rHUzW6hQw">Powerhouse</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=rc__d_YhcUk">Sleeping Dogs</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=AaRxgZexUeI">Ronnie Sings?</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Monkees</td><td><a href="https://www.youtube.com/watch?v=AktjaI0G4KA">You Just May Be the One</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Four Tet</td><td><a href="https://www.youtube.com/watch?v=6Xtooyd2QwU">My Angel Rocks Back and Forth</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=7v03n2Vv6D4">People People</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=fR4HjTH_fTM">The Long And Winding Road</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=L6ThYU12crY">The M.O.I. Anti‐Smut Loyalty Oath</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
 <tr><td>U2</td><td>Out takes</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Archie Roach</td><td>Weeping in the Forest</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Sex Pistols</td><td>God Save the Queen</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Mighty Accordion Band</td><td>April in Paris</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>The Beatles</td><td>The Fool On The Hill</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Gerry and the Pacemakers</td><td>Don't Let the Sun Catch You Crying</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Joni Mitchell</td><td>Underneath the Streetlight</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Bruce Springsteen</td><td>The Ghost of Tom Joad</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Rage Against the Machine</td><td>The Ghost of Tom Joad</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Lynyrd Skynyrd</td><td>I Know a Little</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jimmy Page</td><td>Wasting My Time</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>The Byrds</td><td>Turn, Turn, Turn</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=P0ceXyYsK34">Weeping in the Forest</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Sex Pistols</td><td><a href="https://www.youtube.com/watch?v=yqrAPOZxgzU">God Save the Queen</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Mighty Accordion Band</td><td><a href="https://www.youtube.com/watch?v=ZFSKanfsQ3o">April in Paris</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=wsRatIMUSu8">The Fool On The Hill</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Gerry and the Pacemakers</td><td><a href="https://www.youtube.com/watch?v=hy7BZ0v4lPo">Don't Let the Sun Catch You Crying</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=mLvdW9L1msc">Underneath the Streetlight</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=2Nbe2O-mJmc">The Ghost of Tom Joad</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Rage Against the Machine</td><td><a href="https://www.youtube.com/watch?v=T-8BoWU3XMo">The Ghost of Tom Joad</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Lynyrd Skynyrd</td><td><a href="https://www.youtube.com/watch?v=WVnVF6zByIw">I Know a Little</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jimmy Page</td><td><a href="https://www.youtube.com/watch?v=TSDWzA2LDwU">Wasting My Time</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=xVOJla2vYx8">Turn, Turn, Turn</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Waiting For Gufman</td><td>Film segment</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>The Liberation Project</td><td>Siyabonga Little Steven (For Steve Van Zandt)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

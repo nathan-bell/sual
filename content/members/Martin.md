@@ -2,18 +2,22 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 366 tracks in total
+### 370 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
-Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Joe Jackson (5 plays).
+Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Joe Jackson (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Joan Armatrading</td><td>Down To Zero</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Steely Dan</td><td>King of the World (Live 1974)</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Twenty-One</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Out of Control</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Larkin Poe</td><td><a href="https://www.youtube.com/watch?v=MzoK3FoitPU">Preachin' Blues</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Angine de Poitrine</td><td><a href="https://www.youtube.com/watch?v=pRgHYWOtqqc">Fabienk</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Rory Hoffman</td><td><a href="https://www.youtube.com/watch?v=TU_uLjd24Rs">Night Life</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -330,35 +334,35 @@ Martin's Top 5 most played artists are: Steely Dan (12 plays), Scott Walker (7 p
 <tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=BnjHc_-hpvk">My Weakness Is Too Strong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=BM9GNRqxxhU">Pearl Of The Quarter</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=HmUktmL26A4">Cherokee Maiden</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Kimbra</td><td>Settle Down</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Bridget Everett</td><td>What I Gotta Do</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Etta James</td><td>I'd Rather Go Blind</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Andy Pratt</td><td>Avenging Annie</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The Time Jumpers</td><td>My Window Faces The South</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Al Jarreau</td><td>Sticky Wicket</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Cardboard Box of Batteries</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Donald Fagen</td><td>Viva Viva Rock 'n' Roll</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Claire Martin</td><td>Gettin' High</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Kimbra</td><td><a href="https://www.youtube.com/watch?v=rBxmidwDy2Y">Settle Down</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Bridget Everett</td><td><a href="https://www.youtube.com/watch?v=JiAED2p4_QA">What I Gotta Do</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=Bcus42ihkTI">I'd Rather Go Blind</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Andy Pratt</td><td><a href="https://www.youtube.com/watch?v=DZI-DraC0o4">Avenging Annie</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=UnhhG7F-7ow">My Window Faces The South</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=EOsj84OvEEw">Sticky Wicket</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=JzyR9V5UYIk">Cardboard Box of Batteries</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=QakWD6x50g8">Viva Viva Rock 'n' Roll</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Claire Martin</td><td><a href="https://www.youtube.com/watch?v=mIOUvgLM06A">Gettin' High</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
 <tr><td>Brian Seltzer</td><td>Track 9</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Brecker Brothers</td><td>East River</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Earth, Wind & Fire</td><td>In The Stone</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Mavis Staples</td><td>Koochie, Koochie, Koochie</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Rodrigo y Gabriela</td><td>Fram</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>The James Hunter Six</td><td>It Won't Be Long</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Crumb Family</td><td>In The Pines</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Bill Frisell</td><td>I'm So Lonesome I Could Cry</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Time Jumpers</td><td>Along The Navajo Trail</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Larry Carlton</td><td>High Steppin'</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Larry Carlton</td><td>All Blues</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Robert Conti</td><td>April</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Mose Allison</td><td>Fool's Paradise</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Mose Allison</td><td>I Don't Worry About a Thing</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Etta James</td><td>Born Under a Bad Sign</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Nigel Gavin</td><td>Nebuchadnezzar</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Led Zeppelin</td><td>Royal Orleans</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Donovan</td><td>Sunshine Superman</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed</td><td>Walk on the Wild Side</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Talking To Jehovah</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>The Brecker Brothers</td><td><a href="https://www.youtube.com/watch?v=wnfhHamrULc">East River</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Earth, Wind & Fire</td><td><a href="https://www.youtube.com/watch?v=6Z2xClustQo">In The Stone</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Mavis Staples</td><td><a href="https://www.youtube.com/watch?v=k1kwop0yCVw">Koochie, Koochie, Koochie</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Rodrigo y Gabriela</td><td><a href="https://www.youtube.com/watch?v=grFq720Yuw0">Fram</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>The James Hunter Six</td><td><a href="https://www.youtube.com/watch?v=h9zuqeQtmOQ">It Won't Be Long</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Crumb Family</td><td><a href="https://www.youtube.com/watch?v=pj6cHtSBfec">In The Pines</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Bill Frisell</td><td><a href="https://www.youtube.com/watch?v=fcIUQPuoydo">I'm So Lonesome I Could Cry</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=x7WxzOl6cUU">Along The Navajo Trail</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Larry Carlton</td><td><a href="https://www.youtube.com/watch?v=H2ICclDAV5U">High Steppin'</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Larry Carlton</td><td><a href="https://www.youtube.com/watch?v=9s4Wb4hcN-8">All Blues</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Robert Conti</td><td><a href="https://www.youtube.com/watch?v=O3w0tmEYpOA">April</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=DX7Z-r9n_n0">Fool's Paradise</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=bhhOcicVNgM">I Don't Worry About a Thing</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=70UkfQeXQ_c">Born Under a Bad Sign</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Nigel Gavin</td><td><a href="https://www.youtube.com/watch?v=FFRErfJBFts">Nebuchadnezzar</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=YDUIxy8za4w">Royal Orleans</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Donovan</td><td><a href="https://www.youtube.com/watch?v=YsX2FhBf9nY">Sunshine Superman</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=oG6fayQBm9w">Walk on the Wild Side</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=F0kwK4EAP5Q">Talking To Jehovah</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Dave Biller & Jerry Wakefield</td><td>Good Enough</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Walter Becker</td><td>Cringemaker</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Tex Williams</td><td>Smoke Smoke Smoke (That Cigarette)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

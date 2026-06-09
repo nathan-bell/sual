@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -316,33 +316,33 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays
 <tr><td>Ohio</td><td>Over The Rhine</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Michelle Shocked</td><td><a href="https://www.youtube.com/watch?v=27_OAk2AWMg">Track Three ?</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Rickie Lee Jones</td><td>Balm in Gilead</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Jason Isbell</td><td>Live Oak</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Muddy Waters & The Rolling Stones</td><td>Mannish Boy</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Barry Saunders</td><td>At Kaipara</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Sly & the Family Stone</td><td>Higher</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Etta James</td><td>Cheating in the Next Room</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Neil Young</td><td>Say Hello to Chicago (solo)</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>James Brown</td><td>It's Too Funky in Here</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Glen Hansard</td><td>Falling Slowly</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Patty Griffin</td><td>Tear This Feeling Down</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Tom Waits</td><td>Invitation to the Blues</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Janis Joplin</td><td>Piece of My Heart</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Jaco Pastorius</td><td>Crisis</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Brian Eno</td><td>Julie With…</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Over the Rhine</td><td>Favorite Time of Light</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Neil Young</td><td>My My, Hey Hey (Out of the Blue)</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Nigel Kennedy</td><td>Autumn Regrets</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Paul Kelly</td><td>Someone New</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Grateful Dead</td><td>Attics of My Life</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Paul Kelly</td><td>- Track Name Required</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Mercury Rev</td><td>Isolation</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>John Lennon</td><td>Isolation</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Brian Wilson</td><td>Pet Sounds</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jason Isbell</td><td><a href="https://www.youtube.com/watch?v=b2Q3gcnCIUo">Live Oak</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Muddy Waters & The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=32YQYJuxyn0">Mannish Boy</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Barry Saunders</td><td><a href="https://www.youtube.com/watch?v=Uyr2ZilBkbQ">At Kaipara</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Sly & the Family Stone</td><td><a href="https://www.youtube.com/watch?v=BqWQzOzK3kw">Higher</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=b2F_z8wtZJs">Cheating in the Next Room</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=mc9WX-A4hvw">Say Hello to Chicago (solo)</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>James Brown</td><td><a href="https://www.youtube.com/watch?v=k6V9w51Npd0">It's Too Funky in Here</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Glen Hansard</td><td><a href="https://www.youtube.com/watch?v=k8mtXwtapX4">Falling Slowly</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Patty Griffin</td><td><a href="https://www.youtube.com/watch?v=vzQ6OyjxKy0">Tear This Feeling Down</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=Ag2hddV1hE4">Invitation to the Blues</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Janis Joplin</td><td><a href="https://www.youtube.com/watch?v=7uG2gYE5KOs">Piece of My Heart</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Jaco Pastorius</td><td><a href="https://www.youtube.com/watch?v=IVUNIsQbCn8">Crisis</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=G8MaWNKAIOs">Julie With…</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Over the Rhine</td><td><a href="https://www.youtube.com/watch?v=L8kqRT4ivd4">Favorite Time of Light</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=i6RZY4Ar3fw">My My, Hey Hey (Out of the Blue)</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Nigel Kennedy</td><td><a href="https://www.youtube.com/watch?v=i8bownRFBPM">Autumn Regrets</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=sH-66FBRo1k">Someone New</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=44R_68JS1bE">Attics of My Life</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=EwFUkm1iJ7E">- Track Name Required</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Mercury Rev</td><td><a href="https://www.youtube.com/watch?v=ctDGV-yAckE">Isolation</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=4YPSp2VSpns">Isolation</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Brian Wilson</td><td><a href="https://www.youtube.com/watch?v=oaYs_zECQaQ">Pet Sounds</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Jaco Pastorius</td><td>Word of Mouth</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Bruce Springsteen</td><td>Rocky Ground</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=qPmIIXXv0d8">Rocky Ground</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Unknown Artist</td><td>Julia</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed</td><td>Coney Island Baby</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave</td><td>There She Goes, My Beautiful World</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=1SHCsgqZvQM">Coney Island Baby</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=kkvtF7mvnsw">There She Goes, My Beautiful World</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Phonk</td><td>Arse</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Leonard Cohen</td><td>Anyhow</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Dr. Hook</td><td>Cover of the Rolling Stone</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

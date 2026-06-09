@@ -2,19 +2,23 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 366 tracks in total
+### 370 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
-Nathan's Top 5 most played artists are: The Magnetic Fields (11 plays), Ween (9 plays), Nick Cave (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
+Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 plays), Nick Cave (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Magnetic Fields</td><td>The Luckiest Guy on the Lower East Side</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Tom Petty & The Heartbreakers</td><td>American Girl</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Sleater-Kinney</td><td><a href="https://www.youtube.com/watch?v=Owia8H9zbdM">What's Mine Is Yours</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
+<tr><td>Dan Reeder</td><td><a href="https://www.youtube.com/watch?v=spnGxAFQpF0">Cowboy Song</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Massive Attack & Tom Waits</td><td><a href="https://www.youtube.com/watch?v=L-57FrioeuE">Boots on the Ground</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=W_V7A-NN3MI">Even If You Don't</a></td><td>Theme 1, An artist, band, act you've been lucky enough to see live. This track is preferably one that was played at the live gig you attended.</td><td> Richard's Session - Mar 2026</td></tr>
 <tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=Jf_l3EGQvL8">Andrew in Drag</a></td><td>Theme 2,  An artist, band, act that you have sadly missed out on seeing live.</td><td> Richard's Session - Mar 2026</td></tr>
@@ -324,31 +328,31 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (11 plays), Ween (9 
 <tr><td>Drive By Truckers</td><td><a href="https://www.youtube.com/watch?v=3RdNsQMPyf0">Heathens</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=Y4xJCwQUQMc">Powder Blue</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=7L-DhkWKfIk">Dreamin’ Man</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
-<tr><td>Elizabeth Mitchell</td><td>January, February (Last Month of the Year)</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Skeptics</td><td>A.F.F.C.O.</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>The Magnetic Fields</td><td>I Don't Want to Get Over You</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Drive-By Truckers</td><td>Let There Be Rock</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Cramps</td><td>Let's Get Fucked Up</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Fog</td><td>Hummer</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Murder by Death</td><td>On the Dark Streets Below</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Mountain Goats</td><td>This Year</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Beck</td><td>Painted Eyelids</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Lee Ranaldo</td><td>The Bridge</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Sufjan Stevens</td><td>Decatur, or, Round of Applause for Your Stepmother!</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Leonard Cohen</td><td>One of Us Cannot Be Wrong</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Bright Eyes</td><td>Method Acting</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Neil Young</td><td>Harvest Moon</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Jim Reeves</td><td>Maria Elena</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Nine Inch Nails</td><td>Mr. Self Destruct</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Kort</td><td>April's Fool</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Tony Joe White</td><td>Did Somebody Make a Fool Out of You?</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>William Burroughs</td><td>Words Of Advice For Young People</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Tom Waits</td><td>Crossroads</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Tall Dwarfs</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Red & Zeke feat. Bill Doss & Neil Cleary</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Sunn O))) & Boris</td><td>The Sinking Belle (Blue Sheep)</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave</td><td>All Tomorrow’s Parties</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>John Grant</td><td>Jesus Hates Faggots</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Elizabeth Mitchell</td><td><a href="https://www.youtube.com/watch?v=7D7wqPKDcsI">January, February (Last Month of the Year)</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Skeptics</td><td><a href="https://www.youtube.com/watch?v=qZKDjElk7Ts">A.F.F.C.O.</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=EdbT1a_Khdo">I Don't Want to Get Over You</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Drive-By Truckers</td><td><a href="https://www.youtube.com/watch?v=jHDu_7LM7-U">Let There Be Rock</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Cramps</td><td><a href="https://www.youtube.com/watch?v=hwIMQvdBl88">Let's Get Fucked Up</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Fog</td><td><a href="https://www.youtube.com/watch?v=aXqte3_rFxY">Hummer</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Murder by Death</td><td><a href="https://www.youtube.com/watch?v=i_kag3k8_Ow">On the Dark Streets Below</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Mountain Goats</td><td><a href="https://www.youtube.com/watch?v=H7fBFtif9H4">This Year</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=PpXi75TjyxU">Painted Eyelids</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Lee Ranaldo</td><td><a href="https://www.youtube.com/watch?v=ilA3XNAPTKU">The Bridge</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Sufjan Stevens</td><td><a href="https://www.youtube.com/watch?v=694Ok4_8kCg">Decatur, or, Round of Applause for Your Stepmother!</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=GC7lDw-FKi0">One of Us Cannot Be Wrong</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=KmvIXdXO9MQ">Method Acting</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=n2MtEsrcTTs">Harvest Moon</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Jim Reeves</td><td><a href="https://www.youtube.com/watch?v=hzJurBaZTLw">Maria Elena</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Nine Inch Nails</td><td><a href="https://www.youtube.com/watch?v=RunfFTrTq5k">Mr. Self Destruct</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Kort</td><td><a href="https://www.youtube.com/watch?v=NfO6eKIk9YY">April's Fool</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=_705yTsSG_I">Did Somebody Make a Fool Out of You?</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>William Burroughs</td><td><a href="https://www.youtube.com/watch?v=4yZQbD7q7_8">Words Of Advice For Young People</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=UUHgqSCS6tY">Crossroads</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Tall Dwarfs</td><td><a href="https://www.youtube.com/watch?v=Pg8y57YhLrw">Bodies</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Red & Zeke feat. Bill Doss & Neil Cleary</td><td><a href="https://www.youtube.com/watch?v=ohz0jeTaaMU">Bodies</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Sunn O))) & Boris</td><td><a href="https://www.youtube.com/watch?v=RD4pSxvgtQM">The Sinking Belle (Blue Sheep)</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=9gYxW0B8_Gg">All Tomorrow’s Parties</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=JqdHoEmCFW8">Jesus Hates Faggots</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Peter Sellers</td><td>Beatles cover</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>The Handsome Family</td><td>Drunk by Noon</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Ween</td><td>Fluffy</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>

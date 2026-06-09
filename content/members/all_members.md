@@ -1,22 +1,38 @@
 ---
-title: "All Selections"
+title: "Everyone's Selections"
 description: "All track selections over the years"
 summary: "All track selections over the years"
-date: 2026-04-27
+date: 2026-06-09
 image:  "/images/members/1730523760270.png"
 draft: false
 categories: ["members"]
 ---
 ## All Shut Up & Listen Selections over the years
-### 2748 tracks in total
+### 2764 tracks in total
 <p align="center">{{% image src="/images/members/1730523760270.png" %}}</p>
-Top 5 most played artists are: The Beatles (25 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
+Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Boz Scaggs</td><td>Runnin' Blue</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Dean Martin</td><td>Just In Time</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Life In the Fast Lane</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Twenty-One</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td>Out of Control</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Jefferson Airplane</td><td>Wooden Ships</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Joan Armatrading</td><td>Down To Zero</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>John Martyn</td><td>Some People Are Crazy</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Marvin Gaye</td><td>What's Going On</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Roxy Music</td><td>Editions Of You</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Steely Dan</td><td>King of the World (Live 1974)</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Beatles</td><td>Ask Me Why</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Cars</td><td>All Mixed Up</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Magnetic Fields</td><td>The Luckiest Guy on the Lower East Side</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Tom Petty & The Heartbreakers</td><td>American Girl</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Angine de Poitrine</td><td><a href="https://www.youtube.com/watch?v=pRgHYWOtqqc">Fabienk</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Dehxp3PUTkM">We Let It In</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Clannad</td><td><a href="https://www.youtube.com/watch?v=tJ35VZW6Aic">Down by the Sally Gardens</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
-<tr><td>Dan Reeder</td><td>Cowboy Song</td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
+<tr><td>Dan Reeder</td><td><a href="https://www.youtube.com/watch?v=spnGxAFQpF0">Cowboy Song</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=PdlU8e9wBIE">The Man Who Sold the World</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Byrne & Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Ifriiv3DIw8">The Jezebel Spirit (Mixed)</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Dick Move</td><td><a href="https://www.youtube.com/watch?v=KAcW-M7dLQI">Rampage</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -2209,466 +2225,346 @@ Top 5 most played artists are: The Beatles (25 plays), David Bowie (20 plays), N
 <tr><td>Vince Jones</td><td><a href="https://www.youtube.com/watch?v=tBtI9nzPygc">Lobster</a></td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Warren Zevon</td><td><a href="https://www.youtube.com/watch?v=tSRspHGcrhU">Mr. Bad Example</a></td><td>Round Two</td><td> Richard's Session - Jan 2016</td></tr>
 <tr><td>Yothu Yindi</td><td><a href="https://www.youtube.com/watch?v=DOg1oV6ba8Q">Gany'tjurr</a></td><td>Round Three</td><td> Richard's Session - Jan 2016</td></tr>
-<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=PBQNSjx8jpg">Jamu Dreaming</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=QWtsV50_-p4">Where Are We Now?</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=BLfZNkYbRRo">When The Trumpets Sound</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Eb & Sparrow</td><td><a href="https://www.youtube.com/watch?v=fXGSfeQreO0">In The Harbour</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Even Though I’m Blue</td><td><a href="https://www.youtube.com/watch?v=qMWFBIOjmDY">I’ll Say Goodbye</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Florence And The Machine</td><td><a href="https://www.youtube.com/watch?v=B9v8jLBrvug">Ship To Wreck</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Glen Campbell</td><td><a href="https://www.youtube.com/watch?v=bvQ77PoNJ6E">These Days</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=T_pdcKd3dmY">Global Warming</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Kurt Elling</td><td><a href="https://www.youtube.com/watch?v=Zr66O1brxGM">Resolution</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Mr. Green</td><td><a href="https://www.youtube.com/watch?v=C0OWM88ImSk">Clap</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Neil Finn and Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=7iPCq5cVkMQ">Before Too Long</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Shihad</td><td><a href="https://www.youtube.com/watch?v=WS9rM3XVOjE">Pacifier</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Snarky Puppy</td><td><a href="https://www.youtube.com/watch?v=4Qo1NFwMhBA">Outlier</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=IeezKJsCkmU">Green Earrings</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Supergroove</td><td><a href="https://www.youtube.com/watch?v=0n7acp5rsu0">Can’t Get Enough</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Tami Neilson</td><td><a href="https://www.youtube.com/watch?v=lsuScZx0WbU">Dynamite</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>The 3Ds</td><td><a href="https://www.youtube.com/watch?v=g7_m1d-TwAk">Hairs</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>The Apples In Stereo</td><td><a href="https://www.youtube.com/watch?v=S-b8NJWuTWU">Same Old Drag</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>The Lemon Pipers</td><td><a href="https://www.youtube.com/watch?v=o6IEgrQ4lrk">Green Tambourine</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=3CfF7vKyO5A">All The World Is Green</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>World Party</td><td><a href="https://www.youtube.com/watch?v=B2nCugGQZO0">Ship Of Fools</a></td><td>Green</td><td> Bruce’s Session - Oct 15
-'s Session - Oct 2015</td></tr>
-<tr><td>Add N To (X)</td><td><a href="https://www.youtube.com/watch?v=fGGWrJp4JHA">Take To Me Your Leader</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=z_j25z5zwT4">Morning</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=iJ1HvnYlKR4">You Belong To Me</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Dead Kennedys</td><td><a href="https://www.youtube.com/watch?v=2nJ-OXtMjos">Viva Las Vegas</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Future Islands</td><td><a href="https://www.youtube.com/watch?v=upPl9mZW_zw">On Letterman</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Hairspray</td><td><a href="https://www.youtube.com/watch?v=0rDowvYSsxg">The Nicest Kids In Town</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Hedwig And The Angry Inch</td><td><a href="https://www.youtube.com/watch?v=SIZ5F2CKlZE">Tear Me Down</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>John Farnham</td><td><a href="https://www.youtube.com/watch?v=k5woMZtClhI">Gethsemane (I Only Want To Say)</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Michael J. Fox</td><td><a href="https://www.youtube.com/watch?v=qvsgGtivCgs">Back To The Future</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Nina Simone</td><td><a href="https://www.youtube.com/watch?v=L5jI9I03q8E">Ain't Got No, I Got Life</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=ELJf83TelA0">Merry Christmas Mr Lawrence</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=DSqQ7Bc9PlQ">Tom Violence</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>The New Hot Club Of America</td><td><a href="https://www.youtube.com/watch?v=Uk-Gx-wowA8">Hungaria</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>The Yardbirds</td><td><a href="https://www.youtube.com/watch?v=adbGT8Rg9OE">Stroll On</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=aEj-mrwwaxo">Alice</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15
-'s Session - Sept 2015</td></tr>
-<tr><td>Ben Chambers</td><td><a href="https://www.youtube.com/watch?v=3LA0TlJj7xA">Santa Fe</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>David Crosby</td><td><a href="https://www.youtube.com/watch?v=Iy7Ln8h8Pys">Time I Have</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=XnlpzYw7l4g">Girl, Make Your Own Mind Up</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Donald Fagan</td><td><a href="https://www.youtube.com/watch?v=yz1pjEGvb6c">Blue Lou</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Elvis Presley</td><td><a href="https://www.youtube.com/watch?v=7tiBYUzRLmI">Ready Teddy</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>House Of Love</td><td><a href="https://www.youtube.com/watch?v=XpBr24xW2Q8">I Don't Know Why I Love You</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Jackson Browne</td><td><a href="https://www.youtube.com/watch?v=D8PLiDDlxCM">Nothing But Time</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=QiKJqXk94NM">The Gypsy's Wife</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Les Paul</td><td><a href="https://www.youtube.com/watch?v=4TEQbOZcll0">Deep In The Blues</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Lonnie Donegan</td><td><a href="https://www.youtube.com/watch?v=wI4nRD-DRpk">Rock Island Line</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Louis Armstrong and Bing Crosby</td><td><a href="https://www.youtube.com/watch?v=26TIfLT-1Xk">Memphis Blues</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Metallica</td><td><a href="https://www.youtube.com/watch?v=CD-E-LDc384">Enter Sandman</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Muddy Waters</td><td><a href="https://www.youtube.com/watch?v=e_l6A7krjrQ">Hoochie Coochie Man</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Nick Cave</td><td>No More Shall We Part</td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Sharon Jones And The Dap Kings</td><td><a href="https://www.youtube.com/watch?v=X2lEUPKQfSY">Now I See</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Submotion Orchestra</td><td><a href="https://www.youtube.com/watch?v=JXmEYmBAqUg">Live at Momo</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Sunny Afternoon stage show</td><td><a href="https://www.youtube.com/watch?v=Nd5DAHjl-lM">Kinks Medley</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Tame Impala</td><td><a href="https://www.youtube.com/watch?v=pFptt7Cargc">Let It Happen</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>The Cure</td><td><a href="https://www.youtube.com/watch?v=UmFFTkjs-O0">Pictures Of You</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>The Dave Brubeck Quartet</td><td><a href="https://www.youtube.com/watch?v=-DHuW1h1wHw">Take Five</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>XTC</td><td><a href="https://www.youtube.com/watch?v=e2EshWuC6lw">The Man Who Danced Around His Soul</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15
-'s Session - Aug 2015</td></tr>
-<tr><td>Al Kooper</td><td><a href="https://www.youtube.com/watch?v=hkDKcUE2OxA">When The Spell Is Broken</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Aldous Harding</td><td><a href="https://www.youtube.com/watch?v=B3Wds4gDGRc">Stop Your Tears</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=XSHpCzDRIN4">How’s The World Treating You</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Bruce Springsteen</td><td>Magic</td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Captain Beefheart And The Magic Band</td><td><a href="https://www.youtube.com/watch?v=XF177Aj59C8">Big Eyed Beans From Venus</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>David Crosby</td><td><a href="https://www.youtube.com/watch?v=NneHHtxOrZY">Holding On To Nothing</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=M754Yl6wiYw">Cosmik Debris</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Gary Clark Jr</td><td><a href="https://www.youtube.com/watch?v=z9xFXmJxWB4">Things Are Changin'</a></td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Jonathan Wilson</td><td><a href="https://www.youtube.com/watch?v=UmoBAoEB8jo">Cecil Taylor</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Little Village</td><td><a href="https://www.youtube.com/watch?v=jWYDGv7ECn8">Don’t Think Abut her When You’re Trying To Drive</a></td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Miles Davis</td><td><a href="https://www.youtube.com/watch?v=bH8GeQZTdHk">Mystery</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Neil Young</td><td>Year Of The Horse</td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Radiohead</td><td><a href="https://www.youtube.com/watch?v=4OzU1jdjSZA">The Tourist</a></td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Return To Forever</td><td>No Mystery</td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Screaming Jay Hawkins</td><td><a href="https://www.youtube.com/watch?v=7kGPhpvqtOc">I Put A Spell On You</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Steppenwolf</td><td><a href="https://www.youtube.com/watch?v=41cFf9N5F-A">Born To Be Wild</a></td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>Suburban Kids With  Biblical Names</td><td><a href="https://www.youtube.com/watch?v=jCGGdIfhJh8">Rent A Wreck</a></td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>The Barr Brothers</td><td><a href="https://www.youtube.com/watch?v=NnDTuBf_Bi8">Old Mythologies</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>The Jon Spencer Blues Explosion</td><td><a href="https://www.youtube.com/watch?v=9R3R_k6SdB8">Magical Colours</a></td><td>Magical</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>The Rails</td><td><a href="https://www.youtube.com/watch?v=O1PZVeUDsvk">Send Her To Holloway</a></td><td>Mystery</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>The Rolling Stones</td><td>The Bigger Bang</td><td>Tour</td><td> Chris’s Session - Jul 15
-'s Session - Jul 2015</td></tr>
-<tr><td>B.B. King</td><td><a href="https://www.youtube.com/watch?v=dNr_eIgP0tI">Sweet Little Angel</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Ben E King</td><td><a href="https://www.youtube.com/watch?v=BPXbWJVp7tA">It’s All In The Game</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Bonnie Raitt and John Lee Hooker</td><td><a href="https://www.youtube.com/watch?v=Si0teRtHY8o">I'm In The Mood</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=xUBYzpCNQ1I">First Day Of My Life</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Charlotte Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=Xmhl45B4WP8">Just Like A Woman</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Doves</td><td><a href="https://www.youtube.com/watch?v=dFM0pUn4dcA">Kingdom Of Rust</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Eels</td><td><a href="https://www.youtube.com/watch?v=bhyu7wCFoa0">Grace Kelly Blues</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Elton John</td><td><a href="https://www.youtube.com/watch?v=AhnZEmnuzgM">Saturday Night’s Alright (For Fighting)</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Grinderman</td><td><a href="https://www.youtube.com/watch?v=Eqqfvv-i68U">Go Tell The Women</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=upetxe6_FMo">Woman’s Gotta Have It</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Jimmy Smith</td><td><a href="https://www.youtube.com/watch?v=IfVznzNJaGs">I Got A Woman</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Joe Robinson</td><td><a href="https://www.youtube.com/watch?v=tgrppPoSo7M">Royal Flush</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Maria Muldaur</td><td><a href="https://www.youtube.com/watch?v=IDs-7I3NElE">I'm A Woman</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Mountain</td><td><a href="https://www.youtube.com/watch?v=qEnF6EB-yMs">Mississippi Queen</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=75ARO5XlRVw">Give In To My Love</a></td><td>Women</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=cq8Da4I-4ww">King And Queen Of England</a></td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Steve Earle & The Dukes (& Duchesses)</td><td>The Low Highway</td><td>Royalty</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>The Black Keys</td><td><a href="https://www.youtube.com/watch?v=aDTgK6IXB3M">Lies</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>The Rails</td><td><a href="https://www.youtube.com/watch?v=JLl68tJy3q8">Bonnie Portmore</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=3N0A2b7nbdM">Bitch</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Tuck & Patti</td><td><a href="https://www.youtube.com/watch?v=D7wzlQb8LXQ">Castles Made Of Sand</a></td><td>Duos</td><td> Nick’s Session - Jun 15
-'s Session - Jun 2015</td></tr>
-<tr><td>Carrie Rodriguez</td><td><a href="https://www.youtube.com/watch?v=mJjf4-8sYfE">Got Your Name On It</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Carrie Underwood, Emmylou Harris, Bonnie Raitt</td><td><a href="https://www.youtube.com/watch?v=8MYUixfco-s">A Different Drum, Blue Bayou</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Daniel Lanois</td><td><a href="https://www.youtube.com/watch?v=FJn9TsXgRi8">Frozen</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>David Gray</td><td><a href="https://www.youtube.com/watch?v=F_-LYdkFjeI">Caroline</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Drive By Truckers</td><td><a href="https://www.youtube.com/watch?v=3RdNsQMPyf0">Heathens</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Giant Sand</td><td><a href="https://www.youtube.com/watch?v=vKrXrXTKlls">Song So Wrong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Jackson Browne</td><td><a href="https://www.youtube.com/watch?v=8sF6pWSoUC8">Casino Nation</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=YlgTzjZhR80">That’s The Way</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Michelle Shocked</td><td><a href="https://www.youtube.com/watch?v=27_OAk2AWMg">Track Three ?</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=7L-DhkWKfIk">Dreamin’ Man</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>New Riders of the Purple Sage</td><td><a href="https://www.youtube.com/watch?v=KU8kalZM4KE">Last Lonely Eagle</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Ohio</td><td>Over The Rhine</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Red House Painters</td><td><a href="https://www.youtube.com/watch?v=6KT_pN6qP58">Song For A Blue Guitar</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=BM9GNRqxxhU">Pearl Of The Quarter</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Super Furry Animals</td><td><a href="https://www.youtube.com/watch?v=86WG8YcbGK4">Sex, War and Robots</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>The Amazing Rhythm Aces</td><td><a href="https://www.youtube.com/watch?v=OnUuOqSNow0">These Dreams Of Losing You</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>The Pretenders</td><td><a href="https://www.youtube.com/watch?v=vWH7oPBnD9s">I Go To Sleep</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=BnjHc_-hpvk">My Weakness Is Too Strong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=HmUktmL26A4">Cherokee Maiden</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Van Morrison</td><td>Title not recorded</td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
-<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=Y4xJCwQUQMc">Powder Blue</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15
-'s Session - May 2015</td></tr>
+<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=PBQNSjx8jpg">Jamu Dreaming</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=QWtsV50_-p4">Where Are We Now?</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=BLfZNkYbRRo">When The Trumpets Sound</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Eb & Sparrow</td><td><a href="https://www.youtube.com/watch?v=fXGSfeQreO0">In The Harbour</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Even Though I’m Blue</td><td><a href="https://www.youtube.com/watch?v=qMWFBIOjmDY">I’ll Say Goodbye</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Florence And The Machine</td><td><a href="https://www.youtube.com/watch?v=B9v8jLBrvug">Ship To Wreck</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Glen Campbell</td><td><a href="https://www.youtube.com/watch?v=bvQ77PoNJ6E">These Days</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=T_pdcKd3dmY">Global Warming</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Kurt Elling</td><td><a href="https://www.youtube.com/watch?v=Zr66O1brxGM">Resolution</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Mr. Green</td><td><a href="https://www.youtube.com/watch?v=C0OWM88ImSk">Clap</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Neil Finn and Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=7iPCq5cVkMQ">Before Too Long</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Shihad</td><td><a href="https://www.youtube.com/watch?v=WS9rM3XVOjE">Pacifier</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Snarky Puppy</td><td><a href="https://www.youtube.com/watch?v=4Qo1NFwMhBA">Outlier</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=IeezKJsCkmU">Green Earrings</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Supergroove</td><td><a href="https://www.youtube.com/watch?v=0n7acp5rsu0">Can’t Get Enough</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Tami Neilson</td><td><a href="https://www.youtube.com/watch?v=lsuScZx0WbU">Dynamite</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>The 3Ds</td><td><a href="https://www.youtube.com/watch?v=g7_m1d-TwAk">Hairs</a></td><td>Kiwi</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>The Apples In Stereo</td><td><a href="https://www.youtube.com/watch?v=S-b8NJWuTWU">Same Old Drag</a></td><td>Rebirth</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>The Lemon Pipers</td><td><a href="https://www.youtube.com/watch?v=o6IEgrQ4lrk">Green Tambourine</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=3CfF7vKyO5A">All The World Is Green</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>World Party</td><td><a href="https://www.youtube.com/watch?v=B2nCugGQZO0">Ship Of Fools</a></td><td>Green</td><td> Bruce’s Session - Oct 15's Session - Oct 2015</td></tr>
+<tr><td>Add N To (X)</td><td><a href="https://www.youtube.com/watch?v=fGGWrJp4JHA">Take To Me Your Leader</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=z_j25z5zwT4">Morning</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=iJ1HvnYlKR4">You Belong To Me</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Dead Kennedys</td><td><a href="https://www.youtube.com/watch?v=2nJ-OXtMjos">Viva Las Vegas</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Future Islands</td><td><a href="https://www.youtube.com/watch?v=upPl9mZW_zw">On Letterman</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Hairspray</td><td><a href="https://www.youtube.com/watch?v=0rDowvYSsxg">The Nicest Kids In Town</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Hedwig And The Angry Inch</td><td><a href="https://www.youtube.com/watch?v=SIZ5F2CKlZE">Tear Me Down</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>John Farnham</td><td><a href="https://www.youtube.com/watch?v=k5woMZtClhI">Gethsemane (I Only Want To Say)</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Michael J. Fox</td><td><a href="https://www.youtube.com/watch?v=qvsgGtivCgs">Back To The Future</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Nina Simone</td><td><a href="https://www.youtube.com/watch?v=L5jI9I03q8E">Ain't Got No, I Got Life</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Ryuichi Sakamoto</td><td><a href="https://www.youtube.com/watch?v=ELJf83TelA0">Merry Christmas Mr Lawrence</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=DSqQ7Bc9PlQ">Tom Violence</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>The New Hot Club Of America</td><td><a href="https://www.youtube.com/watch?v=Uk-Gx-wowA8">Hungaria</a></td><td>Mostly I Have Been Listening To</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>The Yardbirds</td><td><a href="https://www.youtube.com/watch?v=adbGT8Rg9OE">Stroll On</a></td><td>Soundtrack</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=aEj-mrwwaxo">Alice</a></td><td>Musical Theatre</td><td> Craig’s Session - Sep 15's Session - Sept 2015</td></tr>
+<tr><td>Ben Chambers</td><td><a href="https://www.youtube.com/watch?v=3LA0TlJj7xA">Santa Fe</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>David Crosby</td><td><a href="https://www.youtube.com/watch?v=Iy7Ln8h8Pys">Time I Have</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Don McGlashan</td><td><a href="https://www.youtube.com/watch?v=XnlpzYw7l4g">Girl, Make Your Own Mind Up</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Donald Fagan</td><td><a href="https://www.youtube.com/watch?v=yz1pjEGvb6c">Blue Lou</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Elvis Presley</td><td><a href="https://www.youtube.com/watch?v=7tiBYUzRLmI">Ready Teddy</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>House Of Love</td><td><a href="https://www.youtube.com/watch?v=XpBr24xW2Q8">I Don't Know Why I Love You</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Jackson Browne</td><td><a href="https://www.youtube.com/watch?v=D8PLiDDlxCM">Nothing But Time</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=QiKJqXk94NM">The Gypsy's Wife</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Les Paul</td><td><a href="https://www.youtube.com/watch?v=4TEQbOZcll0">Deep In The Blues</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Lonnie Donegan</td><td><a href="https://www.youtube.com/watch?v=wI4nRD-DRpk">Rock Island Line</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Louis Armstrong and Bing Crosby</td><td><a href="https://www.youtube.com/watch?v=26TIfLT-1Xk">Memphis Blues</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Metallica</td><td><a href="https://www.youtube.com/watch?v=CD-E-LDc384">Enter Sandman</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Muddy Waters</td><td><a href="https://www.youtube.com/watch?v=e_l6A7krjrQ">Hoochie Coochie Man</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Nick Cave</td><td>No More Shall We Part</td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Sharon Jones And The Dap Kings</td><td><a href="https://www.youtube.com/watch?v=X2lEUPKQfSY">Now I See</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Submotion Orchestra</td><td><a href="https://www.youtube.com/watch?v=JXmEYmBAqUg">Live at Momo</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Sunny Afternoon stage show</td><td><a href="https://www.youtube.com/watch?v=Nd5DAHjl-lM">Kinks Medley</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Tame Impala</td><td><a href="https://www.youtube.com/watch?v=pFptt7Cargc">Let It Happen</a></td><td>Last 12 Months</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>The Cure</td><td><a href="https://www.youtube.com/watch?v=UmFFTkjs-O0">Pictures Of You</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>The Dave Brubeck Quartet</td><td><a href="https://www.youtube.com/watch?v=-DHuW1h1wHw">Take Five</a></td><td>Year of Your Birth</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>XTC</td><td><a href="https://www.youtube.com/watch?v=e2EshWuC6lw">The Man Who Danced Around His Soul</a></td><td>Birth Of First Child</td><td> David’s Session - Aug 15's Session - Aug 2015</td></tr>
+<tr><td>Al Kooper</td><td><a href="https://www.youtube.com/watch?v=hkDKcUE2OxA">When The Spell Is Broken</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Aldous Harding</td><td><a href="https://www.youtube.com/watch?v=B3Wds4gDGRc">Stop Your Tears</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Alison Krauss</td><td><a href="https://www.youtube.com/watch?v=XSHpCzDRIN4">How’s The World Treating You</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Bruce Springsteen</td><td>Magic</td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Captain Beefheart And The Magic Band</td><td><a href="https://www.youtube.com/watch?v=XF177Aj59C8">Big Eyed Beans From Venus</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>David Crosby</td><td><a href="https://www.youtube.com/watch?v=NneHHtxOrZY">Holding On To Nothing</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=M754Yl6wiYw">Cosmik Debris</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Gary Clark Jr</td><td><a href="https://www.youtube.com/watch?v=z9xFXmJxWB4">Things Are Changin'</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Jonathan Wilson</td><td><a href="https://www.youtube.com/watch?v=UmoBAoEB8jo">Cecil Taylor</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Little Village</td><td><a href="https://www.youtube.com/watch?v=jWYDGv7ECn8">Don’t Think Abut her When You’re Trying To Drive</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Miles Davis</td><td><a href="https://www.youtube.com/watch?v=bH8GeQZTdHk">Mystery</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Neil Young</td><td>Year Of The Horse</td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Radiohead</td><td><a href="https://www.youtube.com/watch?v=4OzU1jdjSZA">The Tourist</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Return To Forever</td><td>No Mystery</td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Screaming Jay Hawkins</td><td><a href="https://www.youtube.com/watch?v=7kGPhpvqtOc">I Put A Spell On You</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Steppenwolf</td><td><a href="https://www.youtube.com/watch?v=41cFf9N5F-A">Born To Be Wild</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>Suburban Kids With  Biblical Names</td><td><a href="https://www.youtube.com/watch?v=jCGGdIfhJh8">Rent A Wreck</a></td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>The Barr Brothers</td><td><a href="https://www.youtube.com/watch?v=NnDTuBf_Bi8">Old Mythologies</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>The Jon Spencer Blues Explosion</td><td><a href="https://www.youtube.com/watch?v=9R3R_k6SdB8">Magical Colours</a></td><td>Magical</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>The Rails</td><td><a href="https://www.youtube.com/watch?v=O1PZVeUDsvk">Send Her To Holloway</a></td><td>Mystery</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>The Rolling Stones</td><td>The Bigger Bang</td><td>Tour</td><td> Chris’s Session - Jul 15's Session - Jul 2015</td></tr>
+<tr><td>B.B. King</td><td><a href="https://www.youtube.com/watch?v=dNr_eIgP0tI">Sweet Little Angel</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Ben E King</td><td><a href="https://www.youtube.com/watch?v=BPXbWJVp7tA">It’s All In The Game</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Bonnie Raitt and John Lee Hooker</td><td><a href="https://www.youtube.com/watch?v=Si0teRtHY8o">I'm In The Mood</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=xUBYzpCNQ1I">First Day Of My Life</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Charlotte Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=Xmhl45B4WP8">Just Like A Woman</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Doves</td><td><a href="https://www.youtube.com/watch?v=dFM0pUn4dcA">Kingdom Of Rust</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Eels</td><td><a href="https://www.youtube.com/watch?v=bhyu7wCFoa0">Grace Kelly Blues</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Elton John</td><td><a href="https://www.youtube.com/watch?v=AhnZEmnuzgM">Saturday Night’s Alright (For Fighting)</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Grinderman</td><td><a href="https://www.youtube.com/watch?v=Eqqfvv-i68U">Go Tell The Women</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=upetxe6_FMo">Woman’s Gotta Have It</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Jimmy Smith</td><td><a href="https://www.youtube.com/watch?v=IfVznzNJaGs">I Got A Woman</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Joe Robinson</td><td><a href="https://www.youtube.com/watch?v=tgrppPoSo7M">Royal Flush</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Maria Muldaur</td><td><a href="https://www.youtube.com/watch?v=IDs-7I3NElE">I'm A Woman</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Mountain</td><td><a href="https://www.youtube.com/watch?v=qEnF6EB-yMs">Mississippi Queen</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=75ARO5XlRVw">Give In To My Love</a></td><td>Women</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Sandy Denny</td><td><a href="https://www.youtube.com/watch?v=cq8Da4I-4ww">King And Queen Of England</a></td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Steve Earle & The Dukes (& Duchesses)</td><td>The Low Highway</td><td>Royalty</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>The Black Keys</td><td><a href="https://www.youtube.com/watch?v=aDTgK6IXB3M">Lies</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>The Rails</td><td><a href="https://www.youtube.com/watch?v=JLl68tJy3q8">Bonnie Portmore</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=3N0A2b7nbdM">Bitch</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Tuck & Patti</td><td><a href="https://www.youtube.com/watch?v=D7wzlQb8LXQ">Castles Made Of Sand</a></td><td>Duos</td><td> Nick’s Session - Jun 15's Session - Jun 2015</td></tr>
+<tr><td>Carrie Rodriguez</td><td><a href="https://www.youtube.com/watch?v=mJjf4-8sYfE">Got Your Name On It</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Carrie Underwood, Emmylou Harris, Bonnie Raitt</td><td><a href="https://www.youtube.com/watch?v=8MYUixfco-s">A Different Drum, Blue Bayou</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Daniel Lanois</td><td><a href="https://www.youtube.com/watch?v=FJn9TsXgRi8">Frozen</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>David Gray</td><td><a href="https://www.youtube.com/watch?v=F_-LYdkFjeI">Caroline</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Drive By Truckers</td><td><a href="https://www.youtube.com/watch?v=3RdNsQMPyf0">Heathens</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Giant Sand</td><td><a href="https://www.youtube.com/watch?v=vKrXrXTKlls">Song So Wrong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Jackson Browne</td><td><a href="https://www.youtube.com/watch?v=8sF6pWSoUC8">Casino Nation</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=YlgTzjZhR80">That’s The Way</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Michelle Shocked</td><td><a href="https://www.youtube.com/watch?v=27_OAk2AWMg">Track Three ?</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=7L-DhkWKfIk">Dreamin’ Man</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>New Riders of the Purple Sage</td><td><a href="https://www.youtube.com/watch?v=KU8kalZM4KE">Last Lonely Eagle</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Ohio</td><td>Over The Rhine</td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Red House Painters</td><td><a href="https://www.youtube.com/watch?v=6KT_pN6qP58">Song For A Blue Guitar</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=BM9GNRqxxhU">Pearl Of The Quarter</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Super Furry Animals</td><td><a href="https://www.youtube.com/watch?v=86WG8YcbGK4">Sex, War and Robots</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>The Amazing Rhythm Aces</td><td><a href="https://www.youtube.com/watch?v=OnUuOqSNow0">These Dreams Of Losing You</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>The Pretenders</td><td><a href="https://www.youtube.com/watch?v=vWH7oPBnD9s">I Go To Sleep</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=BnjHc_-hpvk">My Weakness Is Too Strong</a></td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=HmUktmL26A4">Cherokee Maiden</a></td><td>Pedal Steel – Round 3</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Van Morrison</td><td>Title not recorded</td><td>Pedal Steel – Round 1</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=Y4xJCwQUQMc">Powder Blue</a></td><td>Pedal Steel – Round 2</td><td> Richard’s Session - May 15's Session - May 2015</td></tr>
 <tr><td>Beastie Boys</td><td><a href="https://www.youtube.com/watch?v=WdgLMslbDuY">Make Some Noise</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Biting Elbows</td><td><a href="https://www.youtube.com/watch?v=Rgox84KE7iY">Bad Motherfucker</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=Sa5NwJQvlvQ&list=RDSa5NwJQvlvQ">Yesterday's Wine</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Bridget Everett</td><td>What I Gotta Do</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Bridget Everett</td><td><a href="https://www.youtube.com/watch?v=JiAED2p4_QA">What I Gotta Do</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Canzoniere Grecanico Salentino</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Elizabeth Mitchell</td><td>January, February (Last Month of the Year)</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Etta James</td><td>I'd Rather Go Blind</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Elizabeth Mitchell</td><td><a href="https://www.youtube.com/watch?v=7D7wqPKDcsI">January, February (Last Month of the Year)</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=Bcus42ihkTI">I'd Rather Go Blind</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>George Harrison</td><td><a href="https://www.youtube.com/watch?v=T3D68KWfZOo">Beware of Darkness</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Heart</td><td><a href="https://www.youtube.com/watch?v=JK_DOJa99oo">Stairway to Heaven</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Hole</td><td><a href="https://www.youtube.com/watch?v=v0CYB5V9e64">Malibu</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Jason Isbell</td><td>Live Oak</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Kimbra</td><td>Settle Down</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Muddy Waters & The Rolling Stones</td><td>Mannish Boy</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Jason Isbell</td><td><a href="https://www.youtube.com/watch?v=b2Q3gcnCIUo">Live Oak</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Kimbra</td><td><a href="https://www.youtube.com/watch?v=rBxmidwDy2Y">Settle Down</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Muddy Waters & The Rolling Stones</td><td><a href="https://www.youtube.com/watch?v=32YQYJuxyn0">Mannish Boy</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>OK Go</td><td><a href="https://www.youtube.com/watch?v=qybUFnY7Y8w">This Too Shall Pass</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Richard Thompson</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Richard Thompson</td><td><a href="https://www.youtube.com/watch?v=D17Rinug5-0">- Needs Updating</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Rickie Lee Jones</td><td>Balm in Gilead</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Rodney Crowell</td><td><a href="https://www.youtube.com/watch?v=Uyg8LMD4cWc">East Houston Blues</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Sinead O'Connor</td><td>- Needs Updating</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Skeptics</td><td>A.F.F.C.O.</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Sinead O'Connor</td><td><a href="https://www.youtube.com/watch?v=0-EF60neguk">- Needs Updating</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Skeptics</td><td><a href="https://www.youtube.com/watch?v=qZKDjElk7Ts">A.F.F.C.O.</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Sparklehorse</td><td><a href="https://www.youtube.com/watch?v=BugFhjf_RIU">Painbirds</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Spines</td><td>Your Body Stays</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>Spines</td><td><a href="https://www.youtube.com/watch?v=ZRnhGJwO_Z4">Your Body Stays</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>Tal Wilkenfeld</td><td><a href="https://www.youtube.com/watch?v=pWHszh0JHPE&index=22&list=RDE0G_fcfajDA">Chelsea Hotel</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>The Magnetic Fields</td><td>I Don't Want to Get Over You</td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=EdbT1a_Khdo">I Don't Want to Get Over You</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
 <tr><td>The Reverend Peyton's Big Damn Band</td><td><a href="https://www.youtube.com/watch?v=rwasbi5Nae0">Front Porch Trained</a></td><td>Up to three tracks of interesting/random/serendipitous Youtube music finds. If</td><td> Martin's Session - Mar 2015</td></tr>
-<tr><td>Al Jarreau</td><td>Sticky Wicket</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Andy Pratt</td><td>Avenging Annie</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Death Cab for Cutie</td><td>I Will Possess Your Heart</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Echo & the Bunnymen</td><td>Show of Strength</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Eilen Jewell</td><td>Over Again</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Grateful Dead</td><td>Run for the Roses</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>John Hiatt</td><td>Marlene</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Cardboard Box of Batteries</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Madeleine Peyroux</td><td>Wild Card in the Hole</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>New Order</td><td>World in Motion</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Patti Smith</td><td>Gloria</td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Quicksilver Messenger Service</td><td>Cobra</td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Hot 'Lanta</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The The</td><td>This Is the Day</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>The Time Jumpers</td><td>My Window Faces The South</td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Wishbone Ash</td><td>Lady Jay</td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
-<tr><td>Archie Roach</td><td>Weeping in the Forest</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Barry Saunders</td><td>At Kaipara</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=EOsj84OvEEw">Sticky Wicket</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Andy Pratt</td><td><a href="https://www.youtube.com/watch?v=DZI-DraC0o4">Avenging Annie</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Death Cab for Cutie</td><td><a href="https://www.youtube.com/watch?v=pq-yP7mb8UE">I Will Possess Your Heart</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Echo & the Bunnymen</td><td><a href="https://www.youtube.com/watch?v=twPsCjyDBhk">Show of Strength</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=3U8M3A7beo4">Over Again</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=FMEtwoSzGW0">Run for the Roses</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=HByJ9rssGJM">Marlene</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=JzyR9V5UYIk">Cardboard Box of Batteries</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Madeleine Peyroux</td><td><a href="https://www.youtube.com/watch?v=luxutU007RU">Wild Card in the Hole</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>New Order</td><td><a href="https://www.youtube.com/watch?v=Re4aDJL3heA">World in Motion</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=bPO0bTaWcFQ">Gloria</a></td><td>A recent discovery that is really very good and needs to be shared</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Quicksilver Messenger Service</td><td><a href="https://www.youtube.com/watch?v=_3GswVM9Eps">Cobra</a></td><td>Bonus Track</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=FWSoo3bLhIc">Hot 'Lanta</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The The</td><td><a href="https://www.youtube.com/watch?v=Nxazmzy0vAo">This Is the Day</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=UnhhG7F-7ow">My Window Faces The South</a></td><td>A song that does good things for you and helps you relax</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Wishbone Ash</td><td><a href="https://www.youtube.com/watch?v=wAtf7YUW1RM">Lady Jay</a></td><td>A song that recognises, in some way, that the World Cup cricket is happening right now – interpret that any way you wish.</td><td> Bruce's Session - Feb 2015</td></tr>
+<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=P0ceXyYsK34">Weeping in the Forest</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Barry Saunders</td><td><a href="https://www.youtube.com/watch?v=Uyr2ZilBkbQ">At Kaipara</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
 <tr><td>Brian Seltzer</td><td>Track 9</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Claire Martin</td><td>Gettin' High</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Donald Fagen</td><td>Viva Viva Rock 'n' Roll</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Drive-By Truckers</td><td>Let There Be Rock</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Ed Sheeran</td><td>The A Team</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Etta James</td><td>Cheating in the Next Room</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Fog</td><td>Hummer</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Julee Cruise</td><td>Falling</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Led Zeppelin</td><td>Rock and Roll</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Murder by Death</td><td>On the Dark Streets Below</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Neil Young</td><td>Say Hello to Chicago (solo)</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Patti Smith</td><td>Rock and Roll Nigger</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Sly & the Family Stone</td><td>Higher</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>St. Vincent</td><td>Uncut Jan 2015 Cover Disc</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Stephen Stills</td><td>Rock & Roll Crazies / Cuban Bluegrass</td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Sun Kil Moon</td><td>Richard Ramirez Died Today of Natural Causes</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Brecker Brothers</td><td>East River</td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Cramps</td><td>Let's Get Fucked Up</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The Stranglers</td><td>Golden Brown</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>The War on Drugs</td><td>Burning</td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Throwing Muses</td><td>Freesia</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>Van Halen</td><td>A.F.U. (Naturally Wired)</td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
-<tr><td>A Certain Ratio</td><td>Do The D.V.</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Blackberry Smoke</td><td>Sleeping Dogs</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Damien Rice</td><td>Nine Crimes</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Damon Albarn</td><td>Hostiles</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Earth, Wind & Fire</td><td>In The Stone</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Frankie Goes to Hollywood</td><td>The Power of Love</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Glen Hansard</td><td>Falling Slowly</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>James Brown</td><td>It's Too Funky in Here</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>John Hiatt</td><td>Long Time Comin'</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Led Zeppelin</td><td>The Crunge</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Mavis Staples</td><td>Koochie, Koochie, Koochie</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Patty Griffin</td><td>Tear This Feeling Down</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>R.L. Burnside</td><td>Shuck Dub</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Ray J</td><td>Right Place, Wrong Time</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Rodrigo y Gabriela</td><td>Fram</td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Screaming Headless Torsos</td><td>Smile in a Wave</td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Spike Jones</td><td>Powerhouse</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>XTC</td><td>Complicated Game</td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
-<tr><td>Al Di Meola</td><td>And I Love Her</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Beck</td><td>Painted Eyelids</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Bill Frisell</td><td>I'm So Lonesome I Could Cry</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Creedence Clearwater Revival</td><td>Run Through the Jungle</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Four Tet</td><td>My Angel Rocks Back and Forth</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Frank Zappa</td><td>Ronnie Sings?</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Hanggai</td><td>Gobbi</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Jaco Pastorius</td><td>Crisis</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Janis Joplin</td><td>Piece of My Heart</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Julee Cruise</td><td>I Remember</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Lee Ranaldo</td><td>The Bridge</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Marc Ribot</td><td>Our Daily Bread</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Sam Baker</td><td>Palestine I</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Beta Band</td><td>Dry the Rain</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Crumb Family</td><td>In The Pines</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Decemberists</td><td>The Wanting Comes in Waves</td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The James Hunter Six</td><td>It Won't Be Long</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Monkees</td><td>You Just May Be the One</td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>The Mountain Goats</td><td>This Year</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Tom Waits</td><td>Invitation to the Blues</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Victoria Williams</td><td>Since I've Laid My Burden Down</td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
-<tr><td>Bill Frisell</td><td>I'm So Lonesome I Could Cry</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Boz Scaggs</td><td>Rainy Night in Georgia</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Bright Eyes</td><td>Method Acting</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Dougie MacLean</td><td>The Land</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Frank Zappa</td><td>The M.O.I. Anti‐Smut Loyalty Oath</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Gruff Rhys</td><td>Year of the Dog</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Jacqueline du Pre</td><td>Elgar's Cello Concerto in E Minor (II)</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Leonard Cohen</td><td>One of Us Cannot Be Wrong</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Otis Redding</td><td>Respect</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Pink Floyd</td><td>Mother</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Sarah Jarosz</td><td>Rearrange the Art</td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Sonny Rollins</td><td>God Bless the Child</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Steve Miller Band</td><td>Motherless Children</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Sufjan Stevens</td><td>Decatur, or, Round of Applause for Your Stepmother!</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>The Beatles</td><td>The Long And Winding Road</td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>The Idle Race</td><td>I Like My Toys</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>The Smiths</td><td>Some Girls Are Bigger Than Others</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Tommy Bolin</td><td>People People</td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
-<tr><td>Archie Roach</td><td>Weeping in the Forest</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Beastie Boys</td><td>Make Some Noise</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Brian Eno</td><td>Julie With…</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>David Sylvian</td><td>The Ink In The Well</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Grateful Dead</td><td>It Must Have Been the Roses</td><td>Wisdom</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Jim Reeves</td><td>Maria Elena</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>John Butler Trio</td><td>Johnny's Gone</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Loud as Ears</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Larry Carlton</td><td>High Steppin'</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Larry Carlton</td><td>All Blues</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>My Morning Jacket</td><td>Rocket Man</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Neil Finn</td><td>Faster Than Light</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Neil Young</td><td>My My, Hey Hey (Out of the Blue)</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Neil Young</td><td>Harvest Moon</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Nine Inch Nails</td><td>Mr. Self Destruct</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Orange Juice</td><td>What Presence?!</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Over the Rhine</td><td>Favorite Time of Light</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Sex Pistols</td><td>God Save the Queen</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Beat</td><td>Twist and Crawl</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Rosenberg Trio</td><td>Clair de lune</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Smashing Pumpkins</td><td>Geek U.S.A.</td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>The Time Jumpers</td><td>Along The Navajo Trail</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Claire Martin</td><td><a href="https://www.youtube.com/watch?v=mIOUvgLM06A">Gettin' High</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=QakWD6x50g8">Viva Viva Rock 'n' Roll</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Drive-By Truckers</td><td><a href="https://www.youtube.com/watch?v=jHDu_7LM7-U">Let There Be Rock</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Ed Sheeran</td><td><a href="https://www.youtube.com/watch?v=UAWcs5H-qgQ">The A Team</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=b2F_z8wtZJs">Cheating in the Next Room</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Fog</td><td><a href="https://www.youtube.com/watch?v=aXqte3_rFxY">Hummer</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Julee Cruise</td><td><a href="https://www.youtube.com/watch?v=EIUeZ4OqLXU">Falling</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=D2lSwosw9xY">Rock and Roll</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Murder by Death</td><td><a href="https://www.youtube.com/watch?v=i_kag3k8_Ow">On the Dark Streets Below</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=mc9WX-A4hvw">Say Hello to Chicago (solo)</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Patti Smith</td><td><a href="https://www.youtube.com/watch?v=b1o68h4Usqs">Rock and Roll Nigger</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Sly & the Family Stone</td><td><a href="https://www.youtube.com/watch?v=BqWQzOzK3kw">Higher</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>St. Vincent</td><td><a href="https://www.youtube.com/watch?v=gxDsajnCvuc">Uncut Jan 2015 Cover Disc</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Stephen Stills</td><td><a href="https://www.youtube.com/watch?v=usDz7rK_Xz8">Rock & Roll Crazies / Cuban Bluegrass</a></td><td>A rock and roll reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Sun Kil Moon</td><td><a href="https://www.youtube.com/watch?v=nviTjk9Lm-w">Richard Ramirez Died Today of Natural Causes</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Brecker Brothers</td><td><a href="https://www.youtube.com/watch?v=wnfhHamrULc">East River</a></td><td>Whatever You Want, Whatever You Like.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Cramps</td><td><a href="https://www.youtube.com/watch?v=hwIMQvdBl88">Let's Get Fucked Up</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The Stranglers</td><td><a href="https://www.youtube.com/watch?v=7KIHvuMl4Kk">Golden Brown</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>The War on Drugs</td><td><a href="https://www.youtube.com/watch?v=5RWdbicu3xM">Burning</a></td><td>A drug reference.</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=D24CRqsv84M">Freesia</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>Van Halen</td><td><a href="https://www.youtube.com/watch?v=x6oFLpspDGc">A.F.U. (Naturally Wired)</a></td><td>Bonus Round</td><td> Richard's Session - Jan 2015</td></tr>
+<tr><td>A Certain Ratio</td><td><a href="https://www.youtube.com/watch?v=TsJ_54WyZ48">Do The D.V.</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Blackberry Smoke</td><td><a href="https://www.youtube.com/watch?v=rc__d_YhcUk">Sleeping Dogs</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Damien Rice</td><td><a href="https://www.youtube.com/watch?v=cgqOSCgc8xc">Nine Crimes</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Damon Albarn</td><td><a href="https://www.youtube.com/watch?v=jezyoMnwLNk">Hostiles</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Earth, Wind & Fire</td><td><a href="https://www.youtube.com/watch?v=6Z2xClustQo">In The Stone</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Frankie Goes to Hollywood</td><td><a href="https://www.youtube.com/watch?v=WtdRv6GT9Zg">The Power of Love</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Glen Hansard</td><td><a href="https://www.youtube.com/watch?v=k8mtXwtapX4">Falling Slowly</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>James Brown</td><td><a href="https://www.youtube.com/watch?v=k6V9w51Npd0">It's Too Funky in Here</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=S2UCiWoMiuc">Long Time Comin'</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=W711RXvFwmI">The Crunge</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Mavis Staples</td><td><a href="https://www.youtube.com/watch?v=k1kwop0yCVw">Koochie, Koochie, Koochie</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Patty Griffin</td><td><a href="https://www.youtube.com/watch?v=vzQ6OyjxKy0">Tear This Feeling Down</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>R.L. Burnside</td><td><a href="https://www.youtube.com/watch?v=gh_vdovKg5s">Shuck Dub</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Ray J</td><td><a href="https://www.youtube.com/watch?v=8ub3s_5ZLjw">Right Place, Wrong Time</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Rodrigo y Gabriela</td><td><a href="https://www.youtube.com/watch?v=grFq720Yuw0">Fram</a></td><td>Something new that you have heard recently.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Screaming Headless Torsos</td><td><a href="https://www.youtube.com/watch?v=fYgPU-WnmnA">Smile in a Wave</a></td><td>“Grow some funk of your own”. Does funk belong in rock music?</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Spike Jones</td><td><a href="https://www.youtube.com/watch?v=9-rHUzW6hQw">Powerhouse</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>XTC</td><td><a href="https://www.youtube.com/watch?v=MzPECgrwjKE">Complicated Game</a></td><td>Movie soundtrack music. Music used in a Movie or TV program.</td><td> David's Session - Dec 2014</td></tr>
+<tr><td>Al Di Meola</td><td><a href="https://www.youtube.com/watch?v=44Lf9Nryil4">And I Love Her</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=PpXi75TjyxU">Painted Eyelids</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Bill Frisell</td><td><a href="https://www.youtube.com/watch?v=fcIUQPuoydo">I'm So Lonesome I Could Cry</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Creedence Clearwater Revival</td><td><a href="https://www.youtube.com/watch?v=_7PUPNxsRQ0">Run Through the Jungle</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Four Tet</td><td><a href="https://www.youtube.com/watch?v=6Xtooyd2QwU">My Angel Rocks Back and Forth</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=AaRxgZexUeI">Ronnie Sings?</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Hanggai</td><td><a href="https://www.youtube.com/watch?v=2IajXco7UCs">Gobbi</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Jaco Pastorius</td><td><a href="https://www.youtube.com/watch?v=IVUNIsQbCn8">Crisis</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Janis Joplin</td><td><a href="https://www.youtube.com/watch?v=7uG2gYE5KOs">Piece of My Heart</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Julee Cruise</td><td><a href="https://www.youtube.com/watch?v=FK0NYLTMNzI">I Remember</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Lee Ranaldo</td><td><a href="https://www.youtube.com/watch?v=ilA3XNAPTKU">The Bridge</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=T4ai4kwWw9U">Our Daily Bread</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Sam Baker</td><td><a href="https://www.youtube.com/watch?v=mDnTGfWhT04">Palestine I</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Beta Band</td><td><a href="https://www.youtube.com/watch?v=6XKvbROUmNk">Dry the Rain</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Crumb Family</td><td><a href="https://www.youtube.com/watch?v=pj6cHtSBfec">In The Pines</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Decemberists</td><td><a href="https://www.youtube.com/watch?v=5--ZQMmkkV0">The Wanting Comes in Waves</a></td><td>A great song does not need a melody you can hum and/or a rhythm you can tap your feet too</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The James Hunter Six</td><td><a href="https://www.youtube.com/watch?v=h9zuqeQtmOQ">It Won't Be Long</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Monkees</td><td><a href="https://www.youtube.com/watch?v=AktjaI0G4KA">You Just May Be the One</a></td><td>A great song does not need to be performed by someone with great technical skills</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>The Mountain Goats</td><td><a href="https://www.youtube.com/watch?v=H7fBFtif9H4">This Year</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=Ag2hddV1hE4">Invitation to the Blues</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Victoria Williams</td><td><a href="https://www.youtube.com/watch?v=5o0Q4bmGkSM">Since I've Laid My Burden Down</a></td><td>A great song does not need to be sung by someone with a pleasant singing voice</td><td> Nathan's Session - Nov 2014</td></tr>
+<tr><td>Bill Frisell</td><td><a href="https://www.youtube.com/watch?v=fcIUQPuoydo">I'm So Lonesome I Could Cry</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=8AYjvxFQ4oo">Rainy Night in Georgia</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Bright Eyes</td><td><a href="https://www.youtube.com/watch?v=KmvIXdXO9MQ">Method Acting</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Dougie MacLean</td><td><a href="https://www.youtube.com/watch?v=xNsVGIpF1YQ">The Land</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=L6ThYU12crY">The M.O.I. Anti‐Smut Loyalty Oath</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Gruff Rhys</td><td><a href="https://www.youtube.com/watch?v=_gKIwGNQD8o">Year of the Dog</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Jacqueline du Pre</td><td><a href="https://www.youtube.com/watch?v=OPhkZW_jwc0">Elgar's Cello Concerto in E Minor (II)</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=GC7lDw-FKi0">One of Us Cannot Be Wrong</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=rEgKSj1VHZ0">Respect</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=n_yRvxy9HVs">Mother</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=veaaR7Z3alA">Rearrange the Art</a></td><td>M.O.T.H.E.R</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Sonny Rollins</td><td><a href="https://www.youtube.com/watch?v=2qKLBmj1Emc">God Bless the Child</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Steve Miller Band</td><td><a href="https://www.youtube.com/watch?v=pOqD_oohxEU">Motherless Children</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Sufjan Stevens</td><td><a href="https://www.youtube.com/watch?v=694Ok4_8kCg">Decatur, or, Round of Applause for Your Stepmother!</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=fR4HjTH_fTM">The Long And Winding Road</a></td><td>Dedicated To</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>The Idle Race</td><td><a href="https://www.youtube.com/watch?v=Bv5YHX4OwcA">I Like My Toys</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>The Smiths</td><td><a href="https://www.youtube.com/watch?v=ovWE7sWHUH4">Some Girls Are Bigger Than Others</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=7v03n2Vv6D4">People People</a></td><td>Mothers</td><td> Chris's Session - Jul 2014</td></tr>
+<tr><td>Archie Roach</td><td><a href="https://www.youtube.com/watch?v=P0ceXyYsK34">Weeping in the Forest</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Beastie Boys</td><td><a href="https://www.youtube.com/watch?v=WdgLMslbDuY">Make Some Noise</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=G8MaWNKAIOs">Julie With…</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>David Sylvian</td><td><a href="https://www.youtube.com/watch?v=1oYG7cpPok8">The Ink In The Well</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=n0TjCMtUPto">It Must Have Been the Roses</a></td><td>Wisdom</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Jim Reeves</td><td><a href="https://www.youtube.com/watch?v=hzJurBaZTLw">Maria Elena</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=EKi7j7xg13U">Johnny's Gone</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=Ty-re_VHsxc">Loud as Ears</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Larry Carlton</td><td><a href="https://www.youtube.com/watch?v=H2ICclDAV5U">High Steppin'</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Larry Carlton</td><td><a href="https://www.youtube.com/watch?v=9s4Wb4hcN-8">All Blues</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>My Morning Jacket</td><td><a href="https://www.youtube.com/watch?v=pPDhGbsVhJc">Rocket Man</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Neil Finn</td><td><a href="https://www.youtube.com/watch?v=mOUduZFcSY0">Faster Than Light</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=i6RZY4Ar3fw">My My, Hey Hey (Out of the Blue)</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=n2MtEsrcTTs">Harvest Moon</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Nine Inch Nails</td><td><a href="https://www.youtube.com/watch?v=RunfFTrTq5k">Mr. Self Destruct</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Orange Juice</td><td><a href="https://www.youtube.com/watch?v=5zHoaLl9340">What Presence?!</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Over the Rhine</td><td><a href="https://www.youtube.com/watch?v=L8kqRT4ivd4">Favorite Time of Light</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Sex Pistols</td><td><a href="https://www.youtube.com/watch?v=yqrAPOZxgzU">God Save the Queen</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Beat</td><td><a href="https://www.youtube.com/watch?v=KQndwl85qbg">Twist and Crawl</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Rosenberg Trio</td><td><a href="https://www.youtube.com/watch?v=1ehD-8CYiW4">Clair de lune</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Smashing Pumpkins</td><td><a href="https://www.youtube.com/watch?v=K79LRBXJOqM">Geek U.S.A.</a></td><td>Crank Yourself Up</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>The Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=x7WxzOl6cUU">Along The Navajo Trail</a></td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
 <tr><td>U2</td><td>Out takes</td><td>Slowdown Relax</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Van Morrison</td><td>Ballerina</td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
-<tr><td>Dexter Gordon</td><td>I'm a Fool to Want You</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Dog Age</td><td>April, Spring, Summer and Wednesday</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Gerry and the Pacemakers</td><td>Don't Let the Sun Catch You Crying</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Grateful Dead</td><td>Attics of My Life</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Kort</td><td>April's Fool</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Matt Berry</td><td>Love Is a Fool</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Mighty Accordion Band</td><td>April in Paris</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Mose Allison</td><td>Fool's Paradise</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Mose Allison</td><td>I Don't Worry About a Thing</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Nigel Kennedy</td><td>Autumn Regrets</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>No-Man</td><td>Pretty Genius</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Paul Kelly</td><td>Someone New</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Robert Conti</td><td>April</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Salmonella Dub</td><td>Wisdom by Default</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>The Beatles</td><td>The Fool On The Hill</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>The Jesus and Mary Chain</td><td>April Skies</td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Tony Joe White</td><td>Did Somebody Make a Fool Out of You?</td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>William Burroughs</td><td>Words Of Advice For Young People</td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
-<tr><td>Bruce Springsteen</td><td>The Ghost of Tom Joad</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Emmylou Harris</td><td>May This Be Love</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Frank Bennett</td><td>Creep</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Franz Ferdinand</td><td>Come On Home</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Ian Dury</td><td>Sweet Gene Vincent</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Jimi Hendrix</td><td>May This Be Love</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>John Lennon</td><td>Isolation</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Joni Mitchell</td><td>Underneath the Streetlight</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Mercury Rev</td><td>Isolation</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Otis Redding</td><td>That's How Strong My Love Is</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Paul Kelly</td><td>- Track Name Required</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Radiohead</td><td>Creep</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Rage Against the Machine</td><td>The Ghost of Tom Joad</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Red & Zeke feat. Bill Doss & Neil Cleary</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Tall Dwarfs</td><td>Bodies</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>The Beatles</td><td>Twist and Shout</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>The Cure</td><td>The Lovecats</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>The Doors</td><td>Waiting for the Sun</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>This Mortal Coil</td><td>Song to the Siren</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Tim Buckley</td><td>Song to the Siren</td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Tom Waits</td><td>Crossroads</td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
-<tr><td>Brian Wilson</td><td>Pet Sounds</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Bruce Springsteen</td><td>Rocky Ground</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Dungen</td><td>Fredag</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Etta James</td><td>Born Under a Bad Sign</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=GMCha-mIUAE">Ballerina</a></td><td>Stay There</td><td> Bruce's Session - May 2014</td></tr>
+<tr><td>Dexter Gordon</td><td><a href="https://www.youtube.com/watch?v=oNNM6XXff9A">I'm a Fool to Want You</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Dog Age</td><td><a href="https://www.youtube.com/watch?v=jc0esH5-6-U">April, Spring, Summer and Wednesday</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Gerry and the Pacemakers</td><td><a href="https://www.youtube.com/watch?v=hy7BZ0v4lPo">Don't Let the Sun Catch You Crying</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=44R_68JS1bE">Attics of My Life</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Kort</td><td><a href="https://www.youtube.com/watch?v=NfO6eKIk9YY">April's Fool</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Matt Berry</td><td><a href="https://www.youtube.com/watch?v=oWoUrM_vTIM">Love Is a Fool</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Mighty Accordion Band</td><td><a href="https://www.youtube.com/watch?v=ZFSKanfsQ3o">April in Paris</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=DX7Z-r9n_n0">Fool's Paradise</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Mose Allison</td><td><a href="https://www.youtube.com/watch?v=bhhOcicVNgM">I Don't Worry About a Thing</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Nigel Kennedy</td><td><a href="https://www.youtube.com/watch?v=i8bownRFBPM">Autumn Regrets</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>No-Man</td><td><a href="https://www.youtube.com/watch?v=nDFT2CRK2YM">Pretty Genius</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=sH-66FBRo1k">Someone New</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Robert Conti</td><td><a href="https://www.youtube.com/watch?v=O3w0tmEYpOA">April</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Salmonella Dub</td><td><a href="https://www.youtube.com/watch?v=H_KLfaGAnuo">Wisdom by Default</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=wsRatIMUSu8">The Fool On The Hill</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>The Jesus and Mary Chain</td><td><a href="https://www.youtube.com/watch?v=OPPP3BXurHk">April Skies</a></td><td>April</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=_705yTsSG_I">Did Somebody Make a Fool Out of You?</a></td><td>Foolishness</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>William Burroughs</td><td><a href="https://www.youtube.com/watch?v=4yZQbD7q7_8">Words Of Advice For Young People</a></td><td>Wisdom</td><td> Martin's Session - Apr 2014</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=2Nbe2O-mJmc">The Ghost of Tom Joad</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Emmylou Harris</td><td><a href="https://www.youtube.com/watch?v=i3RdttpefBU">May This Be Love</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Frank Bennett</td><td><a href="https://www.youtube.com/watch?v=6SDr_35aVOI">Creep</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Franz Ferdinand</td><td><a href="https://www.youtube.com/watch?v=HlJrhxWrokw">Come On Home</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Ian Dury</td><td><a href="https://www.youtube.com/watch?v=JCOym2yutD0">Sweet Gene Vincent</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Jimi Hendrix</td><td><a href="https://www.youtube.com/watch?v=T4MBwvZWOQE">May This Be Love</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=4YPSp2VSpns">Isolation</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=mLvdW9L1msc">Underneath the Streetlight</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Mercury Rev</td><td><a href="https://www.youtube.com/watch?v=ctDGV-yAckE">Isolation</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=ySvRbV3_C6g">That's How Strong My Love Is</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=EwFUkm1iJ7E">- Track Name Required</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Radiohead</td><td><a href="https://www.youtube.com/watch?v=XFkzRNyygfk">Creep</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Rage Against the Machine</td><td><a href="https://www.youtube.com/watch?v=T-8BoWU3XMo">The Ghost of Tom Joad</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Red & Zeke feat. Bill Doss & Neil Cleary</td><td><a href="https://www.youtube.com/watch?v=ohz0jeTaaMU">Bodies</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Tall Dwarfs</td><td><a href="https://www.youtube.com/watch?v=Pg8y57YhLrw">Bodies</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=2RicaUqd9Hg">Twist and Shout</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>The Cure</td><td><a href="https://www.youtube.com/watch?v=4OLYoq7j14w">The Lovecats</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>The Doors</td><td><a href="https://www.youtube.com/watch?v=VUI-ELCdjxo">Waiting for the Sun</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>This Mortal Coil</td><td><a href="https://www.youtube.com/watch?v=HFWKJ2FUiAQ">Song to the Siren</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Tim Buckley</td><td><a href="https://www.youtube.com/watch?v=vMTEtDBHGY4">Song to the Siren</a></td><td>Same Track</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=UUHgqSCS6tY">Crossroads</a></td><td>Want(ed)To See</td><td> Richard's Session - Mar 2014</td></tr>
+<tr><td>Brian Wilson</td><td><a href="https://www.youtube.com/watch?v=oaYs_zECQaQ">Pet Sounds</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=qPmIIXXv0d8">Rocky Ground</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Dungen</td><td><a href="https://www.youtube.com/watch?v=-3TI3harFJo">Fredag</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Etta James</td><td><a href="https://www.youtube.com/watch?v=70UkfQeXQ_c">Born Under a Bad Sign</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Jaco Pastorius</td><td>Word of Mouth</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jason Isbell</td><td>Live Oak</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jerry Garcia</td><td>Grateful. Dawg</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jimmy Page</td><td>Wasting My Time</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>John Butler Trio</td><td>Better Than</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Jonathan Wilson</td><td>Cecil Taylor</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Led Zeppelin</td><td>Royal Orleans</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Lynyrd Skynyrd</td><td>I Know a Little</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Mark Lanegan</td><td>One Hundred Days</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Nick Drake</td><td>River Man</td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Nigel Gavin</td><td>Nebuchadnezzar</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Steve Mason</td><td>A Lot of Love</td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>The Byrds</td><td>Turn, Turn, Turn</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>The Decemberists</td><td>Dear Avery</td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Cowboy Junkies</td><td>Sweet Jane</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Donovan</td><td>Sunshine Superman</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>John Grant</td><td>Jesus Hates Faggots</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Kelly Joe Phelps</td><td>Talking To Jehovah</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed</td><td>Coney Island Baby</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed</td><td>Walk on the Wild Side</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Lou Reed , John Cale & Sterling Morrison</td><td>Forever Changed</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave</td><td>There She Goes, My Beautiful World</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Nick Cave</td><td>All Tomorrow’s Parties</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>R.E.M.</td><td>Pale Blue Eyes</td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Sarah Jarosz</td><td>Build Me Up From Bones</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Steven Wilson</td><td>Drive Home</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Sunn O))) & Boris</td><td>The Sinking Belle (Blue Sheep)</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>The Allman Brothers Band</td><td>Blue Sky</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Throwing Muses</td><td>Ride Into the Sun</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Jason Isbell</td><td><a href="https://www.youtube.com/watch?v=b2Q3gcnCIUo">Live Oak</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jerry Garcia</td><td><a href="https://www.youtube.com/watch?v=H63bfWqLh4U">Grateful. Dawg</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jimmy Page</td><td><a href="https://www.youtube.com/watch?v=TSDWzA2LDwU">Wasting My Time</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=79cG_F1GxfI">Better Than</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Jonathan Wilson</td><td><a href="https://www.youtube.com/watch?v=UmoBAoEB8jo">Cecil Taylor</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=YDUIxy8za4w">Royal Orleans</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Lynyrd Skynyrd</td><td><a href="https://www.youtube.com/watch?v=WVnVF6zByIw">I Know a Little</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Mark Lanegan</td><td><a href="https://www.youtube.com/watch?v=b2MIfFVizII">One Hundred Days</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Nick Drake</td><td><a href="https://www.youtube.com/watch?v=idcaRTg4-fM">River Man</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Nigel Gavin</td><td><a href="https://www.youtube.com/watch?v=FFRErfJBFts">Nebuchadnezzar</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Steve Mason</td><td><a href="https://www.youtube.com/watch?v=APGAY1wpL4k">A Lot of Love</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=xVOJla2vYx8">Turn, Turn, Turn</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>The Decemberists</td><td><a href="https://www.youtube.com/watch?v=HaMLEaNg6LI">Dear Avery</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
+<tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fa9nN3G2CSg">Sweet Jane</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Donovan</td><td><a href="https://www.youtube.com/watch?v=YsX2FhBf9nY">Sunshine Superman</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=JqdHoEmCFW8">Jesus Hates Faggots</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=F0kwK4EAP5Q">Talking To Jehovah</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=1SHCsgqZvQM">Coney Island Baby</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=oG6fayQBm9w">Walk on the Wild Side</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Lou Reed , John Cale & Sterling Morrison</td><td><a href="https://www.youtube.com/watch?v=eEFyuOYJNiM">Forever Changed</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=kkvtF7mvnsw">There She Goes, My Beautiful World</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=9gYxW0B8_Gg">All Tomorrow’s Parties</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>R.E.M.</td><td><a href="https://www.youtube.com/watch?v=KEEDxQ-xl40">Pale Blue Eyes</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=X09s37tJ09s">Build Me Up From Bones</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=ycYewhiaVBk">Drive Home</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Sunn O))) & Boris</td><td><a href="https://www.youtube.com/watch?v=RD4pSxvgtQM">The Sinking Belle (Blue Sheep)</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=JSMubgZoL58">Blue Sky</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=ZZgoOeksIn0">Ride Into the Sun</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Unknown Artist</td><td>Julia</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Vieux Farka Touré</td><td>Ay Bakoy</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Wayne Shorter</td><td>Orbits</td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Vieux Farka Touré</td><td><a href="https://www.youtube.com/watch?v=tUUOaEfTGLo">Ay Bakoy</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
+<tr><td>Wayne Shorter</td><td><a href="https://www.youtube.com/watch?v=pMB_MrgEf4o">Orbits</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Dave Biller & Jerry Wakefield</td><td>Good Enough</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Dr. Hook</td><td>Cover of the Rolling Stone</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
