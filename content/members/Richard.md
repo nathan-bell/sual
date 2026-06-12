@@ -2,7 +2,7 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springsteen (14 plays), Frank Zappa (13 plays), Led Zeppelin (10 plays) and Blackberry Smoke (9 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Dean Martin</td><td>Just In Time</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Beatles</td><td>Ask Me Why</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Life In the Fast Lane</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Dean Martin</td><td><a href="https://www.youtube.com/watch?v=NksYhOCXoM8">Just In Time</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=2ttGjtfQ7EA">Ask Me Why</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=Ybg_uZxdE0c">Life In the Fast Lane</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Pretenders</td><td><a href="https://www.youtube.com/watch?v=o6-0ypKuwv8">Precious</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Zappa Plays Zappa ft Steve Vai</td><td><a href="https://www.youtube.com/watch?v=HwFkP8hjk8k">Zomby Woof</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>New Order</td><td><a href="https://www.youtube.com/watch?v=3oOB9ektig4">Waiting For the Sirens' Call</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -357,21 +357,21 @@ Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springste
 <tr><td>Lynyrd Skynyrd</td><td><a href="https://www.youtube.com/watch?v=WVnVF6zByIw">I Know a Little</a></td><td>Rediscovered</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>Jimmy Page</td><td><a href="https://www.youtube.com/watch?v=TSDWzA2LDwU">Wasting My Time</a></td><td>Gone Solo</td><td> Chris's Session - Feb 2014</td></tr>
 <tr><td>The Byrds</td><td><a href="https://www.youtube.com/watch?v=xVOJla2vYx8">Turn, Turn, Turn</a></td><td>Best Of 2013</td><td> Chris's Session - Feb 2014</td></tr>
-<tr><td>Waiting For Gufman</td><td>Film segment</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Liberation Project</td><td>Siyabonga Little Steven (For Steve Van Zandt)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Beach Boys</td><td>Help Me Ronda</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Tommy Bolin</td><td>Heavy Load</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>More Under Mutter Mutterrances</td><td>Fire Sign</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Mrs Carey's Concert</td><td>Excerp from Documentary (video)</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Ruth Underwood</td><td>Rollo Interior</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Zappa Does Zappa</td><td>- please update (video)</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>James Taylor</td><td>Summer's Here</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>David McCallum</td><td>Batman Theme</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Directly From My Heart to You</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Deep Purple</td><td>Speed King</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Bruce Springsteen</td><td>Kingdom of Days</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>The Firm</td><td>All the King's Men</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Waiting For Gufman</td><td><a href="https://www.youtube.com/watch?v=IYsqJBnUmWo">Film segment</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=eRl6-bHlz-4">I-Feel-Like-I'm-Fixin'-to-Die-Rag</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Liberation Project</td><td><a href="https://www.youtube.com/watch?v=iKZlDKdAktQ">Siyabonga Little Steven (For Steve Van Zandt)</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=j1THDLgL_bs">Help Me Ronda</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=A7FOTBdbPN8">Heavy Load</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>More Under Mutter Mutterrances</td><td><a href="https://www.youtube.com/watch?v=rZqbUWxIPVI">Fire Sign</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Mrs Carey's Concert</td><td><a href="https://www.youtube.com/watch?v=lVxi3fSE0es">Excerp from Documentary (video)</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Ruth Underwood</td><td><a href="https://www.youtube.com/watch?v=e7Sq0chFjps">Rollo Interior</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Zappa Does Zappa</td><td><a href="https://www.youtube.com/watch?v=rtK8TXQw_Zc">- please update (video)</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Shs_fjWx20M">Summer's Here</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>David McCallum</td><td><a href="https://www.youtube.com/watch?v=u70C_P7hBvg">Batman Theme</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=PdZKJOVH2WM">Directly From My Heart to You</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Deep Purple</td><td><a href="https://www.youtube.com/watch?v=W_jfHvcAXRY">Speed King</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=uc8FPS7PaWw">Kingdom of Days</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>The Firm</td><td><a href="https://www.youtube.com/watch?v=XUY-TCOWsS4">All the King's Men</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Kings of Leon</td><td>Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Divinyls</td><td>Good Die Young</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>The Lemonheads</td><td>Outdoor Type</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>

@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -344,20 +344,20 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays
 <tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=1SHCsgqZvQM">Coney Island Baby</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=kkvtF7mvnsw">There She Goes, My Beautiful World</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Phonk</td><td>Arse</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Leonard Cohen</td><td>Anyhow</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Dr. Hook</td><td>Cover of the Rolling Stone</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Crosby, Stills & Nash</td><td>Suite: Judy Blue Eyes</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Kate & Anna McGarrigle</td><td>Leave Me Be</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>John Lennon</td><td>Mother</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Dave Grusin</td><td>Mood Indigo</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Egberto Gismonti</td><td>Raga</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>John Hiatt</td><td>Lipstick Sunset</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Arcade Fire</td><td>Month of May</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>PJ Harvey</td><td>The Words That Maketh Murder</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Beth Orton</td><td>Last Leaves of Autumn</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Various</td><td>Her Majesty Queen Elizabeth II : Gold</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Ry Cooder</td><td>Brother is Gone</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Paul Kelly</td><td>Time and Tide</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=IkQ5uxELdxY">Anyhow</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Dr. Hook</td><td><a href="https://www.youtube.com/watch?v=-Ux3-a9RE1Q">Cover of the Rolling Stone</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Crosby, Stills & Nash</td><td><a href="https://www.youtube.com/watch?v=ZGT0P0XJRFM">Suite: Judy Blue Eyes</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Kate & Anna McGarrigle</td><td><a href="https://www.youtube.com/watch?v=kc_oTvcrlg0">Leave Me Be</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=sPYsMM1FvXs">Mother</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Dave Grusin</td><td><a href="https://www.youtube.com/watch?v=pkB_hB7Hy8o">Mood Indigo</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Egberto Gismonti</td><td><a href="https://www.youtube.com/watch?v=GNqR6gMsZzI">Raga</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=ASRP9fc-_o4">Lipstick Sunset</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Arcade Fire</td><td><a href="https://www.youtube.com/watch?v=eNINCykhR3I">Month of May</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>PJ Harvey</td><td><a href="https://www.youtube.com/watch?v=Fws4fEE8Yy0">The Words That Maketh Murder</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Beth Orton</td><td><a href="https://www.youtube.com/watch?v=T82nu8Q6T_c">Last Leaves of Autumn</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Various</td><td><a href="https://www.youtube.com/watch?v=ojP_4NwdJNo">Her Majesty Queen Elizabeth II : Gold</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=2TcO6C0DAlE">Brother is Gone</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=FqQG-Mso8EU">Time and Tide</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Wilco</td><td>Hotel Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Static Frames</td><td>At The Waters Edge</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Pretenders</td><td>Pretenders II</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>

@@ -2,7 +2,7 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
@@ -15,8 +15,8 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
 <tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Magnetic Fields</td><td>The Luckiest Guy on the Lower East Side</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Tom Petty & The Heartbreakers</td><td>American Girl</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=0RlRh6I5V68">The Luckiest Guy on the Lower East Side</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Tom Petty & The Heartbreakers</td><td><a href="https://www.youtube.com/watch?v=8v8-RSyuUeE">American Girl</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Sleater-Kinney</td><td><a href="https://www.youtube.com/watch?v=Owia8H9zbdM">What's Mine Is Yours</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Dan Reeder</td><td><a href="https://www.youtube.com/watch?v=spnGxAFQpF0">Cowboy Song</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Massive Attack & Tom Waits</td><td><a href="https://www.youtube.com/watch?v=L-57FrioeuE">Boots on the Ground</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -353,20 +353,20 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 
 <tr><td>Sunn O))) & Boris</td><td><a href="https://www.youtube.com/watch?v=RD4pSxvgtQM">The Sinking Belle (Blue Sheep)</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=9gYxW0B8_Gg">All Tomorrow’s Parties</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=JqdHoEmCFW8">Jesus Hates Faggots</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Peter Sellers</td><td>Beatles cover</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Handsome Family</td><td>Drunk by Noon</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Ween</td><td>Fluffy</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Flight of the Conchords</td><td>Carol Brown</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Connan Mockasin</td><td>I Nude You</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Antony and the Johnsons</td><td>What Can I Do?</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Earl Scruggs</td><td>Foggy Mountain Breakdown</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Chet Atkins</td><td>Excerpt from the Johnn Cash Show</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Inca Roads</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Jane's Addiction</td><td>Summertime Rolls</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Nick Cave</td><td>Up Jumped the Devil</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Aaron Freeman</td><td>Doesn't Anybody Know My Name</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Queens of the Stone Age</td><td>No One Knows</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td>Beast for Thee</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Peter Sellers</td><td><a href="https://www.youtube.com/watch?v=PLjA331K4YI">Beatles cover</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Handsome Family</td><td><a href="https://www.youtube.com/watch?v=HTH8lm0KEMw">Drunk by Noon</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=3oJ3VUiZRp8">Fluffy</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Flight of the Conchords</td><td><a href="https://www.youtube.com/watch?v=WIqC8WlwJx0">Carol Brown</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Connan Mockasin</td><td><a href="https://www.youtube.com/watch?v=gQZyDle3sSk">I Nude You</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Antony and the Johnsons</td><td><a href="https://www.youtube.com/watch?v=fWd6_PHYotc">What Can I Do?</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Earl Scruggs</td><td><a href="https://www.youtube.com/watch?v=af9wHDrkjfk">Foggy Mountain Breakdown</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Chet Atkins</td><td><a href="https://www.youtube.com/watch?v=CgbkCQe2oM0">Excerpt from the Johnn Cash Show</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=buaF5dN44Oo">Inca Roads</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Jane's Addiction</td><td><a href="https://www.youtube.com/watch?v=lmbeVImFXcs">Summertime Rolls</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=T5YYqkCEhJA">Up Jumped the Devil</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Aaron Freeman</td><td><a href="https://www.youtube.com/watch?v=SIRow_oe5BQ">Doesn't Anybody Know My Name</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Queens of the Stone Age</td><td><a href="https://www.youtube.com/watch?v=s88r_q7oufE">No One Knows</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td><a href="https://www.youtube.com/watch?v=ooN_0QN2YXc">Beast for Thee</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Robert Wyatt</td><td>Rock Bottom</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Sufjan Stevens</td><td>Come On! Feel the Illinoise!!</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Mike Watt</td><td>E-Ticket Ride</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>

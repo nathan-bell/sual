@@ -2,7 +2,7 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
@@ -14,10 +14,10 @@ categories: ["members"]
 Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Joe Jackson (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Joan Armatrading</td><td>Down To Zero</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Steely Dan</td><td>King of the World (Live 1974)</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Twenty-One</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Out of Control</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Joan Armatrading</td><td><a href="https://www.youtube.com/watch?v=Brp8Va8XVQw">Down To Zero</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=1QHXQM8zrXk">King of the World (Live 1974)</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=LEodN4vYrO8">Twenty-One</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=n_8_EzkMoyk">Out of Control</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Larkin Poe</td><td><a href="https://www.youtube.com/watch?v=MzoK3FoitPU">Preachin' Blues</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Angine de Poitrine</td><td><a href="https://www.youtube.com/watch?v=pRgHYWOtqqc">Fabienk</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Rory Hoffman</td><td><a href="https://www.youtube.com/watch?v=TU_uLjd24Rs">Night Life</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -363,20 +363,20 @@ Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 p
 <tr><td>Donovan</td><td><a href="https://www.youtube.com/watch?v=YsX2FhBf9nY">Sunshine Superman</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Lou Reed</td><td><a href="https://www.youtube.com/watch?v=oG6fayQBm9w">Walk on the Wild Side</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Kelly Joe Phelps</td><td><a href="https://www.youtube.com/watch?v=F0kwK4EAP5Q">Talking To Jehovah</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Dave Biller & Jerry Wakefield</td><td>Good Enough</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Walter Becker</td><td>Cringemaker</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Tex Williams</td><td>Smoke Smoke Smoke (That Cigarette)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Leon Redbone</td><td>Marie</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Barney Kessel</td><td>Satin Doll</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Kurt Elling</td><td>Going To Chicago</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Art Tatum</td><td>Willow Weep for Me</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Dave Biller & Jerry Wakefield</td><td><a href="https://www.youtube.com/watch?v=8e62swGd9ds">Good Enough</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=S-tkYUi9h90">Cringemaker</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Tex Williams</td><td><a href="https://www.youtube.com/watch?v=65_-vNtWLLs">Smoke Smoke Smoke (That Cigarette)</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Leon Redbone</td><td><a href="https://www.youtube.com/watch?v=OMXvOmtqmyE">Marie</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Barney Kessel</td><td><a href="https://www.youtube.com/watch?v=hh8z2FtLZfg">Satin Doll</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Kurt Elling</td><td><a href="https://www.youtube.com/watch?v=qD7BlaKi1vY">Going To Chicago</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Art Tatum</td><td><a href="https://www.youtube.com/watch?v=tCx6ghqg8tg">Willow Weep for Me</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
 <tr><td>Andrew London Trio</td><td>Two Words</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Time Jumpers</td><td>Gonna Write Myself a Letter</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Donald Fagen</td><td>Snowbound</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Steely Dan</td><td>Sign In Stranger</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Smokin' Joe Kubek & B'nois King</td><td>Ru4 Real</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>London Philharmonic Orchestra , Sir Charles Mackerras</td><td>Enigma Variations: XIV. Finale: E.D.U.</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Steely Dan</td><td>Third World Man</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=hETqP7SUpSQ">Gonna Write Myself a Letter</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=96GCrZec5u8">Snowbound</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=RRgHbtLZO4w">Sign In Stranger</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Smokin' Joe Kubek & B'nois King</td><td><a href="https://www.youtube.com/watch?v=aw2BzN9uucY">Ru4 Real</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>London Philharmonic Orchestra , Sir Charles Mackerras</td><td><a href="https://www.youtube.com/watch?v=0kjWcwQoWWY">Enigma Variations: XIV. Finale: E.D.U.</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=XGQtq9PD9iA">Third World Man</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Clairy Browne</td><td>YouTube</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Georgie Fame</td><td>Yeh Yeh</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>John Jorgenson Quintet</td><td>El Camino del Che</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>

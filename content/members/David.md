@@ -2,7 +2,7 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
@@ -375,21 +375,21 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Throwing Muses</td><td><a href="https://www.youtube.com/watch?v=ZZgoOeksIn0">Ride Into the Sun</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Lou Reed , John Cale & Sterling Morrison</td><td><a href="https://www.youtube.com/watch?v=eEFyuOYJNiM">Forever Changed</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Steven Wilson</td><td><a href="https://www.youtube.com/watch?v=ycYewhiaVBk">Drive Home</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Serge Gainsbourg</td><td>Comic Strip</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Primus</td><td>Tommy the Cat</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Rutles</td><td>Questionnaire</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Jethro Tull</td><td>Crosseyed Mary</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Jeff Beck</td><td>The Final Peace</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Talk Talk</td><td>Ascension Day</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Japan</td><td>My New Career</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Roy Buchanan</td><td>The Messiah Will Come Again</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Dr. Feelgood</td><td>She Does It Right</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Fleet Foxes</td><td>White Winter Hymnal</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>23 Skidoo</td><td>Vegas El Bandito</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>The Duckworth Lewis Method</td><td>Jiggery Pokery</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Princess Chelsea</td><td>Ice Reign</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Lana Del Rey</td><td>Off to the Races</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Laura Marling</td><td>Little Love Caster</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Serge Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=22Uf4-khGAk">Comic Strip</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Primus</td><td><a href="https://www.youtube.com/watch?v=r4OhIU-PmB8">Tommy the Cat</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Rutles</td><td><a href="https://www.youtube.com/watch?v=lOU1MtgWzlk">Questionnaire</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=0ufuH4vZ77w">Crosseyed Mary</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=JCXOqGHEDvc">The Final Peace</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Talk Talk</td><td><a href="https://www.youtube.com/watch?v=MASy-_eHLNY">Ascension Day</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Japan</td><td><a href="https://www.youtube.com/watch?v=Z-CSaUXsoos">My New Career</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Roy Buchanan</td><td><a href="https://www.youtube.com/watch?v=deeBQZ8Aklc">The Messiah Will Come Again</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Dr. Feelgood</td><td><a href="https://www.youtube.com/watch?v=iHm7uIC84YM">She Does It Right</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Fleet Foxes</td><td><a href="https://www.youtube.com/watch?v=DrQRS40OKNE">White Winter Hymnal</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>23 Skidoo</td><td><a href="https://www.youtube.com/watch?v=7ZyHdnk919c">Vegas El Bandito</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>The Duckworth Lewis Method</td><td><a href="https://www.youtube.com/watch?v=dmRGbw_fen4">Jiggery Pokery</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Princess Chelsea</td><td><a href="https://www.youtube.com/watch?v=YYGvFvvzlBI">Ice Reign</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Lana Del Rey</td><td><a href="https://www.youtube.com/watch?v=k53aLj72MYE">Off to the Races</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Laura Marling</td><td><a href="https://www.youtube.com/watch?v=jGSw5u7Qndk">Little Love Caster</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Sonic Youth</td><td>New Hampshire</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>John Grant</td><td>GMF</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Peter Blegvad & Andy Partridge</td><td>The Devil's Lexicon</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>

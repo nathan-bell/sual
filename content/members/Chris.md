@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jefferson Airplane</td><td>Wooden Ships</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Boz Scaggs</td><td>Runnin' Blue</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Marvin Gaye</td><td>What's Going On</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=ROBaoiJK0wc">Wooden Ships</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Marvin Gaye</td><td><a href="https://www.youtube.com/watch?v=H-kA3UtBj4M">What's Going On</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Tedeschi Trucks Band</td><td><a href="https://www.youtube.com/watch?v=Zy2uY6V4BHQ">I Pity the Fool</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Byrne & Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Ifriiv3DIw8">The Jezebel Spirit (Mixed)</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Sam Cooke</td><td><a href="https://www.youtube.com/watch?v=J6iZmcgpHGU">Sad Mood</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -357,21 +357,21 @@ Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 pla
 <tr><td>The Allman Brothers Band</td><td><a href="https://www.youtube.com/watch?v=JSMubgZoL58">Blue Sky</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Cowboy Junkies</td><td><a href="https://www.youtube.com/watch?v=Fa9nN3G2CSg">Sweet Jane</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Wayne Shorter</td><td><a href="https://www.youtube.com/watch?v=pMB_MrgEf4o">Orbits</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Warren Zevon</td><td>Werewolves of London</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Dudley Moore & Peter Cook</td><td>TV segment</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Tom Waits</td><td>After You Die</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Califone</td><td>Alice Marble Gray</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Gene Clark</td><td>Silver Raven</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Teddy Thompson</td><td>The Worst Is Yet to Come</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Fleetwood Mac</td><td>Underway</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Marc Ribot</td><td>Pennies From Hell</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Wayne Shorter Quartet</td><td>Myrrh</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Cassandra Wilson</td><td>I Can't Stand the Rain</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Tom Waits</td><td>Bad as Me</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>John Hiatt</td><td>I Just Don't Know What to Say</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Eilen Jewell</td><td>Queen of the Minor Key</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Chick Corea & John McLaughlin</td><td>Someday My Prince Will Come</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>The Band</td><td>King Harvest (Has Surely Come)</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Warren Zevon</td><td><a href="https://www.youtube.com/watch?v=qae25976UgA">Werewolves of London</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Dudley Moore & Peter Cook</td><td><a href="https://www.youtube.com/watch?v=yzazJqOV_Eg">TV segment</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=JtapwsQGfbE">After You Die</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=bho6Azw4BiU">Alice Marble Gray</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Gene Clark</td><td><a href="https://www.youtube.com/watch?v=SU1ZWsAAxyk">Silver Raven</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Teddy Thompson</td><td><a href="https://www.youtube.com/watch?v=11O3cVNUbyI">The Worst Is Yet to Come</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Fleetwood Mac</td><td><a href="https://www.youtube.com/watch?v=_lks3ulVDdM">Underway</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=ELMY6gHQWLk">Pennies From Hell</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Wayne Shorter Quartet</td><td><a href="https://www.youtube.com/watch?v=b2gLTwAO2hw">Myrrh</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=52p6PLoucsI">I Can't Stand the Rain</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=B6Ta3H-ck6s">Bad as Me</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=y3v5ScW_yqg">I Just Don't Know What to Say</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=gWxwYtiQraU">Queen of the Minor Key</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Chick Corea & John McLaughlin</td><td><a href="https://www.youtube.com/watch?v=5mLw0sTEAvY">Someday My Prince Will Come</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>The Charlatans</td><td>Alabama Bound</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Ry Cooder</td><td>Lord Tell Me Why</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Steve Earle</td><td>Colorado Girl</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>

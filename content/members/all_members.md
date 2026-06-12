@@ -2,7 +2,7 @@
 title: "Everyone's Selections"
 description: "All track selections over the years"
 summary: "All track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/1730523760270.png"
 draft: false
 categories: ["members"]
@@ -13,22 +13,22 @@ categories: ["members"]
 Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Boz Scaggs</td><td>Runnin' Blue</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Dean Martin</td><td>Just In Time</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Life In the Fast Lane</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Twenty-One</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Eagles</td><td>Out of Control</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Jefferson Airplane</td><td>Wooden Ships</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Joan Armatrading</td><td>Down To Zero</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>John Martyn</td><td>Some People Are Crazy</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Marvin Gaye</td><td>What's Going On</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Roxy Music</td><td>Editions Of You</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Steely Dan</td><td>King of the World (Live 1974)</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Beatles</td><td>Ask Me Why</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Cars</td><td>All Mixed Up</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Magnetic Fields</td><td>The Luckiest Guy on the Lower East Side</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Dean Martin</td><td><a href="https://www.youtube.com/watch?v=NksYhOCXoM8">Just In Time</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=Ybg_uZxdE0c">Life In the Fast Lane</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=LEodN4vYrO8">Twenty-One</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=n_8_EzkMoyk">Out of Control</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=ROBaoiJK0wc">Wooden Ships</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Joan Armatrading</td><td><a href="https://www.youtube.com/watch?v=Brp8Va8XVQw">Down To Zero</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>John Martyn</td><td><a href="https://www.youtube.com/watch?v=DjWbf1PrqMk">Some People Are Crazy</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Marvin Gaye</td><td><a href="https://www.youtube.com/watch?v=H-kA3UtBj4M">What's Going On</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Roxy Music</td><td><a href="https://www.youtube.com/watch?v=0kxfGPWGaJ0">Editions Of You</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=1QHXQM8zrXk">King of the World (Live 1974)</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=2ttGjtfQ7EA">Ask Me Why</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Cars</td><td><a href="https://www.youtube.com/watch?v=VFXsdQb35Io">All Mixed Up</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=0RlRh6I5V68">The Luckiest Guy on the Lower East Side</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>Tom Petty & The Heartbreakers</td><td>American Girl</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Tom Petty & The Heartbreakers</td><td><a href="https://www.youtube.com/watch?v=8v8-RSyuUeE">American Girl</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Angine de Poitrine</td><td><a href="https://www.youtube.com/watch?v=pRgHYWOtqqc">Fabienk</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Dehxp3PUTkM">We Let It In</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Clannad</td><td><a href="https://www.youtube.com/watch?v=tJ35VZW6Aic">Down by the Sally Gardens</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -2565,114 +2565,114 @@ Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), N
 <tr><td>Unknown Artist</td><td>Julia</td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Vieux Farka Touré</td><td><a href="https://www.youtube.com/watch?v=tUUOaEfTGLo">Ay Bakoy</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Wayne Shorter</td><td><a href="https://www.youtube.com/watch?v=pMB_MrgEf4o">Orbits</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Dave Biller & Jerry Wakefield</td><td>Good Enough</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Dr. Hook</td><td>Cover of the Rolling Stone</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Dudley Moore & Peter Cook</td><td>TV segment</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Jim O'Rourke</td><td>Memory Lane</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Leonard Cohen</td><td>Anyhow</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Peter Sellers</td><td>Beatles cover</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=eRl6-bHlz-4">I-Feel-Like-I'm-Fixin'-to-Die-Rag</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Dave Biller & Jerry Wakefield</td><td><a href="https://www.youtube.com/watch?v=8e62swGd9ds">Good Enough</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Dr. Hook</td><td><a href="https://www.youtube.com/watch?v=-Ux3-a9RE1Q">Cover of the Rolling Stone</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Dudley Moore & Peter Cook</td><td><a href="https://www.youtube.com/watch?v=yzazJqOV_Eg">TV segment</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Jim O'Rourke</td><td><a href="https://www.youtube.com/watch?v=VVvu2eCKTR8">Memory Lane</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Leonard Cohen</td><td><a href="https://www.youtube.com/watch?v=IkQ5uxELdxY">Anyhow</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Peter Sellers</td><td><a href="https://www.youtube.com/watch?v=PLjA331K4YI">Beatles cover</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
 <tr><td>Phonk</td><td>Arse</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Primus</td><td>Tommy the Cat</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Schnauser</td><td>Dinner Party</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Schnauser</td><td>Waterloo Teeth</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Serge Gainsbourg</td><td>Comic Strip</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Tex Williams</td><td>Smoke Smoke Smoke (That Cigarette)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Handsome Family</td><td>Drunk by Noon</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Liberation Project</td><td>Siyabonga Little Steven (For Steve Van Zandt)</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>The Rutles</td><td>Questionnaire</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Tom Waits</td><td>After You Die</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Waiting For Gufman</td><td>Film segment</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Walter Becker</td><td>Cringemaker</td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Warren Zevon</td><td>Werewolves of London</td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Ween</td><td>Fluffy</td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
-<tr><td>Antony and the Johnsons</td><td>What Can I Do?</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Barney Kessel</td><td>Satin Doll</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Califone</td><td>Alice Marble Gray</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Connan Mockasin</td><td>I Nude You</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Crosby, Stills & Nash</td><td>Suite: Judy Blue Eyes</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Flight of the Conchords</td><td>Carol Brown</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Gene Clark</td><td>Silver Raven</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Janis Ian</td><td>His Hands</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Jeff Beck</td><td>The Final Peace</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Jethro Tull</td><td>Crosseyed Mary</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>John Lennon</td><td>Mother</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Kate & Anna McGarrigle</td><td>Leave Me Be</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Kurt Elling</td><td>Going To Chicago</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Leon Redbone</td><td>Marie</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>More Under Mutter Mutterrances</td><td>Fire Sign</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Russell Smith</td><td>Anger and Tears</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Talk Talk</td><td>Ascension Day</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Teddy Thompson</td><td>The Worst Is Yet to Come</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>The Beach Boys</td><td>Help Me Ronda</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Tommy Bolin</td><td>Heavy Load</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Tony Joe White</td><td>Closer to the Truth</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Primus</td><td><a href="https://www.youtube.com/watch?v=r4OhIU-PmB8">Tommy the Cat</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Schnauser</td><td><a href="https://www.youtube.com/watch?v=5TSU-tJ6w8s">Dinner Party</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Schnauser</td><td><a href="https://www.youtube.com/watch?v=HCWbhGoSLKY">Waterloo Teeth</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Serge Gainsbourg</td><td><a href="https://www.youtube.com/watch?v=22Uf4-khGAk">Comic Strip</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Tex Williams</td><td><a href="https://www.youtube.com/watch?v=65_-vNtWLLs">Smoke Smoke Smoke (That Cigarette)</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Handsome Family</td><td><a href="https://www.youtube.com/watch?v=HTH8lm0KEMw">Drunk by Noon</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Liberation Project</td><td><a href="https://www.youtube.com/watch?v=iKZlDKdAktQ">Siyabonga Little Steven (For Steve Van Zandt)</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>The Rutles</td><td><a href="https://www.youtube.com/watch?v=lOU1MtgWzlk">Questionnaire</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=JtapwsQGfbE">After You Die</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Waiting For Gufman</td><td><a href="https://www.youtube.com/watch?v=IYsqJBnUmWo">Film segment</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Walter Becker</td><td><a href="https://www.youtube.com/watch?v=S-tkYUi9h90">Cringemaker</a></td><td>An example of black humour or gallows humour</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Warren Zevon</td><td><a href="https://www.youtube.com/watch?v=qae25976UgA">Werewolves of London</a></td><td>A humorous song</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=3oJ3VUiZRp8">Fluffy</a></td><td>A serious song about a humorous subject, or a humorous song about a serious subject</td><td> Nathan's Session - Nov 2013</td></tr>
+<tr><td>Antony and the Johnsons</td><td><a href="https://www.youtube.com/watch?v=fWd6_PHYotc">What Can I Do?</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Barney Kessel</td><td><a href="https://www.youtube.com/watch?v=hh8z2FtLZfg">Satin Doll</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=bho6Azw4BiU">Alice Marble Gray</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Connan Mockasin</td><td><a href="https://www.youtube.com/watch?v=gQZyDle3sSk">I Nude You</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Crosby, Stills & Nash</td><td><a href="https://www.youtube.com/watch?v=ZGT0P0XJRFM">Suite: Judy Blue Eyes</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Flight of the Conchords</td><td><a href="https://www.youtube.com/watch?v=WIqC8WlwJx0">Carol Brown</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Gene Clark</td><td><a href="https://www.youtube.com/watch?v=SU1ZWsAAxyk">Silver Raven</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Janis Ian</td><td><a href="https://www.youtube.com/watch?v=xecAU7WEHXs">His Hands</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=JCXOqGHEDvc">The Final Peace</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=0ufuH4vZ77w">Crosseyed Mary</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>John Lennon</td><td><a href="https://www.youtube.com/watch?v=sPYsMM1FvXs">Mother</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Kate & Anna McGarrigle</td><td><a href="https://www.youtube.com/watch?v=kc_oTvcrlg0">Leave Me Be</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Kurt Elling</td><td><a href="https://www.youtube.com/watch?v=qD7BlaKi1vY">Going To Chicago</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Leon Redbone</td><td><a href="https://www.youtube.com/watch?v=OMXvOmtqmyE">Marie</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>More Under Mutter Mutterrances</td><td><a href="https://www.youtube.com/watch?v=rZqbUWxIPVI">Fire Sign</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Russell Smith</td><td><a href="https://www.youtube.com/watch?v=no04riWonJo">Anger and Tears</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Talk Talk</td><td><a href="https://www.youtube.com/watch?v=MASy-_eHLNY">Ascension Day</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Teddy Thompson</td><td><a href="https://www.youtube.com/watch?v=11O3cVNUbyI">The Worst Is Yet to Come</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>The Beach Boys</td><td><a href="https://www.youtube.com/watch?v=j1THDLgL_bs">Help Me Ronda</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Tommy Bolin</td><td><a href="https://www.youtube.com/watch?v=A7FOTBdbPN8">Heavy Load</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=4I10boAF-u8">Closer to the Truth</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
 <tr><td>Andrew London Trio</td><td>Two Words</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Art Tatum</td><td>Willow Weep for Me</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Chet Atkins</td><td>Excerpt from the Johnn Cash Show</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Dave Grusin</td><td>Mood Indigo</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Dr. Feelgood</td><td>She Does It Right</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Earl Scruggs</td><td>Foggy Mountain Breakdown</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Egberto Gismonti</td><td>Raga</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Fleetwood Mac</td><td>Underway</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Inca Roads</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Japan</td><td>My New Career</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>John Butler Trio</td><td>Don't Wanna See Your Face</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>John Hiatt</td><td>Lipstick Sunset</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>John Martyn</td><td>Big Muff</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Marc Ribot</td><td>Pennies From Hell</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Mrs Carey's Concert</td><td>Excerp from Documentary (video)</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Richard Thompson</td><td>Shoot Out the Lights</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Roy Buchanan</td><td>The Messiah Will Come Again</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Ruth Underwood</td><td>Rollo Interior</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Time Jumpers</td><td>Gonna Write Myself a Letter</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Wayne Shorter Quartet</td><td>Myrrh</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Zappa Does Zappa</td><td>- please update (video)</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>23 Skidoo</td><td>Vegas El Bandito</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Aaron Freeman</td><td>Doesn't Anybody Know My Name</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Arcade Fire</td><td>Month of May</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Art Tatum</td><td><a href="https://www.youtube.com/watch?v=tCx6ghqg8tg">Willow Weep for Me</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Chet Atkins</td><td><a href="https://www.youtube.com/watch?v=CgbkCQe2oM0">Excerpt from the Johnn Cash Show</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Dave Grusin</td><td><a href="https://www.youtube.com/watch?v=pkB_hB7Hy8o">Mood Indigo</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Dr. Feelgood</td><td><a href="https://www.youtube.com/watch?v=iHm7uIC84YM">She Does It Right</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Earl Scruggs</td><td><a href="https://www.youtube.com/watch?v=af9wHDrkjfk">Foggy Mountain Breakdown</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Egberto Gismonti</td><td><a href="https://www.youtube.com/watch?v=GNqR6gMsZzI">Raga</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Fleetwood Mac</td><td><a href="https://www.youtube.com/watch?v=_lks3ulVDdM">Underway</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=buaF5dN44Oo">Inca Roads</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Japan</td><td><a href="https://www.youtube.com/watch?v=Z-CSaUXsoos">My New Career</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=9A4hZmTSXHU">Don't Wanna See Your Face</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=ASRP9fc-_o4">Lipstick Sunset</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Martyn</td><td><a href="https://www.youtube.com/watch?v=xZANQ5YG7wU">Big Muff</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Marc Ribot</td><td><a href="https://www.youtube.com/watch?v=ELMY6gHQWLk">Pennies From Hell</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Mrs Carey's Concert</td><td><a href="https://www.youtube.com/watch?v=lVxi3fSE0es">Excerp from Documentary (video)</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Richard Thompson</td><td><a href="https://www.youtube.com/watch?v=uDZpzJ2KKss">Shoot Out the Lights</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Roy Buchanan</td><td><a href="https://www.youtube.com/watch?v=deeBQZ8Aklc">The Messiah Will Come Again</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Ruth Underwood</td><td><a href="https://www.youtube.com/watch?v=e7Sq0chFjps">Rollo Interior</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Time Jumpers</td><td><a href="https://www.youtube.com/watch?v=hETqP7SUpSQ">Gonna Write Myself a Letter</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Wayne Shorter Quartet</td><td><a href="https://www.youtube.com/watch?v=b2gLTwAO2hw">Myrrh</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Zappa Does Zappa</td><td><a href="https://www.youtube.com/watch?v=rtK8TXQw_Zc">- please update (video)</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>23 Skidoo</td><td><a href="https://www.youtube.com/watch?v=7ZyHdnk919c">Vegas El Bandito</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Aaron Freeman</td><td><a href="https://www.youtube.com/watch?v=SIRow_oe5BQ">Doesn't Anybody Know My Name</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Arcade Fire</td><td><a href="https://www.youtube.com/watch?v=eNINCykhR3I">Month of May</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Avalanche City</td><td>Snow</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Band of Skulls</td><td>Fires</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Beth Orton</td><td>Last Leaves of Autumn</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Bruce Springsteen</td><td>Born to Run</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Cassandra Wilson</td><td>I Can't Stand the Rain</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>David Axelrod</td><td>Pride Song Of The Pirate</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>David McCallum</td><td>Batman Theme</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Donald Fagen</td><td>Snowbound</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Fleet Foxes</td><td>White Winter Hymnal</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Directly From My Heart to You</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Harry Manx & Kevin Breit</td><td>Steal 6</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>James Brown & 2Pac</td><td>Unchained (The Payback/Untouchable)</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>James Taylor</td><td>Summer's Here</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Jane's Addiction</td><td>Summertime Rolls</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>John Hiatt</td><td>I Just Don't Know What to Say</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Nick Cave</td><td>Up Jumped the Devil</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Permanent Clear Light</td><td>Higher Than The Sun</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>PJ Harvey</td><td>The Words That Maketh Murder</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Smokin' Joe Kubek & B'nois King</td><td>Ru4 Real</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Steely Dan</td><td>Sign In Stranger</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>The Bees</td><td>Winter Rose</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>The Duckworth Lewis Method</td><td>Jiggery Pokery</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Tom Waits</td><td>Bad as Me</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Tori Amos</td><td>Winter</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Bruce Springsteen</td><td>Kingdom of Days</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Chick Corea & John McLaughlin</td><td>Someday My Prince Will Come</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Band of Skulls</td><td><a href="https://www.youtube.com/watch?v=5fxykGHHYkM">Fires</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Beth Orton</td><td><a href="https://www.youtube.com/watch?v=T82nu8Q6T_c">Last Leaves of Autumn</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=IxuThNgl3YA">Born to Run</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Cassandra Wilson</td><td><a href="https://www.youtube.com/watch?v=52p6PLoucsI">I Can't Stand the Rain</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>David Axelrod</td><td><a href="https://www.youtube.com/watch?v=n_qHWzRqno8">Pride Song Of The Pirate</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>David McCallum</td><td><a href="https://www.youtube.com/watch?v=u70C_P7hBvg">Batman Theme</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=96GCrZec5u8">Snowbound</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Fleet Foxes</td><td><a href="https://www.youtube.com/watch?v=DrQRS40OKNE">White Winter Hymnal</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=PdZKJOVH2WM">Directly From My Heart to You</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Harry Manx & Kevin Breit</td><td><a href="https://www.youtube.com/watch?v=-6vTXoWnsj4">Steal 6</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>James Brown & 2Pac</td><td><a href="https://www.youtube.com/watch?v=t5uAX0pyD_I">Unchained (The Payback/Untouchable)</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Shs_fjWx20M">Summer's Here</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Jane's Addiction</td><td><a href="https://www.youtube.com/watch?v=lmbeVImFXcs">Summertime Rolls</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>John Hiatt</td><td><a href="https://www.youtube.com/watch?v=y3v5ScW_yqg">I Just Don't Know What to Say</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=T5YYqkCEhJA">Up Jumped the Devil</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Permanent Clear Light</td><td><a href="https://www.youtube.com/watch?v=hY5TMPdwvDE">Higher Than The Sun</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>PJ Harvey</td><td><a href="https://www.youtube.com/watch?v=Fws4fEE8Yy0">The Words That Maketh Murder</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Smokin' Joe Kubek & B'nois King</td><td><a href="https://www.youtube.com/watch?v=aw2BzN9uucY">Ru4 Real</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=RRgHbtLZO4w">Sign In Stranger</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>The Bees</td><td><a href="https://www.youtube.com/watch?v=TAImG6OPq0I">Winter Rose</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>The Duckworth Lewis Method</td><td><a href="https://www.youtube.com/watch?v=dmRGbw_fen4">Jiggery Pokery</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Tom Waits</td><td><a href="https://www.youtube.com/watch?v=B6Ta3H-ck6s">Bad as Me</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Tori Amos</td><td><a href="https://www.youtube.com/watch?v=_PDlGUdDF8Y">Winter</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=uc8FPS7PaWw">Kingdom of Days</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Chick Corea & John McLaughlin</td><td><a href="https://www.youtube.com/watch?v=5mLw0sTEAvY">Someday My Prince Will Come</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Clairy Browne</td><td>YouTube</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Deep Purple</td><td>Speed King</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Eilen Jewell</td><td>Queen of the Minor Key</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Lana Del Rey</td><td>Off to the Races</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Laura Marling</td><td>Little Love Caster</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>London Philharmonic Orchestra , Sir Charles Mackerras</td><td>Enigma Variations: XIV. Finale: E.D.U.</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td>Beast for Thee</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Paul Kelly</td><td>Time and Tide</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Princess Chelsea</td><td>Ice Reign</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Queens of the Stone Age</td><td>No One Knows</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Deep Purple</td><td><a href="https://www.youtube.com/watch?v=W_jfHvcAXRY">Speed King</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=gWxwYtiQraU">Queen of the Minor Key</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Lana Del Rey</td><td><a href="https://www.youtube.com/watch?v=k53aLj72MYE">Off to the Races</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Laura Marling</td><td><a href="https://www.youtube.com/watch?v=jGSw5u7Qndk">Little Love Caster</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>London Philharmonic Orchestra , Sir Charles Mackerras</td><td><a href="https://www.youtube.com/watch?v=0kjWcwQoWWY">Enigma Variations: XIV. Finale: E.D.U.</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td><a href="https://www.youtube.com/watch?v=ooN_0QN2YXc">Beast for Thee</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=FqQG-Mso8EU">Time and Tide</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Princess Chelsea</td><td><a href="https://www.youtube.com/watch?v=YYGvFvvzlBI">Ice Reign</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Queens of the Stone Age</td><td><a href="https://www.youtube.com/watch?v=s88r_q7oufE">No One Knows</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Robert Wyatt</td><td>Rock Bottom</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Ry Cooder</td><td>Brother is Gone</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Steely Dan</td><td>Third World Man</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>The Band</td><td>King Harvest (Has Surely Come)</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>The Firm</td><td>All the King's Men</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Various</td><td>Her Majesty Queen Elizabeth II : Gold</td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=2TcO6C0DAlE">Brother is Gone</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=XGQtq9PD9iA">Third World Man</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>The Firm</td><td><a href="https://www.youtube.com/watch?v=XUY-TCOWsS4">All the King's Men</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
+<tr><td>Various</td><td><a href="https://www.youtube.com/watch?v=ojP_4NwdJNo">Her Majesty Queen Elizabeth II : Gold</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Divinyls</td><td>Good Die Young</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Gillian Welch</td><td>Paper Wings</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>J.J. Cale</td><td>Crazy Mama</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>

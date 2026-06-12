@@ -2,7 +2,7 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-06-09
+date: 2026-06-12
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), John Martyn (5 plays) and Mazzy Star (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Roxy Music</td><td>Editions Of You</td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>John Martyn</td><td>Some People Are Crazy</td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
-<tr><td>The Cars</td><td>All Mixed Up</td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>Roxy Music</td><td><a href="https://www.youtube.com/watch?v=0kxfGPWGaJ0">Editions Of You</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>John Martyn</td><td><a href="https://www.youtube.com/watch?v=DjWbf1PrqMk">Some People Are Crazy</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
+<tr><td>The Cars</td><td><a href="https://www.youtube.com/watch?v=VFXsdQb35Io">All Mixed Up</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Grace Bowers</td><td><a href="https://www.youtube.com/watch?v=o4WR3-y6S-o">Stevie Ray Vaughan Tribute</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>David Bowie</td><td><a href="https://www.youtube.com/watch?v=PdlU8e9wBIE">The Man Who Sold the World</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Clannad</td><td><a href="https://www.youtube.com/watch?v=tJ35VZW6Aic">Down by the Sally Gardens</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -351,15 +351,15 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Sarah Jarosz</td><td><a href="https://www.youtube.com/watch?v=X09s37tJ09s">Build Me Up From Bones</a></td><td>Summer Daze</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>R.E.M.</td><td><a href="https://www.youtube.com/watch?v=KEEDxQ-xl40">Pale Blue Eyes</a></td><td>Lou Reed/Velvets</td><td> David's Session - Dec 2013</td></tr>
 <tr><td>Vieux Farka Touré</td><td><a href="https://www.youtube.com/watch?v=tUUOaEfTGLo">Ay Bakoy</a></td><td>Best of 2013</td><td> David's Session - Dec 2013</td></tr>
-<tr><td>Janis Ian</td><td>His Hands</td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Tony Joe White</td><td>Closer to the Truth</td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>Russell Smith</td><td>Anger and Tears</td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
-<tr><td>John Martyn</td><td>Big Muff</td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Richard Thompson</td><td>Shoot Out the Lights</td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>John Butler Trio</td><td>Don't Wanna See Your Face</td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
-<tr><td>Tori Amos</td><td>Winter</td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Bruce Springsteen</td><td>Born to Run</td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Harry Manx & Kevin Breit</td><td>Steal 6</td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Janis Ian</td><td><a href="https://www.youtube.com/watch?v=xecAU7WEHXs">His Hands</a></td><td>Female Name</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Tony Joe White</td><td><a href="https://www.youtube.com/watch?v=4I10boAF-u8">Closer to the Truth</a></td><td>Subtle</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>Russell Smith</td><td><a href="https://www.youtube.com/watch?v=no04riWonJo">Anger and Tears</a></td><td>Voice</td><td> Nick's Session - Oct 2013</td></tr>
+<tr><td>John Martyn</td><td><a href="https://www.youtube.com/watch?v=xZANQ5YG7wU">Big Muff</a></td><td>Virtuosity - Round 1</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Richard Thompson</td><td><a href="https://www.youtube.com/watch?v=uDZpzJ2KKss">Shoot Out the Lights</a></td><td>Virtuosity - Round 2</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>John Butler Trio</td><td><a href="https://www.youtube.com/watch?v=9A4hZmTSXHU">Don't Wanna See Your Face</a></td><td>Virtuosity - Round 3</td><td> Bruce's Session - Sept 2013</td></tr>
+<tr><td>Tori Amos</td><td><a href="https://www.youtube.com/watch?v=_PDlGUdDF8Y">Winter</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=IxuThNgl3YA">Born to Run</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
+<tr><td>Harry Manx & Kevin Breit</td><td><a href="https://www.youtube.com/watch?v=-6vTXoWnsj4">Steal 6</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Larry's Rebels</td><td>Let's Think of Something</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>Dire Straits</td><td>Money for Nothing</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>Bob Brozman & Ledward Ka`apana</td><td>Kolopa</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
