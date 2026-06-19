@@ -2,18 +2,21 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 392 tracks in total
+### 395 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Bill Callahan</td><td>Pigeons</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Moana & the Tribe feat. Megan Henderson</td><td>Maiea</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Julia Jacklin</td><td>Moviegoer</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Maya Delilah</td><td><a href="https://www.youtube.com/watch?v=twsitXG9-cw">Begin Again</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Vitas</td><td><a href="https://www.youtube.com/watch?v=tVj0ZTS4WF4">7 Элемент</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Jack White</td><td><a href="https://www.youtube.com/watch?v=VOyLzSv3mYE">G.O.D. And The Broken Ribs</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -390,20 +393,20 @@ David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays),
 <tr><td>Princess Chelsea</td><td><a href="https://www.youtube.com/watch?v=YYGvFvvzlBI">Ice Reign</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Lana Del Rey</td><td><a href="https://www.youtube.com/watch?v=k53aLj72MYE">Off to the Races</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Laura Marling</td><td><a href="https://www.youtube.com/watch?v=jGSw5u7Qndk">Little Love Caster</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Sonic Youth</td><td>New Hampshire</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>John Grant</td><td>GMF</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Peter Blegvad & Andy Partridge</td><td>The Devil's Lexicon</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Jonathan Richman</td><td>Roadrunner</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Octopus</td><td>The River</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>America</td><td>Ventura Highway</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Police</td><td>Walking on the Moon</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>I Am Kloot</td><td>Morning Rain</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Willard Grant Conspiracy</td><td>Ghost of the Girl in the Well</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Emerson, Lake & Palmer</td><td>Knife-Edge</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Sparklehorse</td><td>Hammering the Cramps</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Plants and Animals</td><td>Feedback in the Field</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>The Czars</td><td>Paint the Moon</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>David Shrigley</td><td>What I Ate</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Dexys Midnight Runners</td><td>She Got a Wiggle</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>The Sisters of Mercy</td><td>Lucretia My Reflection</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=MFKuErzmnIM">New Hampshire</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=E5G2orT2sjE">GMF</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Peter Blegvad & Andy Partridge</td><td><a href="https://www.youtube.com/watch?v=iyY9mhPwtrg">The Devil's Lexicon</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Jonathan Richman</td><td><a href="https://www.youtube.com/watch?v=Gy88-5pc7c8">Roadrunner</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Octopus</td><td><a href="https://www.youtube.com/watch?v=PuYjMWT0Mq4">The River</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>America</td><td><a href="https://www.youtube.com/watch?v=E-BaXyirqi4">Ventura Highway</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Police</td><td><a href="https://www.youtube.com/watch?v=zPwMdZOlPo8">Walking on the Moon</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>I Am Kloot</td><td><a href="https://www.youtube.com/watch?v=CzUdgsyt-RY">Morning Rain</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Willard Grant Conspiracy</td><td><a href="https://www.youtube.com/watch?v=lbwZRjSdR28">Ghost of the Girl in the Well</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Emerson, Lake & Palmer</td><td><a href="https://www.youtube.com/watch?v=7YKc7jlgKM8">Knife-Edge</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Sparklehorse</td><td><a href="https://www.youtube.com/watch?v=em_r5rFFPR4">Hammering the Cramps</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Plants and Animals</td><td><a href="https://www.youtube.com/watch?v=14gkOhYoUs0">Feedback in the Field</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>The Czars</td><td><a href="https://www.youtube.com/watch?v=wgx3cpk6E94">Paint the Moon</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>David Shrigley</td><td><a href="https://www.youtube.com/watch?v=txGHW1C3tJc">What I Ate</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Dexys Midnight Runners</td><td><a href="https://www.youtube.com/watch?v=dv5tMek33g4">She Got a Wiggle</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>The Sisters of Mercy</td><td><a href="https://www.youtube.com/watch?v=aC-enyY6W8I">Lucretia My Reflection</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>

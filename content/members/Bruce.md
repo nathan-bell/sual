@@ -2,18 +2,21 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 352 tracks in total
+### 355 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), John Martyn (5 plays) and Mazzy Star (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Rodrigo y Gabriela</td><td>Tamacun</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Front Lawn</td><td>When You Come Back Home</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Windy City Strugglers</td><td>Waltz of the Wind</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Roxy Music</td><td><a href="https://www.youtube.com/watch?v=0kxfGPWGaJ0">Editions Of You</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>John Martyn</td><td><a href="https://www.youtube.com/watch?v=DjWbf1PrqMk">Some People Are Crazy</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>The Cars</td><td><a href="https://www.youtube.com/watch?v=VFXsdQb35Io">All Mixed Up</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -360,10 +363,10 @@ Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio 
 <tr><td>Tori Amos</td><td><a href="https://www.youtube.com/watch?v=_PDlGUdDF8Y">Winter</a></td><td>Winter</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=IxuThNgl3YA">Born to Run</a></td><td>Crime</td><td> Craig's Session - Aug 2013</td></tr>
 <tr><td>Harry Manx & Kevin Breit</td><td><a href="https://www.youtube.com/watch?v=-6vTXoWnsj4">Steal 6</a></td><td>Anything Goes</td><td> Craig's Session - Aug 2013</td></tr>
-<tr><td>Larry's Rebels</td><td>Let's Think of Something</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Dire Straits</td><td>Money for Nothing</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Bob Brozman & Ledward Ka`apana</td><td>Kolopa</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Rodriguez</td><td>Sugar Man</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>A.A. Bondy</td><td>Down in the Fire (Lost Sea)</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Roxy Music</td><td>Re‐Make/Re‐Model</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Larry's Rebels</td><td><a href="https://www.youtube.com/watch?v=zejIcroyChU">Let's Think of Something</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Dire Straits</td><td><a href="https://www.youtube.com/watch?v=wTP2RUD_cL0">Money for Nothing</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Bob Brozman & Ledward Ka`apana</td><td><a href="https://www.youtube.com/watch?v=uLuFjK0BWs8">Kolopa</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Rodriguez</td><td><a href="https://www.youtube.com/watch?v=E90_aL870ao">Sugar Man</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>A.A. Bondy</td><td><a href="https://www.youtube.com/watch?v=L4jNuZtfR9Q">Down in the Fire (Lost Sea)</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Roxy Music</td><td><a href="https://www.youtube.com/watch?v=kWhzG9cQGgc">Re‐Make/Re‐Model</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
 </tbody></table>

@@ -2,18 +2,21 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 374 tracks in total
+### 377 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>The Electric Flag</td><td>Wine</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Jesse Winchester</td><td>My Songbird</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Helge Lien Trio</td><td>Autumn Leaves</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=ROBaoiJK0wc">Wooden Ships</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Marvin Gaye</td><td><a href="https://www.youtube.com/watch?v=H-kA3UtBj4M">What's Going On</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -372,20 +375,20 @@ Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 pla
 <tr><td>Eilen Jewell</td><td><a href="https://www.youtube.com/watch?v=gWxwYtiQraU">Queen of the Minor Key</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Chick Corea & John McLaughlin</td><td><a href="https://www.youtube.com/watch?v=5mLw0sTEAvY">Someday My Prince Will Come</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>The Charlatans</td><td>Alabama Bound</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Ry Cooder</td><td>Lord Tell Me Why</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Steve Earle</td><td>Colorado Girl</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>J.J. Cale</td><td>Crazy Mama</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Otis Redding</td><td>These Arms of Mine</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Dimmer</td><td>Mine</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Califone</td><td>Giving Away the Bride</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Anaïs Mitchell</td><td>Young Man in America</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Steve Earle</td><td>Mr. Mudd and Mr. Gold</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Six Organs of Admittance</td><td>Even If You Knew</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>The Paul Butterfield Blues Band</td><td>Work Song</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Washboard Sam</td><td>Diggin' My Potatoes</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Red House Painters</td><td>I Am a Rock</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Los Lobos</td><td>This Time</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Joni Mitchell</td><td>Dreamland</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Calexico</td><td>Fortune Teller</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>The Charlatans</td><td><a href="https://www.youtube.com/watch?v=jQSJBSl9SM0">Alabama Bound</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=2nZsWRKKxF8">Lord Tell Me Why</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=EPt1gvR6Xuo">Colorado Girl</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>J.J. Cale</td><td><a href="https://www.youtube.com/watch?v=lcY5SQECqks">Crazy Mama</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=GVbTE4wCbpw">These Arms of Mine</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Dimmer</td><td><a href="https://www.youtube.com/watch?v=b90T0dDHZtI">Mine</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=D39OFZEJBwM">Giving Away the Bride</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Anaïs Mitchell</td><td><a href="https://www.youtube.com/watch?v=m6jYaCEE8Pg">Young Man in America</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=4XszQg6xZoQ">Mr. Mudd and Mr. Gold</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Six Organs of Admittance</td><td><a href="https://www.youtube.com/watch?v=MsrID077mTw">Even If You Knew</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>The Paul Butterfield Blues Band</td><td><a href="https://www.youtube.com/watch?v=cF6fCzEZ3Hs">Work Song</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Washboard Sam</td><td><a href="https://www.youtube.com/watch?v=XnxeyOV0u38">Diggin' My Potatoes</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Red House Painters</td><td><a href="https://www.youtube.com/watch?v=mt4U7TAlmjE">I Am a Rock</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Los Lobos</td><td><a href="https://www.youtube.com/watch?v=9DY1mREmBE8">This Time</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=D2t2ndYEeXY">Dreamland</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Calexico</td><td><a href="https://www.youtube.com/watch?v=vb_slLlL074">Fortune Teller</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>

@@ -2,18 +2,21 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 370 tracks in total
+### 373 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Joe Jackson (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Marlon Williams</td><td>When I Was A Young Girl (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Ry Cooder</td><td>Chloe</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Al Jarreau</td><td>Raging Waters</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Joan Armatrading</td><td><a href="https://www.youtube.com/watch?v=Brp8Va8XVQw">Down To Zero</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=1QHXQM8zrXk">King of the World (Live 1974)</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=LEodN4vYrO8">Twenty-One</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -378,10 +381,10 @@ Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 p
 <tr><td>London Philharmonic Orchestra , Sir Charles Mackerras</td><td><a href="https://www.youtube.com/watch?v=0kjWcwQoWWY">Enigma Variations: XIV. Finale: E.D.U.</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=XGQtq9PD9iA">Third World Man</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Clairy Browne</td><td>YouTube</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Georgie Fame</td><td>Yeh Yeh</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>John Jorgenson Quintet</td><td>El Camino del Che</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Georgie Fame</td><td><a href="https://www.youtube.com/watch?v=jf-cCL3TOCo">Yeh Yeh</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>John Jorgenson Quintet</td><td><a href="https://www.youtube.com/watch?v=_54qMRYd5UU">El Camino del Che</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>Lyle Lovett</td><td>DVD track 4</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Jim White</td><td>Plywood Superman</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Donald Fagen</td><td>Slinky Thing</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Little Village</td><td>Inside Job</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Jim White</td><td><a href="https://www.youtube.com/watch?v=_Z3TkrkFSV0">Plywood Superman</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=3XvANBiNg4U">Slinky Thing</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Little Village</td><td><a href="https://www.youtube.com/watch?v=lg8_FDfxQiw">Inside Job</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
 </tbody></table>

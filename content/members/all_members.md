@@ -2,17 +2,38 @@
 title: "Everyone's Selections"
 description: "All track selections over the years"
 summary: "All track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/1730523760270.png"
 draft: false
 categories: ["members"]
 ---
 ## All Shut Up & Listen Selections over the years
-### 2764 tracks in total
+### 2785 tracks in total
 <p align="center">{{% image src="/images/members/1730523760270.png" %}}</p>
 Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Al Jarreau</td><td>Raging Waters</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Bill Callahan</td><td>Pigeons</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Greg Brown</td><td>Canned Goods</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Helge Lien Trio</td><td>Autumn Leaves</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>James Taylor</td><td>Slap Leather</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Jesse Winchester</td><td>My Songbird</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Julia Jacklin</td><td>Moviegoer</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td>Rhinestoned</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kurt Vile</td><td>Bassackwards</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Marlon Williams</td><td>Come To Me (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Marlon Williams</td><td>When I Was A Young Girl (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Mary Gauthier</td><td>Mercy Now</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Moana & the Tribe feat. Megan Henderson</td><td>Maiea</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Rodrigo y Gabriela</td><td>Tamacun</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Ry Cooder</td><td>Chloe</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Dead Milkmen</td><td>Bitchin' Camaro</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Electric Flag</td><td>Wine</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Front Lawn</td><td>When You Come Back Home</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td>Speed of the Sound of Loneliness</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td>Sisters Gone Bad</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Windy City Strugglers</td><td>Waltz of the Wind</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Dean Martin</td><td><a href="https://www.youtube.com/watch?v=NksYhOCXoM8">Just In Time</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=Ybg_uZxdE0c">Life In the Fast Lane</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -2673,108 +2694,108 @@ Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), N
 <tr><td>The Band</td><td><a href="https://www.youtube.com/watch?v=TaKD1Vdarnw">King Harvest (Has Surely Come)</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>The Firm</td><td><a href="https://www.youtube.com/watch?v=XUY-TCOWsS4">All the King's Men</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Various</td><td><a href="https://www.youtube.com/watch?v=ojP_4NwdJNo">Her Majesty Queen Elizabeth II : Gold</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Divinyls</td><td>Good Die Young</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Gillian Welch</td><td>Paper Wings</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>J.J. Cale</td><td>Crazy Mama</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>John Grant</td><td>GMF</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Jonathan Richman</td><td>Roadrunner</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Kings of Leon</td><td>Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Mason Jennings</td><td>Be Here Now</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Mike Watt</td><td>E-Ticket Ride</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Neutral Milk Hotel</td><td>King Of Carrot Flowers, Pt 3</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Peter Blegvad & Andy Partridge</td><td>The Devil's Lexicon</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Divinyls</td><td><a href="https://www.youtube.com/watch?v=gKWSDckFUiw">Good Die Young</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=ZAAUHVHSMXU">Paper Wings</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>J.J. Cale</td><td><a href="https://www.youtube.com/watch?v=lcY5SQECqks">Crazy Mama</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>John Grant</td><td><a href="https://www.youtube.com/watch?v=E5G2orT2sjE">GMF</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Jonathan Richman</td><td><a href="https://www.youtube.com/watch?v=Gy88-5pc7c8">Roadrunner</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Kings of Leon</td><td><a href="https://www.youtube.com/watch?v=Y-yfyZJSBto">Arizona</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Mason Jennings</td><td><a href="https://www.youtube.com/watch?v=OIN6nnZKNk0">Be Here Now</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Mike Watt</td><td><a href="https://www.youtube.com/watch?v=EoNyKJfWsSY">E-Ticket Ride</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Neutral Milk Hotel</td><td><a href="https://www.youtube.com/watch?v=jgNvzc-ZdME">King Of Carrot Flowers, Pt 3</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Peter Blegvad & Andy Partridge</td><td><a href="https://www.youtube.com/watch?v=iyY9mhPwtrg">The Devil's Lexicon</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Pretenders</td><td>Pretenders II</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Ry Cooder</td><td>Lord Tell Me Why</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Sonic Youth</td><td>New Hampshire</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Static Frames</td><td>At The Waters Edge</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Steve Earle</td><td>Colorado Girl</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=2nZsWRKKxF8">Lord Tell Me Why</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Sonic Youth</td><td><a href="https://www.youtube.com/watch?v=MFKuErzmnIM">New Hampshire</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Static Frames</td><td><a href="https://www.youtube.com/watch?v=aUKCwPb_8DM">At The Waters Edge</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=EPt1gvR6Xuo">Colorado Girl</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Sufjan Stevens</td><td>Come On! Feel the Illinoise!!</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Charlatans</td><td>Alabama Bound</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Lemonheads</td><td>Outdoor Type</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Who</td><td>Won't Get Fooled Again</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Wilco</td><td>Hotel Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>America</td><td>Ventura Highway</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Bob Brozman & Ledward Ka`apana</td><td>Kolopa</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Califone</td><td>Giving Away the Bride</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Dimmer</td><td>Mine</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Dire Straits</td><td>Money for Nothing</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Fairport Convention</td><td>It's Alright Ma, It's Only Witchcraft</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Georgie Fame</td><td>Yeh Yeh</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Glen Campbell</td><td>A Better Place</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Jenny Lewis</td><td>Pretty Bird</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>John Jorgenson Quintet</td><td>El Camino del Che</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Larry's Rebels</td><td>Let's Think of Something</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Led Zeppelin</td><td>Thank You</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Charlatans</td><td><a href="https://www.youtube.com/watch?v=jQSJBSl9SM0">Alabama Bound</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=UDXPnd5tW3U">Outdoor Type</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>The Who</td><td><a href="https://www.youtube.com/watch?v=_NzLs-xSss0">Won't Get Fooled Again</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=v3MiskA1Ss8">Hotel Arizona</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>America</td><td><a href="https://www.youtube.com/watch?v=E-BaXyirqi4">Ventura Highway</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Bob Brozman & Ledward Ka`apana</td><td><a href="https://www.youtube.com/watch?v=uLuFjK0BWs8">Kolopa</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Califone</td><td><a href="https://www.youtube.com/watch?v=D39OFZEJBwM">Giving Away the Bride</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=eRl6-bHlz-4">I-Feel-Like-I'm-Fixin'-to-Die-Rag</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Dimmer</td><td><a href="https://www.youtube.com/watch?v=b90T0dDHZtI">Mine</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Dire Straits</td><td><a href="https://www.youtube.com/watch?v=wTP2RUD_cL0">Money for Nothing</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Fairport Convention</td><td><a href="https://www.youtube.com/watch?v=dCApxEeUT6k">It's Alright Ma, It's Only Witchcraft</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Georgie Fame</td><td><a href="https://www.youtube.com/watch?v=jf-cCL3TOCo">Yeh Yeh</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Glen Campbell</td><td><a href="https://www.youtube.com/watch?v=JMh78jF-fMQ">A Better Place</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Jenny Lewis</td><td><a href="https://www.youtube.com/watch?v=utvetKf9g6g">Pretty Bird</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>John Jorgenson Quintet</td><td><a href="https://www.youtube.com/watch?v=_54qMRYd5UU">El Camino del Che</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Larry's Rebels</td><td><a href="https://www.youtube.com/watch?v=zejIcroyChU">Let's Think of Something</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=12KbOAc8vmk">Thank You</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>Lyle Lovett</td><td>DVD track 4</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Mike Nock & Marty Ehrlich</td><td>Amhrán Pheader Breathnach</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Octopus</td><td>The River</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Otis Redding</td><td>These Arms of Mine</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Raphael Saadiq</td><td>Good Man</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Sharon Robinson</td><td>Forever in a Kiss</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Stevie Wonder</td><td>Blowing in the Wind</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Beatles</td><td>A Day in The Life</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Ladybug Transistor</td><td>Wooden Bars</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Police</td><td>Walking on the Moon</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Righteous Brothers</td><td>You've Lost That Loving Feeling</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Vintage Trouble</td><td>David Letterman Performance</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>A.A. Bondy</td><td>Down in the Fire (Lost Sea)</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Mike Nock & Marty Ehrlich</td><td><a href="https://www.youtube.com/watch?v=2cDI7X5n-ic">Amhrán Pheader Breathnach</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Octopus</td><td><a href="https://www.youtube.com/watch?v=PuYjMWT0Mq4">The River</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Otis Redding</td><td><a href="https://www.youtube.com/watch?v=GVbTE4wCbpw">These Arms of Mine</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Raphael Saadiq</td><td><a href="https://www.youtube.com/watch?v=ZeKaHBMKows">Good Man</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Sharon Robinson</td><td><a href="https://www.youtube.com/watch?v=td4mLKiGOco">Forever in a Kiss</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Stevie Wonder</td><td><a href="https://www.youtube.com/watch?v=y8q1I9f1l4U">Blowing in the Wind</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=usNsCeOV4GM">A Day in The Life</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Ladybug Transistor</td><td><a href="https://www.youtube.com/watch?v=qtpou-k6HZU">Wooden Bars</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Police</td><td><a href="https://www.youtube.com/watch?v=zPwMdZOlPo8">Walking on the Moon</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Righteous Brothers</td><td><a href="https://www.youtube.com/watch?v=uOnYY9Mw2Fg">You've Lost That Loving Feeling</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Vintage Trouble</td><td><a href="https://www.youtube.com/watch?v=Fam8cJw-IVg">David Letterman Performance</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>A.A. Bondy</td><td><a href="https://www.youtube.com/watch?v=L4jNuZtfR9Q">Down in the Fire (Lost Sea)</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
 <tr><td>Airbag</td><td>All Rights Removed</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Anaïs Mitchell</td><td>Young Man in America</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Emerson, Lake & Palmer</td><td>Knife-Edge</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Grateful Dead</td><td>Dire Wolf</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Greg Brown</td><td>Cold + Dark + Wet</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>I Am Kloot</td><td>Morning Rain</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Jason & The Scorchers</td><td>Absolutely Sweet Marie</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Jethro Tull</td><td>Living in the Past</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Anaïs Mitchell</td><td><a href="https://www.youtube.com/watch?v=m6jYaCEE8Pg">Young Man in America</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Emerson, Lake & Palmer</td><td><a href="https://www.youtube.com/watch?v=7YKc7jlgKM8">Knife-Edge</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Grateful Dead</td><td><a href="https://www.youtube.com/watch?v=VWY4hyIlsqQ">Dire Wolf</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Greg Brown</td><td><a href="https://www.youtube.com/watch?v=eTmd0I-rPdk">Cold + Dark + Wet</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>I Am Kloot</td><td><a href="https://www.youtube.com/watch?v=CzUdgsyt-RY">Morning Rain</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Jason & The Scorchers</td><td><a href="https://www.youtube.com/watch?v=p-cF40OWeak">Absolutely Sweet Marie</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=m__wmsIn99E">Living in the Past</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
 <tr><td>New Vinyl</td><td><a href="www.youtube.com/watch?v=78lNgXcnT7s">Something I Ain't Seen</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Rodriguez</td><td>Sugar Man</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Roxy Music</td><td>Re‐Make/Re‐Model</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Shane MacGowan and The Popes</td><td>Donegal Express</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Six Organs of Admittance</td><td>Even If You Knew</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Steve Earle</td><td>Mr. Mudd and Mr. Gold</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>The Albion Band</td><td>Jewel in the Crown</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>The Eastern</td><td>Wait Out the Winter</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>The Higher State</td><td>You Had it Coming</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Ween</td><td>Mutilated Lips</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Willard Grant Conspiracy</td><td>Ghost of the Girl in the Well</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Yes</td><td>And You and I</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>"Weird Al" Yankovic</td><td>Hardware Store</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Bob Dylan</td><td>Leopard‐Skin Pill‐Box Hat</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Donald Fagen</td><td>Slinky Thing</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Frank Zappa</td><td>Fembot in a Wet T-Shirt/On the Bus</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Garageland</td><td>Beelines to Heaven</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Jeff Beck</td><td>Baby Let's Play House</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Jim White</td><td>Plywood Superman</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Little Village</td><td>Inside Job</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Man Man</td><td>The Ballad of Butter Beans</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Rodriguez</td><td><a href="https://www.youtube.com/watch?v=E90_aL870ao">Sugar Man</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Roxy Music</td><td><a href="https://www.youtube.com/watch?v=kWhzG9cQGgc">Re‐Make/Re‐Model</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Shane MacGowan and The Popes</td><td><a href="https://www.youtube.com/watch?v=YoA43mTT1fY">Donegal Express</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Six Organs of Admittance</td><td><a href="https://www.youtube.com/watch?v=MsrID077mTw">Even If You Knew</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Steve Earle</td><td><a href="https://www.youtube.com/watch?v=4XszQg6xZoQ">Mr. Mudd and Mr. Gold</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>The Albion Band</td><td><a href="https://www.youtube.com/watch?v=a07qcXpDzoA">Jewel in the Crown</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>The Eastern</td><td><a href="https://www.youtube.com/watch?v=YKBp-FiCenw">Wait Out the Winter</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>The Higher State</td><td><a href="https://www.youtube.com/watch?v=ojHX9FRhdZw">You Had it Coming</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=jGSI9qoNjYk">Mutilated Lips</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Willard Grant Conspiracy</td><td><a href="https://www.youtube.com/watch?v=lbwZRjSdR28">Ghost of the Girl in the Well</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Yes</td><td><a href="https://www.youtube.com/watch?v=HfssvCECiaA">And You and I</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>"Weird Al" Yankovic</td><td><a href="https://www.youtube.com/watch?v=DFI6cV9slfI">Hardware Store</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=lOCYQtrm19s">Leopard‐Skin Pill‐Box Hat</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Donald Fagen</td><td><a href="https://www.youtube.com/watch?v=3XvANBiNg4U">Slinky Thing</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=0XoRUurNbzU">Fembot in a Wet T-Shirt/On the Bus</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Garageland</td><td><a href="https://www.youtube.com/watch?v=zzjmIGCyG2I">Beelines to Heaven</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=XN7pyIeGlG4">Baby Let's Play House</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Jim White</td><td><a href="https://www.youtube.com/watch?v=_Z3TkrkFSV0">Plywood Superman</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Little Village</td><td><a href="https://www.youtube.com/watch?v=lg8_FDfxQiw">Inside Job</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Man Man</td><td><a href="https://www.youtube.com/watch?v=fTeNAR-fn9w">The Ballad of Butter Beans</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
 <tr><td>Neil Young</td><td>Homegrown</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Nick Cave</td><td>Gates to the Garden</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Plants and Animals</td><td>Feedback in the Field</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Red House Painters</td><td>I Am a Rock</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Sebadoh</td><td>Two Years Two Days</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Sparklehorse</td><td>Hammering the Cramps</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>The Czars</td><td>Paint the Moon</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>The Paul Butterfield Blues Band</td><td>Work Song</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>The Raconteurs</td><td>Many Shades of Black</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Warren Zevon feat. Bruce Springsteen</td><td>Disorder in the House</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Washboard Sam</td><td>Diggin' My Potatoes</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Alec Bathgate</td><td>Friday in the Ground</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Calexico</td><td>Fortune Teller</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>David Shrigley</td><td>What I Ate</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Dean & Britta</td><td>I'll Keep It With Mine</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Delays</td><td>Long Time Coming</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Dexys Midnight Runners</td><td>She Got a Wiggle</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Dr. Dog</td><td>Die, Die, Die</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Gillian Welch</td><td>Revelator</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Grizzly Bear</td><td>Two Weeks</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Joni Mitchell</td><td>Dreamland</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Kaleidoscope</td><td>(Further Reflections) In the Room of Percussion</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Lazy Smoke</td><td>There Was a Time</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Los Lobos</td><td>This Time</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Neil Young</td><td>Fuckin' Up</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Pink Floyd</td><td>Time</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Steely Dan</td><td>Dallas</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>The Sisters of Mercy</td><td>Lucretia My Reflection</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Van Morrison</td><td>Saint Dominic's Preview</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=0sSJsv3jCjo">Gates to the Garden</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Plants and Animals</td><td><a href="https://www.youtube.com/watch?v=14gkOhYoUs0">Feedback in the Field</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Red House Painters</td><td><a href="https://www.youtube.com/watch?v=mt4U7TAlmjE">I Am a Rock</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Sebadoh</td><td><a href="https://www.youtube.com/watch?v=bKXqECX06BA">Two Years Two Days</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Sparklehorse</td><td><a href="https://www.youtube.com/watch?v=em_r5rFFPR4">Hammering the Cramps</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>The Czars</td><td><a href="https://www.youtube.com/watch?v=wgx3cpk6E94">Paint the Moon</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>The Paul Butterfield Blues Band</td><td><a href="https://www.youtube.com/watch?v=cF6fCzEZ3Hs">Work Song</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>The Raconteurs</td><td><a href="https://www.youtube.com/watch?v=u4Y2ix19p4c">Many Shades of Black</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Warren Zevon feat. Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=hlUsbtkxRps">Disorder in the House</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Washboard Sam</td><td><a href="https://www.youtube.com/watch?v=XnxeyOV0u38">Diggin' My Potatoes</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Alec Bathgate</td><td><a href="https://www.youtube.com/watch?v=nruSoatNs3U">Friday in the Ground</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Calexico</td><td><a href="https://www.youtube.com/watch?v=vb_slLlL074">Fortune Teller</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>David Shrigley</td><td><a href="https://www.youtube.com/watch?v=txGHW1C3tJc">What I Ate</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Dean & Britta</td><td><a href="https://www.youtube.com/watch?v=RTsAB3PAE5Q">I'll Keep It With Mine</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Delays</td><td><a href="https://www.youtube.com/watch?v=tqRnGdD_WV4">Long Time Coming</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Dexys Midnight Runners</td><td><a href="https://www.youtube.com/watch?v=dv5tMek33g4">She Got a Wiggle</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Dr. Dog</td><td><a href="https://www.youtube.com/watch?v=d6cd9Nm4n1U">Die, Die, Die</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=rV_uFpbXZ9k">Revelator</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Grizzly Bear</td><td><a href="https://www.youtube.com/watch?v=Mcfk3KFhIZg">Two Weeks</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Joni Mitchell</td><td><a href="https://www.youtube.com/watch?v=D2t2ndYEeXY">Dreamland</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Kaleidoscope</td><td><a href="https://www.youtube.com/watch?v=UbF4yslRhy4">(Further Reflections) In the Room of Percussion</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Lazy Smoke</td><td><a href="https://www.youtube.com/watch?v=HKJ-PES9hHI">There Was a Time</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Los Lobos</td><td><a href="https://www.youtube.com/watch?v=9DY1mREmBE8">This Time</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=BKaDCP-wKr8">Fuckin' Up</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=Qr0-7Ds79zo">Time</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Steely Dan</td><td><a href="https://www.youtube.com/watch?v=8EkVom4AoIo">Dallas</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>The Sisters of Mercy</td><td><a href="https://www.youtube.com/watch?v=aC-enyY6W8I">Lucretia My Reflection</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=48lR8T4Jcqk">Saint Dominic's Preview</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>

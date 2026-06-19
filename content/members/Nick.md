@@ -2,18 +2,21 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
 categories: ["members"]
 ---
 ## All Nick's Shut Up & Listen Selections over the years
-### 359 tracks in total
+### 362 tracks in total
 <p align="center">{{% image src="/images/members/Nick.jpg" %}}</p>
-Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays), Bob Dylan (10 plays), Paul Kelly (9 plays) and Paul Simon (6 plays).
+Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays), Bob Dylan (10 plays), Paul Kelly (9 plays) and Marlon Williams (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Marlon Williams</td><td>Come To Me (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td>Speed of the Sound of Loneliness</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kurt Vile</td><td>Bassackwards</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Dick Move</td><td><a href="https://www.youtube.com/watch?v=KAcW-M7dLQI">Rampage</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Dick Move</td><td><a href="https://www.youtube.com/watch?v=KAcW-M7dLQI&t=80s">Under My Skin</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Brian Eno</td><td><a href="https://www.youtube.com/watch?v=Dehxp3PUTkM">We Let It In</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
@@ -358,19 +361,19 @@ Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays
 <tr><td>Various</td><td><a href="https://www.youtube.com/watch?v=ojP_4NwdJNo">Her Majesty Queen Elizabeth II : Gold</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=2TcO6C0DAlE">Brother is Gone</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Paul Kelly</td><td><a href="https://www.youtube.com/watch?v=FqQG-Mso8EU">Time and Tide</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Wilco</td><td>Hotel Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Static Frames</td><td>At The Waters Edge</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Wilco</td><td><a href="https://www.youtube.com/watch?v=v3MiskA1Ss8">Hotel Arizona</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Static Frames</td><td><a href="https://www.youtube.com/watch?v=aUKCwPb_8DM">At The Waters Edge</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
 <tr><td>Pretenders</td><td>Pretenders II</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Gillian Welch</td><td>Paper Wings</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Beatles</td><td>A Day in The Life</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Sharon Robinson</td><td>Forever in a Kiss</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Mike Nock & Marty Ehrlich</td><td>Amhrán Pheader Breathnach</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Albion Band</td><td>Jewel in the Crown</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>The Eastern</td><td>Wait Out the Winter</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Yes</td><td>And You and I</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Bob Dylan</td><td>Leopard‐Skin Pill‐Box Hat</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Nick Cave</td><td>Gates to the Garden</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Warren Zevon feat. Bruce Springsteen</td><td>Disorder in the House</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Gillian Welch</td><td>Revelator</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Van Morrison</td><td>Saint Dominic's Preview</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=ZAAUHVHSMXU">Paper Wings</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=usNsCeOV4GM">A Day in The Life</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Sharon Robinson</td><td><a href="https://www.youtube.com/watch?v=td4mLKiGOco">Forever in a Kiss</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Mike Nock & Marty Ehrlich</td><td><a href="https://www.youtube.com/watch?v=2cDI7X5n-ic">Amhrán Pheader Breathnach</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Albion Band</td><td><a href="https://www.youtube.com/watch?v=a07qcXpDzoA">Jewel in the Crown</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>The Eastern</td><td><a href="https://www.youtube.com/watch?v=YKBp-FiCenw">Wait Out the Winter</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Yes</td><td><a href="https://www.youtube.com/watch?v=HfssvCECiaA">And You and I</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Bob Dylan</td><td><a href="https://www.youtube.com/watch?v=lOCYQtrm19s">Leopard‐Skin Pill‐Box Hat</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Nick Cave</td><td><a href="https://www.youtube.com/watch?v=0sSJsv3jCjo">Gates to the Garden</a></td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Warren Zevon feat. Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=hlUsbtkxRps">Disorder in the House</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Gillian Welch</td><td><a href="https://www.youtube.com/watch?v=rV_uFpbXZ9k">Revelator</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=48lR8T4Jcqk">Saint Dominic's Preview</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>

@@ -2,18 +2,21 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 373 tracks in total
+### 376 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springsteen (14 plays), Frank Zappa (13 plays), Led Zeppelin (10 plays) and Blackberry Smoke (9 plays).
+Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springsteen (14 plays), Frank Zappa (13 plays), James Taylor (10 plays) and Led Zeppelin (10 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>James Taylor</td><td>Slap Leather</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td>Sisters Gone Bad</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td>Rhinestoned</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Dean Martin</td><td><a href="https://www.youtube.com/watch?v=NksYhOCXoM8">Just In Time</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=2ttGjtfQ7EA">Ask Me Why</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=Ybg_uZxdE0c">Life In the Fast Lane</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -372,19 +375,19 @@ Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springste
 <tr><td>Deep Purple</td><td><a href="https://www.youtube.com/watch?v=W_jfHvcAXRY">Speed King</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Bruce Springsteen</td><td><a href="https://www.youtube.com/watch?v=uc8FPS7PaWw">Kingdom of Days</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>The Firm</td><td><a href="https://www.youtube.com/watch?v=XUY-TCOWsS4">All the King's Men</a></td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
-<tr><td>Kings of Leon</td><td>Arizona</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Divinyls</td><td>Good Die Young</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Lemonheads</td><td>Outdoor Type</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>The Who</td><td>Won't Get Fooled Again</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Led Zeppelin</td><td>Thank You</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Glen Campbell</td><td>A Better Place</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Vintage Trouble</td><td>David Letterman Performance</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Kings of Leon</td><td><a href="https://www.youtube.com/watch?v=Y-yfyZJSBto">Arizona</a></td><td>US States</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Divinyls</td><td><a href="https://www.youtube.com/watch?v=gKWSDckFUiw">Good Die Young</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>The Lemonheads</td><td><a href="https://www.youtube.com/watch?v=UDXPnd5tW3U">Outdoor Type</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>The Who</td><td><a href="https://www.youtube.com/watch?v=_NzLs-xSss0">Won't Get Fooled Again</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Led Zeppelin</td><td><a href="https://www.youtube.com/watch?v=12KbOAc8vmk">Thank You</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Glen Campbell</td><td><a href="https://www.youtube.com/watch?v=JMh78jF-fMQ">A Better Place</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Vintage Trouble</td><td><a href="https://www.youtube.com/watch?v=Fam8cJw-IVg">David Letterman Performance</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
 <tr><td>New Vinyl</td><td><a href="www.youtube.com/watch?v=78lNgXcnT7s">Something I Ain't Seen</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Jason & The Scorchers</td><td>Absolutely Sweet Marie</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Jethro Tull</td><td>Living in the Past</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Frank Zappa</td><td>Fembot in a Wet T-Shirt/On the Bus</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Jeff Beck</td><td>Baby Let's Play House</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Pink Floyd</td><td>Time</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Delays</td><td>Long Time Coming</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Neil Young</td><td>Fuckin' Up</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Jason & The Scorchers</td><td><a href="https://www.youtube.com/watch?v=p-cF40OWeak">Absolutely Sweet Marie</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Jethro Tull</td><td><a href="https://www.youtube.com/watch?v=m__wmsIn99E">Living in the Past</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=0XoRUurNbzU">Fembot in a Wet T-Shirt/On the Bus</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Jeff Beck</td><td><a href="https://www.youtube.com/watch?v=XN7pyIeGlG4">Baby Let's Play House</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=Qr0-7Ds79zo">Time</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Delays</td><td><a href="https://www.youtube.com/watch?v=tqRnGdD_WV4">Long Time Coming</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Neil Young</td><td><a href="https://www.youtube.com/watch?v=BKaDCP-wKr8">Fuckin' Up</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>

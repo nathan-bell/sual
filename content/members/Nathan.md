@@ -2,18 +2,21 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2026-06-12
+date: 2026-06-19
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 370 tracks in total
+### 373 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 plays), Nick Cave (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
+<tr><td>Greg Brown</td><td>Canned Goods</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Mary Gauthier</td><td>Mercy Now</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Dead Milkmen</td><td>Bitchin' Camaro</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=0RlRh6I5V68">The Luckiest Guy on the Lower East Side</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Tom Petty & The Heartbreakers</td><td><a href="https://www.youtube.com/watch?v=8v8-RSyuUeE">American Girl</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
@@ -369,19 +372,19 @@ Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 
 <tr><td>Matt Sweeney And Bonnie 'Prince' Billy</td><td><a href="https://www.youtube.com/watch?v=ooN_0QN2YXc">Beast for Thee</a></td><td>2 tracks of a majestic, regal nature - or with some interesting, widely-interpreted or wildly-connected aspect of royalness</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Robert Wyatt</td><td>Rock Bottom</td><td>1 track worthy – by your own or anybody’s estimation - of a Queen’s Birthday honour or some other award.</td><td> Martin's Session - Jun 2013</td></tr>
 <tr><td>Sufjan Stevens</td><td>Come On! Feel the Illinoise!!</td><td>US States</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Mike Watt</td><td>E-Ticket Ride</td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Mason Jennings</td><td>Be Here Now</td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Neutral Milk Hotel</td><td>King Of Carrot Flowers, Pt 3</td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
-<tr><td>Country Joe and the Fish</td><td>I-Feel-Like-I'm-Fixin'-to-Die-Rag</td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Jenny Lewis</td><td>Pretty Bird</td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>The Ladybug Transistor</td><td>Wooden Bars</td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
-<tr><td>Shane MacGowan and The Popes</td><td>Donegal Express</td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Greg Brown</td><td>Cold + Dark + Wet</td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Ween</td><td>Mutilated Lips</td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
-<tr><td>Garageland</td><td>Beelines to Heaven</td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Mike Watt</td><td><a href="https://www.youtube.com/watch?v=EoNyKJfWsSY">E-Ticket Ride</a></td><td>Anything Goes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Mason Jennings</td><td><a href="https://www.youtube.com/watch?v=OIN6nnZKNk0">Be Here Now</a></td><td>Anything Goes Again</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Neutral Milk Hotel</td><td><a href="https://www.youtube.com/watch?v=jgNvzc-ZdME">King Of Carrot Flowers, Pt 3</a></td><td>Signature Tunes</td><td> Richard's Session - May 2013</td></tr>
+<tr><td>Country Joe and the Fish</td><td><a href="https://www.youtube.com/watch?v=eRl6-bHlz-4">I-Feel-Like-I'm-Fixin'-to-Die-Rag</a></td><td>A relic from the 60’s. Arguably the greatest decade in modern music history. (Prove it!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Jenny Lewis</td><td><a href="https://www.youtube.com/watch?v=utvetKf9g6g">Pretty Bird</a></td><td>Nice sound pity about the song. (It doesn’t necessarily have to be naff but must demonstrate high production qualities)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>The Ladybug Transistor</td><td><a href="https://www.youtube.com/watch?v=qtpou-k6HZU">Wooden Bars</a></td><td>A new discovery. (Surprise us with something you believe no one else has heard!)</td><td> David's Session - Mar 2013</td></tr>
+<tr><td>Shane MacGowan and The Popes</td><td><a href="https://www.youtube.com/watch?v=YoA43mTT1fY">Donegal Express</a></td><td>Folk Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Greg Brown</td><td><a href="https://www.youtube.com/watch?v=eTmd0I-rPdk">Cold + Dark + Wet</a></td><td>Americana</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Ween</td><td><a href="https://www.youtube.com/watch?v=jGSI9qoNjYk">Mutilated Lips</a></td><td>Prog Rock</td><td> Bruce's Session - Feb 2013</td></tr>
+<tr><td>Garageland</td><td><a href="https://www.youtube.com/watch?v=zzjmIGCyG2I">Beelines to Heaven</a></td><td>Garages, Sheds and Tools</td><td> Nathan's Session - Dec 2012</td></tr>
 <tr><td>Neil Young</td><td>Homegrown</td><td>Gardens, Plants, and Digging</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Sebadoh</td><td>Two Years Two Days</td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
-<tr><td>Grizzly Bear</td><td>Two Weeks</td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Dr. Dog</td><td>Die, Die, Die</td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
-<tr><td>Alec Bathgate</td><td>Friday in the Ground</td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Sebadoh</td><td><a href="https://www.youtube.com/watch?v=bKXqECX06BA">Two Years Two Days</a></td><td>Paint, Pape, Sand, and Scrape</td><td> Nathan's Session - Dec 2012</td></tr>
+<tr><td>Grizzly Bear</td><td><a href="https://www.youtube.com/watch?v=Mcfk3KFhIZg">Two Weeks</a></td><td>Time</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Dr. Dog</td><td><a href="https://www.youtube.com/watch?v=d6cd9Nm4n1U">Die, Die, Die</a></td><td>D</td><td> Nick's Session - Nov 2012</td></tr>
+<tr><td>Alec Bathgate</td><td><a href="https://www.youtube.com/watch?v=nruSoatNs3U">Friday in the Ground</a></td><td>F</td><td> Nick's Session - Nov 2012</td></tr>
 </tbody></table>
