@@ -2,21 +2,24 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2026-06-19
+date: 2026-07-27
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
 categories: ["members"]
 ---
 ## All Chris's Shut Up & Listen Selections over the years
-### 377 tracks in total
+### 380 tracks in total
 <p align="center">{{% image src="/images/members/Chris.jpg" %}}</p>
 Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>The Electric Flag</td><td>Wine</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Jesse Winchester</td><td>My Songbird</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Helge Lien Trio</td><td>Autumn Leaves</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Human Instinct</td><td>You Really Got Me</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Beatles</td><td>Because</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Tinsley Ellis</td><td>Hoodoo Woman</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Electric Flag</td><td><a href="https://www.youtube.com/watch?v=37fNUR3aWrk">Wine</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Jesse Winchester</td><td><a href="https://www.youtube.com/watch?v=gsWMMU9QVwI">My Songbird</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Helge Lien Trio</td><td><a href="https://www.youtube.com/watch?v=WZ_NzqaJ9So">Autumn Leaves</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Jefferson Airplane</td><td><a href="https://www.youtube.com/watch?v=ROBaoiJK0wc">Wooden Ships</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Marvin Gaye</td><td><a href="https://www.youtube.com/watch?v=H-kA3UtBj4M">What's Going On</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>

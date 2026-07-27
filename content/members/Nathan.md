@@ -2,21 +2,24 @@
 title: "Nathan's Selections"
 description: "Nathan's track selections over the years"
 summary: "Nathan's track selections over the years"
-date: 2026-06-19
+date: 2026-07-27
 image:  "/images/members/Nathan.jpg"
 draft: false
 tags: ["nathan"]
 categories: ["members"]
 ---
 ## All Nathan's Shut Up & Listen Selections over the years
-### 373 tracks in total
+### 376 tracks in total
 <p align="center">{{% image src="/images/members/Nathan.jpg" %}}</p>
 Nathan's Top 5 most played artists are: The Magnetic Fields (12 plays), Ween (9 plays), Nick Cave (7 plays), Tom Waits (7 plays) and Neil Young (6 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Greg Brown</td><td>Canned Goods</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Mary Gauthier</td><td>Mercy Now</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Dead Milkmen</td><td>Bitchin' Camaro</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Jurassic 5</td><td>The Influence</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pearl Jam</td><td>Black</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Bill Callahan</td><td>Pathol O.G.</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Greg Brown</td><td><a href="https://www.youtube.com/watch?v=Dv6Q58RLSwc">Canned Goods</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Mary Gauthier</td><td><a href="https://www.youtube.com/watch?v=vL6JoP0KCoo">Mercy Now</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Dead Milkmen</td><td><a href="https://www.youtube.com/watch?v=ZeY2nut3Gj8">Bitchin' Camaro</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Pogues</td><td><a href="https://www.youtube.com/watch?v=CAKZ9eyuhiY">The Sick Bed of Cúchulainn</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>The Magnetic Fields</td><td><a href="https://www.youtube.com/watch?v=0RlRh6I5V68">The Luckiest Guy on the Lower East Side</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Tom Petty & The Heartbreakers</td><td><a href="https://www.youtube.com/watch?v=8v8-RSyuUeE">American Girl</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>

@@ -2,38 +2,59 @@
 title: "Everyone's Selections"
 description: "All track selections over the years"
 summary: "All track selections over the years"
-date: 2026-06-19
+date: 2026-07-27
 image:  "/images/members/1730523760270.png"
 draft: false
 categories: ["members"]
 ---
 ## All Shut Up & Listen Selections over the years
-### 2785 tracks in total
+### 2806 tracks in total
 <p align="center">{{% image src="/images/members/1730523760270.png" %}}</p>
-Top 5 most played artists are: The Beatles (26 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
+Top 5 most played artists are: The Beatles (27 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Al Jarreau</td><td>Raging Waters</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Bill Callahan</td><td>Pigeons</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Greg Brown</td><td>Canned Goods</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Helge Lien Trio</td><td>Autumn Leaves</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>James Taylor</td><td>Slap Leather</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Jesse Winchester</td><td>My Songbird</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Julia Jacklin</td><td>Moviegoer</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Kacey Musgraves</td><td>Rhinestoned</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Kurt Vile</td><td>Bassackwards</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Marlon Williams</td><td>Come To Me (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Marlon Williams</td><td>When I Was A Young Girl (Live at Auckland Town Hall)</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Mary Gauthier</td><td>Mercy Now</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Moana & the Tribe feat. Megan Henderson</td><td>Maiea</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Rodrigo y Gabriela</td><td>Tamacun</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Ry Cooder</td><td>Chloe</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Dead Milkmen</td><td>Bitchin' Camaro</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Electric Flag</td><td>Wine</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Front Lawn</td><td>When You Come Back Home</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Topp Twins</td><td>Speed of the Sound of Loneliness</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Topp Twins</td><td>Sisters Gone Bad</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>The Windy City Strugglers</td><td>Waltz of the Wind</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Aldous Harding</td><td>One Stop</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Bill Callahan</td><td>Pathol O.G.</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Champion Jack Dupree</td><td>Walking The Blues</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Human Instinct</td><td>You Really Got Me</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jade Warrior</td><td>A Winter's Tale</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jim Kweskin</td><td>When I Was a Cowboy (Western Plains)</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Joe Cocker</td><td>Guilty</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jurassic 5</td><td>The Influence</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td>Middle of Nowhere</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Larry McNeely</td><td>Honeysuckle (feat. Geoff Levin and Jack Skinner)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Marlon Williams</td><td>Is Anything Wrong (Live at Auckland Town Hall)</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pearl Jam</td><td>Black</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pink Floyd</td><td>Let There Be More Light</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Ruben Blades</td><td>In Salvador</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Russell Smith</td><td>Someday We Will</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Beatles</td><td>Because</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Claypool Lennon Delirium</td><td>Meat Machines</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Doors</td><td>Waiting For The Sun</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Stranglers</td><td>The European Female (In Celebration Of)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Thin Lizzy</td><td>Cowboy Song</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Tinsley Ellis</td><td>Hoodoo Woman</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=44EWLFoKX94">Raging Waters</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=PSv60b7PWpU">Pigeons</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Greg Brown</td><td><a href="https://www.youtube.com/watch?v=Dv6Q58RLSwc">Canned Goods</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Helge Lien Trio</td><td><a href="https://www.youtube.com/watch?v=WZ_NzqaJ9So">Autumn Leaves</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Zxh-bxdWiyk">Slap Leather</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Jesse Winchester</td><td><a href="https://www.youtube.com/watch?v=gsWMMU9QVwI">My Songbird</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Julia Jacklin</td><td><a href="https://www.youtube.com/watch?v=qHgIBX9dZYk">Moviegoer</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=X5TFU2Fp6Po">Rhinestoned</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=pOFWHty4XFQ">Bassackwards</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=tY9HDyTikNU">Come To Me (Live at Auckland Town Hall)</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=klNZZj-rhM8">When I Was A Young Girl (Live at Auckland Town Hall)</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Mary Gauthier</td><td><a href="https://www.youtube.com/watch?v=vL6JoP0KCoo">Mercy Now</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Moana & the Tribe</td><td><a href="https://www.youtube.com/watch?v=TVGO3gw1V3o">Maiea feat. Megan Henderson</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Rodrigo y Gabriela</td><td><a href="https://www.youtube.com/watch?v=l-qgum7hFXk">Tamacun</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=AqwoApkPVNQ">Chloe</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Dead Milkmen</td><td><a href="https://www.youtube.com/watch?v=ZeY2nut3Gj8">Bitchin' Camaro</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Electric Flag</td><td><a href="https://www.youtube.com/watch?v=37fNUR3aWrk">Wine</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Front Lawn</td><td><a href="https://www.youtube.com/watch?v=wQvjh6Ajje4">When You Come Back Home</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td><a href="https://www.youtube.com/watch?v=QWeSP0r_9aA">Speed of the Sound of Loneliness</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Topp Twins</td><td><a href="https://www.youtube.com/watch?v=JQZ2cItO19g?t=447">Good Sisters Gone Bad</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>The Windy City Strugglers</td><td><a href="https://www.youtube.com/watch?v=pE_R6Uu4VGY">Waltz of the Wind</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Boz Scaggs</td><td><a href="https://www.youtube.com/watch?v=q5HPP8Y8Cgg">Runnin' Blue</a></td><td>Track 2 - Artists who are an important part of your life, and you *have* played them heaps at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Dean Martin</td><td><a href="https://www.youtube.com/watch?v=NksYhOCXoM8">Just In Time</a></td><td>Track 1 - Artists who are an important part of your life, but you *haven't* played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>
 <tr><td>Eagles</td><td><a href="https://www.youtube.com/watch?v=Ybg_uZxdE0c">Life In the Fast Lane</a></td><td>Track 3 - Artists who are an important part of western popular music in general, but *we* haven't played much or at all at SUAL.</td><td> Nathan's Session - May 2026</td></tr>

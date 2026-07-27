@@ -2,21 +2,24 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-06-19
+date: 2026-07-27
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 395 tracks in total
+### 398 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Bill Callahan</td><td>Pigeons</td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Moana & the Tribe feat. Megan Henderson</td><td>Maiea</td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
-<tr><td>Julia Jacklin</td><td>Moviegoer</td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Thin Lizzy</td><td>Cowboy Song</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Stranglers</td><td>The European Female (In Celebration Of)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Claypool Lennon Delirium</td><td>Meat Machines</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=PSv60b7PWpU">Pigeons</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Moana & the Tribe</td><td><a href="https://www.youtube.com/watch?v=TVGO3gw1V3o">Maiea feat. Megan Henderson</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
+<tr><td>Julia Jacklin</td><td><a href="https://www.youtube.com/watch?v=qHgIBX9dZYk">Moviegoer</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Maya Delilah</td><td><a href="https://www.youtube.com/watch?v=twsitXG9-cw">Begin Again</a></td><td>Theme 1: Careful With That Axe Eugenie - A guitar-slinging female band member, singer songwriter or solo virtuoso.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Vitas</td><td><a href="https://www.youtube.com/watch?v=tVj0ZTS4WF4">7 Элемент</a></td><td>Theme 2: It’s music, Jim, but not as we know it - A shapeshifting artist, band or alien who rips up the rule book.</td><td> Davids's Session - Apr 2026</td></tr>
 <tr><td>Jack White</td><td><a href="https://www.youtube.com/watch?v=VOyLzSv3mYE">G.O.D. And The Broken Ribs</a></td><td>Theme 3: Music is not dead, prove it or just play it safe and have a free hit.</td><td> Davids's Session - Apr 2026</td></tr>

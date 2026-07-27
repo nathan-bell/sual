@@ -6,7 +6,7 @@ image: "/images/post/20260618_211016.jpg"
 date: 2026-06-18T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["nickssession","marlonwilliams","rycooder","jamestaylor","kurtvile","kaceymusgraves","gregbrown","aljarreau","billcallahan","thewindycitystrugglers","thetopptwins","marygauthier","juliajacklin","thedeadmilkmen","theelectricflag","rodrigoygabriela","thefrontlawn","helgelientrio","jessewinchester","moanaandthetribe"]
+tags: ["nickssession","marlonwilliams","rycooder","jamestaylor","kurtvile","kaceymusgraves","billcallahan","gregbrown","aljarreau","thewindycitystrugglers","thetopptwins","marygauthier","juliajacklin","thedeadmilkmen","theelectricflag","rodrigoygabriela","thefrontlawn","helgelientrio","jessewinchester","moanaandthetribe","youtube"]
 categories: ["Gatherings"]
 ---
 > In this session, we enjoyed a topp night of entertainment, heard a good toast throwing story, and were pleasantly surprised with the musical fidelity of casette tape.
