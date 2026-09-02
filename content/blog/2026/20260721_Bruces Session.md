@@ -6,7 +6,7 @@ image: "/images/post/FsD2gLrr5oFLPDURpZUwa3.jpg"
 date: 2026-07-21T00:00:00.0000000
 draft: false
 author: "Nathan"
-tags: ["brucessession","thebeatles","pinkfloyd","marlonwilliams","thedoors","aldousharding","jimkweskin","kaceymusgraves","billcallahan","thinlizzy","joecocker","russellsmith","thestranglers","jurassic5","pearljam","jadewarrior","rubenblades","larrymcneely","tinsleyellis","humaninstinct","championjackdupree","theclaypoollennondelirium"]
+tags: ["brucessession","thebeatles","pinkfloyd","marlonwilliams","thedoors","aldousharding","jimkweskin","kaceymusgraves","billcallahan","thinlizzy","joecocker","russellsmith","thestranglers","jurassic5","pearljam","jadewarrior","rubenblades","larrymcneely","tinsleyellis","humaninstinct","championjackdupree","theclaypoollennondelirium","youtube"]
 categories: ["Gatherings"]
 ---
 

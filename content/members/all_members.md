@@ -2,38 +2,52 @@
 title: "Everyone's Selections"
 description: "All track selections over the years"
 summary: "All track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/1730523760270.png"
 draft: false
 categories: ["members"]
 ---
 ## All Shut Up & Listen Selections over the years
-### 2806 tracks in total
+### 2820 tracks in total
 <p align="center">{{% image src="/images/members/1730523760270.png" %}}</p>
 Top 5 most played artists are: The Beatles (27 plays), David Bowie (20 plays), Neil Young (20 plays), Bob Dylan (19 plays) and Bruce Springsteen (18 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Aldous Harding</td><td>One Stop</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Bill Callahan</td><td>Pathol O.G.</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Champion Jack Dupree</td><td>Walking The Blues</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Human Instinct</td><td>You Really Got Me</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Jade Warrior</td><td>A Winter's Tale</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Jim Kweskin</td><td>When I Was a Cowboy (Western Plains)</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Joe Cocker</td><td>Guilty</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Jurassic 5</td><td>The Influence</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Kacey Musgraves</td><td>Middle of Nowhere</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Larry McNeely</td><td>Honeysuckle (feat. Geoff Levin and Jack Skinner)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Marlon Williams</td><td>Is Anything Wrong (Live at Auckland Town Hall)</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Pearl Jam</td><td>Black</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Pink Floyd</td><td>Let There Be More Light</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Ruben Blades</td><td>In Salvador</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Russell Smith</td><td>Someday We Will</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Beatles</td><td>Because</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Claypool Lennon Delirium</td><td>Meat Machines</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Doors</td><td>Waiting For The Sun</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Stranglers</td><td>The European Female (In Celebration Of)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Thin Lizzy</td><td>Cowboy Song</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Tinsley Ellis</td><td>Hoodoo Woman</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Beck</td><td><a href="https://www.youtube.com/watch?v=zVay-RfNGv8">Beercan</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Blackberry Smoke ft. George Jones and Jamey Johnson</td><td><a href="https://www.youtube.com/watch?v=ahQbT0deR9U">Yesterday's Wine</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Cibo Matto</td><td><a href="https://www.youtube.com/watch?v=EN9auBn6Jys">Sugar Water</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Eric Burdon and War</td><td><a href="https://www.youtube.com/watch?v=4-Xs7NK-7B8">Spill the Wine</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Fiona Apple</td><td><a href="https://www.youtube.com/watch?v=FFOzayDpWoI">Criminal</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=6-cST46oFU4">200 Years Old</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Joker's Republic</td><td><a href="https://www.youtube.com/watch?v=hkuMafZzONY">Gin And Tonic</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Joseph Keckler</td><td><a href="https://www.youtube.com/watch?v=rk5JnZJGVlI">Shroom Mania</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Oscar Peterson and Oliver Jones</td><td><a href="https://www.youtube.com/watch?v=4QELTPwVNzg">Hymn to Freedom</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Punch Brothers</td><td><a href="https://www.youtube.com/watch?v=lLdtEiUKDig">Julep</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Robert Wyatt</td><td><a href="https://www.youtube.com/watch?v=MqgWkbF5NTI">Soup Song</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Sean Rowe</td><td><a href="https://www.youtube.com/watch?v=tTCdzr6q2mE">Honey in the Morning</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Trio Mediæval, Arve Henriksen and the Australian Chamber Orchestra</td><td><a href="https://www.youtube.com/watch?v=6cqi6aK5NVM">Rosa Rorans Bonitatem</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Van Morrison</td><td><a href="https://www.youtube.com/watch?v=hco9bCh7Nes">Tupelo Honey</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Aldous Harding</td><td><a href="https://www.youtube.com/watch?v=vyKaSM1FJ8w">One Stop</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=6gSveB1tLT8">Pathol O.G.</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Champion Jack Dupree</td><td><a href="https://www.youtube.com/watch?v=4GMQmsO3L5g">Walking The Blues</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Human Instinct</td><td><a href="https://www.youtube.com/watch?v=xVnsFjW5blc">You Really Got Me</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jade Warrior</td><td><a href="https://www.youtube.com/watch?v=XHb_6c3I7zI">A Winter's Tale</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jim Kweskin</td><td><a href="https://www.youtube.com/watch?v=IR8d2w5aG3M">When I Was a Cowboy (Western Plains)</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Joe Cocker</td><td><a href="https://www.youtube.com/watch?v=IJIcY1ciKm0">Guilty</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Jurassic 5</td><td><a href="https://www.youtube.com/watch?v=loFGGrdJpfs">The Influence</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=70aLHx3L-7E">Middle of Nowhere</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Larry McNeely</td><td><a href="https://www.youtube.com/watch?v=ts0eBPpkNAo">Honeysuckle (feat. Geoff Levin and Jack Skinner)</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=aNLaNKnKBbc">Is Anything Wrong (Live at Auckland Town Hall)</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pearl Jam</td><td><a href="https://www.youtube.com/watch?v=qgaRVvAKoqQ">Black</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=lE-cts4_3iU">Let There Be More Light</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Ruben Blades</td><td><a href="https://www.youtube.com/watch?v=xwk5NAxk8Y4">In Salvador</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Russell Smith</td><td><a href="https://www.youtube.com/watch?v=xqJ0MudfiSkY&t=1325s">Someday We Will</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=Sxpissu4gTk">Because</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Claypool Lennon Delirium</td><td><a href="https://www.youtube.com/watch?v=ISd5whqq8kQ">Meat Machines</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Doors</td><td><a href="https://www.youtube.com/watch?v=VUI-ELCdjxo">Waiting For The Sun</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Stranglers</td><td><a href="https://www.youtube.com/watch?v=9m9m5-n-aP8">The European Female (In Celebration Of)</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Thin Lizzy</td><td><a href="https://www.youtube.com/watch?v=Q61q458T92w">Cowboy Song</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Tinsley Ellis</td><td><a href="https://www.youtube.com/watch?v=0uMYeNU2MaQ">Hoodoo Woman</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=44EWLFoKX94">Raging Waters</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=PSv60b7PWpU">Pigeons</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Greg Brown</td><td><a href="https://www.youtube.com/watch?v=Dv6Q58RLSwc">Canned Goods</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>

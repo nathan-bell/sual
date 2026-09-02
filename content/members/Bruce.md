@@ -2,21 +2,23 @@
 title: "Bruce's Selections"
 description: "Bruce's track selections over the years"
 summary: "Bruce's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/Bruce.jpg"
 draft: false
 tags: ["bruce"]
 categories: ["members"]
 ---
 ## All Bruce's Shut Up & Listen Selections over the years
-### 358 tracks in total
+### 360 tracks in total
 <p align="center">{{% image src="/images/members/Bruce.jpg" %}}</p>
 Bruce's Top 5 most played artists are: Sarah Jarosz (6 plays), John Butler Trio (6 plays), The Chills (6 plays), John Martyn (5 plays) and Mazzy Star (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>The Doors</td><td>Waiting For The Sun</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Russell Smith</td><td>Someday We Will</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Aldous Harding</td><td>One Stop</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Fiona Apple</td><td><a href="https://www.youtube.com/watch?v=FFOzayDpWoI">Criminal</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Sean Rowe</td><td><a href="https://www.youtube.com/watch?v=tTCdzr6q2mE">Honey in the Morning</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>The Doors</td><td><a href="https://www.youtube.com/watch?v=VUI-ELCdjxo">Waiting For The Sun</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Russell Smith</td><td><a href="https://www.youtube.com/watch?v=xqJ0MudfiSkY&t=1325s">Someday We Will</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Aldous Harding</td><td><a href="https://www.youtube.com/watch?v=vyKaSM1FJ8w">One Stop</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>Rodrigo y Gabriela</td><td><a href="https://www.youtube.com/watch?v=l-qgum7hFXk">Tamacun</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Front Lawn</td><td><a href="https://www.youtube.com/watch?v=wQvjh6Ajje4">When You Come Back Home</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Windy City Strugglers</td><td><a href="https://www.youtube.com/watch?v=pE_R6Uu4VGY">Waltz of the Wind</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>

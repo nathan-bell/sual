@@ -2,7 +2,7 @@
 title: "Nick's Selections"
 description: "Nick's track selections over the years"
 summary: "Nick's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/Nick.jpg"
 draft: false
 tags: ["nick"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Nick's Top 5 most played artists are: Neil Young (12 plays), Nick Cave (10 plays), Bob Dylan (10 plays), Paul Kelly (9 plays) and Marlon Williams (7 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Pink Floyd</td><td>Let There Be More Light</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Ruben Blades</td><td>In Salvador</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Marlon Williams</td><td>Is Anything Wrong (Live at Auckland Town Hall)</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Pink Floyd</td><td><a href="https://www.youtube.com/watch?v=lE-cts4_3iU">Let There Be More Light</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Ruben Blades</td><td><a href="https://www.youtube.com/watch?v=xwk5NAxk8Y4">In Salvador</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=aNLaNKnKBbc">Is Anything Wrong (Live at Auckland Town Hall)</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=tY9HDyTikNU">Come To Me (Live at Auckland Town Hall)</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Topp Twins</td><td><a href="https://www.youtube.com/watch?v=QWeSP0r_9aA">Speed of the Sound of Loneliness</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Kurt Vile</td><td><a href="https://www.youtube.com/watch?v=pOFWHty4XFQ">Bassackwards</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>

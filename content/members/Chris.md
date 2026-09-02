@@ -2,7 +2,7 @@
 title: "Chris's Selections"
 description: "Chris's track selections over the years"
 summary: "Chris's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/Chris.jpg"
 draft: false
 tags: ["chris"]
@@ -14,9 +14,9 @@ categories: ["members"]
 Chris's Top 5 most played artists are: Boz Scaggs (7 plays), Jimi Hendrix (6 plays), John Hiatt (6 plays), Joni Mitchell (5 plays) and Eilen Jewell (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Human Instinct</td><td>You Really Got Me</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Beatles</td><td>Because</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Tinsley Ellis</td><td>Hoodoo Woman</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Human Instinct</td><td><a href="https://www.youtube.com/watch?v=xVnsFjW5blc">You Really Got Me</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Beatles</td><td><a href="https://www.youtube.com/watch?v=Sxpissu4gTk">Because</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Tinsley Ellis</td><td><a href="https://www.youtube.com/watch?v=0uMYeNU2MaQ">Hoodoo Woman</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>The Electric Flag</td><td><a href="https://www.youtube.com/watch?v=37fNUR3aWrk">Wine</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Jesse Winchester</td><td><a href="https://www.youtube.com/watch?v=gsWMMU9QVwI">My Songbird</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Helge Lien Trio</td><td><a href="https://www.youtube.com/watch?v=WZ_NzqaJ9So">Autumn Leaves</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>

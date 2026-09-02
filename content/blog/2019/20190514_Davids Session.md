@@ -6,7 +6,7 @@ image: "/images/post/20190514_Spock.Rock.jpg"
 date: 2019-05-14T00:00:00.0000000
 draft: false
 author: "David"
-tags: ["davidssession","thebeatles","brucespringsteen","steelydan","frankzappa","marlonwilliams","beck","rycooder","wilco","talkingheads","aldousharding","grandaddy","smokefairies","wire","dannykaye","alexanderebert","musicfromthefilm","natkingcole","arloguthrie","davyspillane","freddiemercury","garypuckettandtheuniongap","youtube"]
+tags: ["davidssession","thebeatles","brucespringsteen","frankzappa","steelydan","marlonwilliams","beck","rycooder","wilco","talkingheads","aldousharding","grandaddy","smokefairies","wire","dannykaye","alexanderebert","musicfromthefilm","natkingcole","arloguthrie","davyspillane","freddiemercury","garypuckettandtheuniongap","youtube"]
 categories: ["Gatherings"]
 ---
 > The themes were: _Influenced: One song representative of the music your parents played. , Influenced: One song representative of the music your parents played. , Influence: One track that you would consider to be one of the most important songs you would want your children to listen to., Influenza: Go Sick! Infect us with something new and affecting._

@@ -2,21 +2,23 @@
 title: "David's Selections"
 description: "David's track selections over the years"
 summary: "David's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/David.jpg"
 draft: false
 tags: ["david"]
 categories: ["members"]
 ---
 ## All David's Shut Up & Listen Selections over the years
-### 398 tracks in total
+### 400 tracks in total
 <p align="center">{{% image src="/images/members/David.jpg" %}}</p>
 David's Top 5 most played artists are: David Bowie (6 plays), The Who (5 plays), Steven Wilson (4 plays), Serge Gainsbourg (4 plays) and The Stooges (4 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Thin Lizzy</td><td>Cowboy Song</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Stranglers</td><td>The European Female (In Celebration Of)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>The Claypool Lennon Delirium</td><td>Meat Machines</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Eric Burdon and War</td><td><a href="https://www.youtube.com/watch?v=4-Xs7NK-7B8">Spill the Wine</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Cibo Matto</td><td><a href="https://www.youtube.com/watch?v=EN9auBn6Jys">Sugar Water</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Thin Lizzy</td><td><a href="https://www.youtube.com/watch?v=Q61q458T92w">Cowboy Song</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Stranglers</td><td><a href="https://www.youtube.com/watch?v=9m9m5-n-aP8">The European Female (In Celebration Of)</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>The Claypool Lennon Delirium</td><td><a href="https://www.youtube.com/watch?v=ISd5whqq8kQ">Meat Machines</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>Bill Callahan</td><td><a href="https://www.youtube.com/watch?v=PSv60b7PWpU">Pigeons</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Moana & the Tribe</td><td><a href="https://www.youtube.com/watch?v=TVGO3gw1V3o">Maiea feat. Megan Henderson</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Julia Jacklin</td><td><a href="https://www.youtube.com/watch?v=qHgIBX9dZYk">Moviegoer</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>

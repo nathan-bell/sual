@@ -2,21 +2,23 @@
 title: "Richard's Selections"
 description: "Richard's track selections over the years"
 summary: "Richard's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/Richard.jpg"
 draft: false
 tags: ["richard"]
 categories: ["members"]
 ---
 ## All Richard's Shut Up & Listen Selections over the years
-### 379 tracks in total
+### 381 tracks in total
 <p align="center">{{% image src="/images/members/Richard.jpg" %}}</p>
-Richard's Top 5 most played artists are: The Beatles (14 plays), Bruce Springsteen (14 plays), Frank Zappa (13 plays), James Taylor (10 plays) and Led Zeppelin (10 plays).
+Richard's Top 5 most played artists are: Frank Zappa (14 plays), The Beatles (14 plays), Bruce Springsteen (14 plays), James Taylor (10 plays) and Led Zeppelin (10 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jade Warrior</td><td>A Winter's Tale</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Larry McNeely</td><td>Honeysuckle (feat. Geoff Levin and Jack Skinner)</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Kacey Musgraves</td><td>Middle of Nowhere</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Frank Zappa</td><td><a href="https://www.youtube.com/watch?v=6-cST46oFU4">200 Years Old</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Blackberry Smoke ft. George Jones and Jamey Johnson</td><td><a href="https://www.youtube.com/watch?v=ahQbT0deR9U">Yesterday's Wine</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Jade Warrior</td><td><a href="https://www.youtube.com/watch?v=XHb_6c3I7zI">A Winter's Tale</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Larry McNeely</td><td><a href="https://www.youtube.com/watch?v=ts0eBPpkNAo">Honeysuckle (feat. Geoff Levin and Jack Skinner)</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=70aLHx3L-7E">Middle of Nowhere</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>James Taylor</td><td><a href="https://www.youtube.com/watch?v=Zxh-bxdWiyk">Slap Leather</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>The Topp Twins</td><td><a href="https://www.youtube.com/watch?v=JQZ2cItO19g?t=447">Good Sisters Gone Bad</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Kacey Musgraves</td><td><a href="https://www.youtube.com/watch?v=X5TFU2Fp6Po">Rhinestoned</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>

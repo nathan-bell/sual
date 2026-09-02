@@ -2,21 +2,23 @@
 title: "Martin's Selections"
 description: "Martin's track selections over the years"
 summary: "Martin's track selections over the years"
-date: 2026-07-27
+date: 2026-09-02
 image:  "/images/members/Martin.jpg"
 draft: false
 tags: ["martin"]
 categories: ["members"]
 ---
 ## All Martin's Shut Up & Listen Selections over the years
-### 376 tracks in total
+### 378 tracks in total
 <p align="center">{{% image src="/images/members/Martin.jpg" %}}</p>
 Martin's Top 5 most played artists are: Steely Dan (13 plays), Scott Walker (7 plays), The Time Jumpers (7 plays), Mose Allison (6 plays) and Joe Jackson (5 plays).
  <table>
 <thead><tr><th>Artist</th><th>Title</th><th>Theme</th><th>Session</th></tr></thead><tbody>
-<tr><td>Jim Kweskin</td><td>When I Was a Cowboy (Western Plains)</td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Joe Cocker</td><td>Guilty</td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
-<tr><td>Champion Jack Dupree</td><td>Walking The Blues</td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Joseph Keckler</td><td><a href="https://www.youtube.com/watch?v=rk5JnZJGVlI">Shroom Mania</a></td><td>Food</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Joker's Republic</td><td><a href="https://www.youtube.com/watch?v=hkuMafZzONY">Gin And Tonic</a></td><td>Drink</td><td> Martin's Session - Aug 2026</td></tr>
+<tr><td>Jim Kweskin</td><td><a href="https://www.youtube.com/watch?v=IR8d2w5aG3M">When I Was a Cowboy (Western Plains)</a></td><td>Track 1 - Opening Sequence</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Joe Cocker</td><td><a href="https://www.youtube.com/watch?v=IJIcY1ciKm0">Guilty</a></td><td>Track 2 - Mid-Session Drift</td><td> Bruce's Session - Jul 2026</td></tr>
+<tr><td>Champion Jack Dupree</td><td><a href="https://www.youtube.com/watch?v=4GMQmsO3L5g">Walking The Blues</a></td><td>Track 3 - Closing Arc</td><td> Bruce's Session - Jul 2026</td></tr>
 <tr><td>Marlon Williams</td><td><a href="https://www.youtube.com/watch?v=klNZZj-rhM8">When I Was A Young Girl (Live at Auckland Town Hall)</a></td><td>Track 1 - "Live" : as in "Live at Leeds"</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Ry Cooder</td><td><a href="https://www.youtube.com/watch?v=AqwoApkPVNQ">Chloe</a></td><td>Track 2 - The Topp Twins "music makes us human" (Lynda Topp): or any artist that you feel has some connection, affiliation or sympathy in their regard.</td><td> Nick's Session - Jun 2026</td></tr>
 <tr><td>Al Jarreau</td><td><a href="https://www.youtube.com/watch?v=44EWLFoKX94">Raging Waters</a></td><td>Track 3 - Circumscribed parameters within which any number of sonic events might be allowed to occur.</td><td> Nick's Session - Jun 2026</td></tr>
